@@ -5,9 +5,15 @@
 ## 内容
 
 - [`data/companies.csv`](data/companies.csv): Googleマップの評価4.0以上・口コミ3件以上で、マップにWebサイトが登録されていなかった事業者30件。調査日とGoogleマップへのリンク付き。
+- [`data/companies_with_email.csv`](data/companies_with_email.csv): 上記の候補から公開メールアドレスを別の出典で確認し、公式サイトを再検索した5件。100件の条件を満たすリストではありません。
 - [`docs/research-method.md`](docs/research-method.md): 調査条件と「公式サイトなし」という判定の限界。
 - [`docs/toun-seibi-sources.md`](docs/toun-seibi-sources.md): 東運整備のサイトに掲載した情報と出典。
 - [`site/`](site/): 予約希望フォームと所有者用予約管理画面を含むサイトのソース。
+- [`proposals/email-drafts.md`](proposals/email-drafts.md): 公開メールアドレスを確認した5社向けの提案メール草案。
+- [`proposals/demos/`](proposals/demos/): 5社それぞれの非公式・静的なサイト試作。公開前のローカル閲覧用です。
+- [`proposals/other-industries/`](proposals/other-industries/): 自動車整備以外の3業種向けImageGen画面案と未送信メール下書き。
+- [`local-web-sales/`](local-web-sales/): 既存8通の生成・検査・SMTP送信と、追加42通を含む計50通の未送信`.eml`を作成するローカルツール。
+- [`data/companies_other_industries.csv`](data/companies_other_industries.csv): 異業種3件のGoogleマップ・公開メール・サイト有無の調査記録。
 
 ## 試作サイト
 
@@ -34,4 +40,4 @@ node --check dist/server/index.js
 
 ## 調査データの注意
 
-評価・口コミ数・営業時間などは変動します。`companies.csv`は2026年10月13日時点の調査記録です。「公式サイトなし」の断定ではなく、当時のGoogleマップ掲載欄にURLがなく、社名・所在地での検索でも独立した公式サイトを確認できなかった候補を示します。営業や公開利用の前に再確認してください。
+評価・口コミ数・営業時間などは変動します。`companies.csv`は2026年10月13日時点の調査記録です。「公式サイトなし」の断定ではなく、当時のGoogleマップ掲載欄にURLがなく、社名・所在地での検索でも独立した公式サイトを確認できなかった候補を示します。ただし再検索で、少なくとも「㈱小林自動車」（板橋区宮本町）と「カケン自動車㈱」（葛飾区立石）には独立した公式サイトが見つかりました。`companies.csv`をそのまま条件適合リストとして扱わないでください。営業や公開利用の前に再確認してください。

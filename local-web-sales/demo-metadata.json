@@ -1,0 +1,338 @@
+[
+  {
+    "number": 9,
+    "name": "戸倉自動車工業（株） 品川整備工場",
+    "area": "品川区東大井１－３－２７",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 10,
+    "name": "（株）杉田モータース",
+    "area": "渋谷区代々木１－９－８",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 11,
+    "name": "岩崎自動車工業（株）",
+    "area": "渋谷区幡ケ谷２－２－６",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 12,
+    "name": "（有）新和自動車",
+    "area": "世田谷区下馬６－１８－５",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 13,
+    "name": "興運車輌（株）",
+    "area": "世田谷区三宿１－１４－３",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 14,
+    "name": "（有）城南愛車整備",
+    "area": "世田谷区上馬１－３１－２",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 15,
+    "name": "（有）山幸オート",
+    "area": "世田谷区代沢１－１－８",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 16,
+    "name": "（資）山崎商会",
+    "area": "中央区入船３－１－９",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 17,
+    "name": "（有）ザ・トイズボックス",
+    "area": "中央区湊１－１４－１９",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 18,
+    "name": "（有）大橋自動車商会",
+    "area": "港区白金５－１０－１２",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 19,
+    "name": "共栄自動車（有）",
+    "area": "目黒区碑文谷５－５－１７",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 20,
+    "name": "綾南自動車（株）",
+    "area": "足立区綾瀬２－２１－９",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 21,
+    "name": "（有）東川商会",
+    "area": "荒川区町屋５－４－２",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 22,
+    "name": "水野商会",
+    "area": "荒川区町屋８－１－２",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 23,
+    "name": "（有）井草自動車興業",
+    "area": "荒川区町屋４－１２－９",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 24,
+    "name": "（有）安生自動車修理工場",
+    "area": "荒川区西日暮里２－４１－４",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 25,
+    "name": "ＣＨＯＩＣＥ ＣＵＳＴＯＭ ＤＥＳＩＧＮＳ",
+    "area": "葛飾区宝町１－１－５",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 26,
+    "name": "吉田自動車整備工場",
+    "area": "葛飾区堀切６－９－１３",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 27,
+    "name": "（有）野口自販サービス",
+    "area": "葛飾区東立石３－２３－３",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 28,
+    "name": "三井自動車工業（株）",
+    "area": "葛飾区東立石２－１７－３",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 29,
+    "name": "酒井自動車整備（株）",
+    "area": "江東区高橋６－８",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 30,
+    "name": "三孝自動車（株）",
+    "area": "江東区扇橋３－２１－１０",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 31,
+    "name": "新井自動車販売（株）",
+    "area": "江東区扇橋３－１５－６",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 32,
+    "name": "（株）平野自動車整備工場",
+    "area": "江東区東陽１－１７－１０",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 33,
+    "name": "大明自動車（株）",
+    "area": "江東区木場３－４－１４",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 34,
+    "name": "（有）ヤマダモータース",
+    "area": "台東区竜泉３－１９－２",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 35,
+    "name": "藤自動車整備工場",
+    "area": "台東区台東２－６－１１",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 36,
+    "name": "西村二輪（株）",
+    "area": "台東区浅草５－７１－９",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 37,
+    "name": "土谷自動車（株）",
+    "area": "台東区松が谷１－６－１７",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 38,
+    "name": "（株）栄自動車整備工場",
+    "area": "板橋区大山東町５４－６",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 39,
+    "name": "（有）不二整備工業",
+    "area": "板橋区仲町２９－５",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 40,
+    "name": "豊モーター（株）",
+    "area": "北区豊島２－２６－２２",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 41,
+    "name": "（有）中久喜自動車工業所",
+    "area": "北区昭和町２－１－６",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 42,
+    "name": "（株）会津竹田モータース",
+    "area": "北区滝野川７－３１－２",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 43,
+    "name": "仁神モータース商会",
+    "area": "中野区上高田１－２７－１",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 44,
+    "name": "緑川自動車工業（株）",
+    "area": "中野区本町５－３４－１８",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  },
+  {
+    "number": 45,
+    "name": "徳田自動車（株）",
+    "area": "中野区江原町２－２１－４",
+    "accent": "#193d4b",
+    "highlight": "#85b9bd",
+    "pale": "#e6f0ef"
+  },
+  {
+    "number": 46,
+    "name": "（有）朝倉モータース",
+    "area": "練馬区豊玉中２－７－３",
+    "accent": "#44394f",
+    "highlight": "#c3a3b4",
+    "pale": "#f0ebf2"
+  },
+  {
+    "number": 47,
+    "name": "中幸商事（株）",
+    "area": "練馬区中村南２－２６－２",
+    "accent": "#3d4028",
+    "highlight": "#cdbd76",
+    "pale": "#f0f1e8"
+  },
+  {
+    "number": 48,
+    "name": "(有)カーオートウエダ",
+    "area": "豊島区西巣鴨３－１５－１０",
+    "accent": "#173f3a",
+    "highlight": "#d7ad63",
+    "pale": "#e8efe9"
+  },
+  {
+    "number": 49,
+    "name": "（株）丸菱モータース",
+    "area": "文京区向丘２－３－８",
+    "accent": "#29384c",
+    "highlight": "#d5a565",
+    "pale": "#edf1f4"
+  },
+  {
+    "number": 50,
+    "name": "（有）造サービス 本社工場",
+    "area": "昭島市拝島町４－１５－２９",
+    "accent": "#4c302a",
+    "highlight": "#d5aa79",
+    "pale": "#f3ece5"
+  }
+]

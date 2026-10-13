@@ -4,3 +4,5 @@ site/site-source*.tar.gz
 site/.env*
 !site/.env.example
 *.log
+__pycache__/
+*.pyc
