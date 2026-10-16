@@ -3,6 +3,7 @@
 
 import argparse
 import csv
+import re
 import shutil
 from email import policy
 from email.message import EmailMessage
@@ -46,27 +47,30 @@ def load_leads():
 
 def lead_message(lead, number):
     name, area, recipient = (lead[key].strip() for key in ("name", "area", "email"))
+    region_match = re.match(r"^.+?[区市]", area)
+    if not region_match:
+        raise ValueError(f"{name}: 所在地から地域名を取得できません")
+    region = region_match.group()
     message = EmailMessage(policy=policy.SMTP)
     message["From"] = f"{SENDER_NAME} <{SENDER_EMAIL}>"
     message["Reply-To"] = SENDER_EMAIL
     message["To"] = f"{name} <{recipient}>"
-    message["Subject"] = f"Webサイト制作のご提案（{name}様）"
+    message["Subject"] = f"{name}様向けWebサイト画面案のご提案"
     message["X-Unsent"] = "1"
     intro = (
-        f"公開されている{area}の事業者情報を拝見し、{name}様向けの"
-        "非公式Webサイト画面案を作成しました。"
-        "このメールにトップ画面とお問い合わせ画面の画像を掲載しています。"
+        f"{region}で車の整備先を探している方に、事業内容や相談方法が分かりやすく伝わるWebサイトを考え、"
+        f"公開情報をもとに{name}様向けの画面案を作成しました。"
+        "トップ画面とお問い合わせ画面の画像を、このメールに掲載しています。"
     )
-    note = (
-        "画面案の事業内容や受付方法は仮置きで、貴社の承認・監修を受けていません。"
-        "フォームは試作で、実際の送信や予約受付は行いません。"
+    close = (
+        "画面案をご覧いただき、少しでもご関心がありましたら、掲載したい内容を伺ったうえで、"
+        "必要なページや制作範囲、概算費用をご案内します。ご返信いただければ幸いです。"
     )
-    close = "ご関心がありましたら、掲載したい内容を伺い、構成案と制作範囲をご提案します。"
+    note = "※画像は非公式のデザイン案です。写真はイメージで、実際の店舗・設備を示すものではありません。"
     message.set_content(
         f"{name} ご担当者様\n\n"
         f"突然のご連絡失礼いたします。{INTRO_NAME}と申します。\n\n"
-        f"{intro}\n\n{note}\n\n{close}\n\n{SIGNATURE}\n\n"
-        "掲載画像: トップ画面案、お問い合わせ画面案\n"
+        f"{intro}\n\n{close}\n\n{note}\n\n{SIGNATURE}\n"
     )
     message.add_alternative(
         '<html lang="ja"><body style="font:15px/1.8 sans-serif;color:#17232b">'
@@ -75,7 +79,7 @@ def lead_message(lead, number):
         f"<p>{escape(intro)}</p>"
         f'<p><strong>トップ画面案</strong></p><img src="cid:lead-{number:02d}-home" width="650" alt="{escape(name)}向け非公式トップ画面案" style="max-width:100%;height:auto">'
         f'<p><strong>お問い合わせ画面案</strong></p><img src="cid:lead-{number:02d}-form" width="650" alt="{escape(name)}向け非公式お問い合わせ画面案" style="max-width:100%;height:auto">'
-        f"<p>{escape(note)}</p><p>{escape(close)}</p>"
+        f"<p>{escape(close)}</p><p>{escape(note)}</p>"
         f"<p>{SIGNATURE_HTML}</p></body></html>",
         subtype="html",
     )
@@ -155,8 +159,49 @@ def check():
     print(f"{len(expected_files)}通の未送信.emlを確認: {DRAFTS}")
 
 
+def check_daily(path, recipient):
+    """Check one independently researched daily outreach message."""
+    message = BytesParser(policy=policy.default).parsebytes(Path(path).read_bytes())
+    if parseaddr(message["From"]) != (SENDER_NAME, SENDER_EMAIL):
+        raise ValueError("差出人が違います")
+    if parseaddr(message["Reply-To"])[1] != SENDER_EMAIL:
+        raise ValueError("返信先が違います")
+    if parseaddr(message["To"])[1].casefold() != recipient.casefold():
+        raise ValueError("宛先が違います")
+    if message["X-Unsent"] != "1":
+        raise ValueError("未送信フラグがありません")
+    if not message["Subject"]:
+        raise ValueError("件名がありません")
+    bodies = {part.get_content_type(): part.get_content() for part in message.walk()
+              if part.get_content_type() in ("text/plain", "text/html")}
+    if set(bodies) != {"text/plain", "text/html"}:
+        raise ValueError("本文の形式が不足しています")
+    for body in bodies.values():
+        normalized_body = body.replace("\r\n", "\n")
+        if SIGNATURE not in normalized_body.replace("<br>", "\n") and SIGNATURE_HTML not in normalized_body:
+            raise ValueError("署名が違います")
+        if "非公式" not in body or "写真はイメージ" not in body:
+            raise ValueError("画像の注意書きがありません")
+    images = [part for part in message.walk() if part.get_content_type() == "image/jpeg"]
+    if len(images) != 2:
+        raise ValueError("画像が2点ではありません")
+    html_body = bodies["text/html"]
+    for image in images:
+        cid = image["Content-ID"].strip("<>")
+        if f"cid:{cid}" not in html_body or not image.get_payload(decode=True):
+            raise ValueError("画像がインラインで埋め込まれていません")
+    print(f"1通の未送信.emlを確認: {path}")
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="50通のローカル未送信メール")
-    parser.add_argument("command", choices=("build", "check"))
+    parser.add_argument("command", choices=("build", "check", "check-daily"))
+    parser.add_argument("--path")
+    parser.add_argument("--to")
     args = parser.parse_args()
-    (build if args.command == "build" else check)()
+    if args.command == "check-daily":
+        if not args.path or not args.to:
+            parser.error("check-daily requires --path and --to")
+        check_daily(args.path, args.to)
+    else:
+        (build if args.command == "build" else check)()

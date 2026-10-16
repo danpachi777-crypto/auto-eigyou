@@ -52,31 +52,30 @@ def build(
     message["From"] = f"{SENDER_NAME} <{SENDER_EMAIL}>"
     message["Reply-To"] = SENDER_EMAIL
     message["To"] = f"{name} <{recipient}>"
-    message["Subject"] = f"{name}様向けウェブサイト画面案のご提案"
+    message["Subject"] = f"{name}様向けWebサイト画面案のご提案"
     message["X-Unsent"] = "1"
 
     intro = (
-        f"{area}で{industry}を探す方に向け、公開情報と同業サイトの構成を参考に、"
-        f"{name}様向けのウェブサイト画面案を作成しました。"
+        f"{area}で{industry}を探している方に、事業内容や相談方法が分かりやすく伝わるWebサイトを考え、"
+        f"公開情報をもとに{name}様向けの画面案を作成しました。"
+        f"トップ画面と{form_label}の画像を、このメールに掲載しています。"
     )
-    note = (
-        "掲載画像は非公式のデザイン案です。写真は生成したイメージで、"
-        "実際の店舗・設備を示すものではありません。"
-        "貴店の承認・監修を受けたものではなく、確認画面は動作しません。"
+    close = (
+        "画面案をご覧いただき、少しでもご関心がありましたら、掲載したい内容を伺ったうえで、"
+        "必要なページや制作範囲、概算費用をご案内します。ご返信いただければ幸いです。"
     )
+    note = "※画像は非公式のデザイン案です。写真はイメージで、実際の店舗・設備を示すものではありません。"
     plain = f"""{name} ご担当者様
 
 突然のご連絡失礼いたします。{INTRO_NAME}と申します。
 
-{intro}このメールにトップ画面と{form_label}の画像を掲載しています。
+{intro}
+
+{close}
 
 {note}
 
-ご関心がありましたら、掲載したい内容を伺い、制作範囲をご提案します。
-
 {SIGNATURE}
-
-掲載画像: トップ画面、{form_label}
 """
     message.set_content(plain)
 
@@ -84,13 +83,13 @@ def build(
 <div style="max-width:650px;margin:auto">
 <p>{escape(name)} ご担当者様</p>
 <p>突然のご連絡失礼いたします。{escape(INTRO_NAME)}と申します。</p>
-<p>{escape(intro)}このメールにトップ画面と{escape(form_label)}の画像を掲載しています。</p>
+<p>{escape(intro)}</p>
 <p style="margin:24px 0 8px;font-weight:bold">トップ画面案</p>
 <img src="cid:{slug}-home" alt="{escape(name)}向け非公式トップ画面案" width="650" style="display:block;width:100%;max-width:650px;height:auto;border:1px solid #dce2dc">
 <p style="margin:24px 0 8px;font-weight:bold">{escape(form_label)}案</p>
 <img src="cid:{slug}-form" alt="{escape(name)}向け非公式確認画面案" width="650" style="display:block;width:100%;max-width:650px;height:auto;border:1px solid #dce2dc">
+<p>{escape(close)}</p>
 <p>{escape(note)}</p>
-<p>ご関心がありましたら、掲載したい内容を伺い、制作範囲をご提案します。</p>
 <p>{SIGNATURE_HTML}</p>
 </div></body></html>"""
     message.add_alternative(html, subtype="html")
