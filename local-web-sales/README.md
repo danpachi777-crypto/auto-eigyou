@@ -15,11 +15,11 @@ python3 local-web-sales/fifty.py check
 
 2026年10月13日、生成した50通を`danpachi777@gmail.com`のGmail下書きに登録しました。送信元は全通`contact.designdan@gmail.com`、画像は各通2点、送信はしていません。[`drafts/gmail-drafts.csv`](drafts/gmail-drafts.csv)に対応する下書きIDを記録しています。Gmail連携への登録は`build`コマンドの動作には含まれません。再登録の際は重複下書きを確認してください。
 
-## 毎日の新規営業メール
+## 手動の新規営業メール
 
-[`daily-outreach/PROMPT.md`](daily-outreach/PROMPT.md)の手順で、毎日新規100社を調査し、会社ごとの画面案2点とメールを作成します。Gmail下書きの内容と画像を確認してから送信し、送信済みも確認します。候補の出典、ローカルの`.eml`と画像、Gmail下書きID、送信結果は[`daily-outreach/ledger.csv`](daily-outreach/ledger.csv)に記録します。既存の50社、過去の台帳、Gmail内のメールと重複しない候補を選びます。対象はこの毎日処理で新たに作成したメールのみです。
+Codex に `kz` とだけ入力すると、手動で100社への送信キャンペーンを開始します。各社の公開情報を調査し、画面案2点とメールを作成します。Gmail下書きと送信済みメールを読み戻して確認します。候補の出典、ローカルの`.eml`と画像、Gmail下書きID、送信結果、キャンペーンIDは[`daily-outreach/ledger.csv`](daily-outreach/ledger.csv)に記録します。既存の50社、過去の台帳、Gmail内のメールと重複しない候補を選びます。
 
-このMacのLaunchAgent `com.designdan.local-web-sales-daily` が日本時間の毎日午前1:00に [`daily-outreach/run_daily.sh`](daily-outreach/run_daily.sh) を起動します。稼働中の設定ファイルは `/Users/kazu/Library/LaunchAgents/com.designdan.local-web-sales-daily.plist` で、同じ内容を[`daily-outreach/com.designdan.local-web-sales-daily.plist`](daily-outreach/com.designdan.local-web-sales-daily.plist)に保存しています。ローカルのスキルと接続済みGmailを使うため、Macへのログインと実行環境の利用が必要です。処理結果は `daily-outreach/run-report-YYYY-MM-DD.md` に、実行ログは `daily-outreach/runs/` に残します。
+午前1時のLaunchAgentは廃止しました。[`daily-outreach/manual_campaign.py`](daily-outreach/manual_campaign.py)が手動起動後に最大5社ずつCodexを実行し、送信確認済み100社になるまで次の実行を開始します。途中で止まった場合、再度 `kz` と入力すると同じキャンペーンを再開します。`kz status` で進捗を確認できます。Macと接続済みGmailを利用できる状態にしてください。実行状態とログは `daily-outreach/runs/` に保存されます。確認できない送信結果や接続障害がある場合は停止して原因を記録します。
 
 リポジトリのルートで実行します。
 

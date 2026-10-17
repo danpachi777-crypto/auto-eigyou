@@ -1,0 +1,1 @@
+If the user's entire message is exactly `kz`, use the `kz` skill at `.codex/skills/kz/SKILL.md` to start or resume the manual outreach campaign. If the entire message is exactly `kz status`, use that skill only to report status. Do not treat other mentions of "kz" as a trigger.
