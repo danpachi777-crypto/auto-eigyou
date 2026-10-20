@@ -2,10 +2,15 @@
 """Build one unsent, two-image outreach EML from verified lead data."""
 import argparse
 import html
+import subprocess
+import struct
 from email.message import EmailMessage
 from pathlib import Path
 
-from PIL import Image
+try:
+    from PIL import Image
+except ImportError:
+    Image = None
 
 
 ROOT = Path(__file__).resolve().parent
@@ -21,12 +26,23 @@ def build(args):
         dest = folder / f"{name}.jpg"
         if dest.exists():
             raise FileExistsError(dest)
-        with Image.open(source) as image:
-            if name == "home" and abs(image.width / image.height - 16 / 9) > .03:
+        if Image is not None:
+            with Image.open(source) as image:
+                if name == "home" and abs(image.width / image.height - 16 / 9) > .03:
+                    raise ValueError("Homepage image is not 16:9")
+                output = image.convert("RGB")
+                output.thumbnail((1200, 675))
+                output.save(dest, "JPEG", quality=72, optimize=True)
+        else:
+            data = Path(source).read_bytes()
+            if data[:8] != b"\x89PNG\r\n\x1a\n":
+                raise ValueError("Without Pillow, source must be PNG")
+            width, height = struct.unpack(">II", data[16:24])
+            if name == "home" and abs(width / height - 16 / 9) > .03:
                 raise ValueError("Homepage image is not 16:9")
-            output = image.convert("RGB")
-            output.thumbnail((1200, 675))
-            output.save(dest, "JPEG", quality=72, optimize=True)
+            subprocess.run(["sips", "-s", "format", "jpeg", "-s", "formatOptions", "72",
+                            "-Z", "1200", str(source), "--out", str(dest)],
+                           check=True, capture_output=True)
 
     intro = (f"{args.region}で{args.service}を探している方に、事業内容や相談方法が分かりやすく伝わるWebサイトを考え、"
              f"公開情報をもとに{args.company}様向けの画面案を作成しました。"

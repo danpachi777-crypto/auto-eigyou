@@ -1,6 +1,6 @@
-Use the installed `local-web-sales` skill at `/Users/kazu/.codex/skills/local-web-sales/SKILL.md`. This is one batch of a manual campaign that the user starts by typing `kz` in Codex. The user's authorization to send applies to this campaign's newly prepared proposals only.
+Use the repository's `local-web-sales/SKILL.md`. The user starts or resumes this campaign by typing exactly `kz` in Codex. The authorization to send applies to this campaign's newly prepared proposals only.
 
-The runner supplies a campaign ID and a batch limit of at most five. Complete the entire batch before ending this Codex execution. Do not stop after writing an interim report. The runner will start another fresh execution until the campaign has 100 verified sends.
+Read the campaign ID and verified count from `manual_campaign.py status`. Send within the current Codex conversation, one company at a time, up to 100 verified sends for this campaign. Do not start background Codex executions, schedules, or detached senders. When this conversation ends, sending stops. A later exact `kz` resumes the same incomplete campaign.
 
 For each new Japanese business, verify a published business email and current activity from public sources. Exclude companies and addresses already in `local-web-sales/leads.csv`, `local-web-sales/drafts/index.csv`, `local-web-sales/daily-outreach/ledger.csv`, Gmail drafts, or Gmail Sent. Normalize names and addresses. Inspect the actual business and several current same-industry landing pages. Skip uncertain candidates.
 

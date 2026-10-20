@@ -19,7 +19,7 @@ python3 local-web-sales/fifty.py check
 
 Codex に `kz` とだけ入力すると、手動で100社への送信キャンペーンを開始します。各社の公開情報を調査し、画面案2点とメールを作成します。Gmail下書きと送信済みメールを読み戻して確認します。候補の出典、ローカルの`.eml`と画像、Gmail下書きID、送信結果、キャンペーンIDは[`daily-outreach/ledger.csv`](daily-outreach/ledger.csv)に記録します。既存の50社、過去の台帳、Gmail内のメールと重複しない候補を選びます。
 
-午前1時のLaunchAgentは廃止しました。[`daily-outreach/manual_campaign.py`](daily-outreach/manual_campaign.py)が手動起動後に最大5社ずつCodexを実行し、送信確認済み100社になるまで次の実行を開始します。途中で止まった場合、再度 `kz` と入力すると同じキャンペーンを再開します。`kz status` で進捗を確認できます。Macと接続済みGmailを利用できる状態にしてください。実行状態とログは `daily-outreach/runs/` に保存されます。確認できない送信結果や接続障害がある場合は停止して原因を記録します。
+午前1時のLaunchAgentとバックグラウンドのCodex実行は廃止しました。`kz` を入力したCodexの会話内で1社ずつ作成・送信・確認し、100社を目標に進めます。会話が終わると送信も止まり、再度 `kz` と入力すると同じ未完了キャンペーンを再開します。`kz status` で進捗を確認できます。[`daily-outreach/manual_campaign.py`](daily-outreach/manual_campaign.py)はキャンペーン状態の管理と表示のみ行い、メールを送信しません。実行状態と過去のログは `daily-outreach/runs/` に保存されます。確認できない送信結果がある場合は、Gmailの送信済みと下書きを照合してから再開します。
 
 リポジトリのルートで実行します。
 
