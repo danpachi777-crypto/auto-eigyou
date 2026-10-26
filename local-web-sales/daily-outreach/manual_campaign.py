@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent
 RUNS = ROOT / "runs"
 STATE = RUNS / "kz-active.json"
 LEDGER = ROOT / "ledger.csv"
-TARGET = 100
+TARGET = 450
 
 
 def now():
@@ -61,6 +61,8 @@ def display(state):
 
 
 def start():
+    from storage_guard import reclaim
+    reclaim()
     state = read_state()
     if not state or sent_count(state["campaign_id"]) >= TARGET:
         state = {"campaign_id": datetime.now(ZoneInfo("Asia/Tokyo")).strftime("kz-%Y%m%d-%H%M%S"),

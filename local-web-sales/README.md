@@ -15,11 +15,37 @@ python3 local-web-sales/fifty.py check
 
 2026年10月13日、生成した50通を`danpachi777@gmail.com`のGmail下書きに登録しました。送信元は全通`contact.designdan@gmail.com`、画像は各通2点、送信はしていません。[`drafts/gmail-drafts.csv`](drafts/gmail-drafts.csv)に対応する下書きIDを記録しています。Gmail連携への登録は`build`コマンドの動作には含まれません。再登録の際は重複下書きを確認してください。
 
-## 手動の新規営業メール
+## 現在の実行方法（2026年10月20日更新）
 
-Codex に `kz` とだけ入力すると、手動で100社への送信キャンペーンを開始します。各社の公開情報を調査し、画面案2点とメールを作成します。Gmail下書きと送信済みメールを読み戻して確認します。候補の出典、ローカルの`.eml`と画像、Gmail下書きID、送信結果、キャンペーンIDは[`daily-outreach/ledger.csv`](daily-outreach/ledger.csv)に記録します。既存の50社、過去の台帳、Gmail内のメールと重複しない候補を選びます。
+ユーザーの指示により毎晩21時のLaunchAgentを解除しました。現在は、このリポジトリのCodexで `kz` と指示したときだけ開始・再開します。`kz status` は状況確認だけです。会話が終了すると手動処理は停止します。新しい明示的な依頼なしに定期実行を再登録しないでください。
 
-午前1時のLaunchAgentとバックグラウンドのCodex実行は廃止しました。`kz` を入力したCodexの会話内で1社ずつ作成・送信・確認し、100社を目標に進めます。会話が終わると送信も止まり、再度 `kz` と入力すると同じ未完了キャンペーンを再開します。`kz status` で進捗を確認できます。[`daily-outreach/manual_campaign.py`](daily-outreach/manual_campaign.py)はキャンペーン状態の管理と表示のみ行い、メールを送信しません。実行状態と過去のログは `daily-outreach/runs/` に保存されます。確認できない送信結果がある場合は、Gmailの送信済みと下書きを照合してから再開します。
+### 旧・夜間自動実行の参考資料（現在は無効）
+
+全国のGoogleマップで**評価3.0以上・口コミ10件以上**の事業者を対象にします。新規・既存の候補を問わず、公開メール、営業実態、評価・口コミ件数を確認し、出典と確認日を記録します。過去のリストだけで条件適合とはみなしません。
+
+macOSのLaunchAgentが毎晩21:00（日本時間）に`daily-outreach/nightly.py`を起動します。`NIGHTLY.md`に従い、Codex CLIが候補調査、ImageGenによる会社別画像2点の制作、メール作成、Gmail下書き検証、送信、送信済み読み戻しまで1社ずつ自動処理します。`kz`の入力は不要です。CodexのログインとGmail連携が必要で、Macは電源・ネット接続があり、スリープしない状態にしてください。Mac停止中のクラウド実行には対応していません。
+
+上限は**日本時間の1日450件かつ直近24時間450件**です。複数キャンペーンの実績を合算し、直前にGmailの送信済み全ページを確認します。送信前にSQLiteへ予約し、送信済み確認後に確定します。未確定の予約がある場合は停止して照合を要求します。二重起動はロックで防ぎます。通常のメールもGmail側の上限に含まれます。
+
+処理時間帯は21:00〜翌09:00の最大12時間、1社は最大30分です。スリープ等で起動が遅れた場合、日中の送信は開始しません。候補不足、画像生成・Gmailの利用制限、認証エラー、送信結果の不明、確認済み送信が増えない場合は停止し、理由を記録します。450件は上限・目標であり、毎晩の達成を保証しません。必要なツールが夜間のCLIで使えない場合も送信せず停止します。
+
+```bash
+# 実送信をしない起動設定確認
+python3 local-web-sales/daily-outreach/nightly.py --dry-run
+# 夜間CLIでのGmail接続と必要ツールを確認（送信・下書き作成なし）
+python3 local-web-sales/daily-outreach/nightly.py --preflight
+# スケジュールのインストール（直ちに実行はしない）
+python3 local-web-sales/daily-outreach/schedule.py install
+# 登録状況、件数と未確定予約の確認
+python3 local-web-sales/daily-outreach/schedule.py status
+python3 local-web-sales/daily-outreach/delivery_budget.py status
+# 自動実行の停止
+python3 local-web-sales/daily-outreach/schedule.py uninstall
+```
+
+実行ログ・結果・送信枠のDBは`daily-outreach/runs/`に保存し、Gitには含めません。`ledger.csv`は既存の列・行を保持します。DBや台帳を削除して上限をリセットしないでください。以前のSMTPツールは日次管理と統合されていないため、自動キャンペーンとの併用はしません。
+
+`kz`は手動の開始・再開用として残しています。手動でも共通の450件制限と送信前予約を適用し、夜間実行中は送信しません。`manual_campaign.py`は状態管理のみで、それ自体は送信しません。
 
 リポジトリのルートで実行します。
 

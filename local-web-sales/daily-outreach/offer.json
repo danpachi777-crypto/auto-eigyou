@@ -1,0 +1,10 @@
+{
+  "price_confirmed": false,
+  "price_text": null,
+  "turnaround_confirmed": false,
+  "turnaround_text": null,
+  "scope_confirmed": false,
+  "allowed_scope": null,
+  "follow_up_enabled": false,
+  "note": "料金・納期・対応範囲はユーザーの確定情報を待つ。未確定の価格、日数、実績や保証を作らない。"
+}
