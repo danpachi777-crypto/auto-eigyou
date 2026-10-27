@@ -1,0 +1,16 @@
+{
+  "campaign": "kz-20261020-163105",
+  "status": "paused",
+  "paused_at": "2026-10-27T07:44:15.846732+00:00",
+  "verified_sent": 281,
+  "confirmed_bounces": 5,
+  "attempts": 286,
+  "remaining": 169,
+  "pending_reservations": 0,
+  "reason": "ユーザーの停止・プッシュ指示",
+  "repository": "https://github.com/danpachi777-crypto/auto-eigyou",
+  "branch": "main",
+  "new_records_since_previous_commit": 62,
+  "included_artifacts": "前回コミット後の62件のメール・最終提案画像と、保存済み生成プロンプト。台帳・不達記録。",
+  "local_only": "Gmail応答・検証情報、送信予算DB、実行ログ、調査スクリーンショットは既存のruns除外設定に従ってローカル保存。過去の未追跡作業用画像は変更しない。"
+}
