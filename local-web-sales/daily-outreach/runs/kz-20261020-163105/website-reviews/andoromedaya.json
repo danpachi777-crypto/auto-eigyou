@@ -1,0 +1,50 @@
+{
+  "company": "アンドロメダ屋模型店",
+  "industry": "模型店",
+  "region": "神奈川県横浜市緑区鴨居",
+  "email": "andoromedaya_mokeiten@ybb.ne.jp",
+  "email_source": "http://andoromedayamokeiten.g1.xrea.com/tuhan.html",
+  "website_url": "http://andoromedayamokeiten.g1.xrea.com/",
+  "discovery_source": "https://www.townnews.co.jp/0102/2026/08/20/849195.html",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 240,
+    "url": "https://www.google.com/maps/search/?api=1&query=アンドロメダ屋模型店"
+  },
+  "checked_at": "2026-10-29T07:15:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "http://andoromedayamokeiten.g1.xrea.com/",
+    "http://andoromedayamokeiten.g1.xrea.com/train.html",
+    "http://andoromedayamokeiten.g1.xrea.com/tuhan.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://andoromedayamokeiten.g1.xrea.com/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、左側の営業時間欄が画面幅の大半を占め、右側の本文が細い列で折り返されていました。",
+      "proposal": "スマートフォンでは左右の固定欄を一列にまとめ、本文と問い合わせ先を画面幅に合わせて縦に並べる",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/andoromedaya/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.katomodels.com/",
+      "note": "商品種別と問い合わせ分類を参考。固有表現は不使用"
+    },
+    {
+      "url": "https://www.tamiya.com/japan/",
+      "note": "製品分類のみ参考"
+    }
+  ],
+  "contact_note": "公式通販案内の現在メール一致。旧ngrgf020も重複確認0。通販制限を尊重し、画像は購入確定・在庫保証なし。",
+  "eml_check_passed": true
+}

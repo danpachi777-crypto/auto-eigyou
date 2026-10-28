@@ -39,7 +39,8 @@
     "terasoba",
     "mikuniso",
     "aruru",
-    "syougetu"
+    "syougetu",
+    "andoromedaya"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -72,12 +73,13 @@
     "terasoba",
     "mikuniso",
     "aruru",
-    "syougetu"
+    "syougetu",
+    "andoromedaya"
   ],
   "gmail_search_block": null,
-  "next_candidate": null,
-  "prepared_count_in_recovery": 29,
+  "next_candidate": "yamada-denka",
+  "prepared_count_in_recovery": 30,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 7,
-  "last_pushed_commit": "459db1d09710b7f1f0575b772f6f2a649c7fb15a"
+  "last_pushed_commit": "200d51edb568cffb90373134efa96a3d805425cf"
 }
