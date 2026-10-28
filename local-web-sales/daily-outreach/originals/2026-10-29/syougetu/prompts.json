@@ -1,0 +1,7 @@
+{
+  "home_prompt": "Use case ui-mockup. Original Japanese wagashi shop homepage proposal 菓匠松月. Landscape exact16:9 desktop webpage plus mobile preview. Soft cream muted vermilion sage green, elegant readable Japanese. Original illustrative wagashi assortment photo, no actual premises or copied logo. Heading 季節を味わう、亀戸の和菓子。 Intro 季節感を大切に、親しみのある和菓子を。 Show photo then intro stacked vertically in mobile with full text fitting screen; desktop spacious. Nav 季節のお菓子 / ご贈答 / 店舗案内 / お問い合わせ. Contact syougetu@gmail.com, button メールで相談. No prices hours awards guarantees order confirmation form. Footer 非公式のデザイン案・写真はイメージです. Correct name 菓匠松月.",
+  "inquiry_prompt": "Use case ui-mockup. Separate inquiry webpage for 菓匠松月, using reference for same cream sage vermilion Japanese style. Exact16:9 landscape desktop with mobile view right. Heading お問い合わせ. Intro 和菓子やご贈答について、お気軽にご相談ください。 Original illustrative wagashi photo followed by text in mobile, all wraps and fits with no horizontal clipping. Contact syougetu@gmail.com, button メールで相談. Telephone 03-3637-9840. Address 東京都江東区亀戸5-33-11. No form, hours, prices, response-time claims, order confirmation or unsupported accolades. Footer 非公式のデザイン案・写真はイメージです. Exact spelling and large readable text.",
+  "home_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-e0aec053-1b39-4274-9634-3429b148fad4.png",
+  "inquiry_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-57a386c1-5226-4694-834c-6a2026c222be.png",
+  "tool": "built-in image_gen"
+}

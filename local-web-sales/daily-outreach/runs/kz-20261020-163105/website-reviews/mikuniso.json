@@ -1,0 +1,50 @@
+{
+  "company": "苗場三国荘",
+  "industry": "宿泊施設",
+  "region": "新潟県湯沢町",
+  "email": "staff@mikuniso.com",
+  "email_source": "https://mikuniso.la.coocan.jp/",
+  "website_url": "https://mikuniso.la.coocan.jp/",
+  "discovery_source": "https://www.naeba.gr.jp/stayguide/",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 23,
+    "url": "https://www.google.com/maps/search/?api=1&query=苗場三国荘"
+  },
+  "checked_at": "2026-10-29T06:25:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://mikuniso.la.coocan.jp/",
+    "https://mikuniso.la.coocan.jp/charge.htm",
+    "https://mikuniso.la.coocan.jp/reserve.ws.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_contact",
+      "url": "https://mikuniso.la.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、上部の宿名とお問い合わせ先が画面の右側に続き、電話番号やメールアドレスが見える範囲に収まっていませんでした。",
+      "proposal": "上部の宿名・電話・メールを縦に並べて画面幅に収める",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/mikuniso/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://shimizu-inn.com/",
+      "note": "宿泊案内と問い合わせの分類のみ参考"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "電話とメールの案内構成のみ参考。固有の表現や写真は転用しない"
+    }
+  ],
+  "contact_note": "最新2026/10/29更新のトップはstaff@mikuniso.com。別ページのmikuniso@crocus.ocn.ne.jpも重複検索0。冬季先行予約は電話のみのため画像は電話予約優先。メールは一般問い合わせ。料金・送迎・温泉表現は画像に追加しない。",
+  "eml_check_passed": true
+}

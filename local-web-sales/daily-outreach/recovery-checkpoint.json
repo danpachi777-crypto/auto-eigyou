@@ -36,7 +36,10 @@
     "pension-mu",
     "okidoki",
     "tamagawajosui-purin",
-    "terasoba"
+    "terasoba",
+    "mikuniso",
+    "aruru",
+    "syougetu"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -66,11 +69,15 @@
     "pension-mu",
     "okidoki",
     "tamagawajosui-purin",
-    "terasoba"
+    "terasoba",
+    "mikuniso",
+    "aruru",
+    "syougetu"
   ],
   "gmail_search_block": null,
-  "next_candidate": "ysake",
-  "prepared_count_in_recovery": 26,
+  "next_candidate": null,
+  "prepared_count_in_recovery": 29,
   "target_not_complete": true,
-  "recovered_post_push_sent_records": 7
+  "recovered_post_push_sent_records": 7,
+  "last_pushed_commit": "459db1d09710b7f1f0575b772f6f2a649c7fb15a"
 }

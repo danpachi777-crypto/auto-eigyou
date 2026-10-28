@@ -1,0 +1,50 @@
+{
+  "company": "菓匠松月",
+  "industry": "和菓子店",
+  "region": "東京都江東区亀戸",
+  "email": "syougetu@gmail.com",
+  "email_source": "https://syougetu.la.coocan.jp/access.html",
+  "website_url": "https://syougetu.la.coocan.jp/",
+  "discovery_source": "https://machiteku.com/kobetsu/kameidogo/",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 45,
+    "url": "https://www.google.com/maps/search/?api=1&query=亀戸菓匠松月"
+  },
+  "checked_at": "2026-10-29T06:47:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://syougetu.la.coocan.jp/",
+    "https://syougetu.la.coocan.jp/bargain.html",
+    "https://syougetu.la.coocan.jp/access.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://syougetu.la.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、写真の右側にあるお店の紹介文が画面外に続き、文章の右側が見える範囲に収まっていませんでした。",
+      "proposal": "写真と紹介文をスマートフォンでは縦に並べ、文章を画面幅で折り返す",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/syougetu/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.toraya-group.co.jp/",
+      "note": "季節の菓子と店舗案内の分類のみ参考"
+    },
+    {
+      "url": "https://www.tsuruyayoshinobu.jp/",
+      "note": "商品から店舗・相談への導線分類のみ参考。固有の表現・写真は転用しない"
+    }
+  ],
+  "contact_note": "現行トップ10/21更新。公式公開メールは各ページで一致。画像は営業時間・価格・予約確認・受賞表現を省略。",
+  "eml_check_passed": true
+}

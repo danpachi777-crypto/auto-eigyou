@@ -1,0 +1,50 @@
+{
+  "company": "個性パン創造アルル",
+  "industry": "パン店",
+  "region": "東京都豊島区巣鴨",
+  "email": "arles@nifty.com",
+  "email_source": "https://aruru.on.coocan.jp/index.html",
+  "website_url": "https://aruru.on.coocan.jp/index.html",
+  "discovery_source": "https://tokyojapan.metro.tokyo.lg.jp/shop/shop-1471/",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 126,
+    "url": "https://www.google.com/maps/search/?api=1&query=アルルパン文京区"
+  },
+  "checked_at": "2026-10-29T06:38:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://aruru.on.coocan.jp/index.html",
+    "https://aruru.on.coocan.jp/catalogue1.htm",
+    "https://aruru.on.coocan.jp/aruruMap.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_contact",
+      "url": "https://aruru.on.coocan.jp/index.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、上部の営業時間の表と「アルルへのメール」のリンクが画面の右側にあり、見える範囲に収まっていませんでした。",
+      "proposal": "店舗案内とメールのリンクを縦に並べ、画面幅の中に収める",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/aruru/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://donq.co.jp/",
+      "note": "パン紹介と店舗案内の分類のみ参考"
+    },
+    {
+      "url": "https://www.andersen.co.jp/",
+      "note": "商品と店舗への導線分類のみ参考。写真・固有文言は転用しない"
+    }
+  ],
+  "contact_note": "公式トップのアルルへのメールで一般問い合わせ可。地図ページとトップで営業時間差があるため画像に時間記載しない。健康効果、アレルギー安全性、栄養・医療表現を画像に用いない。",
+  "eml_check_passed": true
+}
