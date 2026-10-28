@@ -1,0 +1,50 @@
+{
+  "company": "Jazz in B♭",
+  "industry": "ライブハウス・喫茶・音楽教室",
+  "region": "静岡県浜松市",
+  "email": "b-flat@nifty.com",
+  "email_source": "https://b-flat.cafe.coocan.jp/map.html",
+  "website_url": "https://b-flat.cafe.coocan.jp/",
+  "discovery_source": "https://hamamatsujazzweek.com/2026/06/b-flat/",
+  "checked_at": "2026-10-29T04:54:29.728274+09:00",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 44,
+    "url": "https://www.google.com/maps/search/?api=1&query=Jazz+In+B♭+浜松"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://b-flat.cafe.coocan.jp/",
+    "https://b-flat.cafe.coocan.jp/cafe.html",
+    "https://b-flat.cafe.coocan.jp/map.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://b-flat.cafe.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、店舗住所の右側にある電話番号とメールアドレスが画面の外に出ていました。",
+      "proposal": "スマートフォンでは連絡先を住所の下へ一列に並べ、電話番号とメールアドレスを画面幅内で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/b-flat-hamamatsu/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.bluenote.co.jp/jp/",
+      "note": "ライブ情報と店舗案内の構成のみ参考"
+    },
+    {
+      "url": "https://www.bach-kaffee.co.jp/",
+      "note": "喫茶案内と連絡先の分類のみ参考。文面・写真・固有レイアウトを転用しない"
+    }
+  ],
+  "contact_note": "ライブ日と通常日で営業時間が異なるため画像に時刻やイベント日程を創作しない。電話・メールでの問い合わせ案とする。"
+}

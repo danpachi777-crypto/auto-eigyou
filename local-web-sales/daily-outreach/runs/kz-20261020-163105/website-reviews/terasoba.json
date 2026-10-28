@@ -1,0 +1,50 @@
+{
+  "company": "蕎麦酒房てらさわ",
+  "industry": "蕎麦店",
+  "region": "東京都台東区",
+  "email": "terasoba2000@gmail.com",
+  "email_source": "https://terasoba.in.coocan.jp/",
+  "website_url": "https://terasoba.in.coocan.jp/",
+  "discovery_source": "https://r.gnavi.co.jp/3rbw7tsa0000/map/",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 69,
+    "url": "https://www.google.com/maps/search/?api=1&query=蕎麦酒房てらさわ"
+  },
+  "checked_at": "2026-10-29T06:08:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://terasoba.in.coocan.jp/",
+    "https://terasoba.in.coocan.jp/menu/menu.html",
+    "https://terasoba.in.coocan.jp/map/map.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_contact",
+      "url": "https://terasoba.in.coocan.jp/map/map.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで店舗案内を拝見すると、地図の右側にある住所と電話番号が画面外に続き、横に移動しないと確認できない表示になっていました。",
+      "proposal": "店舗案内を縦に並べ、住所・連絡先を画面幅に合わせて折り返す",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/terasoba/contact-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.sarashina-horii.com/",
+      "note": "店舗情報とおしながきの分類のみ参考。固有表現と写真は転用しない"
+    },
+    {
+      "url": "https://www.nagasakasarasina.co.jp/",
+      "note": "商品案内とお知らせの分類のみ参考"
+    }
+  ],
+  "contact_note": "公式トップは問い合わせメール指定。画像もメール優先。営業時間は媒体差があるため記載しない。価格も記載しない。",
+  "eml_check_passed": true
+}

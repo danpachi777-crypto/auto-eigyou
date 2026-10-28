@@ -1,0 +1,51 @@
+{
+  "company": "田村ふとん店",
+  "industry": "寝具店",
+  "region": "京都府京都市",
+  "email": "tamsleep4512165@gaia.eonet.ne.jp",
+  "website_url": "https://www.tam-sleep.com/",
+  "email_source": "https://www.tam-sleep.com/shop",
+  "discovery_source": "https://www.moppen-kyoto.com/shop/田村ふとん店/",
+  "checked_at": "2026-10-29T03:13:00+09:00",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 19,
+    "url": "https://www.google.com/maps/search/?api=1&query=田村ふとん店+京都"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.tam-sleep.com/contact",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでお問い合わせページを拝見すると、お名前やメールアドレスの入力欄が画面右側の外に出ていました。",
+      "proposal": "スマートフォンでは案内と入力欄を一列に並べ、横スクロールせずにお問い合わせできる配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/tamura-futon/contact-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://www.tam-sleep.com/",
+    "https://www.tam-sleep.com/futon",
+    "https://www.tam-sleep.com/shop",
+    "https://www.tam-sleep.com/contact"
+  ],
+  "contact_note": "公式店舗案内の現行メールを採用。旧tam@kyoto-senbon.or.jpを含むGmail全域検索0件、CSV一致0件。フォームは閲覧のみ。トップと商品案内も横はみ出し、PCは表示。営業拒否なし。地図読込エラーは今回の指摘対象外。",
+  "comparisons": [
+    {
+      "url": "https://www.daitoushingu.net/",
+      "note": "商品分類と連絡先区分のみ参考。営業先ではない。"
+    },
+    {
+      "url": "https://www.ishitaya.com/contact/",
+      "note": "電話とフォームを分けた構成のみ参考。文面・写真はコピーしない。"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

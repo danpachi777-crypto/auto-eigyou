@@ -1,0 +1,50 @@
+{
+  "company": "ペンションハイジ・ホフ",
+  "industry": "ペンション",
+  "region": "長野県須坂市",
+  "email": "heidihof@nifty.com",
+  "email_source": "https://hedihof.art.coocan.jp/",
+  "website_url": "https://hedihof.art.coocan.jp/",
+  "discovery_source": "https://www.suzaka.jp/pdf/data/suzaka_sogo_2025.pdf",
+  "checked_at": "2026-10-29T04:27:31.873054+09:00",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 16,
+    "url": "https://www.google.com/maps/search/?api=1&query=ハイジホフ"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://hedihof.art.coocan.jp/index.html",
+    "https://hedihof.art.coocan.jp/about.html",
+    "https://hedihof.art.coocan.jp/map.html",
+    "https://hedihof.art.coocan.jp/price.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_contact_navigation",
+      "url": "https://hedihof.art.coocan.jp/index.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、デスクトップでは右上にあるメールの案内が画面の外に出ていました。",
+      "proposal": "スマートフォンではメールと電話の案内を画面幅内に配置し、トップ画面から連絡先を確認できるように整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/heidihof/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.shimizu-inn.com/",
+      "note": "宿案内と問い合わせ導線の分類のみ参考"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "客室と予約窓口の分類のみ参考"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company": "ペンションMU",
+  "industry": "ペンション",
+  "region": "沖縄県宮古島市",
+  "email": "marineservicemiyako@cancer.nifty.jp",
+  "email_source": "https://pensionmu-msmiyako.blue.coocan.jp/",
+  "website_url": "https://pensionmu-msmiyako.blue.coocan.jp/",
+  "discovery_source": "https://www.miyakozima.net/activity/347/",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 30,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションMU+宮古"
+  },
+  "checked_at": "2026-10-29T05:32:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://pensionmu-msmiyako.blue.coocan.jp/",
+    "https://pensionmu-msmiyako.blue.coocan.jp/pns.html",
+    "https://pensionmu-msmiyako.blue.coocan.jp/pnsrsv.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_navigation",
+      "url": "https://pensionmu-msmiyako.blue.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、上部の横並びメニューが画面外に続き、「宿泊予約状況」のリンクが見える範囲に収まっていませんでした。",
+      "proposal": "スマートフォンでは案内メニューを折り返し、宿泊予約状況と問い合わせへの入口を画面内に表示する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/pension-mu/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://shimizu-inn.com/",
+      "note": "宿泊案内と連絡先の分類のみ参考"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "客室・予約案内の分類のみ参考。写真や文章や固有レイアウトは転用しない"
+    }
+  ],
+  "contact_note": "旧top.htmlのメールは使用しない。現行root,pns,pnsrsvの新メール一致。空港送迎はページ間不一致のため提案画像に記載しない。旧メールも重複検索0。"
+}

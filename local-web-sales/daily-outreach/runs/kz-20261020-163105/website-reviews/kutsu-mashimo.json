@@ -1,0 +1,51 @@
+{
+  "company": "シュークリニック 靴のマシモ",
+  "industry": "靴販売・調整・修理",
+  "region": "東京都中野区",
+  "email": "dog9283@yahoo.co.jp",
+  "email_source": "https://kutunomashimo.la.coocan.jp/",
+  "website_url": "https://kutunomashimo.la.coocan.jp/",
+  "discovery_source": "https://www.ai-road.com/ファッション/靴のマシモ/",
+  "checked_at": "2026-10-29T04:59:41.147081+09:00",
+  "maps": {
+    "rating": 3.8,
+    "review_count": 12,
+    "url": "https://www.google.com/maps/search/?api=1&query=靴のマシモ"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://kutunomashimo.la.coocan.jp/",
+    "https://kutunomashimo.la.coocan.jp/newpage27.htm",
+    "https://kutunomashimo.la.coocan.jp/newpage17.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://kutunomashimo.la.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、店舗紹介文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは紹介文を画面幅に合わせて折り返し、靴選びや修理の案内から連絡先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/kutsu-mashimo/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://alka.co.jp/pages/store-information",
+      "note": "店舗案内と相談導線の構成のみ参考"
+    },
+    {
+      "url": "https://akaishionline.com/store/",
+      "note": "靴選びと調整サービスの分類のみ参考。文面・写真・固有レイアウトを転用しない"
+    }
+  ],
+  "contact_note": "来店予約は電話のみ。メールは相談用。子供靴は取り寄せ専任。健康効果や修理対応の保証を創作しない。公式で件名に名前を依頼しているため送信前に中川を件名へ加える。",
+  "subject_name_added": "中川"
+}

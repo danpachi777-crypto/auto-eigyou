@@ -1,0 +1,50 @@
+{
+  "company": "サイクルプラス",
+  "industry": "自転車店",
+  "region": "東京都足立区",
+  "email": "cycle.plus@nifty.com",
+  "email_source": "https://cycleplus.life.coocan.jp/",
+  "website_url": "https://cycleplus.life.coocan.jp/",
+  "discovery_source": "https://pkg.navitime.co.jp/bridgestone-cycle/spot/detail?code=D11154",
+  "checked_at": "2026-10-29T03:19:00+09:00",
+  "maps": {
+    "rating": 3.9,
+    "review_count": 45,
+    "url": "https://www.google.com/maps/search/?api=1&query=サイクルプラス+足立区梅田"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://cycleplus.life.coocan.jp/shopinfo.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで店舗案内を拝見すると、住所やサービス説明の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは店舗案内と連絡先を一列に並べ、画面内で確認できる配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/cycleplus/shop-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://cycleplus.life.coocan.jp/",
+    "https://cycleplus.life.coocan.jp/shopinfo.htm",
+    "https://cycleplus.life.coocan.jp/maintenanceprice.htm"
+  ],
+  "contact_note": "トップに現行メール、旧修理ページにcycleplus@excite.co.jp。両メール・社名・ドメインGmail全域0件。CSV0件。電話とメール案内のみ。修理条件を尊重し架空フォームは作らない。他店購入修理断る場合あり、通販組立・部品持込・出張修理不可。",
+  "comparisons": [
+    {
+      "url": "https://www.cyclespot.net/pages/contact-shop?type=concierge",
+      "note": "店舗別案内と問い合わせ分類のみ参考"
+    },
+    {
+      "url": "https://www.daiwa-cycle.co.jp/contact/faq",
+      "note": "問い合わせ種類ごとの窓口整理のみ参考"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

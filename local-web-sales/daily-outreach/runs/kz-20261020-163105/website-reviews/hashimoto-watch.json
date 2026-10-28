@@ -1,0 +1,45 @@
+{
+  "company": "株式会社橋本時計店",
+  "industry": "時計修理",
+  "region": "東京都町田市",
+  "website_url": "https://wwwhhh.c.ooco.jp/",
+  "email": "hashimoto.tokeiten.co@gmail.com",
+  "discovery_source": "https://itp.ne.jp/zenkoku/tokyo/machidashi/morino/133263587100000899",
+  "checked_at": "2026-10-28T17:40:24.508957+00:00",
+  "maps": {
+    "rating": 3.7,
+    "reviews": 12,
+    "url": "https://www.google.com/maps/search/橋本時計店+町田市森野"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://wwwhhh.c.ooco.jp/",
+    "https://wwwhhh.c.ooco.jp/m.htm",
+    "https://wwwhhh.c.ooco.jp/kazuya.htm"
+  ],
+  "contact_review_note": "問い合わせは専用HTMLではなくトップ・修理ページのmailto。contactファイル名の画像は補助プロフィールページ。",
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://wwwhhh.c.ooco.jp/m.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅では、修理案内ページ上部の時計の種類を紹介する画像の右側が画面外に切れて表示されること",
+      "proposal": "時計の種類別の案内を画面幅に合わせて縦に並べ、メールでの修理相談へ進みやすくする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/hashimoto-watch/service-390.png"
+    }
+  ],
+  "reason": "種類別案内の画像右側欠け。メール優先方針を保持。",
+  "duplicate_check": "Gmail旧新アドレス・事業者名0件、復旧台帳0件。",
+  "contact_policy": "修理作業・出張中電話不可のためメール優先。営業拒否は確認3頁にない。",
+  "comparison_sources": [
+    "https://www.cien-watch.com/",
+    "https://www.sennendo.jp/flow/"
+  ],
+  "send_hold": "rolling quota and recovered ledger reconciliation",
+  "eml_check_passed": true
+}

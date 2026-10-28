@@ -1,0 +1,50 @@
+{
+  "company": "管楽器専門店ミュージカル ヒロ",
+  "industry": "管楽器専門店",
+  "region": "香川県高松市",
+  "email": "musical-hiro@nifty.com",
+  "email_source": "https://musical-hiro.music.coocan.jp/mail.html",
+  "website_url": "https://musical-hiro.music.coocan.jp/",
+  "discovery_source": "https://www.b-mall.ne.jp/CompanyDetail-GYbqCQcqGVkx.html",
+  "checked_at": "2026-10-29T03:56:00+09:00",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 13,
+    "url": "https://www.google.com/maps/search/?api=1&query=ミュージカル+ヒロ+高松"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://musical-hiro.music.coocan.jp/gakkisyuuri.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで修理案内を拝見すると、修理対象の楽器や説明文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは修理対象と説明文を画面幅に合わせて折り返し、問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/musical-hiro/service-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://musical-hiro.music.coocan.jp/index.htm",
+    "https://musical-hiro.music.coocan.jp/gakkisyuuri.htm",
+    "https://musical-hiro.music.coocan.jp/mail.html"
+  ],
+  "contact_note": "公式mail.html公開メール確認。Gmail全域・CSV一致0件。問い合わせページは390pxで折り返すが修理ページははみ出す。価格・所要日数の保証なし。",
+  "comparisons": [
+    {
+      "url": "https://www.nonaka.com/",
+      "note": "楽器分類とメンテナンス窓口の整理のみ参考"
+    },
+    {
+      "url": "https://www.dolce.co.jp/",
+      "note": "楽器分類と店舗案内の整理のみ参考。写真・文面転用なし"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

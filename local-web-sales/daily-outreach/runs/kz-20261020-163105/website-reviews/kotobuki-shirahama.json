@@ -1,0 +1,50 @@
+{
+  "company": "民宿ことぶき",
+  "industry": "温泉民宿",
+  "region": "和歌山県白浜町",
+  "email": "UGG34614@nifty.com",
+  "email_source": "https://minsyukukotobuki.world.coocan.jp/",
+  "website_url": "https://minsyukukotobuki.world.coocan.jp/",
+  "discovery_source": "https://www.nankishirahama.jp/spot/784/",
+  "checked_at": "2026-10-29T04:49:57.585377+09:00",
+  "maps": {
+    "rating": 3.4,
+    "review_count": 24,
+    "url": "https://www.google.com/maps/search/?api=1&query=民宿ことぶき+白浜"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://minsyukukotobuki.world.coocan.jp/",
+    "https://minsyukukotobuki.world.coocan.jp/sakusaku/5_1.htm",
+    "https://minsyukukotobuki.world.coocan.jp/sakusaku/2_1.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://minsyukukotobuki.world.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、宿の紹介文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは紹介文を画面幅に合わせて折り返し、宿泊案内と問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/kotobuki-shirahama/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://shimizu-inn.com/",
+      "note": "宿の紹介と連絡先の分類のみ参考"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "客室・アクセスの情報分類のみ参考。写真・文面・固有レイアウトの転用なし"
+    }
+  ],
+  "contact_note": "問い合わせ案内はトップの電話とmailto。送信なし。古い料金や交通時刻を案に転記せず、価格・営業時間を創作しない。"
+}

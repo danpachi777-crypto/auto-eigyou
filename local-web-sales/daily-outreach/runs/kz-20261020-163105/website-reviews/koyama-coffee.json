@@ -1,0 +1,51 @@
+{
+  "company": "こやま珈琲",
+  "industry": "自家焙煎珈琲店",
+  "region": "神奈川県座間市",
+  "email": "kym-coffee@nifty.com",
+  "email_source": "https://koyama-coffee.gourmet.coocan.jp/",
+  "website_url": "https://koyama-coffee.gourmet.coocan.jp/",
+  "discovery_source": "https://machitoku.jp/navi/kanagawa/zama/shops/3big7o",
+  "checked_at": "2026-10-29T04:07:00+09:00",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 59,
+    "url": "https://www.google.com/maps/search/?api=1&query=こやま珈琲+座間"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://koyama-coffee.gourmet.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、お知らせ本文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンではお知らせと商品案内を画面幅に合わせて折り返し、問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/koyama-coffee/home-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://koyama-coffee.gourmet.coocan.jp/",
+    "https://koyama-coffee.gourmet.coocan.jp/sub1.html",
+    "https://koyama-coffee.gourmet.coocan.jp/sub2.html",
+    "https://koyama-coffee.gourmet.coocan.jp/sub3.html"
+  ],
+  "contact_note": "公式mailto確認。Gmail全域・CSV一致0件。公式住所電話を使用。セール期間や価格は画像に転記しない。フォームなし。",
+  "comparisons": [
+    {
+      "url": "https://www.bach-kaffee.co.jp/",
+      "note": "豆・器具・営業案内の分類を参考"
+    },
+    {
+      "url": "https://www.kohikobo.co.jp/",
+      "note": "豆案内と店舗・問い合わせ導線の分類のみ参考。写真・文面転用なし"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

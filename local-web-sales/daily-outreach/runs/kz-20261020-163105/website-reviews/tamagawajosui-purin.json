@@ -1,0 +1,50 @@
+{
+  "company": "玉川上水のぷりん屋",
+  "industry": "菓子店",
+  "region": "東京都小平市",
+  "email": "madeleine.to@jcom.home.ne.jp",
+  "email_source": "https://madeleine.sweet.coocan.jp/information.htm",
+  "website_url": "https://madeleine.sweet.coocan.jp/",
+  "discovery_source": "https://kodaira-tourism.com/spot/2279/",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 29,
+    "url": "https://www.google.com/maps/search/?api=1&query=玉川上水ぷりん屋"
+  },
+  "checked_at": "2026-10-29T05:47:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://madeleine.sweet.coocan.jp/",
+    "https://madeleine.sweet.coocan.jp/jpudding.htm",
+    "https://madeleine.sweet.coocan.jp/information.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_contact",
+      "url": "https://madeleine.sweet.coocan.jp/information.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでお問い合わせページを拝見すると、横並びの案内表が画面外に続き、メールの説明とリンクが見える範囲に収まっていませんでした。",
+      "proposal": "問い合わせ案内を縦に並べ、説明文と連絡先を画面幅に合わせて折り返す",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/tamagawajosui-purin/contact-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.morozoff.co.jp/",
+      "note": "商品紹介と問い合わせの分類のみ参考"
+    },
+    {
+      "url": "https://www.toraya-group.co.jp/",
+      "note": "店舗案内の分類のみ参考。固有文言・写真・レイアウトは転用しない"
+    }
+  ],
+  "contact_note": "現行jpudding.htmは2025/12/19価格改定告知あり。取置きは当日10時以降電話、画像でも電話案内のみ。一般問い合わせはinformation.htmの公開mailto。教室は現行では訴求しない。メール署名に名前とアドレス記載。"
+}

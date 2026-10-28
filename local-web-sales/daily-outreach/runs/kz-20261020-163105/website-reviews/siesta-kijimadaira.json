@@ -1,0 +1,50 @@
+{
+  "company": "ペンションシエスタ",
+  "industry": "ペンション",
+  "region": "長野県木島平村",
+  "email": "psiesta@nifty.com",
+  "email_source": "https://siesta.travel.coocan.jp/siesta/siesta.html",
+  "website_url": "https://siesta.travel.coocan.jp/",
+  "discovery_source": "https://kijimadaira.org/article/detail/stay/pension-siesta/",
+  "checked_at": "2026-10-29T05:14:30.705953+09:00",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 10,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションシエスタ+木島平"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://siesta.travel.coocan.jp/",
+    "https://siesta.travel.coocan.jp/siesta/siesta.html",
+    "https://siesta.travel.coocan.jp/chizu-google.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://siesta.travel.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、予約・問い合わせ欄にある電話番号の末尾が画面の外に出ていました。",
+      "proposal": "スマートフォンでは電話番号とメールアドレスを一列で配置し、予約・問い合わせ先を画面幅内に収める",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/siesta-kijimadaira/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://shimizu-inn.com/",
+      "note": "宿泊案内と連絡先の分類のみ参考"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "客室とアクセスの分類のみ参考。写真・文面・固有レイアウトを転用しない"
+    }
+  ],
+  "contact_note": "トップ・宿紹介に公式電話メール。外部予約リンクへの送信なし。画像で料金・営業時間・効果保証を創作しない。"
+}

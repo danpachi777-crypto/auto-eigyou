@@ -1,0 +1,50 @@
+{
+  "company": "柴田屋酒店",
+  "industry": "酒店・甘酒カフェ",
+  "region": "愛知県田原市",
+  "email": "reichun@nifty.ne.jp",
+  "email_source": "https://shibataya.la.coocan.jp/",
+  "website_url": "https://shibataya.la.coocan.jp/",
+  "discovery_source": "https://www.tahara.or.jp/pdf/meibo20260504.pdf",
+  "checked_at": "2026-10-29T04:42:48.780517+09:00",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 12,
+    "url": "https://www.google.com/maps/search/?api=1&query=柴田屋酒店+田原"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://shibataya.la.coocan.jp/",
+    "https://shibataya.la.coocan.jp/cafe.htm",
+    "https://shibataya.la.coocan.jp/tempo.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://shibataya.la.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、甘酒カフェの紹介文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは紹介文を画面幅に合わせて折り返し、店舗案内と問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/shibataya-tahara/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.hasegawasaketen.com/",
+      "note": "商品分類と店舗案内の構成のみ参考"
+    },
+    {
+      "url": "https://imadeya.co.jp/pages/corporate",
+      "note": "店舗案内と問い合わせ分類のみ参考。画像・文言・固有レイアウトを転用しない"
+    }
+  ],
+  "contact_note": "公式サイトは商品紹介のみ。通信販売や決済・注文フォームを創作しない。酒類は20歳未満販売不可。酒店とカフェで営業時間が異なるため混同を避ける。"
+}

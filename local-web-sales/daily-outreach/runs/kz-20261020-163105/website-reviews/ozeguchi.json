@@ -1,0 +1,51 @@
+{
+  "company": "民宿おぜぐち",
+  "industry": "民宿",
+  "region": "福島県檜枝岐村",
+  "email": "ozeguchi.hoshi@nifty.com",
+  "email_source": "https://ozeguchi.travel.coocan.jp/newpage17.htm",
+  "website_url": "https://ozeguchi.travel.coocan.jp/",
+  "discovery_source": "https://mata-kitewari.jp/images/hotellist2026.pdf?8=",
+  "checked_at": "2026-10-29T03:39:00+09:00",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 44,
+    "url": "https://www.google.com/maps/search/?api=1&query=民宿おぜぐち"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://ozeguchi.travel.coocan.jp/hyoushi.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、紹介文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは紹介文と宿泊案内を画面幅に合わせて折り返し、連絡先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/ozeguchi/home-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://ozeguchi.travel.coocan.jp/hyoushi.htm",
+    "https://ozeguchi.travel.coocan.jp/newpage3.htm",
+    "https://ozeguchi.travel.coocan.jp/newpage17.htm"
+  ],
+  "contact_note": "公式設備・予約ページはhoshi、検索結果お知らせにはhochi表記あり。両方Gmail全域検索0件、CSV一致0件。宛先表記揺れは送信前に解消するまで送信保留。オンラインフォーム休止が明記されているため、画面案は電話FAX窓口。実フォーム操作なし。",
+  "send_hold": "official_email_spelling_discrepancy",
+  "comparisons": [
+    {
+      "url": "https://www.shimizu-inn.com/",
+      "note": "客室・食事・予約案内の分類のみ参考、写真文面は転用なし"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "宿泊情報と問い合わせ窓口の分類のみ参考"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

@@ -1,0 +1,50 @@
+{
+  "company": "和菓子 埼玉屋南雲",
+  "industry": "和菓子製造販売",
+  "region": "埼玉県三郷市",
+  "email": "saitamaya@mbp.nifty.com",
+  "email_source": "https://saitamaya-nagumo.sweet.coocan.jp/toutei/touiteishoutorihiki.html",
+  "website_url": "https://saitamaya-nagumo.sweet.coocan.jp/",
+  "discovery_source": "https://www.3310.biz/company/detail.php?id=90",
+  "checked_at": "2026-10-29T04:30:54.516399+09:00",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 128,
+    "url": "https://www.google.com/maps/search/?api=1&query=埼玉屋南雲"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://saitamaya-nagumo.sweet.coocan.jp/",
+    "https://saitamaya-nagumo.sweet.coocan.jp/osusume.html",
+    "https://saitamaya-nagumo.sweet.coocan.jp/tenpo/tenpo.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://saitamaya-nagumo.sweet.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、お店の紹介文の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは紹介文を画面幅に合わせて折り返し、店舗情報と問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/saitamaya-nagumo/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.toraya-group.co.jp/",
+      "note": "商品分類と店舗案内の構成のみ参考"
+    },
+    {
+      "url": "https://www.tsuruyayoshinobu.jp/",
+      "note": "季節商品と問い合わせ導線の分類のみ参考。写真や文面の転用なし"
+    }
+  ],
+  "contact_note": "公式サイトでネットショップ休業、取り寄せ電話FAXメールのみを確認。案ではオンライン決済・注文フォームを作らない。"
+}

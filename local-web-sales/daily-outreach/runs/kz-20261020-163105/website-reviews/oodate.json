@@ -1,0 +1,48 @@
+{
+  "company": "大立旅館",
+  "website_url": "https://oodate.travel.coocan.jp/",
+  "email": "butyan3@nifty.com",
+  "industry": "旅館",
+  "region": "兵庫県姫路市家島",
+  "discovery_source": "https://www.himeji-kanko.jp/spot/105/",
+  "checked_at": "2026-10-28T15:17:17.295939+00:00",
+  "google_maps": {
+    "rating": 3.6,
+    "reviews": 14,
+    "url": "https://www.google.com/maps/search/大立旅館+家島"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "index.html",
+    "plan.html",
+    "contact1.html"
+  ],
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "reason": "390pxでヘッダー住所が右側で切れる事実を確認",
+  "observations": [
+    "390pxのヘッダー住所が右端で切れ、不自然に折り返される。",
+    "予約案内の本文はスマホ幅で折り返し表示される。",
+    "電話予約方針、公開メールあり。主要3頁に営業拒否表示なし。"
+  ],
+  "evidence_directory": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/oodate",
+  "duplicate_check": "2026-10-29 Gmail全メール0件。復旧台帳照合別途必要",
+  "comparison_sources": [
+    "https://www.shimizu-inn.com/",
+    "https://hanahotel.jp/"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://oodate.travel.coocan.jp/contact1.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅では、ページ上部の住所表示が右端で切れて表示されること",
+      "proposal": "所在地と連絡先の表示を画面幅に合わせて折り返し、スマートフォンでも全体を読めるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/oodate/contact-390.png"
+    }
+  ],
+  "eml_check_passed": true
+}

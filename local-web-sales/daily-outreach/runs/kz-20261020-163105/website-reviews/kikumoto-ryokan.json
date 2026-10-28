@@ -1,0 +1,55 @@
+{
+  "company": "菊本旅館",
+  "industry": "旅館",
+  "region": "埼玉県羽生市",
+  "website_url": "https://sige1747.in.coocan.jp/",
+  "discovery_source": "https://www.hanyu-kanko.jp/shukuhakushisetsu/index.html",
+  "checked_at": "2026-10-28T13:06:06.766639+00:00",
+  "email": "sigeo1747@nifty.com",
+  "email_note": "公式表示はsigeo@nifty.com、mailtoはsigeo1747@nifty.com。送信前再照合。",
+  "google_maps": {
+    "rating": 4.2,
+    "reviews": 17,
+    "url": "https://www.google.com/maps/search/菊本旅館+羽生"
+  },
+  "duplicate_check": "Gmail in:anywhere 両メールと事業者名0件。復旧旧台帳0件。全台帳照合は送信前必須。",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://sige1747.in.coocan.jp/",
+    "https://sige1747.in.coocan.jp/setubi10.htm",
+    "https://sige1747.in.coocan.jp/situmonn.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://sige1747.in.coocan.jp/setubi10.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅で客室・設備ページの見出しや案内の右側が画面外に切れて表示されること",
+      "proposal": "客室・設備の案内を画面幅に合わせて縦に並べ、電話での宿泊相談の案内を読みやすくする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/kikumoto-ryokan/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "reason": "スマホ幅の内容欠けを6画面で確認。電話予約方針を維持。",
+  "comparison_sources": [
+    "https://hanahotel.jp/",
+    "https://www.route-inn.co.jp/"
+  ],
+  "comparison_note": "施設・案内・問合せの一般的な区分のみ参考。素材や文言はコピーしない。",
+  "status": "prepared_unsent",
+  "send_hold": "rolling quota and recovered stale ledger; preparation only",
+  "checks": {
+    "mobile": "内容右側が欠ける",
+    "contact": "電話予約番号あり。電話方針を維持",
+    "information": "客室、住所、案内あり",
+    "links": "主要3頁表示済",
+    "flow": "電話誘導あり",
+    "freshness": "料金表示差があるが提案には使用しない。料金・サービス数値は転載しない",
+    "opt_out": "確認した主要3頁に営業拒否の表示なし"
+  },
+  "eml_check_passed": true,
+  "images_visually_reviewed": true
+}

@@ -1,0 +1,52 @@
+{
+  "company": "有限会社森島米店",
+  "industry": "米穀・おはぎ・弁当",
+  "region": "静岡県伊豆市",
+  "website_url": "https://www.m-kome.com/",
+  "email": "info@m-kome.com",
+  "discovery_source": "https://ssr.or.jp/ganba/有限会社森島米店（伊豆市商工会）/",
+  "checked_at": "2026-10-28T17:29:26.193071+00:00",
+  "google_maps": {
+    "rating": 4.6,
+    "reviews": 181,
+    "url": "https://www.google.com/maps/search/森島米店+伊豆市"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.m-kome.com/",
+    "https://www.m-kome.com/ohagi/index.html",
+    "https://www.m-kome.com/company/index.html"
+  ],
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "reason": "トップ・店舗案内本文が390pxで右側欠け。商品専用ページは幅対応済。",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.m-kome.com/company/index.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅で店舗案内ページの本文の右側が画面外に切れて表示されること",
+      "proposal": "店舗案内の本文と連絡先を画面幅に合わせて縦に並べ、スマートフォンでも読みやすくする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/morishima-kome/contact-390.png"
+    }
+  ],
+  "duplicate_check": "Gmail全メールでinfo@m-kome.com、morishi@gmail.com、事業者名0件。復旧台帳0件。送信前に全台帳照合必要。",
+  "comparison_sources": [
+    "https://oh-huggy.com/",
+    "https://www.takenotoohagi.com/"
+  ],
+  "checks": {
+    "mobile": "トップ・店舗案内が欠ける、商品ページは対応",
+    "contact": "店舗ページとヘッダーにメール電話",
+    "information": "商品・住所・販売案内あり",
+    "links": "主要3頁表示済",
+    "flow": "公開メールと商品購入リンク確認、送信購入操作なし",
+    "freshness": "2026/10/28更新",
+    "opt_out": "確認した3頁に営業拒否表示なし"
+  },
+  "send_hold": "rolling quota and stale ledger reconciliation",
+  "eml_check_passed": true
+}

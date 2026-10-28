@@ -1,0 +1,50 @@
+{
+  "company": "いやしの民宿とんとん",
+  "industry": "民宿",
+  "region": "鹿児島県屋久島町",
+  "email": "iyashi-tonton@nifty.com",
+  "email_source": "https://ton-2.travel.coocan.jp/toiawase.html",
+  "website_url": "https://ton-2.travel.coocan.jp/",
+  "discovery_source": "https://yakukan.jp/spot/6978.html",
+  "checked_at": "2026-10-29T03:45:00+09:00",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 37,
+    "url": "https://www.google.com/maps/search/?api=1&query=いやしの民宿とんとん"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://ton-2.travel.coocan.jp/annai.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで館内案内を拝見すると、自然素材を紹介する文章の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは館内の紹介文や連絡先を画面幅に合わせて折り返し、一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/tonton/service-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://ton-2.travel.coocan.jp/",
+    "https://ton-2.travel.coocan.jp/annai.html",
+    "https://ton-2.travel.coocan.jp/toiawase.html"
+  ],
+  "contact_note": "公式mailto確認。Gmail全域・CSV一致0件。電話予約優先。温泉無料送迎休止のため案に載せない。",
+  "comparisons": [
+    {
+      "url": "https://www.shimizu-inn.com/",
+      "note": "客室・食事・予約案内の分類のみ参考、写真文面は転用なし"
+    },
+    {
+      "url": "https://hanahotel.jp/",
+      "note": "宿泊情報と問い合わせ窓口の分類のみ参考"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}

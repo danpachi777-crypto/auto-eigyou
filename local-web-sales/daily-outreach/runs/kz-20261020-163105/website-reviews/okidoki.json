@@ -1,0 +1,50 @@
+{
+  "company": "オキドキライフスタイル",
+  "industry": "自転車・アウトドア用品店",
+  "region": "兵庫県神戸市",
+  "email": "okid.oki@nifty.com",
+  "email_source": "https://okidoki.life.coocan.jp/shop/index.html",
+  "website_url": "https://okidoki.life.coocan.jp/shop/index.html",
+  "discovery_source": "https://shop.bicycle-w.com/HYOGO/CHUO-KU-KOBE-SHI_347.html",
+  "maps": {
+    "rating": 3.8,
+    "review_count": 13,
+    "url": "https://www.google.com/maps/search/?api=1&query=オキドキライフスタイル+神戸"
+  },
+  "checked_at": "2026-10-29T05:41:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true,
+  "pages_checked": [
+    "https://okidoki.life.coocan.jp/shop/index.html",
+    "https://okidoki.life.coocan.jp/shop/maintenance.html",
+    "https://okidoki.life.coocan.jp/shop/map.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://okidoki.life.coocan.jp/shop/index.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで店舗トップページを拝見すると、「オキドキライフスタイルはこんなお店」の紹介文が画面の右側に続き、文章の途中が見える範囲に収まっていませんでした。",
+      "proposal": "紹介文を画面幅に合わせて折り返し、整備相談と連絡先の案内もスマートフォンで読める幅に収める",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/okidoki/home-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.trekbikes.com/jp/ja_JP/",
+      "note": "商品と案内の分類のみ参考"
+    },
+    {
+      "url": "https://www.giant-bicycles.com/jp",
+      "note": "製品・サービス・問い合わせの分類のみ参考。固有デザイン・文言・写真は転用しない"
+    }
+  ],
+  "contact_note": "shop/index.htmlの公開mailto確認。mapページのemail表示文字列がURLだがmailtoは他ページで確認。電話住所Maps一致。営業時間・価格・整備保証は画像に記載しない。"
+}

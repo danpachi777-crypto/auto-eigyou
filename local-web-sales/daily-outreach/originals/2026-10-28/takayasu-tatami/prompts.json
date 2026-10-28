@@ -1,0 +1,34 @@
+{
+  "company": "横浜 高安畳店",
+  "email": "takayasu.co@nifty.com",
+  "status": "images_complete_eml_not_built_workspace_disappeared",
+  "home_prompt": "Use case: ui-mockup. Original 16:9 Japanese tatami shop homepage proposal, exact company『横浜 高安畳店』. Main improvement is responsive width: desktop on left, phone on right, mobile content vertically arranged no clipped headings or horizontal overflow. Elegant craftsman aesthetic, warm off-white, indigo, tatami sage green, generous whitespace. Original illustrative sunlit Japanese room tatami photo, not real installation. Header nav『畳のご案内』『料金案内』『施工の流れ』『お問い合わせ』. Hero『畳のある暮らしを、心地よく。』sub『横浜市港北区の畳店』. Below three simple cards『畳の表替え』『畳の新調』『襖・障子』; button『料金案内を見る』, footer『お問い合わせ』『0120-047-045』『takayasu.co@nifty.com』. Mobile shows company and two-row menu, hero, stacked service cards and contact no clipping. Show small other existing channels『LINEで相談』『メールフォーム』 without logos or QR codes. Do not invent claims, prices, turnaround, warranties, ratings or awards. No humans, no copied logo/photos/mascots. Visible caption『非公式デザイン案｜写真はイメージです』. Accurate readable Japanese.",
+  "inquiry_prompt": "Create separate 16:9 inquiry page for『横浜 高安畳店』using reference homepage ONLY for style: ivory indigo sage, large readable type, desktop left plus narrow mobile right. Main improvement is contact methods fit width390 vertically without horizontal scrolling. Title『ご相談・お問い合わせ』. Intro『畳のご相談は、ご都合のよい方法で。』. Existing methods as four cards:『電話で相談』『0120-047-045』;『メールで相談』『takayasu.co@nifty.com』『件名に「畳」を入れてお送りください』;『LINEで相談』『LINEのご案内へ』;『メールフォーム』『フォームを開く』. No actual form fields or submit button; preserve existing separate form link. Bottom exact address『横浜市港北区樽町2-13-20』. Mobile same content fits completely stacked, main title wraps naturally, email readable. Use subtle original tatami texture or small illustrative Japanese room photo. No new booking function, prices, time guarantees, badges, fabricated staff or claims. Do not use actual shop photos, logos, mascots. Visible footer『非公式デザイン案｜写真はイメージです』. Make the contact methods visually dominant.",
+  "tool": "built-in image_gen",
+  "home_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-4af51cab-1a44-465c-90b6-67a571206296.png",
+  "inquiry_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-d85414a8-9c05-4017-97c1-aa7821f1da36.png",
+  "visual_review": "Company, phone, email, address inspected. Both responsive mobile designs, existing contact channels only, unofficial labels present.",
+  "website": "https://takayasutatami.world.coocan.jp/",
+  "maps": {
+    "rating": 5,
+    "review_count": 26,
+    "url": "https://g.page/takayasu"
+  },
+  "discovery_source": "https://igusa-tatami.jp/support-shop/area/kanagawa/",
+  "finding": "390px service page scrollWidth934, contact690; viewport390; horizontal overflow observed. Home right contact content clipped.",
+  "pages_reviewed": [
+    "https://takayasutatami.world.coocan.jp/",
+    "https://takayasutatami.world.coocan.jp/home3.htm",
+    "https://takayasutatami.world.coocan.jp/home4.htm"
+  ],
+  "viewports": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "duplicate_checks": {
+    "gmail": 0,
+    "ledger": 0
+  },
+  "last_campaign_verified_sent": 288
+}

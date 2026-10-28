@@ -1,0 +1,50 @@
+{
+  "company": "カフェ・クレール",
+  "industry": "ジャズ喫茶",
+  "region": "東京都足立区",
+  "email": "cafeclair@jcom.zaq.ne.jp",
+  "email_source": "https://clair.cafe.coocan.jp/index.html",
+  "website_url": "https://clair.cafe.coocan.jp/",
+  "discovery_source": "https://www.city.adachi.tokyo.jp/documents/72954/cokinoj.pdf",
+  "checked_at": "2026-10-29T04:15:00+09:00",
+  "maps": {
+    "rating": 4.0,
+    "review_count": 69,
+    "url": "https://www.google.com/maps/search/?api=1&query=カフェクレール+足立"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://clair.cafe.coocan.jp/Information.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで店舗案内を拝見すると、最寄り駅やライブ案内の右側が画面の外に出ていました。",
+      "proposal": "スマートフォンでは店舗情報とライブ案内を画面幅に合わせて折り返し、問い合わせ先まで一列で読める配置に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/cafe-clair/service-390.png"
+    }
+  ],
+  "pages_checked": [
+    "https://clair.cafe.coocan.jp/index.html",
+    "https://clair.cafe.coocan.jp/Information.html",
+    "https://clair.cafe.coocan.jp/Access.html"
+  ],
+  "contact_note": "公式mailto確認。Gmail全域・CSV一致0件。問い合わせ外部フォームは遷移タイムアウト、未操作。公開電話メールで案を作る。営業時間はページごと不一致なので転記しない。",
+  "comparisons": [
+    {
+      "url": "https://www.bach-kaffee.co.jp/",
+      "note": "メニュー・店舗案内の分類を参考"
+    },
+    {
+      "url": "https://www.bluenote.co.jp/jp/",
+      "note": "公演案内と予約窓口の分類のみ参考。写真・文面転用なし"
+    }
+  ],
+  "gmail_duplicate_count": 0,
+  "eml_check_passed": true
+}
