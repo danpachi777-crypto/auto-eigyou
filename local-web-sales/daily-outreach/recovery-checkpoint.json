@@ -40,7 +40,9 @@
     "mikuniso",
     "aruru",
     "syougetu",
-    "andoromedaya"
+    "andoromedaya",
+    "yamada-denka",
+    "ikeda-cleaning"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -74,12 +76,14 @@
     "mikuniso",
     "aruru",
     "syougetu",
-    "andoromedaya"
+    "andoromedaya",
+    "yamada-denka",
+    "ikeda-cleaning"
   ],
   "gmail_search_block": null,
-  "next_candidate": "yamada-denka",
-  "prepared_count_in_recovery": 30,
+  "next_candidate": "sansui-nara",
+  "prepared_count_in_recovery": 32,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 7,
-  "last_pushed_commit": "200d51edb568cffb90373134efa96a3d805425cf"
+  "last_pushed_commit": "6aa29dd"
 }

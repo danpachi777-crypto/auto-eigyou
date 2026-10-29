@@ -1,0 +1,7 @@
+{
+  "home_prompt": "Use case ui-mockup. Original Japanese cleaning shop homepage for イケダクリーニング in 新潟市西区寺尾東. Landscape exact16:9 desktop and mobile preview. Fresh sky blue white muted leaf green. Generic clean white shirts and folded fabric photo, not actual premises/staff. Heading 大切な衣類を、日々の暮らしへ。 Intro 衣類や寝具のお手入れについて、店頭でご相談ください。 Mobile text must fit completely, wrapping at screen width with image stacked above text; no horizontal clipping. Nav クリーニング / 料金案内 / 営業日・時間 / 店舗案内. Primary button 電話で相談 025-269-5845. No certification/health/SDG claims, prices, guaranteed stain removal, turnaround, online orders or forms. Footer 非公式のデザイン案・写真はイメージです.",
+  "inquiry_prompt": "Use case ui-mockup. Separate お問い合わせ・店舗案内 page for イケダクリーニング matching reference fresh blue green white. Exact16:9 landscape desktop and mobile preview. Heading お問い合わせ・店舗案内. Body 衣類や寝具のお手入れについて、まずはお電話でご相談ください。 Main contact 寺尾店 025-269-5845 電話で相談. Address 新潟市西区寺尾東1-10-18 SeSビル1F. Small generic shirts illustration. Mobile image above paragraph, all text wraps fully with no horizontal clipping. No form, email, prices, hours, repair success guarantees, certification or shipping service. Footer 非公式のデザイン案・写真はイメージです.",
+  "home_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-565b8d0b-534c-4259-b133-15b9e4f8db34.png",
+  "inquiry_original": "/Users/itoutoranosuke/.codex/generated_images/01a16f1b-b178-7061-aba5-bc72ce5e34c8/exec-d9d55aca-44fc-409c-ad30-c1196ecb0a3a.png",
+  "tool": "built-in image_gen"
+}

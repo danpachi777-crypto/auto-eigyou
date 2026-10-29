@@ -1,0 +1,50 @@
+{
+  "company": "イケダクリーニング",
+  "industry": "クリーニング店",
+  "region": "新潟県新潟市西区",
+  "email": "ikeda7716@nifty.com",
+  "email_source": "https://ikedayo.private.coocan.jp/",
+  "website_url": "https://ikedayo.private.coocan.jp/",
+  "discovery_source": "https://www.ekiten.jp/shop_1689007/",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 10,
+    "url": "https://www.google.com/maps/search/?api=1&query=イケダクリーニング新潟寺尾"
+  },
+  "checked_at": "2026-10-29T07:32:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://ikedayo.private.coocan.jp/",
+    "https://ikedayo.private.coocan.jp/ryoukin1.htm",
+    "https://ikedayo.private.coocan.jp/indexb.htm"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://ikedayo.private.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、お店の紹介文が画面の右側へ続き、文章の右端が見える範囲に収まっていませんでした。",
+      "proposal": "お店の紹介文をスマートフォンの画面幅で折り返し、写真と文章を縦に並べて表示する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/ikeda-cleaning/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.hakuyosha.co.jp/",
+      "note": "サービス・店舗案内分類を参考"
+    },
+    {
+      "url": "https://pony-cl.co.jp/",
+      "note": "衣類別分類を参考。固有素材は不使用"
+    }
+  ],
+  "contact_note": "現行10月5日更新。公開メールのラベルはご意見メール。一般の衣類相談は電話優先として画像に電話のみ掲載。",
+  "eml_check_passed": true
+}

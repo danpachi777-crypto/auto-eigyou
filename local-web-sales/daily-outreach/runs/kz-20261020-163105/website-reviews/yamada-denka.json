@@ -1,0 +1,51 @@
+{
+  "company": "山田電化ハウス株式会社",
+  "website_url": "https://yamadadk.la.coocan.jp/",
+  "email": "yamadadk@nifty.com",
+  "email_source": "https://yamadadk.la.coocan.jp/contact.html",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 13,
+    "url": "https://www.google.com/maps/search/?api=1&query=山田電化ハウス"
+  },
+  "gmail_duplicate_count": 0,
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "checked_at": "2026-10-29T07:27:00+09:00",
+  "reason": "LINE公式認証済アカウントを直接確認。サイトのボタンはアカウントリンクではなく共有用URLを指定している。",
+  "discovery_source": "https://tokyo-ds.com/company/322/",
+  "findings": [
+    {
+      "category": "contact_navigation",
+      "url": "https://yamadadk.la.coocan.jp/contact.html",
+      "viewport_width": 390,
+      "observation": "お問い合わせページの「LINE公式アカウント」欄にあるボタンのリンク先が、公式アカウントではなく、ページの情報を渡すLINEの共有用URLになっていました。",
+      "proposal": "LINEボタンのリンク先を確認済みの公式アカウントに変更し、「LINE公式アカウントを開く」と行き先を明記する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/yamada-denka/contact-390.png"
+    }
+  ],
+  "region": "東京都足立区",
+  "industry": "電器店",
+  "pages_checked": [
+    "https://yamadadk.la.coocan.jp/",
+    "https://yamadadk.la.coocan.jp/concept1.html",
+    "https://yamadadk.la.coocan.jp/contact.html"
+  ],
+  "comparisons": [
+    {
+      "url": "https://kurosakiya.com/contact.html",
+      "note": "問い合わせ窓口の分類のみ参考"
+    },
+    {
+      "url": "https://ec-ohtsuka.com/contact/",
+      "note": "電話とメールの分け方を参考。固有表現・保証・価格等は転用しない"
+    }
+  ],
+  "contact_note": "電話優先を保持。確認済公式LINE https://lin.ee/dB1vpst は山田電化ハウス(株)、住所一致。ボタン共有用URLとalt値をDOMで確認。",
+  "eml_check_passed": true
+}
