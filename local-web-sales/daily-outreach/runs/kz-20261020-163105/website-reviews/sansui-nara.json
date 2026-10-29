@@ -1,0 +1,50 @@
+{
+  "company": "料理旅館 山翠",
+  "industry": "旅館",
+  "region": "奈良県奈良市",
+  "email": "info@sansui-hotel.sakura.ne.jp",
+  "email_source": "https://sansui-hotel.sakura.ne.jp/page004.html",
+  "website_url": "https://sansui-hotel.sakura.ne.jp/",
+  "discovery_source": "https://travel.rakuten.co.jp/HOTEL/7887/",
+  "maps": {
+    "rating": 3.4,
+    "review_count": 29,
+    "url": "https://www.google.com/maps/search/?api=1&query=奈良料理旅館山翠"
+  },
+  "checked_at": "2026-10-29T16:08:00+09:00",
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "viewport_restored": true,
+  "priority": "medium",
+  "status": "prepared_unsent",
+  "gmail_duplicate_count": 0,
+  "pages_checked": [
+    "https://sansui-hotel.sakura.ne.jp/",
+    "https://sansui-hotel.sakura.ne.jp/page001.html",
+    "https://sansui-hotel.sakura.ne.jp/page004.html"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://sansui-hotel.sakura.ne.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxでトップページを拝見すると、宿の紹介文が画面の右側へ続き、文章の右端が見える範囲に収まっていませんでした。",
+      "proposal": "宿の紹介文をスマートフォンの画面幅で折り返し、画像と文章を縦に並べて読めるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/evidence/sansui-nara/top-390.png"
+    }
+  ],
+  "comparisons": [
+    {
+      "url": "https://www.asukasou.com/",
+      "note": "客室と問い合わせ分類を参考"
+    },
+    {
+      "url": "https://www.nararyokan.net/",
+      "note": "検索で取得した公式ページの客室・問い合わせの分類を参考。固有素材やベストレート保証は不使用"
+    }
+  ],
+  "contact_note": "公式電話に5048と5046の不一致があり画像は電話を省略。Maps電話も異なる。公式予約案内に公開のメールは確認済。価格・部屋写真・応答時間・予約確定・ペット条件は画像に不掲載。",
+  "eml_check_passed": true
+}

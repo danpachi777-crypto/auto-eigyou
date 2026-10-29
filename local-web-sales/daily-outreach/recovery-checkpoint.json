@@ -42,7 +42,8 @@
     "syougetu",
     "andoromedaya",
     "yamada-denka",
-    "ikeda-cleaning"
+    "ikeda-cleaning",
+    "sansui-nara"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -78,12 +79,30 @@
     "syougetu",
     "andoromedaya",
     "yamada-denka",
-    "ikeda-cleaning"
+    "ikeda-cleaning",
+    "sansui-nara"
   ],
   "gmail_search_block": null,
-  "next_candidate": "sansui-nara",
-  "prepared_count_in_recovery": 32,
+  "next_candidate": "vivimodel",
+  "prepared_count_in_recovery": 33,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 7,
-  "last_pushed_commit": "6aa29dd"
+  "last_pushed_commit": "069305b",
+  "resume_note": "450件まで制作継続。現在送信288+作成33=321。Goal pausedはユーザーの/goal resume操作でのみ再開。送信再開は台帳・予約・割当の再照合後。",
+  "continuation": {
+    "target_prepared_or_sent": 450,
+    "completed_prepared_or_sent": 321,
+    "remaining_preparations": 129,
+    "goal_last_observed_status": "paused",
+    "goal_resume_action": "/goal resume",
+    "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
+    "next_candidate": "vivimodel",
+    "next_step": "Restore browser viewport verification; actual innerWidth remains 1200 after requested 390. Complete mobile/desktop review before generating proposals.",
+    "candidate_official_url": "http://www.vivimodel.com/",
+    "candidate_email": "rail@vivimodel.com",
+    "candidate_maps_rating": 4.0,
+    "candidate_maps_reviews": 22,
+    "candidate_independent_source": "https://www.tochinavi.net/spot/home/?id=1141",
+    "candidate_counted": false
+  }
 }
