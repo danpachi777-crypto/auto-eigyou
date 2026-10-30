@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2a50c55122",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377609000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "こやま珈琲様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"こやま珈琲 ご担当者様\" <kym-coffee@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:26:49 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAo_RuRGFxiNWgpQfkgz4cNYOnC9kJMrDZrHua4_vnmw2w@mail.gmail.com>"
+      }
+    ]
+  }
+}

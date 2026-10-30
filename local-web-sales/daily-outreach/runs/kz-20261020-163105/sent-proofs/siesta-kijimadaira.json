@@ -1,0 +1,35 @@
+{
+  "id": "1a18da33326b2038",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377645000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "ペンションシエスタ様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"ペンションシエスタ ご担当者様\" <psiesta@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:25 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAoW94wf5AK-gax0z8FhkgADav-SxxgXzdXMH_8T64sQ1A@mail.gmail.com>"
+      }
+    ]
+  }
+}

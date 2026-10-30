@@ -1,0 +1,35 @@
+{
+  "id": "1a18d7f54ac11c3d",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793375294000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "大立旅館様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"大立旅館 ご担当者様\" <butyan3@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 08:48:14 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKApsr3pXGwMuO-xEo_mF_8++Z-P=KKE8xLTCoppfsCCgNA@mail.gmail.com>"
+      }
+    ]
+  }
+}

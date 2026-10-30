@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2c9e055725",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377618000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "ペンションハイジ・ホフ様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"ペンションハイジ・ホフ ご担当 者様\" <heidihof@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:26:58 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKApkwp7A_-eEGoLMAAZ3R_YNqCSpHcef+YU7mgpGZGAvBQ@mail.gmail.com>"
+      }
+    ]
+  }
+}

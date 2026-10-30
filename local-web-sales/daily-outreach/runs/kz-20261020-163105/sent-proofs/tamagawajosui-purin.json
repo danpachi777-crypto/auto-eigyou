@@ -1,0 +1,35 @@
+{
+  "id": "1a18da36774f5ec7",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377658000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "玉川上水のぷりん屋様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"玉川上水のぷりん屋 ご担当者様\" <madeleine.to@jcom.home.ne.jp>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:38 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAqvE-+Vh=MaB=YChgvt7cFayfh-My-d26=QgVR35nxbkw@mail.gmail.com>"
+      }
+    ]
+  }
+}

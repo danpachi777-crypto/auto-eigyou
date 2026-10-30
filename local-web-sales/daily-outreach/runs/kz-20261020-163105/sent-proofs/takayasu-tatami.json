@@ -1,0 +1,35 @@
+{
+  "id": "1a18b8151d621520",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793341870000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "横浜 高安畳店様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"横浜 高安畳店 ご担当者様\" <takayasu.co@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Thu, 29 Oct 2026 23:31:10 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKApPMkLNmhDBiHpQveV8nQCfKzZHk+K56VT1orTMYhZM+w@mail.gmail.com>"
+      }
+    ]
+  }
+}

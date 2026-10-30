@@ -1,0 +1,35 @@
+{
+  "id": "1a18da3c48564abc",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377682000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "アンドロメダ屋模型店様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"アンドロメダ屋模型店 ご担当者 様\" <andoromedaya_mokeiten@ybb.ne.jp>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:28:02 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAq3q0NcmNm-Bw6tkA_8TN2+3zgBRLUi4v0CyrdsoTv2Lw@mail.gmail.com>"
+      }
+    ]
+  }
+}

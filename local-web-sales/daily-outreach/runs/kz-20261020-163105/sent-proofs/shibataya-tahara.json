@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2ed8ecb27f",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377627000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "柴田屋酒店様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"柴田屋酒店 ご担当者様\" <reichun@nifty.ne.jp>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:07 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAr=+2rk5q+hiEdA-zG6YL5YSLVG706knqfx_37EE6GyKA@mail.gmail.com>"
+      }
+    ]
+  }
+}

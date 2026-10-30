@@ -1,0 +1,35 @@
+{
+  "id": "1a18da3fbfa28c2e",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377696000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "料理旅館 山翠様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"料理旅館 山翠 ご担当者様\" <info@sansui-hotel.sakura.ne.jp>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:28:16 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAo-=TYgQWw8XVexZ7YOqDZtNFkW_23vfa0ChXNA-BiTtQ@mail.gmail.com>"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1a18d837d43504ae",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793375566000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "米長旅館様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"米長旅館 ご担当者様\" <komechoryokan@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 08:52:46 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAotWFLiTX0UCDL3cv7ev2ATH=r1Mx2HM5wx_ENX1NzS7A@mail.gmail.com>"
+      }
+    ]
+  }
+}

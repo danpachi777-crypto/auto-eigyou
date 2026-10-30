@@ -1,0 +1,35 @@
+{
+  "id": "1a18da31ebb42a8d",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377640000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "シュークリニック 靴のマシモ様向けWebサイト画面案のご提案（中川）"
+      },
+      {
+        "name": "To",
+        "value": "\"シュークリニック 靴のマシモ ご 担当者様\" <dog9283@yahoo.co.jp>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:20 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKArpKuH5sXx7dRR2oGL-zukwTJYXm0g-Tj_DaW=YJuSoTA@mail.gmail.com>"
+      }
+    ]
+  }
+}

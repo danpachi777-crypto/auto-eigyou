@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2fe89f6090",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377631000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "民宿ことぶき様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"民宿ことぶき ご担当者様\" <UGG34614@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:11 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKApdKXqMTKmqHoqw4tkpcKYbBm=JF0oU2h3hq1X0He6wTw@mail.gmail.com>"
+      }
+    ]
+  }
+}

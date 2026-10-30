@@ -1,0 +1,35 @@
+{
+  "id": "1a18da35748b406e",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377654000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "オキドキライフスタイル様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"オキドキライフスタイル ご担当 者様\" <okid.oki@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:34 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAot1_QnuoA=VM3HRDv3s2+MXgJ+h+hyRUxdRM-8Gb3+Mg@mail.gmail.com>"
+      }
+    ]
+  }
+}

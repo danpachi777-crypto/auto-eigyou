@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2942daee69",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377604000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "管楽器専門店ミュージカル ヒロ様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"管楽器専門店ミュージカル ヒロ  ご担当者様\" <musical-hiro@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:26:44 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKArr_6t9t0+mrEE=Bxz0kFQLq5vc3AkTzP9u_bKh2BHv=w@mail.gmail.com>"
+      }
+    ]
+  }
+}

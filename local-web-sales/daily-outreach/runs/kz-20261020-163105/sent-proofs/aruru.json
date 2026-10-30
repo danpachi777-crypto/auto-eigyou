@@ -1,0 +1,35 @@
+{
+  "id": "1a18da3a1b8e8e45",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377673000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "個性パン創造アルル様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"個性パン創造アルル ご担当者様\" <arles@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:53 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKApJBpUgqS_EMwuFk5G6exXmtzbyv+pQTivR1u7G2RKqvA@mail.gmail.com>"
+      }
+    ]
+  }
+}

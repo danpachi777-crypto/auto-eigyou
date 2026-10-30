@@ -1,0 +1,35 @@
+{
+  "id": "1a18d83544e38790",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793375556000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "株式会社橋本時計店様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"株式会社橋本時計店 ご担当者様\" <hashimoto.tokeiten.co@gmail.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 08:52:36 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAo4=Q5n+UA7vbFiYdFAhmcDKVqcR-ETSa9G+9WaDWJEcg@mail.gmail.com>"
+      }
+    ]
+  }
+}

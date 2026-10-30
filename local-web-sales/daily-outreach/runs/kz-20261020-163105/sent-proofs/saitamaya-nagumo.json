@@ -1,0 +1,35 @@
+{
+  "id": "1a18da2dc430a696",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377622000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "和菓子 埼玉屋南雲様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"和菓子 埼玉屋南雲 ご担当者様\" <saitamaya@mbp.nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:27:02 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAompeRg3A+KiEFjmeS0oE_CEv8khEpdODSWmRPP+jYKew@mail.gmail.com>"
+      }
+    ]
+  }
+}

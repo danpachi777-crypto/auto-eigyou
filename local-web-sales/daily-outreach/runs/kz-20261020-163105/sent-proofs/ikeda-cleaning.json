@@ -1,0 +1,35 @@
+{
+  "id": "1a18da3e799e2142",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377691000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "イケダクリーニング様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"イケダクリーニング ご担当者様\" <ikeda7716@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:28:11 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAq-b5UjUfP2FkNW7Yp8XxVgf9EsYJmhshp2tX-rDSB-ig@mail.gmail.com>"
+      }
+    ]
+  }
+}

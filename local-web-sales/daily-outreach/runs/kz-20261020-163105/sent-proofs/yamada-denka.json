@@ -1,0 +1,35 @@
+{
+  "id": "1a18da3d4d2850ce",
+  "label_ids": [
+    "SENT"
+  ],
+  "internal_date": "1793377686000",
+  "payload": {
+    "headers": [
+      {
+        "name": "Subject",
+        "value": "山田電化ハウス株式会社様向けWebサイト画面案のご提案"
+      },
+      {
+        "name": "To",
+        "value": "\"山田電化ハウス株式会社 ご担当 者様\" <yamadadk@nifty.com>"
+      },
+      {
+        "name": "From",
+        "value": "\"デザインダンweb制作担当 中川\" <contact.designdan@gmail.com>"
+      },
+      {
+        "name": "Reply-To",
+        "value": "contact.designdan@gmail.com"
+      },
+      {
+        "name": "Date",
+        "value": "Fri, 30 Oct 2026 09:28:06 -0700"
+      },
+      {
+        "name": "Message-Id",
+        "value": "<CAANPKAp+MBzVQcM_QqbNhiWQWAvTt2Gz0c7pZpgWT6aSDAZnwg@mail.gmail.com>"
+      }
+    ]
+  }
+}
