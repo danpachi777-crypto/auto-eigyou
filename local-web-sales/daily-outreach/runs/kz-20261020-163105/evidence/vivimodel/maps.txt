@@ -197,4 +197,4 @@
       - button "いいね":
         - generic: 
         - generic: 高評価
-      - button 
+      - button
