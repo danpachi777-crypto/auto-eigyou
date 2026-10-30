@@ -1,0 +1,200 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 鉄道模型専門店 美美模型（びびもけい）
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州":
+      - generic "50 か所": "50"
+      - generic: 本州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "鉄道模型専門店 美美模型（びびもけい）":
+    - 'button "写真: 鉄道模型専門店 美美模型（びびもけい）" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "鉄道模型専門店 美美模型（びびもけい）" [level=1]: 鉄道模型専門店 美美模型（びびもけい）
+    - text: "4.0"
+    - img "4.0 つ星"
+    - img "22 件のクチコミ": (22)
+    - button "ホビーショップ"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "鉄道模型専門店 美美模型（びびもけい） の概要" [selected]:
+        - generic: 概要
+      - tab "鉄道模型専門店 美美模型（びびもけい） のクチコミ":
+        - generic: クチコミ
+      - tab "「鉄道模型専門店 美美模型（びびもけい）」について":
+        - generic: 基本情報
+    - region "鉄道模型専門店 美美模型（びびもけい） の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "鉄道模型専門店 美美模型（びびもけい） の情報":
+      - 'button "住所: 〒320-0862 栃木県宇都宮市西原１丁目６−９"':
+        - generic: 
+        - generic: 〒320-0862 栃木県宇都宮市西原１丁目６−９
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 13:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 13:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: vivimodel.com"':
+        - /url: http://www.vivimodel.com/
+        - generic: 
+        - generic: vivimodel.com
+      - link "ウェブサイトを開きます":
+        - /url: http://www.vivimodel.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 028-634-9549"':
+        - generic: 
+        - generic: 028-634-9549
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0286349549
+        - generic: 
+      - 'button "Plus Code: HV4C+6G 宇都宮市、栃木県"':
+        - generic: 
+        - generic: HV4C+6G 宇都宮市、栃木県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=4592385251195009198&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「鉄道模型専門店 美美模型（びびもけい）」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 13 件": "5"
+        - img "4 つ星、クチコミ 3 件": "4"
+        - img "3 つ星、クチコミ 1 件": "3"
+        - img "2 つ星、クチコミ 2 件": "2"
+        - img "1 つ星、クチコミ 3 件": "1"
+    - generic: "4.0"
+    - img "4.0 つ星"
+    - button "22 件のクチコミ":
+      - generic: 22 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"基本は店主が対応してくれますが、不在の場合は奥様の対応になります。\""':
+      - /url: https://www.google.com/maps/contrib/116241248151342057392?hl=ja-JP
+    - button "\"基本は店主が対応してくれますが、不在の場合は奥様の対応になります。\"":
+      - generic: "\"基本は店主が対応してくれますが、不在の場合は奥様の対応になります。\""
+    - 'link "次のクチコミ投稿者の写真: \"但し東京、神奈川を除きこのレベルの店舗は県に一つあるかないか。\""':
+      - /url: https://www.google.com/maps/contrib/112724557916642757209?hl=ja-JP
+    - button "\"但し東京、神奈川を除きこのレベルの店舗は県に一つあるかないか。\"":
+      - generic: "\"但し東京、神奈川を除きこのレベルの店舗は県に一つあるかないか。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - generic "matsukaze08422":
+      - button "matsukaze08422 の写真"
+      - button "matsukaze08422 ローカルガイド · 207 件のクチコミ · 554 枚の写真":
+        - generic: matsukaze08422
+        - generic: ローカルガイド · 207 件のクチコミ · 554 枚の写真
+      - button "matsukaze08422 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 か月前
+      - text: 遥か離れた土地でも名前だけは聞いたことがあるくらいの古くからあるお店。近くまで来る機会があったので訪問してみました。昔ながらの鉄道模型専門店。店内には駅名標や実車の部品、サボなど貴重なものも飾られていて、ショーケースに特製品もあったり。 …
+      - button "もっと見る"
+      - button "matsukaze08422 さんのクチコミの写真 1"
+      - button "matsukaze08422 さんのクチコミの写真 2"
+      - button "matsukaze08422 さんのクチコミの写真 3"
+      - button "matsukaze08422 さんのクチコミの写真 4"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button 

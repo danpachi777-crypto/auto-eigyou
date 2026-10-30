@@ -1,0 +1,76 @@
+{
+  "company": "鉄道模型専門店 美美模型",
+  "industry": "鉄道模型販売",
+  "region": "栃木県宇都宮市",
+  "email": "rail@vivimodel.com",
+  "email_source": "http://www.vivimodel.com/",
+  "website_url": "http://www.vivimodel.com/",
+  "discovery_source": "https://www.tochinavi.net/spot/home/?id=1141",
+  "checked_at": "2026-10-30T20:57:24.174563+00:00",
+  "maps": {
+    "rating": 4.0,
+    "review_count": 22,
+    "url": "https://www.google.com/maps/search/美美模型+宇都宮"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "http://www.vivimodel.com/",
+    "service": "http://www.vivimodel.com/03.tomytec/00.tomytec/00.tomytec.htm",
+    "contact": "https://secure01.blue.shared-server.net/www.vivimodel.com/FormMail/1otoiawase/1otoiawase.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで商品分類表が横幅763px、右側分類と問い合わせ入力欄が切れる。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "トップから既存問い合わせフォーム到達、フォーム入力・送信なし。"
+    },
+    {
+      "item": 3,
+      "result": "鉄道模型取扱、所在地、メールを公式・栃ナビ・Mapsで照合。"
+    },
+    {
+      "item": 4,
+      "result": "主要ページ表示。空の分類画像は断定指摘しない。"
+    },
+    {
+      "item": 5,
+      "result": "既存分類と問い合わせフォーム維持。電話注文不可は尊重。"
+    },
+    {
+      "item": 6,
+      "result": "臨時休業告知2026年11月3日で現行営業確認。営業時間は比較元と差があるためデモ省略。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://www.vivimodel.com/03.tomytec/00.tomytec/00.tomytec.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、商品分類表やお問い合わせの入力欄が画面幅を超え、右側の内容を見るために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは商品分類とお問い合わせ項目を縦に並べ、横にスクロールせず画面幅に収まる配置に整える",
+      "evidence_path": "evidence/vivimodel/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "comparisons": [
+    {
+      "url": "https://www.katomodels.com",
+      "note": "商品分類の一般構成のみ参考"
+    },
+    {
+      "url": "https://www.tamiya.com/japan/",
+      "note": "製品案内の一般構成のみ参考"
+    }
+  ]
+}
