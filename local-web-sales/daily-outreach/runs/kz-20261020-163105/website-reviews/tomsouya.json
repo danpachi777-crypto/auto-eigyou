@@ -1,0 +1,76 @@
+{
+  "company": "有限会社トム想野",
+  "industry": "外構・庭づくり",
+  "region": "愛知県豊橋市",
+  "email": "imaizumi675@gmail.com",
+  "email_source": "https://tomsouya.jp/",
+  "website_url": "https://tomsouya.jp/",
+  "discovery_source": "https://oniwa-madoguchi.com/gyousya/shop/gaikou/id45525/",
+  "checked_at": "2026-10-31T05:05:25.578978+00:00",
+  "maps": {
+    "rating": 5.0,
+    "review_count": 10,
+    "url": "https://www.google.com/maps/search/トム想野+豊橋"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://tomsouya.jp/",
+    "service": "https://tomsouya.jp/sekou.html",
+    "contact": "https://tomsouya.jp/guide.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで施工例の右側列、会社案内の右端が欠ける。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "トップの公開メールと会社案内の電話確認。送信操作なし。"
+    },
+    {
+      "item": 3,
+      "result": "業種・住所・電話を公式、Maps、お庭の窓口で照合。"
+    },
+    {
+      "item": 4,
+      "result": "トップ・施工例・会社案内表示を確認。"
+    },
+    {
+      "item": 5,
+      "result": "日曜日は前日までの電話・メール予約が必要。既存方針尊重。"
+    },
+    {
+      "item": 6,
+      "result": "2026年9・10月通信あり。施工混雑の案内あり、工期や即時対応を保証しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://tomsouya.jp/sekou.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、施工例の右側や会社案内の文章が画面幅を超え、読むために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは施工例とご相談案内を縦に並べ、文章が画面内で折り返される配置に整える",
+      "evidence_path": "evidence/tomsouya/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "comparisons": [
+    {
+      "url": "https://www.yutaka-zoen.co.jp/",
+      "note": "施工例と問い合わせの一般的な情報構成を参考。文言写真を転用しない。"
+    },
+    {
+      "url": "https://space-planning.co.jp/",
+      "note": "サービスと電話・メール導線の一般構成を参考。"
+    }
+  ]
+}

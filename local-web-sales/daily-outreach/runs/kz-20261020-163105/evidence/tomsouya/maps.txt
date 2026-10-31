@@ -1,0 +1,192 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: トム想野
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "トム想野":
+    - 'button "写真: トム想野" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "トム想野" [level=1]: トム想野
+    - text: "5.0"
+    - img "5.0 つ星"
+    - img "10 件のクチコミ": (10)
+    - button "エクステリアショップ"
+    - text: ·
+    - img "車椅子対応の入り口があるお店": 
+    - tablist:
+      - tab "トム想野 の概要" [selected]:
+        - generic: 概要
+      - tab "トム想野 のクチコミ":
+        - generic: クチコミ
+      - tab "「トム想野」について":
+        - generic: 基本情報
+    - region "トム想野 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "トム想野 の情報":
+      - 'button "住所: 〒440-0842 愛知県豊橋市岩屋町岩屋西１−３１"':
+        - generic: 
+        - generic: 〒440-0842 愛知県豊橋市岩屋町岩屋西１−３１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業中 · 営業終了: 17:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業中 · 営業終了: 17:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: tomsouya.jp"':
+        - /url: https://tomsouya.jp/
+        - generic: 
+        - generic: tomsouya.jp
+      - link "ウェブサイトを開きます":
+        - /url: https://tomsouya.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0532-62-5230"':
+        - generic: 
+        - generic: 0532-62-5230
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0532625230
+        - generic: 
+      - 'button "Plus Code: PCQF+58 豊橋市、愛知県"':
+        - generic: 
+        - generic: PCQF+58 豊橋市、愛知県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「トム想野」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "動画"
+      - generic: 動画
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 10 件": "5"
+        - img "4 つ星、クチコミ 0 件": "4"
+        - img "3 つ星、クチコミ 0 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "5.0"
+    - img "5.0 つ星"
+    - button "10 件のクチコミ":
+      - generic: 10 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"店長さんの対応、モダンなデザイン、工事の出来栄えの綺麗さ。\""':
+      - /url: https://www.google.com/maps/contrib/101227087039257513928?hl=ja-JP
+    - button "\"店長さんの対応、モダンなデザイン、工事の出来栄えの綺麗さ。\"":
+      - generic: "\"店長さんの対応、モダンなデザイン、工事の出来栄えの綺麗さ。\""
+    - 'link "次のクチコミ投稿者の写真: \"素材や色も工事と並行して決めていくというスタイルはとても楽しいです。\""':
+      - /url: https://www.google.com/maps/contrib/107798969039593506048?hl=ja-JP
+    - button "\"素材や色も工事と並行して決めていくというスタイルはとても楽しいです。\"":
+      - generic: "\"素材や色も工事と並行して決めていくというスタイルはとても楽しいです。\""
+    - 'link "次のクチコミ投稿者の写真: \"オーナー夫妻もフレンドリーで、とても良い方々です。\""':
+      - /url: https://www.google.com/maps/contrib/112207763153158740018?hl=ja-JP
+    - button "\"オーナー夫妻もフレンドリーで、とても良い方々です。\"":
+      - generic: "\"オーナー夫妻もフレンドリーで、とても良い方々です。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "外構: 5 件のクチコミで言及。"':
+        - generic: 外構
+        - generic: "5"
+      - 'radio "庭: 3 件のクチコミで言及。"':
+        - generic: 庭
+        - generic: "3"
+      - 'radio "デザイン: 3 件のクチコミで言及。"':
+        - generic: デザイン
+        - generic: "3"
+      - 'radio "理想: 2 件のクチコミで言及。"':
+        - generic: 理想
+        - generic: "2"
+      - 'radio "可愛い: 2 件のクチコミで言及。"':
+        - generic: 可愛い
+        - generic: "2"
+      - 'radio "家: 2 件のクチコミで言及。"':
+        - generic: 家
+        - generic: "2"
+    - generic "SY":
+      - button "SY の写真"
+      - button "SY 4 件のクチコミ · 4 枚の写真":
+        - generic: SY
+        - generic: 4 件のクチコミ · 4 枚の写真
+      - button "SY さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - text: 新居の外構をお願いしましたが、最初の打ち合わせからとても親身に対応していただきました。 …
+      - button "もっと見る"
+      - button "SY さんのクチコミの写真 1"
+      - button "SY さんのクチコミの写真 2"
+      - button "SY さんのクチコミの写真 3"
+      - button "SY さんのクチコミの写真 4"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "SY さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "たかたか":
+      - button "たかたか の写真"
+      - button "たかたか 1 件のクチコミ · 2 枚の写真":
+        -

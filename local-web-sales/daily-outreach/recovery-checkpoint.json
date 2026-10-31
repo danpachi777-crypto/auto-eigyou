@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 320,
+  "verified_sent_last_known": 321,
   "target": 450,
-  "remaining_unsent_target": 130,
+  "remaining_unsent_target": 129,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -44,7 +44,8 @@
     "yamada-denka",
     "ikeda-cleaning",
     "sansui-nara",
-    "vivimodel"
+    "vivimodel",
+    "tomsouya"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -82,25 +83,26 @@
     "yamada-denka",
     "ikeda-cleaning",
     "sansui-nara",
-    "vivimodel"
+    "vivimodel",
+    "tomsouya"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 34,
+  "prepared_count_in_recovery": 35,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "c6eeb85",
-  "resume_note": "320/450 sent; 2 prepared held (kikumoto-ryokan, ozeguchi). 128 further proposals needed, plus resolving/replacing held 2. vivimodel built and sent with Gmail proof. Browser viewport now working. Goal active; sending explicitly authorized.",
+  "resume_note": "321/450 sent; tomsouya verified SENT. 129 remaining including 2 held preparations. Next candidate seikodowatch.jp requires full checks.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 322,
-    "remaining_preparations": 128,
+    "completed_prepared_or_sent": 323,
+    "remaining_preparations": 127,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
-    "next_candidate": "vivimodel",
-    "next_step": "Browser viewport restored. Continue new prospect discovery; possible next is 宇都宮ロコ模型 (Maps 4.3/49 shown in related results, needs direct verification).",
-    "candidate_official_url": "http://www.vivimodel.com/",
+    "next_candidate": "seikodowatch",
+    "next_step": "Verify 精工堂時計店 at seikodowatch.jp (no checks yet).",
+    "candidate_official_url": "https://seikodowatch.jp/company",
     "candidate_email": "rail@vivimodel.com",
     "candidate_maps_rating": 4.0,
     "candidate_maps_reviews": 22,
@@ -139,7 +141,8 @@
     "yamada-denka",
     "ikeda-cleaning",
     "sansui-nara",
-    "vivimodel"
+    "vivimodel",
+    "tomsouya"
   ],
   "remaining_prepared_unsent": 2
 }
