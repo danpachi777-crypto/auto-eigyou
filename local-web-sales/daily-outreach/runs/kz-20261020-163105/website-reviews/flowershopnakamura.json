@@ -1,0 +1,85 @@
+{
+  "company": "花のなかむら",
+  "industry": "生花販売",
+  "region": "山口県山口市",
+  "email": "hananonakamura@yahoo.co.jp",
+  "email_source": "https://flowershopnakamura.wixsite.com/website/お問い合わせ-1",
+  "website_url": "https://flowershopnakamura.wixsite.com/website",
+  "discovery_source": "https://www.buchiuma-y.net/buy/hankyosen/yamahou.html",
+  "checked_at": "2026-11-01T18:39:13.234Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 21,
+    "url": "https://www.google.com/maps/search/?api=1&query=花のなかむら+山口市",
+    "identity": "名称・公式ドメイン・電話0839737222が一致。Maps住所は小郡津市4-939-14、公式と地域一覧は小郡下郷939-14。住所表記差を記録し画像には番地を掲載しない。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://flowershopnakamura.wixsite.com/website",
+    "service": "https://flowershopnakamura.wixsite.com/website/q-a",
+    "contact": "https://flowershopnakamura.wixsite.com/website/お問い合わせ-1",
+    "company": "https://flowershopnakamura.wixsite.com/website/about-3"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px問い合わせページの見出し、返信3日・電話/FAX注文の案内とメールが右に切れ、1280pxでは全文表示。ホームとQ&Aも390pxで横に切れる。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "PCナビと公開mailtoを確認。電話/FAX注文・急ぎは電話、メール返信3日程度の方針を保持する。"
+    },
+    {
+      "item": 3,
+      "result": "トップに生花・花束・鉢物・装花、Q&Aに配送条件、会社紹介に運営会社ナカムラ緑化を確認。"
+    },
+    {
+      "item": 4,
+      "result": "写真と主要リンク表示。フォームの送信テストは行わない。表示幅の観察のみ。"
+    },
+    {
+      "item": 5,
+      "result": "注文は電話FAXを指定、問い合わせメールは公開。造園事業の電話相談指定と混同しない。"
+    },
+    {
+      "item": 6,
+      "result": "古い著作権表示は改善理由にしない。確認ページに営業拒否なし。Maps住所の差は一致と主張しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://flowershopnakamura.wixsite.com/website/お問い合わせ-1",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「お問い合わせ」を拝見すると、メールの返信目安や電話・FAXでのご注文に関する案内が画面の右側に切れており、そのままでは全文を読めない状態でした。",
+      "proposal": "お問い合わせの案内をスマートフォンの画面幅に合わせて折り返し、返信目安と電話・FAXでのご注文方法を横に移動せず読めるようにする",
+      "evidence_path": "evidence/flowershopnakamura/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "flowershopnakamura.wixsite.com",
+      "hananonakamura@yahoo.co.jp",
+      "花のなかむら",
+      "ナカムラ緑化"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.flowershop-stem.com/",
+      "note": "用途別分類と連絡先整理だけ参考。転載なし。"
+    },
+    {
+      "url": "https://aurora-flower.com/",
+      "note": "商品と店舗案内の区分を参考。文章写真レイアウトはコピーしない。"
+    }
+  ]
+}

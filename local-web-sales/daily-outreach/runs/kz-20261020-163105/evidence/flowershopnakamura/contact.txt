@@ -1,0 +1,69 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- link "wix このウェブサイトは Wix で作成されました。あなたも作成してみませんか？ 今すぐはじめる":
+  - /url: https://ja.wix.com/lp-ja/website-builder?orig_msid=e12eddf0-86be-4dbb-a388-f93a6774db47&adsVersion=banner_2024
+  - img "wix"
+  - text: このウェブサイトは Wix で作成されました。あなたも作成してみませんか？
+  - generic: 今すぐはじめる
+- banner:
+  - paragraph:
+    - link "山口市の花屋 花のなかむら":
+      - /url: https://flowershopnakamura.wixsite.com/website
+      - generic: 山口市の花屋 花のなかむら
+    - link "☎083-973-7222":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - navigation "サイト":
+    - list:
+      - link "ホーム":
+        - /url: https://flowershopnakamura.wixsite.com/website
+        - paragraph: ホーム
+      - link "About":
+        - /url: https://flowershopnakamura.wixsite.com/website
+        - paragraph: About
+      - link "会社紹介":
+        - /url: https://flowershopnakamura.wixsite.com/website/about-3
+        - paragraph: 会社紹介
+      - link "Q＆A":
+        - /url: https://flowershopnakamura.wixsite.com/website/q-a
+        - paragraph: Q＆A
+      - link "お問い合わせ":
+        - /url: https://flowershopnakamura.wixsite.com/website/お問い合わせ-1
+        - paragraph: お問い合わせ
+- main:
+  - heading "お問い合わせ" [level=1]:
+    - generic: お問い合わせ
+  - paragraph: お花に関するご質問など、お気軽にお問い合わせください。
+  - paragraph: メールの返信には３日程度かかる場合がございますので、お急ぎの際はお電話でご連絡ください。
+  - paragraph: ご注文はお電話かFAXでお願いいたします。
+  - paragraph:
+    - link "hananonakamura@yahoo.co.jp":
+      - /url: mailto:hananonakamura@yahoo.co.jp
+  - paragraph: TEL&FAX 083-973-7222
+  - generic: 名前 *
+  - textbox "名前 *":
+    - /placeholder: 名前を入力してください
+  - generic: メールアドレス *
+  - textbox "メールアドレス *":
+    - /placeholder: メールアドレスを入力
+  - generic: 件名
+  - textbox "件名":
+    - /placeholder: 件名を入力してください
+  - generic: メッセージ
+  - textbox "メッセージ":
+    - /placeholder: メッセージを入力...
+  - button "送信":
+    - generic: 送信
+- contentinfo:
+  - paragraph:
+    - link "花のなかむら":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - paragraph:
+    - link "☎083-973-7222":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - paragraph:
+    - link "hananonakamura@yahoo.co.jp":
+      - /url: mailto:hananonakamura@yahoo.co.jp
+  - paragraph: TEL&FAX 083-973-7222
+  - paragraph: 〒754-0002 山口県山口市小郡下郷939-14
+  - paragraph: ©2021 by 花のなかむら公式HP。Wix.com で作成されました。
+- region "bottom of page"

@@ -1,0 +1,69 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- link "wix このウェブサイトは Wix で作成されました。あなたも作成してみませんか？ 今すぐはじめる":
+  - /url: https://ja.wix.com/lp-ja/website-builder?orig_msid=e12eddf0-86be-4dbb-a388-f93a6774db47&adsVersion=banner_2024
+  - img "wix"
+  - text: このウェブサイトは Wix で作成されました。あなたも作成してみませんか？
+  - generic: 今すぐはじめる
+- banner:
+  - paragraph:
+    - link "山口市の花屋 花のなかむら":
+      - /url: https://flowershopnakamura.wixsite.com/website
+      - generic: 山口市の花屋 花のなかむら
+    - link "☎083-973-7222":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - navigation "サイト":
+    - list:
+      - link "ホーム":
+        - /url: https://flowershopnakamura.wixsite.com/website
+        - paragraph: ホーム
+      - link "About":
+        - /url: https://flowershopnakamura.wixsite.com/website
+        - paragraph: About
+      - link "会社紹介":
+        - /url: https://flowershopnakamura.wixsite.com/website/about-3
+        - paragraph: 会社紹介
+      - link "Q＆A":
+        - /url: https://flowershopnakamura.wixsite.com/website/q-a
+        - paragraph: Q＆A
+      - link "お問い合わせ":
+        - /url: https://flowershopnakamura.wixsite.com/website/お問い合わせ-1
+        - paragraph: お問い合わせ
+- main:
+  - heading "Q＆A よくある質問にお答えします" [level=1]:
+    - generic: Q＆A よくある質問にお答えします
+  - heading "花の配達はできますか？" [level=2]:
+    - generic: 花の配達はできますか？
+  - paragraph:
+    - generic: 3,000円以上の商品ご注文に限りますが、
+    - generic: 切花、花束、アレンジメント、鉢物問わずお届けします。旧小郡町近辺は無料、それ以外の市内は配達料500円～（場所により配達料が変わりますのでご確認ください）でお受けしています。その他の地域に配達をご希望の方はお電話でご相談ください。母の日や年度末などの繁忙期はお断りすることもございますのでご容赦ください。
+  - heading "お店に行ってすぐに花を作れますか？" [level=2]:
+    - generic: お店に行ってすぐに花を作れますか？
+  - paragraph:
+    - generic: はい、お作りします。ご来店されて選ばれたお好みの花を使って作成いたします。ただ、混雑時や繁忙期はお待たせいたしますので、お急ぎの場合は事前のご来店やお電話などでご注文下さい。また、ランや観葉植物は１点物が多いため、実際に大きさや雰囲気をご覧になることをおすすめします。
+  - heading "花の発送はできますか？" [level=2]:
+    - generic: 花の発送はできますか？
+  - paragraph: ヤマト運輸、ゆうパックを使って当店から花を発送いたします。離島などを除く東京周辺～九州までは発送翌日着が可能です。水切れを起こさないよう、夏場は花束よりもアレンジメントや鉢物がおすすめです。また胡蝶蘭やカトレアは寒さに弱いので冬季の発送は行いません。鉢物やドライを除き、生花は品質保持のため翌日以降のお届けになる地域の発送はお受けしておりません。商品代と別に箱代と箱寸法別の送料がかかります。
+  - heading "支払いは現金のみですか？" [level=2]:
+    - generic: 支払いは現金のみですか？
+  - paragraph: お支払いは現金のほか、クレジットカード、PayPay、mPay、d払い、auPAY、LINEPayがお使いいただけます。また、請求書の作成、振込みも可能ですので遠方のお客様にもご利用いただいています。なお、全国共通商品券、花キューピットのお花ギフト券はご利用いただけません。
+  - heading "どんな花を頼めば良いか分かりません" [level=2]:
+    - generic: どんな花を頼めば良いか分かりません
+  - paragraph: ご用途やシーンをお聞きしながら提案いたしますので大丈夫です。実際に店内で花を見られて、イメージに近いものを１本でもご一緒に選べると理想的ですが、全くのお任せでもOKです。その日におすすめの季節のお花でお作りします。
+  - heading "駐車場はありますか？" [level=2]:
+    - generic: 駐車場はありますか？
+  - paragraph: はい、店舗の裏が駐車場です。当店お隣の美容室に停められないようお願いいたします。
+- contentinfo:
+  - paragraph:
+    - link "花のなかむら":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - paragraph:
+    - link "☎083-973-7222":
+      - /url: https://flowershopnakamura.wixsite.com/website
+  - paragraph:
+    - link "hananonakamura@yahoo.co.jp":
+      - /url: mailto:hananonakamura@yahoo.co.jp
+  - paragraph: TEL&FAX 083-973-7222
+  - paragraph: 〒754-0002 山口県山口市小郡下郷939-14
+  - paragraph: ©2021 by 花のなかむら公式HP。Wix.com で作成されました。
+- region "bottom of page"

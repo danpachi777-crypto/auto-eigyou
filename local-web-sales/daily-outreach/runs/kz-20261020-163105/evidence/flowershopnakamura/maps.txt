@@ -1,0 +1,336 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 花のなかむら
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "2 か所 山口市":
+      - generic "2 か所": "2"
+      - generic: 山口市
+    - button "3 か所 信濃町":
+      - generic "3 か所": "3"
+      - generic: 信濃町
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "花のなかむら":
+    - 'button "写真: 花のなかむら" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "花のなかむら" [level=1]: 花のなかむら
+    - text: "4.1"
+    - img "4.1 つ星"
+    - img "21 件のクチコミ": (21)
+    - button "花屋"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "花のなかむら の概要" [selected]:
+        - generic: 概要
+      - tab "花のなかむら のクチコミ":
+        - generic: クチコミ
+      - tab "「花のなかむら」について":
+        - generic: 基本情報
+    - region "花のなかむら の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "花のなかむら について":
+      - button "店舗内ショッピングに対応 宅配可":
+        - group "店舗内ショッピングに対応":
+          - text: ·
+          - generic: 
+          - generic: 店舗内ショッピング可
+        - group "宅配可":
+          - text: ·
+          - generic: 
+          - generic: 宅配
+        - generic: 
+    - region "花のなかむら の情報":
+      - 'button "住所: 〒754-0074 山口県山口市小郡津市４−９３９−１４"':
+        - generic: 
+        - generic: 〒754-0074 山口県山口市小郡津市４−９３９−１４
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 9:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 9:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: flowershopnakamura.wixsite.com"':
+        - /url: http://flowershopnakamura.wixsite.com/website
+        - generic: 
+        - generic: flowershopnakamura.wixsite.com
+      - link "ウェブサイトを開きます":
+        - /url: http://flowershopnakamura.wixsite.com/website
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 083-973-7222"':
+        - generic: 
+        - generic: 083-973-7222
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0839737222
+        - generic: 
+      - 'button "Plus Code: 492W+PR 山口市、山口県"':
+        - generic: 
+        - generic: 492W+PR 山口市、山口県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「花のなかむら」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "庭園"
+      - generic: 庭園
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "この場所にあるビジネス" [level=2]
+    - article:
+      - button "（有）ナカムラ緑化"
+      - generic: （有）ナカムラ緑化
+      - img "4.0 つ星 クチコミ 2 件":
+        - text: "4.0"
+        - text: (2)
+      - generic: 造園業者
+      - generic: · 1 階
+      - generic: "営業時間外 · 営業開始: 8:00"
+      - button "（有）ナカムラ緑化 へのルート検索":
+        - generic: 
+        - generic: ルート・乗換
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 6 件": "5"
+        - img "4 つ星、クチコミ 12 件": "4"
+        - img "3 つ星、クチコミ 3 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.1"
+    - img "4.1 つ星"
+    - button "21 件のクチコミ":
+      - generic: 21 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"お願いした予算以上の花束💐にスタッフさんのお心遣いを感じ、感謝です\""':
+      - /url: https://www.google.com/maps/contrib/118133653306754002994?hl=ja-JP
+    - button "\"お願いした予算以上の花束💐にスタッフさんのお心遣いを感じ、感謝です\"":
+      - generic: "\"お願いした予算以上の花束💐にスタッフさんのお心遣いを感じ、感謝です\""
+    - 'link "次のクチコミ投稿者の写真: \"おまかせ花束のセンスがいい\""':
+      - /url: https://www.google.com/maps/contrib/111021554628092883285?hl=ja-JP
+    - button "\"おまかせ花束のセンスがいい\"":
+      - generic: "\"おまかせ花束のセンスがいい\""
+    - 'link "次のクチコミ投稿者の写真: \"スタッフ皆さんが親切です\""':
+      - /url: https://www.google.com/maps/contrib/103000174015451636734?hl=ja-JP
+    - button "\"スタッフ皆さんが親切です\"":
+      - generic: "\"スタッフ皆さんが親切です\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - generic "kim":
+      - button "kim の写真"
+      - button "kim ローカルガイド · 2 件のクチコミ":
+        - generic: kim
+        - generic: ローカルガイド · 2 件のクチコミ
+      - button "kim さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: お世話になった機関士さんの最後の乗務にと、花束を作っていただきました😊電話でのやり取りだったのですが、イメージ以上の素敵な花束で喜んでいただけたと思います。お写真を撮り忘れていて、作っていただいた花束が残せずちょっと心残りです。親切にしてくださったスタッフさんありがとうございました😊 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "kim さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: コメント頂きありがとうございます！SLに乗車されるスキマ時間のお忙しい中ご来店ありがとうございました。事前のお電話で渡されるシチュエーションなど詳しくお伺いできましたのでご希望の雰囲気に近づけたのかなと思います。山口にお越しの際はぜひ遊びにいらして下さい。ありがとうございました✨
+    - generic "田辺敬子":
+      - button "田辺敬子 の写真"
+      - button "田辺敬子 1 件のクチコミ":
+        - generic: 田辺敬子
+        - generic: 1 件のクチコミ
+      - button "田辺敬子 さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: お任せで当日の花束を作ってもらいました 渡した方にとても喜んで頂きました ありがとうございました
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "田辺敬子 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: ご来店ありがとうございました✨ 先方様に喜んで頂けたとのこと、何より嬉しいです。またのご来店お待ちしております！
+    - generic "末野裕司":
+      - button "末野裕司 の写真"
+      - button "末野裕司 ローカルガイド · 132 件のクチコミ · 237 枚の写真":
+        - generic: 末野裕司
+        - generic: ローカルガイド · 132 件のクチコミ · 237 枚の写真
+      - button "末野裕司 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - generic: 閉店ギリギリに駆け込んで、御仏前への供花、見つくろってもらいました。 センス良く、立派になりました。 良いお仕事して頂きました。感謝。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "末野裕司 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 2 年前
+      - generic: ご利用いただきありがとうございました。仲良しご夫婦のご来店、またお待ちしております！
+    - button "その他のクチコミ (18)":
+      - generic: その他のクチコミ (18)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "フラワーガーデン日の出·4.5 つ星·クチコミ 19 件·花屋":
+      - generic: フラワーガーデン日の出
+      - img "4.5 つ星 クチコミ 19 件":
+        - text: "4.5"
+        - text: (19)
+      - generic: 花屋
+    - link "フラワーショップ 花いちもんめ（hana ichimonme）·4.9 つ星·クチコミ 13 件·花屋":
+      - generic: フラワーショップ 花いちもんめ（hana ichimonme）
+      - img "4.9 つ星 クチコミ 13 件":
+        - text: "4.9"
+        - text: (13)
+      - generic: 花屋
+    - link "フラワーショップ花の森·4.1 つ星·クチコミ 10 件·花屋":
+      - generic: フラワーショップ花の森
+      - img "4.1 つ星 クチコミ 10 件":
+        - text: "4.1"
+        - text: (10)
+      - generic: 花屋
+    - link "フラワーショップビアンコ小郡店·3.3 つ星·クチコミ 3 件·花屋":
+      - generic: フラワーショップビアンコ小郡店
+      - img "3.3 つ星 クチコミ 3 件":
+        - text: "3.3"
+        - text: (3)
+      - generic: 花屋
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
