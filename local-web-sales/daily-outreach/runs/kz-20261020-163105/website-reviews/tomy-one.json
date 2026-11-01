@@ -1,0 +1,9 @@
+{
+  "company": "アウトドアショップ トミーワン",
+  "website_url": "https://www.tomy-one.com/",
+  "checked_at": "2026-11-01T12:44:12.382126+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxでトップの見出し・最新情報が画面内に収まる。確認範囲で改善根拠なし。2026/10/5最新情報、公開メールoutdoorshop@tomy-one.com。Gmail CSV重複0。",
+  "findings": []
+}

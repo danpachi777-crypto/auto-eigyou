@@ -1,0 +1,9 @@
+{
+  "company": "泉屋染物店",
+  "website_url": "https://izumiya-aisome.com/con/",
+  "checked_at": "2026-11-01T12:44:12.383199+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxで連絡先表と本文が画面内に収まる。確認範囲で改善根拠なし。info@izumiya-aisome.com画像表示。メールは迷惑メールに振り分けられる恐れから推奨しない旨。",
+  "findings": []
+}

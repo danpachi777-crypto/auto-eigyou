@@ -1,0 +1,9 @@
+{
+  "company": "有限会社 三木染料店",
+  "website_url": "https://www.mikisenryouten.co.jp/company.html",
+  "checked_at": "2026-11-01T12:44:12.383101+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "Google Mapsで住所・電話・公式URL一致する店舗を確認したが評価・口コミ数表示なし。口コミ10件条件を確認できず。Gmail CSV重複0。",
+  "findings": []
+}
