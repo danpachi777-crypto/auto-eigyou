@@ -1,0 +1,16 @@
+{
+  "slug": "watabousi",
+  "company": "ペンションわたぼうし",
+  "website_url": "http://watabousi.net/",
+  "email": "home@watabousi.net",
+  "reason": "Google Maps4.8・8件で口コミ10件以上の条件未達。公式ドメイン電話一致。Gmail0、CSV0。画像作成・送信せず。",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 8,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションわたぼうし+黒姫"
+  },
+  "checked_at": "2026-11-01T18:06:11.509980+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": []
+}
