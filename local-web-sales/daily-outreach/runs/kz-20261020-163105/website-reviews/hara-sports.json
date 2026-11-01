@@ -1,0 +1,86 @@
+{
+  "company": "有限会社 原スポーツ",
+  "industry": "スポーツ用品販売",
+  "region": "岩手県紫波郡紫波町",
+  "email": "hara-sports@mwc.biglobe.ne.jp",
+  "email_source": "https://hara-sports.com/order/",
+  "website_url": "https://hara-sports.com/",
+  "discovery_source": "https://hara-sports.com/tenpo/",
+  "checked_at": "2026-11-01T14:16:08.733Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 18,
+    "url": "https://www.google.com/maps/search/?api=1&query=原スポーツ+紫波町",
+    "identity": "紫波町日詰郡山駅38、019-672-2650、公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://hara-sports.com/",
+    "service": "https://hara-sports.com/glove/",
+    "contact": "https://hara-sports.com/order/",
+    "store": "https://hara-sports.com/tenpo/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで本文1060px、問い合わせ案内とメール・電話が画面外。1280pxでは全体が読める。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "問い合わせページと全ページフッターの公開メール・電話一致。"
+    },
+    {
+      "item": 3,
+      "result": "一般スポーツ用品、オリジナルグラブ、学校指定体育着、住所確認。"
+    },
+    {
+      "item": 4,
+      "result": "ページ本文表示確認。画像の初期読み込みは問題扱いしない。"
+    },
+    {
+      "item": 5,
+      "result": "メール・電話で問い合わせ、確認後返信。指定連絡方法を維持。"
+    },
+    {
+      "item": 6,
+      "result": "Maps営業情報、自治体入札登録情報一致。古いオリンピック記載を需要根拠にしない。営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://hara-sports.com/order/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてお問い合わせページを拝見すると、本文が画面幅を超え、問い合わせの案内文とメール・電話の連絡先が右側の画面外に隠れていました。",
+      "proposal": "狭い画面では商品案内と問い合わせ先を縦に並べ、横に移動せずメール・電話の連絡先を確認できる配置に整える",
+      "evidence_path": "evidence/hara-sports/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "hara-sports",
+      "原スポーツ"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://iwate-sports.jp/",
+      "note": "商品分類と連絡手段の整理を参照。転用なし。"
+    },
+    {
+      "url": "https://hachimori-sports.jimdofree.com/",
+      "note": "商品・店舗情報・問い合わせの分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.mapion.co.jp/phonebook/M02007/03321/20330168639/"
+  ]
+}

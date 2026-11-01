@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 343,
+  "verified_sent_last_known": 344,
   "target": 450,
-  "remaining_unsent_target": 107,
+  "remaining_unsent_target": 106,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -66,7 +66,8 @@
     "hinomaruphoto",
     "kougaen",
     "asakusa-tsurigu",
-    "waveinn"
+    "waveinn",
+    "hara-sports"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -126,7 +127,8 @@
     "hinomaruphoto",
     "kougaen",
     "asakusa-tsurigu",
-    "waveinn"
+    "waveinn",
+    "hara-sports"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -206,8 +208,9 @@
     "hinomaruphoto",
     "kougaen",
     "asakusa-tsurigu",
-    "waveinn"
+    "waveinn",
+    "hara-sports"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 56
+  "prepared_count": 57
 }

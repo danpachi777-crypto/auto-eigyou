@@ -1,0 +1,36 @@
+- link "原スポーツ・ホームページ":
+  - /url: /
+  - img "原スポーツ・ホームページ"
+- list:
+  - link "町内体育着のご注文":
+    - /url: /taiikugi/
+  - link "オリジナル野球グラブ":
+    - /url: /glove/
+  - link "店舗のご案内":
+    - /url: /tenpo/
+  - link "お問合せ・オーダー":
+    - /url: /order/
+- heading "アシックス、ランバードの陸上スパイクを激安特価でご提供中！" [level=3]:
+  - link "アシックス、ランバードの陸上スパイクを激安特価でご提供中！":
+    - /url: /spike/
+- link "野球の未来を考え、みんなで岩手にアオダモを育てています！ ご協力いただける方を随時募集しております。":
+  - /url: https://www.facebook.com/iwatenoaodamo
+  - paragraph:
+    - text: 野球の未来を考え、みんなで岩手にアオダモを育てています！
+    - text: ご協力いただける方を随時募集しております。
+- img "21世紀のオリンピックを岩手で 原スポーツは岩手県紫波町のスポーツ店です"
+- heading "お問い合わせ、オーダー" [level=1]
+- separator
+- paragraph:
+  - text: お問合せ、お見積もりなどメール、電話で受け付けております。
+  - text: メール確認後、メールまたはお電話にてご連絡させていただきます。
+  - text: お気軽にお問合せください
+- paragraph:
+  - link "hara-sports@mwc.biglobe.ne.jp":
+    - /url: mailto:hara-sports@mwc.biglobe.ne.jp
+  - text: TEL 019-672-2650／FAX 019-672-5360
+- separator
+- text: （有）原スポーツ／
+- link "hara-sports@mwc.biglobe.ne.jp":
+  - /url: mailto:hara-sports@mwc.biglobe.ne.jp
+- text: TEL 019-672-2650／FAX 019-672-5360
