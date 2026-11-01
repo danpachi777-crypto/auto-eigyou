@@ -1,0 +1,10 @@
+{
+  "slug": "sambu-kyugu",
+  "company": "山武弓具店",
+  "website_url": "https://www.sambu.jp/FORM/contact.cgi",
+  "reason": "Maps4.5/40、Gmail/CSV重複0。会社概要ページ390pxで1122px横はみ出し確認、トップは390pxに収まる。ただし公式問い合わせにGmail宛返信不可、他メールアドレスから連絡するよう指定。現在送信元がGmailのため送信保留。証跡evidence/sambu-kyugu。",
+  "checked_at": "2026-11-01T14:33:33.588Z",
+  "status": "hold",
+  "priority": "hold",
+  "findings": []
+}

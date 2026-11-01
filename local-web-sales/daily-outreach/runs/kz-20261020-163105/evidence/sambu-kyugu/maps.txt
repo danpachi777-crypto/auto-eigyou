@@ -1,0 +1,348 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 山武弓具店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "山武弓具店":
+    - 'button "写真: 山武弓具店" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "山武弓具店" [level=1]: 山武弓具店
+    - text: "4.5"
+    - img "4.5 つ星"
+    - img "40 件のクチコミ": (40)
+    - button "店舗"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "山武弓具店 の概要" [selected]:
+        - generic: 概要
+      - tab "山武弓具店 のクチコミ":
+        - generic: クチコミ
+      - tab "「山武弓具店」について":
+        - generic: 基本情報
+    - region "山武弓具店 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "山武弓具店 について":
+      - button "店舗内ショッピングに対応 店先受取可 宅配可":
+        - group "店舗内ショッピングに対応":
+          - text: ·
+          - generic: 
+          - generic: 店舗内ショッピング可
+        - group "店先受取可":
+          - text: ·
+          - generic: 
+          - generic: 店先受取可
+        - group "宅配可":
+          - text: ·
+          - generic: 
+          - generic: 宅配
+        - generic: 
+    - region "山武弓具店 の情報":
+      - 'button "住所: 〒289-1214 千葉県山武市森１２９８"':
+        - generic: 
+        - generic: 〒289-1214 千葉県山武市森１２９８
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: sambu.jp"':
+        - /url: http://www.sambu.jp/
+        - generic: 
+        - generic: sambu.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.sambu.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0475-88-0005"':
+        - generic: 
+        - generic: 0475-88-0005
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0475880005
+        - generic: 
+      - 'button "Plus Code: J9F8+C7 山武市、千葉県"':
+        - generic: 
+        - generic: J9F8+C7 山武市、千葉県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - generic: "提供元: オーナー"
+    - button "ローカルの投稿を見る":
+      - generic: 📢 【実店舗 臨時休業のお知らせ】 誠に勝手ながら、下記日程におきまして実店舗を臨時休業とさせていただきます。 🗓 休業日 10月22日（木） ご不便をおかけいたしますが、ご理解とご協力のほどよろしくお願い申し上げます。
+      - generic: 2026/10/19
+    - heading "写真と動画" [level=2]
+    - region "「山武弓具店」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "動画"
+      - generic: 動画
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 24 件": "5"
+        - img "4 つ星、クチコミ 13 件": "4"
+        - img "3 つ星、クチコミ 3 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.5"
+    - img "4.5 つ星"
+    - button "40 件のクチコミ":
+      - generic: 40 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"接客態度、知識量共にとても良かったが人気店故に人が足りてない\""':
+      - /url: https://www.google.com/maps/contrib/105495628922047384269?hl=ja-JP
+    - button "\"接客態度、知識量共にとても良かったが人気店故に人が足りてない\"":
+      - generic: "\"接客態度、知識量共にとても良かったが人気店故に人が足りてない\""
+    - 'link "次のクチコミ投稿者の写真: \"店主は親切で丁寧に接客してくれます。\""':
+      - /url: https://www.google.com/maps/contrib/117627970640849622967?hl=ja-JP
+    - button "\"店主は親切で丁寧に接客してくれます。\"":
+      - generic: "\"店主は親切で丁寧に接客してくれます。\""
+    - 'link "次のクチコミ投稿者の写真: \"海外でオーダーしたかけ想像よりはやく届いてくれました。\""':
+      - /url: https://www.google.com/maps/contrib/112103654175134855657?hl=ja-JP
+    - button "\"海外でオーダーしたかけ想像よりはやく届いてくれました。\"":
+      - generic: "\"海外でオーダーしたかけ想像よりはやく届いてくれました。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "道具: 3 件のクチコミで言及。"':
+        - generic: 道具
+        - generic: "3"
+      - 'radio "矢筒: 2 件のクチコミで言及。"':
+        - generic: 矢筒
+        - generic: "2"
+      - 'radio "袴: 2 件のクチコミで言及。"':
+        - generic: 袴
+        - generic: "2"
+      - 'radio "通販: 2 件のクチコミで言及。"':
+        - generic: 通販
+        - generic: "2"
+    - generic "Ko Ko":
+      - button "Ko Ko の写真"
+      - button "Ko Ko 1 件のクチコミ":
+        - generic: Ko Ko
+        - generic: 1 件のクチコミ
+      - button "Ko Ko さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 7 か月前
+      - generic: 高校の先生が遠くへ異動してしまうので、ミニ矢筒を買いました。しかし直前に買ってしまい、到着予定日は最後の出勤日の日だったので渡せるか不安だったのですが、2日も早く届けて下さり、間に合いました！ミニ矢筒が可愛いし、迅速な対応が良かったので星５です。今度は私の弓具も買います。ありがとうございました。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Ko Ko さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 6 か月前
+      - text: 温かいレビューをご投稿いただき、誠にありがとうございます！ 大切な恩師の方への贈り物として当店のミニ矢筒をお選びいただいたとのこと、無事にお別れの日に間に合い、私共も心からホッといたしました。配送状況でご不安な思いをさせてしまいましたが、予定より早くお届けでき、最後のご挨拶に花を添えるお手伝いができたのであれば、これほど嬉しいことはございません。 …
+      - button "もっと見る"
+    - generic "Depress CEO":
+      - button "Depress CEO の写真"
+      - button "Depress CEO ローカルガイド · 73 件のクチコミ · 511 枚の写真":
+        - generic: Depress CEO
+        - generic: ローカルガイド · 73 件のクチコミ · 511 枚の写真
+      - button "Depress CEO さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 年前
+      - generic: 千葉の弓具店と言ったらココで間違い無しです！ ネット通販も行っており定休日以外の営業日12時までに注文すれば基本、当日発送してくれます。 初心者向けに「弓道袴セット（男女とも）」、ジュラルミンの矢6本/巻藁矢1本/矢筒のセットもあるので最初は通販でカンタンに揃えられます！ 店員さんが弓や矢の特徴や良い点、気を付けなければいけない点を丁寧に教えて下さるので、おススメです！
+      - button "Depress CEO さんのクチコミの写真 1"
+      - button "各種ブランドの弓を多く販売されてます。直に触れて感触を試されることをオススメ致します！！"
+      - button "Depress CEO さんのクチコミの写真 3"
+      - button "Depress CEO さんのクチコミの写真 4"
+      - button "いいね 6 件":
+        - generic: 
+        - generic: "6"
+      - button "Depress CEO さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "Mitsu.Kusaba":
+      - button "Mitsu.Kusaba の写真"
+      - button "Mitsu.Kusaba ローカルガイド · 24 件のクチコミ · 23 枚の写真":
+        - generic: Mitsu.Kusaba
+        - generic: ローカルガイド · 24 件のクチコミ · 23 枚の写真
+      - button "Mitsu.Kusaba さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - generic: 店主は親切で丁寧に接客してくれます。今は通販主体のようですが、以前は合宿なども出来る宿舎なども併設されていました。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Mitsu.Kusaba さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 5 か月前
+      - text: ご評価いただき、誠にありがとうございます！ 「親切で丁寧」とお褒めいただき、スタッフ一同、大変励みになっております。 …
+      - button "もっと見る"
+    - button "その他のクチコミ (37)":
+      - generic: その他のクチコミ (37)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "塚本弓具店·4.4 つ星·クチコミ 17 件·スポーツ用品店":
+      - generic: 塚本弓具店
+      - img "4.4 つ星 クチコミ 17 件":
+        - text: "4.4"
+        - text: (17)
+      - generic: スポーツ用品店
+    - link "さんぶの森武道館·4.0 つ星·クチコミ 2 件·競技場":
+      - generic: さんぶの森武道館
+      - img "4.0 つ星 クチコミ 2 件":
+        - text: "4.0"
+        - text: (2)
+      - generic: 競技場
+    - link "武道 千葉店·4.3 つ星·クチコミ 32 件·スポーツ用品店":
+      - generic: 武道 千葉店
+      - img "4.3 つ星 クチコミ 32 件":
+        - text: "4.3"
+        - text: (32)
+      - generic: スポーツ用品店
+    - link "土浦弓具·4.5 つ星·クチコミ 32 件·スポーツ用品店":
+      - generic: 土浦弓具
+      - img "4.5 つ星 クチコミ 32 件":
+        - text: "4.5"
+        - text: (32)
+      - generic: スポーツ用品店
+    - link "山武市教育委員会教育部スポーツ振興課スポーツ振興係·0.0 つ星·教育委員会":
+      - generic: 山武市教育委員会教育部スポーツ振興課スポーツ振興係
+      - generic: クチコミはありません
+      - generic: 教育委員会
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

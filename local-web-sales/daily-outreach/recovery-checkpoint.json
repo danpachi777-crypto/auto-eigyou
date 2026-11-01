@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 344,
+  "verified_sent_last_known": 345,
   "target": 450,
-  "remaining_unsent_target": 106,
+  "remaining_unsent_target": 105,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -67,7 +67,8 @@
     "kougaen",
     "asakusa-tsurigu",
     "waveinn",
-    "hara-sports"
+    "hara-sports",
+    "fishing-isoya"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -128,7 +129,8 @@
     "kougaen",
     "asakusa-tsurigu",
     "waveinn",
-    "hara-sports"
+    "hara-sports",
+    "fishing-isoya"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -136,7 +138,7 @@
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "c318c2f",
-  "resume_note": "Verified sent 344 of 450. Latest Hara Sports SENT 1a1977a966ffffe7. Remaining 106. Continue new qualified prospects; no followups, no scheduler. Latest send commit c318c2f. Public email/maps/review/duplicate/failed recipients/shared daily and rolling limits required.",
+  "resume_note": "345件SENT確認済み。最新fishing-isoya 1a1978d990e3bf88。残り105件。今回8件保留、sambu-kyuguはGmail返信不可の公式指定のため保留。次は別候補を通常の実画面・Maps・メール重複確認で進める。",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 335,
@@ -209,8 +211,9 @@
     "kougaen",
     "asakusa-tsurigu",
     "waveinn",
-    "hara-sports"
+    "hara-sports",
+    "fishing-isoya"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 57
+  "prepared_count": 58
 }

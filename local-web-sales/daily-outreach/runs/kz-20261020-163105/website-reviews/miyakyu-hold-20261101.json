@@ -1,0 +1,10 @@
+{
+  "slug": "miyakyu",
+  "company": "宮川弓具",
+  "website_url": "https://www.miyakyu.jp/company.html",
+  "reason": "ブラウザー証明書不一致 ERR_CERT_COMMON_NAME_INVALID。回避せず表示確認保留。",
+  "checked_at": "2026-11-01T14:33:33.588Z",
+  "status": "hold",
+  "priority": "hold",
+  "findings": []
+}

@@ -1,0 +1,87 @@
+{
+  "company": "フィッシング磯屋",
+  "industry": "釣具販売",
+  "region": "宮崎県日向市",
+  "email": "shopmaster@fishing-isoya.com",
+  "email_source": "https://fishing-isoya.com/hpgen/HPB/shop/business.html",
+  "website_url": "https://fishing-isoya.com/",
+  "discovery_source": "https://www.fishing-v.jp/data/shop/shop_detail.php?id=2263001",
+  "checked_at": "2026-11-01T14:36:51.664Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 46,
+    "url": "https://www.google.com/maps/search/?api=1&query=フィッシング磯屋+日向市",
+    "identity": "日向市亀崎西1-9、0982-53-7071、公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://fishing-isoya.com/",
+    "service": "https://fishing-isoya.com/hpgen/HPB/shop/shoppinguide.html",
+    "contact": "https://fishing-isoya.com/_ga/FORM/contact.cgi",
+    "business": "https://fishing-isoya.com/hpgen/HPB/shop/business.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで本文905px、利用案内の購入手順右側が画面外。1280pxでは全体が読める。両幅スクリーンショット保存。"
+    },
+    {
+      "item": 2,
+      "result": "特商法ページに公開メールと電話あり。サイト内問い合わせリンクはNot Found表示だったが一度のみなので提案の根拠に使わない。"
+    },
+    {
+      "item": 3,
+      "result": "釣具、釣り関連商品、磯・鮎用品、全国通販、所在地・連絡先確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップとご利用案内と特商法ページの表示を確認。"
+    },
+    {
+      "item": 5,
+      "result": "注文後スタッフが内容を確認してメールする方針。フォームを送信せず、商品購入せず確認。"
+    },
+    {
+      "item": 6,
+      "result": "2026年秋冬商品と11月カレンダー、Mapsと独立釣具情報一致。閲覧ページに営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://fishing-isoya.com/hpgen/HPB/shop/shoppinguide.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてご利用案内ページを拝見すると、購入手順の見出しと説明文が画面幅を超え、右側の内容が画面外に隠れていました。",
+      "proposal": "狭い画面では商品案内と購入手順を縦に並べ、説明文を画面幅に合わせて折り返すことで、横に移動せずご利用方法を読める配置に整える",
+      "evidence_path": "evidence/fishing-isoya/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "fishing-isoya.com",
+      "フィッシング磯屋"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.tsuripit.net/",
+      "note": "商品分類と相談窓口の整理を参照。転用なし。"
+    },
+    {
+      "url": "https://fishingmax.co.jp/shoplist/asakusa",
+      "note": "別事業者の店舗情報分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.fishing-v.jp/data/shop/shop_detail.php?id=2263001",
+    "https://www.gamakatsu.co.jp/area/kyusyu/"
+  ]
+}
