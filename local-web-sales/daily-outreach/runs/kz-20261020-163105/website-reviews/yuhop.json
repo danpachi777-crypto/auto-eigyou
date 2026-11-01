@@ -1,9 +1,16 @@
 {
   "company": "雄峰ペンション",
-  "website_url": "https://yuhop.sakura.ne.jp/otoiawase.htm",
-  "checked_at": "2026-11-01T11:22:42.102473+00:00",
+  "website_url": "https://yuhop.sakura.ne.jp/",
+  "email": "yuhop@smile.ocn.ne.jp",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 28,
+    "url": "https://www.google.com/maps/search/雄峰ペンション",
+    "identity": "公式URL・真野694-4・0859683222一致"
+  },
   "priority": "hold",
-  "status": "hold",
-  "reason": "公式にメールお問い合わせ対応を休止し電話指定。広告メール対応に苦慮と記載。営業送信しない。Gmail0。",
-  "findings": []
+  "status": "hold_contact_policy",
+  "reason": "公式top.htmおよびotoiawase.htmでメール対応休止・電話連絡指定。問い合わせには広告メール等への対応に苦慮との記載。旧公開メールは送信に用いない。",
+  "duplicate_check": "Gmail anywhereと台帳・失敗一覧に一致なし",
+  "checked_at": "2026-11-01T20:48:12.778Z"
 }

@@ -1,0 +1,11 @@
+{
+  "company": "棚田ハウス",
+  "website_url": "https://tanadahouse.com/",
+  "priority": "hold",
+  "status": "hold_no_verified_issue",
+  "viewports_checked": [
+    390
+  ],
+  "reason": "問い合わせフォームを390pxで確認、本文と名前欄は画面内表示。確認済み改善点なし、6画面Maps審査未完。",
+  "checked_at": "2026-11-01T20:45:28.840Z"
+}
