@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 332,
+  "verified_sent_last_known": 333,
   "target": 450,
-  "remaining_unsent_target": 118,
+  "remaining_unsent_target": 117,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -56,7 +56,8 @@
     "ootani",
     "m-yamato",
     "miyake-model",
-    "vehicle-cyc"
+    "vehicle-cyc",
+    "jingiss68"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -106,19 +107,20 @@
     "ootani",
     "m-yamato",
     "miyake-model",
-    "vehicle-cyc"
+    "vehicle-cyc",
+    "jingiss68"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 46,
+  "prepared_count_in_recovery": 47,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "ea99367",
-  "resume_note": "332/450 verified SENT. vehicle-cyc Gmail 1a196ce83ec8fe48. 118 remain; continue new prospects.",
+  "last_pushed_commit": "e090ef6",
+  "resume_note": "333/450 verified SENT. jingiss68 Gmail 1a196e01605a9212. 117 remain. Next investigate zao-sarukura.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 334,
-    "remaining_preparations": 116,
+    "completed_prepared_or_sent": 335,
+    "remaining_preparations": 115,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -175,7 +177,8 @@
     "ootani",
     "m-yamato",
     "miyake-model",
-    "vehicle-cyc"
+    "vehicle-cyc",
+    "jingiss68"
   ],
   "remaining_prepared_unsent": 2
 }

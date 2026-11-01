@@ -1,0 +1,374 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ジンギスカンロッジ
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのレストラン":
+      - generic: 
+      - generic: 近くのレストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "テイクアウト":
+      - generic: 
+      - generic: テイクアウト
+    - button "食料品":
+      - generic: 
+      - generic: 食料品
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "ジンギスカンロッジ":
+    - 'button "写真: ジンギスカンロッジ" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ジンギスカンロッジ" [level=1]: ジンギスカンロッジ
+    - text: "4.2"
+    - img "4.2 つ星"
+    - img "85 件のクチコミ": (85)
+    - text: ·
+    - generic: マトン焼き肉店
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "ジンギスカンロッジ の概要" [selected]:
+        - generic: 概要
+      - tab "メニュー":
+        - generic: メニュー
+      - tab "ジンギスカンロッジ の料金":
+        - generic: 価格
+      - tab "ジンギスカンロッジ のクチコミ":
+        - generic: クチコミ
+      - tab "「ジンギスカンロッジ」について":
+        - generic: 基本情報
+    - region "ジンギスカンロッジ の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - paragraph:
+      - generic: 料金と空き室状況については宿泊施設にお問い合わせください
+    - link "http://www.jingiss68.com/ にアクセス":
+      - /url: http://www.jingiss68.com/
+      - generic: サイトを見る
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - 'link "ONSEN & STAY OAKHILL·￥21,100·4.1 つ星·クチコミ 387 件·無料: 駐車場·0.1 km 圏内"':
+        - generic: ￥21,100
+        - generic: ONSEN & STAY OAKHILL
+        - img "4.1 つ星 クチコミ 387 件":
+          - text: "4.1"
+          - text: (387)
+        - generic: "無料: 駐車場"
+        - generic: 0.1 km 圏内
+      - link "GENGHIS KHAN LODGE·4.7 つ星·クチコミ 11 件·利用者の評価が高い·0.1 km 圏内":
+        - generic: GENGHIS KHAN LODGE
+        - img "4.7 つ星 クチコミ 11 件":
+          - text: "4.7"
+          - text: (11)
+        - generic: 利用者の評価が高い
+        - generic: 0.1 km 圏内
+      - link "フェブランシェ·4.5 つ星·クチコミ 15 件·0.1 km 圏内":
+        - generic: フェブランシェ
+        - img "4.5 つ星 クチコミ 15 件":
+          - text: "4.5"
+          - text: (15)
+        - generic: 0.1 km 圏内
+      - link "Ｇ－ＳＱＵＡＲＥ·4.4 つ星·クチコミ 55 件·0.1 km 圏内":
+        - generic: Ｇ－ＳＱＵＡＲＥ
+        - img "4.4 つ星 クチコミ 55 件":
+          - text: "4.4"
+          - text: (55)
+        - generic: 0.1 km 圏内
+      - link "Sailer Hütte（ザイラーヒュッテ）·4.4 つ星·クチコミ 23 件·0.1 km 圏内":
+        - generic: Sailer Hütte（ザイラーヒュッテ）
+        - img "4.4 つ星 クチコミ 23 件":
+          - text: "4.4"
+          - text: (23)
+        - generic: 0.1 km 圏内
+      - link "オーベルジュ樹氷 ( Auberge Juhyo)·4.6 つ星·クチコミ 63 件·0.1 km 圏内":
+        - generic: オーベルジュ樹氷 ( Auberge Juhyo)
+        - img "4.6 つ星 クチコミ 63 件":
+          - text: "4.6"
+          - text: (63)
+        - generic: 0.1 km 圏内
+      - 'link "源泉湯宿 蔵王プラザホテル·3.8 つ星·クチコミ 334 件·無料: 駐車場·0.2 km 圏内"':
+        - generic: 源泉湯宿 蔵王プラザホテル
+        - img "3.8 つ星 クチコミ 334 件":
+          - text: "3.8"
+          - text: (334)
+        - generic: "無料: 駐車場"
+        - generic: 0.2 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - region "ジンギスカンロッジ の情報":
+      - 'button "住所: 〒990-2301 山形県山形市蔵王温泉上ノ代７５８−２"':
+        - generic: 
+        - generic: 〒990-2301 山形県山形市蔵王温泉上ノ代７５８−２
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 12:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 12:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - link "メニュー jingiss68.com":
+        - /url: http://www.jingiss68.com/menu.html
+        - generic: 
+        - generic: メニュー
+        - generic: jingiss68.com
+      - link "メニューリンクを開きます":
+        - /url: http://www.jingiss68.com/menu.html
+        - generic: 
+      - button "メニューリンクをコピーします":
+        - generic: 
+      - 'link "ウェブサイト: jingiss68.com"':
+        - /url: http://www.jingiss68.com/
+        - generic: 
+        - generic: jingiss68.com
+      - link "ウェブサイトを開きます":
+        - /url: http://www.jingiss68.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 023-694-9546"':
+        - generic: 
+        - generic: 023-694-9546
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0236949546
+        - generic: 
+      - 'button "Plus Code: 59CX+P4 山形市、山形県"':
+        - generic: 
+        - generic: 59CX+P4 山形市、山形県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: 
+      - generic: "チェックイン時間: 15:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "立地情報" [level=2]
+    - generic: "4.3"
+    - generic: 非常に観光客向き
+    - button "立地のスコアに関する詳細情報":
+      - generic: 
+    - generic: 観光、レクリエーション、移動手段に基づき算出
+    - tablist "付近の場所":
+      - tab "アクティビティ":
+        - generic: 
+        - generic: アクティビティ
+      - tab "公共交通機関":
+        - generic: 
+        - generic: 公共交通機関
+      - tab "空港":
+        - generic: 
+        - generic: 空港
+    - generic: "提供元: オーナー"
+    - button "ローカルの投稿を見る":
+      - generic: 🌿🐑 ジンギスカンロッジの最新営業日✨🍻 みなさんこんにちは！蔵王の大自然と絶品ジンギスカンをお届けする『ジンギスカンロッジ』です🏕️ こんにちは！9月の営業予定をお知らせします🗓️✨ 9月は稲刈りや山ぶどうの収穫など、一年で最も忙しい農繁期に入ります🌾🍇 そのため、今月は【シルバーウィーク限定】でのオープンとさせていただきます。 営業日が少なくなり申し訳ありませんが、秋の恵みをたっぷり準備して皆様をお迎えできるよう頑張ります💪 シルバーウィークに皆様とお会いできるのを楽しみにしております！️ 皆様のご来店を心よりお待ち申し上げます👋
+      - generic: 2026/08/30
+    - heading "訪問者提供の最新情報" [level=2]
+    - button "이 숙소는 정말 사랑스러운 곳입니다. 먼저 스키용품(best rental pro shop) 할인 쿠폰을 받을 수 있습니다. 매우 저렴하게 스키를 탈 수있어요. 또한 숙소입구에서 딱 40보만 앞으로 걸으면 7번 리프트를 이용하여 바로 스키를 탈수있습니다. 스키를 타고 내려오면 숙소 앞 스키 거치대에 장비를 거치하고 밥을 먹거나 쉴 수있어서 너무 좋습니다. 시원한 물과 따뜻한 차가 제공되어 매우 기분이 좋습니다. 욕조는 따뜻한 물이 항상 온도를 유지합니다. 온천 만큼 기분이 좋아서 가끔은 온천보다 욕조에 더 머무르고 싶다는 생각이 듭니다. 욕실에서 제공되는 샴푸, 린스, 바디워셔는 매우 향이 좋습니다. 제가 가져온 것보다 더 마음에 듭니다. 그리고 이곳의 음식은 모두 맛있습니다. 점심에는 간단히 먹을수 있는 매뉴가 있습니다. 매우 맛있고 힘이 납니다. 아침도 푸짐하여 먹고 나면 든든합니다. 저녁 식사는 환상적입니다. 이곳의 나베와 스키야키는 반드시 먹어야합니다. 고급지면서 본연의 맛을 잘 살렸습니다. 음료가 하나 공짜로 제공되며 저는 아사히 병맥주를 주로 받았습니다. 이숙소의 가장 인상 깊은 것은 바로 사장님과 직원분들의 세심한 노력과 서비스 정신입니다. 숙소 곳곳에 그들의 정성이 스며들어 있습니다. 그들은 하루종일 세심하게 관리하며 청소하고 보수합니다. 사장님과 직원분들이 조금 쉬었으면 좋겠네요^^ 정말 감동적인 곳입니다. 다시 한번 그들의 서비스에 감사와 경의를 표합니다. 신의 축복이 함께 하기를 바랍니다. 다음에 또 찾아뵙겠습니다. 1 年前":
+      - generic: 이 숙소는 정말 사랑스러운 곳입니다. 먼저 스키용품(best rental pro shop) 할인 쿠폰을 받을 수 있습니다. 매우 저렴하게 스키를 탈 수있어요. 또한 숙소입구에서 딱 40보만 앞으로 걸으면 7번 리프트를 이용하여 바로 스키를 탈수있습니다. 스키를 타고 내려오면 숙소 앞 스키 거치대에 장비를 거치하고 밥을 먹거나 쉴 수있어서 너무 좋습니다. 시원한 물과 따뜻한 차가 제공되어 매우 기분이 좋습니다. 욕조는 따뜻한 물이 항상 온도를 유지합니다. 온천 만큼 기분이 좋아서 가끔은 온천보다 욕조에 더 머무르고 싶다는 생각이 듭니다. 욕실에서 제공되는 샴푸, 린스, 바디워셔는 매우 향이 좋습니다. 제가 가져온 것보다 더 마음에 듭니다. 그리고 이곳의 음식은 모두 맛있습니다. 점심에는 간단히 먹을수 있는 매뉴가 있습니다. 매우 맛있고 힘이 납니다. 아침도 푸짐하여 먹고 나면 든든합니다. 저녁 식사는 환상적입니다. 이곳의 나베와 스키야키는 반드시 먹어야합니다. 고급지면서 본연의 맛을 잘 살렸습니다. 음료가 하나 공짜로 제공되며 저는 아사히 병맥주를 주로 받았습니다. 이숙소의 가장 인상 깊은 것은 바로 사장님과 직원분들의 세심한 노력과 서비스 정신입니다. 숙소 곳곳에 그들의 정성이 스며들어 있습니다. 그들은 하루종일 세심하게 관리하며 청소하고 보수합니다. 사장님과 직원분들이 조금 쉬었으면 좋겠네요^^ 정말 감동적인 곳입니다. 다시 한번 그들의 서비스에 감사와 경의를 표합니다. 신의 축복이 함께 하기를 바랍니다. 다음에 또 찾아뵙겠습니다.
+      - generic: 1 年前
+    - heading "メニューとハイライト" [level=2]:
+      - generic: メニューとハイライト
+    - button "メニュー·12 枚中 1 枚目の写真"
+    - generic: 
+    - text: メニュー
+    - button "ビーフカレー·12 枚中 2 枚目の写真":
+      - generic: 人気
+    - generic: ビーフカレー
+    - button "ジンギスカンセット aセット·12 枚中 3 枚目の写真"
+    - generic: ジンギスカンセット aセット
+    - button "詳細":
+      - generic: 詳細
+    - heading "写真と動画" [level=2]
+    - region "「ジンギスカンロッジ」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "メニュー"
+      - generic: メニュー
+      - button "動画"
+      - generic: 動画
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "雰囲気"
+      - generic: 雰囲気
+      - button "火鍋"
+      - generic: 火鍋
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "ホテルの詳細" [level=2]
+    - 'img "無料 Wi-Fi: 利用可能"':
+      - generic: 
+      - generic: 無料 Wi-Fi
+    - 'img "朝食（無料）: 利用不可"':
+      - generic: 
+      - generic: 朝食（無料）
+    - 'img "プール: 利用不可"':
+      - generic: 
+      - generic: プール
+    - 'img "お子様歓迎: 利用可能"':
+      - generic: 
+      - generic: お子様歓迎
+    - 'img "フィットネス センター: 利用不可"':
+      - generic: 
+      - generic: フィットネス センター
+    - heading "Google でのクチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 47 件": "5"
+        - img "4 つ星、クチコミ 21 件": "4"
+        - img "3 つ星、クチコミ 10 件": "3"
+        - img "2 つ星、クチコミ 3 件": "2"
+        - img "1 つ星、クチコミ 4 件": "1"
+    - generic: "4.2"
+    - img "4.2 つ星"
+    - button "85 件のクチコミ":
+      - generic: 85 件のクチコミ
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "すべてのクチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - generic: Tripadvisor
+    - generic: 3.5/5
+    - generic: ·
+    - generic: 2 件のクチコミ
+    - generic: texasshuji、10 年前
+    - generic: 米・豪など外国人が大半の安いツアーに参加し、こちらの宿へ泊りました。前のレビュアーの方が色々と書かれていたので、心配しておりましたが、そんなに悪くはなかったです。先述の方の評価通り、民宿が近いと思いますし、風呂も共同シャワーのみです。ただ、食事に関してはそんなに悪くなく、このお店の経営している農場…
+    - link "Tripadvisor でもっと見る":
+      - /url: https://www.tripadvisor.jp/ShowUserReviews-g1023191-d1112871-r346046136?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=JP&supul=ja
+      - generic: Tripadvisor でもっと見る
+    - button "その他のクチコミ (82)":
+      - generic: その他のクチコミ (82)
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

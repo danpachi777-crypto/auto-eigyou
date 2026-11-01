@@ -1,0 +1,86 @@
+{
+  "company": "ジンギスカンロッジ",
+  "industry": "ジンギスカン料理・宿泊",
+  "region": "山形県山形市",
+  "email": "j-mail@jingiss68.com",
+  "email_source": "https://www.jingiss68.com/access.html",
+  "website_url": "https://www.jingiss68.com/",
+  "discovery_source": "https://www.city.yamagata-yamagata.lg.jp/bunkasports/sports/1006712/1018860.html",
+  "checked_at": "2026-11-01T11:27:19.030Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 85,
+    "url": "https://www.google.com/maps/search/?api=1&query=ジンギスカンロッジ 蔵王",
+    "identity": "蔵王温泉上ノ代758-2、023-694-9546、公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.jingiss68.com/",
+    "service": "https://www.jingiss68.com/menu.html",
+    "contact": "https://www.jingiss68.com/access.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで全体幅1100px。トップ下部の営業時間・予約連絡先の右側が画面外。1280pxでは読める。6画面と下部比較を保存。"
+    },
+    {
+      "item": 2,
+      "result": "公式accessとfooterで一般公開メールと電話。Retty、LINEあり。"
+    },
+    {
+      "item": 3,
+      "result": "直営牧場の羊肉、宿泊設備案内。11月営業日、11/16〜12/14休業と12/15営業開始予定を現行ブラウザーで確認。"
+    },
+    {
+      "item": 4,
+      "result": "スライドショー読込前空白を不具合と扱わない。"
+    },
+    {
+      "item": 5,
+      "result": "問い合わせ方法を電話・メール・既存予約リンクで保持。フォーム新設は提案しない。"
+    },
+    {
+      "item": 6,
+      "result": "別店舗シローとの関係なしとの注意を確認。取り違えなし。別のRetty公式サイトも存在するが本ドメインは現在もMapsリンク・更新あり。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.jingiss68.com/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、トップページ下部の営業案内・予約連絡先が横幅1100pxの配置で表示され、説明や連絡先の右側が画面外に隠れていました。",
+      "proposal": "狭い画面幅では営業案内と連絡先を縦に並べ、電話番号やメールアドレスまで画面内で読める配置に整える",
+      "evidence_path": "evidence/jingiss68/home-contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "jingiss68.com",
+      "ジンギスカンロッジ",
+      "ジンギスカン ロッジ"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.zao-sarukura.co.jp/sumrest/index.html",
+      "note": "料理案内と来店情報の区分を確認。転用なし。"
+    },
+    {
+      "url": "https://www.meitoya.com/restaurant/",
+      "note": "食事紹介と予約案内への構成を確認。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.city.yamagata-yamagata.lg.jp/bunkasports/sports/1006712/1018860.html"
+  ]
+}
