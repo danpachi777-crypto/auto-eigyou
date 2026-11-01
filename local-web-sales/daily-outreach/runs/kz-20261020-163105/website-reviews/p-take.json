@@ -1,0 +1,57 @@
+{
+  "company": "ペンションタケコシ",
+  "industry": "ペンション",
+  "region": "新潟県湯沢町",
+  "email": "info@p-take.com",
+  "email_source": "https://p-take.com/ フッター公開",
+  "website_url": "https://p-take.com/",
+  "discovery_source": "https://www.e-yuzawa.gr.jp/stay/pension_takekoshi/",
+  "checked_at": "2026-11-01T22:11:24.981Z",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 21,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションタケコシ%20ホワイトダック",
+    "identity": "公式URL、土樽1006-1、0257873561一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://p-take.com/",
+    "https://p-take.com/#facilities",
+    "https://p-take.com/#pricelist"
+  ],
+  "review_checks": [
+    "390pxでは固定幅トップの右側本文・電話案内が画面外。1280pxでは全体確認。",
+    "同一ページ内の施設・料金予約案内を確認。予約は電話方針。",
+    "部屋・施設・所在地・電話・公開一般メール確認。",
+    "主要画像とページ内リンク表示。",
+    "電話受付方針を保持し読みやすい案内に整える。オンライン予約フォームは追加しない。",
+    "古い外観自体ではなく表示の欠けを改善点にする。季節の料金等は案に掲載しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://p-take.com/",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅390pxでトップ画面を表示すると、本文と上部の予約・問い合わせ用電話案内の右側が画面内に収まらない状態",
+      "proposal": "スマートフォンでは案内を縦一列に配置し、本文と予約用の電話番号を画面幅に収めて読める構成に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/p-take/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere公開メール・ドメイン・名称0件。台帳・失敗一覧・レビュー一致なし。観光協会とMapsの住所電話URL一致。閲覧範囲営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://oujip.com/contact/",
+      "note": "問い合わせ案内をスマホ幅に収める構造のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://www.hotel-matsuya.co.jp/reservation/",
+      "note": "予約方法と連絡先の情報整理のみ参考。固有素材や条件コピーなし。"
+    }
+  ]
+}
