@@ -1,0 +1,85 @@
+{
+  "company": "Tabist 清里 グランデール八ヶ岳",
+  "industry": "ペンション",
+  "region": "山梨県北杜市",
+  "email": "mail@p-grandeur.com",
+  "email_source": "https://p-grandeur.com/reservation/",
+  "website_url": "https://p-grandeur.com/",
+  "discovery_source": "https://kiyosato.gr.jp/grandeur/",
+  "checked_at": "2026-11-01T18:57:47.464Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 94,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tabist+清里グランデール+八ヶ岳",
+    "identity": "名称、清里3611、0551-48-4187、p-grandeur.com一致。観光振興会も一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://p-grandeur.com/",
+    "service": "https://p-grandeur.com/pension/",
+    "contact": "https://p-grandeur.com/reservation/",
+    "privacy": "https://p-grandeur.com/privacy/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxヘッダーのペンション・ログコテージ窓口名が非常に細い欄で縦に折り返し、電話番号画像が極端に縮小。1280pxでは電話番号全桁明瞭。3ページ6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "本文の電話とメール、オンライン予約リンクあり。連絡不可とは主張しない。画像案はペンション側の0551484187だけ使う。"
+    },
+    {
+      "item": 3,
+      "result": "宿泊料金・ペット条件・食事の予約方法・所在地あり。古い外部紹介の客室数と料金は転載しない。"
+    },
+    {
+      "item": 4,
+      "result": "主要写真とリンク表示。画像の表示縮小を根拠とし、サイト停止等は主張しない。"
+    },
+    {
+      "item": 5,
+      "result": "予約3ヶ月前から、宿の連絡で成否確定。ネット予約は素泊まり。混雑期・キャンセルは電話。条件を保持。"
+    },
+    {
+      "item": 6,
+      "result": "トップcamp電話リンクのテキスト07094572298と表示画像08065279491が異なるためcamp番号は案に入れない。近況2026年3月あり。営業拒否は確認範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://p-grandeur.com/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、ヘッダーの「ペンション・ログコテージはこちら」の案内が細い列で何行にも折り返され、その下の電話番号が非常に小さく表示されていました。1280px幅では窓口名と電話番号を横並びで確認できました。",
+      "proposal": "スマートフォンのヘッダーでは施設名と連絡先の段を分け、ペンション・ログコテージの窓口名と電話番号に十分な横幅を確保する",
+      "evidence_path": "evidence/p-grandeur/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "p-grandeur.com",
+      "mail@p-grandeur.com",
+      "camp.grandeur@gmail.com",
+      "清里グランデール"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "ペット同伴宿の施設紹介とお知らせ分類のみ参考。健康効果の文章等は使わない。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "電話・メール・予約を分類する情報構造のみ参考。文面写真転載なし。"
+    }
+  ]
+}

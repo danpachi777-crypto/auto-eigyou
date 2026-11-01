@@ -1,0 +1,218 @@
+- banner:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "グランデールロゴ" [level=2]:
+      - link "グランデールロゴ":
+        - /url: /
+        - img "グランデールロゴ"
+  - definition:
+    - list:
+      - paragraph: ペンション・ログコテージはこちら
+      - link "TEL 0551-48-4187":
+        - /url: tel:0551-48-4187
+      - paragraph: グランピング・トレーラーハウスはこちら
+      - link "TEL 080-6527-9491":
+        - /url: tel:080-6527-9491
+      - link "menu":
+        - /url: "#menu"
+        - generic: menu
+- banner:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "グランデールロゴ" [level=2]:
+      - link "グランデールロゴ":
+        - /url: /
+        - img "グランデールロゴ"
+  - definition:
+    - list:
+      - paragraph: ペンション・ログコテージはこちら
+      - link "TEL 0551-48-4187":
+        - /url: tel:0551-48-4187
+      - paragraph: グランピング・トレーラーハウスはこちら
+      - link "TEL 080-6527-9491":
+        - /url: tel:080-6527-9491
+      - link "menu":
+        - /url: "#menu"
+        - generic: menu
+- heading "ペンションについて -about Pension-" [level=2]
+- paragraph:
+  - text: 木々の懐かしい香り、小鳥のさえずり・・・。
+  - text: 都会の喧騒を忘れて、高原で過ごす週末。
+  - text: アクティブに楽しむのもよし、
+  - text: 自然と戯れながら散策するのもよし。
+  - text: そんなリゾートライフに、
+  - text: 楽しみをプラスするなら、
+  - text: 森の中のペンショングランデールへ・・・。
+- iframe [id="ytplayer"]
+- heading "Guest Room 〜ゲストルーム&設備〜" [level=3]
+- paragraph:
+  - text: 八ヶ岳の大自然に囲まれた客室はくつろぎを大切にした快適空間・・・。
+  - text: 誰にも気兼ねしない自由な時間をお過ごし下さい。
+- list:
+  - link "ゲストルームイメージ1":
+    - /url: ../images/pension/guest1.jpg
+    - img "ゲストルームイメージ1"
+  - link "ゲストルームイメージ2":
+    - /url: ../images/pension/guest2.jpg
+    - img "ゲストルームイメージ2"
+  - link "ゲストルームイメージ3":
+    - /url: ../images/pension/guest3.jpg
+    - img "ゲストルームイメージ3"
+  - link "ゲストルームイメージ4":
+    - /url: ../images/pension/guest4.jpg
+    - img "ゲストルームイメージ4"
+  - link "ゲストルームイメージ5":
+    - /url: ../images/pension/guest5.jpg
+    - img "ゲストルームイメージ5"
+  - link "ゲストルームイメージ6":
+    - /url: ../images/pension/guest6.jpg
+    - img "ゲストルームイメージ6"
+  - link "ゲストルームイメージ6":
+    - /url: ../images/pension/guest7.jpg
+    - img "ゲストルームイメージ6"
+  - link "ゲストルームイメージ6":
+    - /url: ../images/pension/guest8.jpg
+    - img "ゲストルームイメージ6"
+  - link "ゲストルームイメージ6":
+    - /url: ../images/pension/guest9.jpg
+    - img "ゲストルームイメージ6"
+- heading "Dining Room 〜ダイニングルーム〜" [level=3]
+- img "ダイニングルームイメージ"
+- paragraph:
+  - text: 大きな窓から暖かい日ざしが差し込む広々ダイニングで、
+  - text: ボリューム満点の洋風コースディナーをお召し上がり下さい。
+  - text: 夜は星空がとってもロマンティックです！
+- paragraph:
+  - text: 食事は別途料金になります。
+  - text: 夕食3,850円・朝食1,650円 前日までにご予約ください。
+- heading "設備のご案内" [level=4]
+- paragraph:
+  - text: ●ドッグラン ●ドッググッズショップ ●プレイルーム（ビリヤード2台・卓球台1台）
+  - text: ●全室テレビ・エアコン付 ●全室バス・トイレ付
+- img "ペットと泊まれるペンションイメージ"
+- term:
+  - heading "ペットとの旅に最適な環境" [level=4]
+  - paragraph:
+    - text: 宿の周辺には、犬も喜ぶお散歩コースやアジリティー付ドッグランをはじめ、犬同伴可能なカフェ・レストランが多数あります。敷地内にあるグランデール専用ドッグランも、いつでもご利用いただけます。
+    - text: グループでの貸切り、オフ会など、お気軽にご相談下さい。グランデールは、八ヶ岳アウトドアアクティビティーズの提携施設です。愛犬と一緒に森歩き・カヤック、スノーショーなど年間を通して特別価格でご利用になれます。
+- definition:
+  - img "ペット同伴イメージ"
+- list:
+  - listitem: ●大型犬までＯＫ！猫や小動物でも泊まれます。
+  - listitem: ●お部屋に一緒に泊まれるので、安心です。
+  - listitem: ●食事の際もレストランまで同伴できます。
+  - listitem: ●１匹￥2,200（税込）（粘着テープ、消臭剤は共同利用。ペンション内、外の衛生・清潔さを保つ為の必要経費です。ご了承ください。）
+  - listitem: ●動物病院が車で30分以内にあります。
+  - listitem: ●ペット用の足洗い場があります。
+- heading "●ご利用にあたっての注意" [level=4]
+- list:
+  - listitem: ・毎年の狂犬病接種及び「３年以内の予防注射あるいは国家承認を受けたコアワクチン抗体検査」を推奨します。何らかの理由で接種できない場合は、ご相談ください。トイレのしつけが完璧なこと、むだ吠えしないこと。
+  - listitem: ・ペットフード・ケージ・ペットのふとん・その他、ペット同伴の際に必要と思われるものは、飼い主様のご判断でご持参ください。
+  - listitem: ・他のお客様や他のワンちゃん達とも、仲良く気持ちよく滞在できますよう、お心遣いをお願いします。
+  - text: ・
+  - link "こちら":
+    - /url: ../pdf/manner_rule_20101214.pdf
+  - text: も参考にしてください。
+- heading "Price List 〜宿泊料金について〜" [level=3]
+- list:
+  - listitem: ●2025年8月からの料金となります。
+  - listitem: ●乳児の寝具なし添い寝は2,200円。
+  - listitem: ●ペット料金 1泊あたり1匹2,200円。
+  - text: ●
+  - link "オンラインで予約できる宿泊プランはこちら":
+    - /url: https://www.jhpds.net/p-grandeur/uw/uwp3100/uww3101.do?yadNo=332386
+  - text: （オンラインでは、素泊まり料金のみのプランとなります。お食事をご希望の場合は、備考欄に朝食希望・夕食希望とご記入されるか、直接お電話もしくはメールにてご予約ください。）
+  - listitem: ●お食事を提供できるのは1日先着10名様までです。ご希望の方はお早めにお申し込みください。団体・貸し切りの場合は要相談。
+  - listitem: ●カード支払いできます。
+- table:
+  - rowgroup:
+    - row "宿泊区分 料金（税込）":
+      - columnheader "宿泊区分"
+      - columnheader "料金（税込）"
+    - row "通常料金 1泊素泊まり 全室バストイレ付6部屋 （シングルルームから５名部屋まで） 大人8,800円～9,900円 子供7,700円〜8,800円（小学生まで）":
+      - cell "通常料金"
+      - cell "1泊素泊まり 全室バストイレ付6部屋 （シングルルームから５名部屋まで）":
+        - text: 1泊素泊まり
+        - text: 全室バストイレ付6部屋
+        - text: （シングルルームから５名部屋まで）
+      - cell "大人8,800円～9,900円 子供7,700円〜8,800円（小学生まで）":
+        - text: 大人8,800円～9,900円
+        - text: 子供7,700円〜8,800円（小学生まで）
+    - row "お食事料金 朝食1,650円 夕食3,850円":
+      - cell "お食事料金"
+      - cell "朝食1,650円 夕食3,850円":
+        - text: 朝食1,650円
+        - text: 夕食3,850円
+    - row "ペット料金 １頭2,200円":
+      - cell "ペット料金"
+      - cell "１頭2,200円"
+- paragraph: 上記素泊まり料金は、電話かメールで直接ご予約いただいた時の金額です、予約サイトからの料金とは異なります。
+- contentinfo:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "Tabist 清里 グランデール八ヶ岳" [level=2]
+    - heading "Forest Villa 清里 グランデール八ヶ岳" [level=2]
+    - link "TEL 0551-48-4187":
+      - /url: tel:0551-48-4187
+    - heading "camp inn 清里 グランデール八ヶ岳" [level=2]
+    - link "TEL 080-6527-9491":
+      - /url: tel:080-6527-9491
+    - paragraph: 〒407-0301 山梨県北杜市高根町清里3611
+    - paragraph:
+      - text: FAX：0551-48-4453
+      - text: 客室数：洋室6室（全室バストイレ付）
+      - text: 定 員：14名 駐車場：10台
+      - text: チェックイン：PM3:00
+      - text: チェックアウト：AM10:00
+  - definition:
+    - iframe
+  - paragraph:
+    - link "ご予約・お問い合わせについて":
+      - /url: /reservation/
+    - text: ｜
+    - link "リンク集":
+      - /url: /link/
+    - text: ｜
+    - link "プライバシーポリシー":
+      - /url: /privacy/
+  - list:
+    - link "グランデールフェイスブックリンク":
+      - /url: https://www.facebook.com/people/清里ペンション-グランデール/100032267842427/
+      - img "グランデールフェイスブックリンク"
+    - link "グランデールインスタグラムリンク":
+      - /url: https://www.instagram.com/kiyosato_grandeur/
+      - img "グランデールインスタグラムリンク"
+- paragraph: Copyright 2022 © Tabist Kiyosato GRANDEUR Yatsugatake. All Rights Reserved.
+- navigation:
+  - heading "Menu" [level=3]
+  - list:
+    - link "Tabist 清里 グランデール八ヶ岳 ペンションについて":
+      - /url: /pension/
+      - text: Tabist 清里 グランデール八ヶ岳
+      - generic: ペンションについて
+    - link "Camp inn 清里 グランデール グランピング・トレーラーハウスについて":
+      - /url: /camp/
+      - text: Camp inn 清里 グランデール
+      - generic: グランピング・トレーラーハウスについて
+    - link "Forest Villa 清里 グランデール八ヶ岳 ログコテージについて":
+      - /url: /camp/#cottage
+      - text: Forest Villa 清里 グランデール八ヶ岳
+      - generic: ログコテージについて
+    - link "ペット同伴について with Pets":
+      - /url: /pension/#dog
+      - text: ペット同伴について
+      - generic: with Pets
+    - link "News & Topics グランデールからお知らせ":
+      - /url: /newslist/
+      - text: News & Topics
+      - generic: グランデールからお知らせ
+    - link "ご予約・お問い合わせについて Reservation & Contact":
+      - /url: /reservation/
+      - text: ご予約・お問い合わせについて
+      - generic: Reservation & Contact
+  - paragraph:
+    - link "リンク集":
+      - /url: /link/
+    - text: ｜
+    - link "プライバシーポリシー":
+      - /url: /privacy/

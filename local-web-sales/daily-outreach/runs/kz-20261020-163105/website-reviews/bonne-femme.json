@@ -1,0 +1,9 @@
+{
+  "company": "カントリーイン ボンファン",
+  "website_url": "https://bonne-femme.com/",
+  "priority": "hold",
+  "checked_at": "2026-11-01T19:00:59.749Z",
+  "findings": [],
+  "reason": "トップと宿泊予約ページをブラウザー確認。一般メールアドレスを確認できず。予約フォームは電話・郵便番号・住所必須。予約年の選択肢2023〜2025のみ、トップDOMにWarning文字列ありだが全表示レビュー未完了。電話と外部オンライン予約あり。送信対象外。",
+  "evidence_path": "evidence/bonne-femme/reservation.txt"
+}

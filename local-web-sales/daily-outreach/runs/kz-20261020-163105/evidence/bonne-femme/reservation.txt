@@ -1,0 +1,227 @@
+- banner:
+  - link "清里高原のペンション「カントリーイン ボンファン」公式サイト":
+    - /url: https://bonne-femme.com/
+    - img "清里高原のペンション「カントリーイン ボンファン」公式サイト"
+  - link "":
+    - /url: http://www.facebook.com/share.php?u=https://bonne-femme.com
+    - generic: 
+  - link "":
+    - /url: https://twitter.com/share?url=https://bonne-femme.com
+    - generic: 
+  - generic: 
+  - text: 0551-48-2695
+  - navigation:
+    - list:
+      - link "HOME":
+        - /url: https://bonne-femme.com/
+        - strong: HOME
+      - link "施設のご案内":
+        - /url: https://bonne-femme.com/%e6%96%bd%e8%a8%ad%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/
+        - strong: 施設のご案内
+      - link "お食事のご案内":
+        - /url: https://bonne-femme.com/%e3%81%8a%e9%a3%9f%e4%ba%8b%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/
+        - strong: お食事のご案内
+      - link "宿泊のご予約":
+        - /url: https://bonne-femme.com/%e5%ae%bf%e6%b3%8a%e3%81%ae%e3%81%94%e4%ba%88%e7%b4%84/
+        - strong: 宿泊のご予約
+      - link "周辺のみどころ":
+        - /url: https://bonne-femme.com/%e5%91%a8%e8%be%ba%e3%81%ae%e3%81%bf%e3%81%a9%e3%81%93%e3%82%8d/
+        - strong: 周辺のみどころ
+      - link "アクセス":
+        - /url: https://bonne-femme.com/%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9/
+        - strong: アクセス
+- heading "宿泊のご予約" [level=1]
+- text:  /
+- main:
+  - paragraph: 宿泊料金は季節、人数によって異なります。長期滞在などにもご利用ください。準高地ですので合宿にも最適です。
+  - paragraph:
+    - generic: 
+    - text: 1泊２食付 １１，４４０～１３，６４０円
+    - generic: 
+    - text: 1泊朝食付 ７，５９０～９，７９０円
+    - text: （お問合せ下さい）
+  - paragraph: ご予約お電話番号
+  - heading "TEL.0551-48-2695" [level=2]
+  - paragraph: オンライン予約
+  - paragraph:
+    - text: 下記のボタンからご希望のプランをお選びください。
+    - text: 即時予約が確定となります。
+  - link "オンライン予約はこちら":
+    - /url: https://www.jhpds.net/bonne.femme/uw/uwp3100/uww3101.do?yadNo=310864
+  - link "予約照会・キャンセルはこちら":
+    - /url: https://www.jhpds.net/bonne.femme/hi/hip9000/hiw9001Init.do?yadNo=310864
+  - paragraph: メールでのお問合せ
+  - paragraph:
+    - text: 下記のフォームへ必要事項をご記入の上送信ボタンを押して下さい。
+    - text: 送信後、宿からの電話及びメールで確認、予約成立となります。
+    - text: 数日経過しても折り返し宿から連絡がない場合はお手数ですが、
+    - text: お客様より直接宿へ電話でご確認願います。
+  - form:
+    - table:
+      - rowgroup:
+        - row "ご希望のご予約日 --- 年 --- 月 --- 日":
+          - rowheader "ご希望のご予約日"
+          - cell "--- 年 --- 月 --- 日":
+            - combobox:
+              - option "---" [selected]
+              - option "2023"
+              - option "2024"
+              - option "2025"
+            - text: 年
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+              - option "6"
+              - option "7"
+              - option "8"
+              - option "9"
+              - option "10"
+              - option "11"
+              - option "12"
+            - text: 月
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+              - option "6"
+              - option "7"
+              - option "8"
+              - option "9"
+              - option "10"
+              - option "11"
+              - option "12"
+              - option "13"
+              - option "14"
+              - option "15"
+              - option "16"
+              - option "17"
+              - option "18"
+              - option "19"
+              - option "20"
+              - option "21"
+              - option "22"
+              - option "23"
+              - option "24"
+              - option "25"
+              - option "26"
+              - option "27"
+              - option "28"
+              - option "29"
+              - option "30"
+              - option "31"
+            - text: 日
+        - row "ご宿泊日数 --- 泊":
+          - rowheader "ご宿泊日数"
+          - cell "--- 泊":
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+            - text: 泊
+        - row "ご到着時間 ---":
+          - rowheader "ご到着時間"
+          - cell "---":
+            - combobox:
+              - option "---" [selected]
+              - option "15時"
+              - option "15時30分"
+              - option "16時"
+              - option "16時30分"
+              - option "17時"
+              - option "17時30分"
+              - option "18時"
+        - row "ご予約人数 大人 --- 名 小人 --- 名 幼児 --- 名":
+          - rowheader "ご予約人数"
+          - cell "大人 --- 名 小人 --- 名 幼児 --- 名":
+            - text: 大人
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+              - option "6"
+              - option "7"
+              - option "8"
+              - option "9"
+              - option "10"
+            - text: 名 小人
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+              - option "6"
+              - option "7"
+              - option "8"
+              - option "9"
+              - option "10"
+            - text: 名 幼児
+            - combobox:
+              - option "---" [selected]
+              - option "1"
+              - option "2"
+              - option "3"
+              - option "4"
+              - option "5"
+              - option "6"
+              - option "7"
+              - option "8"
+              - option "9"
+              - option "10"
+            - text: 名
+        - row "交通手段 車 電車":
+          - rowheader "交通手段"
+          - cell "車 電車":
+            - radio
+            - text: 車
+            - radio
+            - text: 電車
+        - row "お名前 （必須）":
+          - rowheader "お名前 （必須）"
+          - cell:
+            - textbox
+        - row "ふりがな （必須）":
+          - rowheader "ふりがな （必須）"
+          - cell:
+            - textbox
+        - row "メールアドレス （必須）":
+          - rowheader "メールアドレス （必須）"
+          - cell:
+            - textbox
+        - row "電話番号・携帯 （必須）":
+          - rowheader "電話番号・携帯 （必須）"
+          - cell:
+            - textbox
+        - row "郵便番号 （必須）":
+          - rowheader "郵便番号 （必須）"
+          - cell:
+            - textbox
+        - row "住所 （必須）":
+          - rowheader "住所 （必須）"
+          - cell:
+            - textbox
+        - row "お問い合わせ内容":
+          - rowheader "お問い合わせ内容"
+          - cell:
+            - textbox
+    - paragraph:
+      - button "送信"
+- contentinfo:
+  - paragraph: 〒407-0301北杜市高根町清里3545-3072
+  - paragraph: Copyright © 清里高原のペンション「カントリーイン ボンファン」 All Rights Reserved.
+- iframe [name="a-ofpibzuh67ih"]:
+  - strong: reCAPTCHA
+  - text: で保護されています

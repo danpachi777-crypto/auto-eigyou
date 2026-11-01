@@ -1,0 +1,163 @@
+- banner:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "グランデールロゴ" [level=2]:
+      - link "グランデールロゴ":
+        - /url: /
+        - img "グランデールロゴ"
+  - definition:
+    - list:
+      - paragraph: ペンション・ログコテージはこちら
+      - link "TEL 0551-48-4187":
+        - /url: tel:0551-48-4187
+      - paragraph: グランピング・トレーラーハウスはこちら
+      - link "TEL 080-6527-9491":
+        - /url: tel:080-6527-9491
+      - link "menu":
+        - /url: "#menu"
+        - generic: menu
+- banner:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "グランデールロゴ" [level=2]:
+      - link "グランデールロゴ":
+        - /url: /
+        - img "グランデールロゴ"
+  - definition:
+    - list:
+      - paragraph: ペンション・ログコテージはこちら
+      - link "TEL 0551-48-4187":
+        - /url: tel:0551-48-4187
+      - paragraph: グランピング・トレーラーハウスはこちら
+      - link "TEL 080-6527-9491":
+        - /url: tel:080-6527-9491
+      - link "menu":
+        - /url: "#menu"
+        - generic: menu
+- heading "ご予約・お問い合わせについて -Reservation & Contact-" [level=2]
+- img "グランデール外観イメージ"
+- paragraph:
+  - text: 予約受付は、宿泊ご希望月の3ヶ月前からとなっております。ご了承ください。
+  - text: 宿からの連絡があった時点で 正式にご予約の成否が成立します。
+  - text: 混み合う時期やキャンセルなどはお電話にてご連絡下さい。
+- heading "ペンション・ログコテージについて" [level=3]
+- term:
+  - heading "お電話からのお問い合わせ" [level=3]
+  - heading "TEL 0551-48-4187" [level=4]:
+    - link "TEL 0551-48-4187":
+      - /url: tel:0551-48-4187
+  - paragraph: （ 受付時間/8：00〜21：00 ）
+- definition:
+  - heading "メールからのお問い合わせ" [level=3]
+  - heading "mail@p-grandeur.com" [level=4]:
+    - link "mail@p-grandeur.com":
+      - /url: mailto:mail@p-grandeur.com
+  - paragraph: メール受付後、当館より折り返しご連絡します
+- heading "グランピング・トレーラーハウスについて" [level=3]
+- term:
+  - heading "お電話からのお問い合わせ" [level=3]
+  - heading "TEL 080-6527-9491" [level=4]:
+    - link "TEL 080-6527-9491":
+      - /url: tel:080-6527-9491
+  - paragraph: （ 受付時間/8：00〜21：00 ）
+- definition:
+  - heading "メールからのお問い合わせ" [level=3]
+  - heading "camp.grandeur@gmail.com" [level=4]:
+    - link "camp.grandeur@gmail.com":
+      - /url: mailto:camp.grandeur@gmail.com
+  - paragraph: メール受付後、当館より折り返しご連絡します
+- heading "オンライン予約について" [level=3]
+- paragraph:
+  - text: オンラインで即時予約ができます。
+  - text: 予約サイトからのオンライン予約は、素泊まりのみのプランになります。
+  - text: お食事つきプランをご希望の際は、メールまたは電話にてご予約ください。
+- list:
+  - link "Tabist":
+    - /url: https://tabist.co.jp/h/B19HKSG?checkout=24%2F06%2F2020&rooms=1&selected_rcid=272869&rooms_config=1-1_0&guests=1&checkin=23%2F06%2F2020
+  - link "じゃらん":
+    - /url: https://www.jhpds.net/p-grandeur/uw/uwp3100/uww3101.do?yadNo=332386
+  - link "楽天トラベル":
+    - /url: https://travel.rakuten.co.jp/HOTEL/5159/?l-id=_history
+  - link "Yahoo!トラベル":
+    - /url: https://travel.yahoo.co.jp/00911671/
+  - link "Booking.com":
+    - /url: https://www.booking.com/hotel/jp/oyo-kiyosato-grandeur-yatsugatake.ja.html?label=gen173rf-1FCAsodUIEbml6aUgzWANodYgBAZgBFbgBCsgBBdgBAegBAfgBC4gCAaICDGhvdGVsbml6aS5qcKgCA7gC1obG9wXAAgHSAiRjYTc3MTFmYi01MjEwLTQ5MDktYWE5MC00MDFiZTQ3NWMwN2LYAgbgAgE;sid=3cc5b996456ec13e0937fab5621f58ea;dest_id=900050454;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=15;hpos=15;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1592886133;srpvid=97d71eba3f3b00a4;type=total;ucfs=1&#hotelTmpl
+  - link "エクスペディア":
+    - /url: https://www.expedia.co.jp/Kofu-Hotels-OYO-Hotel-Kiyosato-Grandeur-Yatsugatake.h49095598.Hotel-Information?chkin=2020-06-23&chkout=2020-06-25&x_pwa=1&rfrr=HSR&pwa_ts=1592886406399&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jby5qcC9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6140108&destination=%E6%B1%9F%E5%BA%9C+%28%E3%81%8A%E3%82%88%E3%81%B3%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%29%2C+%E5%B1%B1%E6%A2%A8%E7%9C%8C%2C+%E6%97%A5%E6%9C%AC&destType=MARKET&sort=RECOMMENDED&top_dp=4545&top_cur=JPY&semdtl=&selectedRoomType=228620958&selectedRatePlan=264300454
+  - link "agoda":
+    - /url: https://www.agoda.com/ja-jp/grandeur/hotel/hokuto-jp.html?finalPriceView=2&isShowMobileAppPrice=false&cid=-218&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2022-09-9&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=JPY&isFreeOccSearch=false&isCityHaveAsq=false&los=2&searchrequestid=b555487a-073f-4d4b-8634-b22ee990a906
+  - link "Hotels.com":
+    - /url: https://jp.hotels.com/ho1572059136/?pa=13&tab=description&ZSX=0&SYE=3&q-room-0-children=0&q-room-0-adults=2
+  - link "楽天キャンプ グランピング利用はこちらから":
+    - /url: https://camp.travel.rakuten.co.jp/properties/548
+    - text: 楽天キャンプ
+    - text: グランピング利用はこちらから
+- contentinfo:
+  - term:
+    - paragraph: ペットと泊れる山梨県清里高原のペンション
+    - heading "Tabist 清里 グランデール八ヶ岳" [level=2]
+    - heading "Forest Villa 清里 グランデール八ヶ岳" [level=2]
+    - link "TEL 0551-48-4187":
+      - /url: tel:0551-48-4187
+    - heading "camp inn 清里 グランデール八ヶ岳" [level=2]
+    - link "TEL 080-6527-9491":
+      - /url: tel:080-6527-9491
+    - paragraph: 〒407-0301 山梨県北杜市高根町清里3611
+    - paragraph:
+      - text: FAX：0551-48-4453
+      - text: 客室数：洋室6室（全室バストイレ付）
+      - text: 定 員：14名 駐車場：10台
+      - text: チェックイン：PM3:00
+      - text: チェックアウト：AM10:00
+  - definition:
+    - iframe
+  - paragraph:
+    - link "ご予約・お問い合わせについて":
+      - /url: /reservation/
+    - text: ｜
+    - link "リンク集":
+      - /url: /link/
+    - text: ｜
+    - link "プライバシーポリシー":
+      - /url: /privacy/
+  - list:
+    - link "グランデールフェイスブックリンク":
+      - /url: https://www.facebook.com/people/清里ペンション-グランデール/100032267842427/
+      - img "グランデールフェイスブックリンク"
+    - link "グランデールインスタグラムリンク":
+      - /url: https://www.instagram.com/kiyosato_grandeur/
+      - img "グランデールインスタグラムリンク"
+- paragraph: Copyright 2022 © Tabist Kiyosato GRANDEUR Yatsugatake. All Rights Reserved.
+- navigation:
+  - heading "Menu" [level=3]
+  - list:
+    - link "Tabist 清里 グランデール八ヶ岳 ペンションについて":
+      - /url: /pension/
+      - text: Tabist 清里 グランデール八ヶ岳
+      - generic: ペンションについて
+    - link "Camp inn 清里 グランデール グランピング・トレーラーハウスについて":
+      - /url: /camp/
+      - text: Camp inn 清里 グランデール
+      - generic: グランピング・トレーラーハウスについて
+    - link "Forest Villa 清里 グランデール八ヶ岳 ログコテージについて":
+      - /url: /camp/#cottage
+      - text: Forest Villa 清里 グランデール八ヶ岳
+      - generic: ログコテージについて
+    - link "ペット同伴について with Pets":
+      - /url: /pension/#dog
+      - text: ペット同伴について
+      - generic: with Pets
+    - link "News & Topics グランデールからお知らせ":
+      - /url: /newslist/
+      - text: News & Topics
+      - generic: グランデールからお知らせ
+    - link "ご予約・お問い合わせについて Reservation & Contact":
+      - /url: /reservation/
+      - text: ご予約・お問い合わせについて
+      - generic: Reservation & Contact
+  - paragraph:
+    - link "リンク集":
+      - /url: /link/
+    - text: ｜
+    - link "プライバシーポリシー":
+      - /url: /privacy/
