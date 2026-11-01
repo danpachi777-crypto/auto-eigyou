@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 355,
+  "verified_sent_last_known": 356,
   "target": 450,
-  "remaining_unsent_target": 95,
+  "remaining_unsent_target": 94,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -77,7 +77,8 @@
     "yamataro21",
     "tanpopo-inn",
     "centralmusic-web",
-    "west-msc"
+    "west-msc",
+    "yamanikki"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -148,7 +149,8 @@
     "yamataro21",
     "tanpopo-inn",
     "centralmusic-web",
-    "west-msc"
+    "west-msc",
+    "yamanikki"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -240,8 +242,9 @@
     "yamataro21",
     "tanpopo-inn",
     "centralmusic-web",
-    "west-msc"
+    "west-msc",
+    "yamanikki"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 67
+  "prepared_count": 68
 }

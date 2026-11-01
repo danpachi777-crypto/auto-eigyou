@@ -1,0 +1,35 @@
+- heading "那須高原ペンション山日記" [level=2]:
+  - text: 那須高原ペンション山日記
+- separator
+- paragraph:
+  - text: 6月～10月まで 珍しい蛍が見られる
+  - text: アットホームなペンションです。
+  - text: ボリューム満点のお料理で
+  - text: 特に夕食の自家製ピザと
+  - text: 朝食の イタリアのパン
+  - text: フォカッチャ などが人気です。
+  - text: 私たちが心を込めておもてなし致します。
+  - text: 是非色々ご覧ください。
+- separator
+- paragraph:
+  - link "1.お料理":
+    - /url: diner.html
+- paragraph:
+  - link "2ご宿泊.料金":
+    - /url: ryoukin.html
+- paragraph:
+  - link "3.館内のご案内":
+    - /url: kannai.html
+- paragraph:
+  - link "4.交通のご案内":
+    - /url: mitinori.html
+- paragraph:
+  - link "5.空室状況":
+    - /url: http://www2.ocn.ne.jp/%7Eyamaniki/circum.html
+- separator
+- text: ご予約はお電話でお願い致します。
+- link "TEL 0287-62-6023":
+  - /url: tel:0287626023
+- link "〒325-0302 栃木県那須郡那須町高久丙4364-1":
+  - /url: add:%93%C8%96%D8%8C%A7%93%DF%90%7B%8CS%93%DF%90%7B%92%AC%91%E5%8E%9A%8D%82%8Bv%95%B84364-1
+- paragraph

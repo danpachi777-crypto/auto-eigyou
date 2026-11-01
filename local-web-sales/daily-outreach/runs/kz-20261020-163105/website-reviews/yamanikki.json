@@ -1,0 +1,85 @@
+{
+  "company": "ペンション山日記",
+  "industry": "ペンション宿泊",
+  "region": "栃木県那須町",
+  "email": "inaba@yamanikki.com",
+  "email_source": "https://yamanikki.com/index.html",
+  "website_url": "https://yamanikki.com/index.html",
+  "discovery_source": "https://www.nasukogen.org/spotsearch/detail.php?id=300141110",
+  "checked_at": "2026-11-01T17:19:01.359923+00:00",
+  "maps": {
+    "rating": 4.9,
+    "review_count": 31,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンション山日記+那須",
+    "identity": "高久丙4364-1・0287626023・公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://yamanikki.com/index.html",
+    "service": "https://yamanikki.com/gaiyou.html",
+    "contact": "https://yamanikki.com/index.html (下部予約・お問い合わせ案内)",
+    "conditions": "https://yamanikki.com/goitidoku.html",
+    "legacy_mobile": "https://yamanikki.com/i/index.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxのペンション概要で客室・設備説明右側が欠ける。1280pxでは表示。ホーム・サービス・下部連絡先の6枚目視済み。"
+    },
+    {
+      "item": 2,
+      "result": "トップ下部に公開電話と一般メール。件名必須を確認。"
+    },
+    {
+      "item": 3,
+      "result": "客室の種類・洗面トイレTV冷暖房・料理・所在地確認。ペット不可。"
+    },
+    {
+      "item": 4,
+      "result": "携帯用/i/index.htmlが検索に存在し閲覧済み。現在トップに同ページへのリンク未検出。今回指摘はgaiyou.htmlの観察事実に限定。"
+    },
+    {
+      "item": 5,
+      "result": "初回予約と急ぎ予約は電話。メール毎晩23時過ぎ確認。既存方針を保持し架空フォームなし。"
+    },
+    {
+      "item": 6,
+      "result": "2026年料金更新あり。年数や画像の一時未表示を根拠にせず。営業拒否は閲覧範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://yamanikki.com/gaiyou.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「ペンション概要」を拝見すると、客室や設備の説明文が画面の右側にはみ出し、そのままでは全文を確認できない状態でした。",
+      "proposal": "客室・設備の説明を画面幅に合わせて折り返し、宿泊案内から問い合わせ先までスマートフォンでも横へ移動せず確認できるようにする",
+      "evidence_path": "evidence/yamanikki/service-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "inaba@yamanikki.com",
+      "yamanikki.com",
+      "ペンション山日記"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://pensiontonto.com/contactus/",
+      "note": "予約と問い合わせの案内分けを参考。転載なし。"
+    },
+    {
+      "url": "https://www.kazenouta.com/contact-8",
+      "note": "電話メール案内の構成を参照。連絡先等転載なし。"
+    }
+  ]
+}
