@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 331,
+  "verified_sent_last_known": 332,
   "target": 450,
-  "remaining_unsent_target": 119,
+  "remaining_unsent_target": 118,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -55,7 +55,8 @@
     "hakatakasaya",
     "ootani",
     "m-yamato",
-    "miyake-model"
+    "miyake-model",
+    "vehicle-cyc"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -104,19 +105,20 @@
     "hakatakasaya",
     "ootani",
     "m-yamato",
-    "miyake-model"
+    "miyake-model",
+    "vehicle-cyc"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 45,
+  "prepared_count_in_recovery": 46,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "2037292",
-  "resume_note": "331/450 verified sent. miyake-model Gmail SENT 1a196c6763c3c601. vehicle-cyc Gmail/CSV empty; review pending. 119 remain.",
+  "last_pushed_commit": "ea99367",
+  "resume_note": "332/450 verified SENT. vehicle-cyc Gmail 1a196ce83ec8fe48. 118 remain; continue new prospects.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 333,
-    "remaining_preparations": 117,
+    "completed_prepared_or_sent": 334,
+    "remaining_preparations": 116,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -172,7 +174,8 @@
     "hakatakasaya",
     "ootani",
     "m-yamato",
-    "miyake-model"
+    "miyake-model",
+    "vehicle-cyc"
   ],
   "remaining_prepared_unsent": 2
 }

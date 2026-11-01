@@ -1,0 +1,336 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 自転車館びーくる
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州":
+      - generic "50 か所": "50"
+      - generic: 本州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "自転車館びーくる":
+    - 'button "写真: 自転車館びーくる" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "自転車館びーくる" [level=1]: 自転車館びーくる
+    - text: "3.8"
+    - img "3.8 つ星"
+    - img "53 件のクチコミ": (53)
+    - button "自転車屋"
+    - tablist:
+      - tab "自転車館びーくる の概要" [selected]:
+        - generic: 概要
+      - tab "自転車館びーくる のクチコミ":
+        - generic: クチコミ
+      - tab "「自転車館びーくる」について":
+        - generic: 基本情報
+    - region "自転車館びーくる の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "自転車館びーくる について":
+      - button "店舗内ショッピングに対応 オンラインで注文した商品の店舗受け取り可 宅配可":
+        - group "店舗内ショッピングに対応":
+          - text: ·
+          - generic: 
+          - generic: 店舗内ショッピング可
+        - group "オンラインで注文した商品の店舗受け取り可":
+          - text: ·
+          - generic: 
+          - generic: 店舗受け取り可
+        - group "宅配可":
+          - text: ·
+          - generic: 
+          - generic: 宅配
+        - generic: 
+    - region "自転車館びーくる の情報":
+      - 'button "住所: 〒747-0045 山口県防府市高倉２丁目１２−２２"':
+        - generic: 
+        - generic: 〒747-0045 山口県防府市高倉２丁目１２−２２
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: vehicle-cyc.co.jp"':
+        - /url: https://www.vehicle-cyc.co.jp/
+        - generic: 
+        - generic: vehicle-cyc.co.jp
+      - link "ウェブサイトを開きます":
+        - /url: https://www.vehicle-cyc.co.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0835-22-0019"':
+        - generic: 
+        - generic: 0835-22-0019
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0835220019
+        - generic: 
+      - 'button "Plus Code: 3H34+6F 防府市、山口県"':
+        - generic: 
+        - generic: 3H34+6F 防府市、山口県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「自転車館びーくる」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "自転車"
+      - generic: 自転車
+      - button "オーナー提供"
+      - generic: オーナー提供
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 25 件": "5"
+        - img "4 つ星、クチコミ 10 件": "4"
+        - img "3 つ星、クチコミ 8 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 9 件": "1"
+    - generic: "3.8"
+    - img "3.8 つ星"
+    - button "53 件のクチコミ":
+      - generic: 53 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"通販サイトで購入時、（メーカー不具合）迅速に御対応頂き非常に助かりました。\""':
+      - /url: https://www.google.com/maps/contrib/109992963468291974839?hl=ja-JP
+    - button "\"通販サイトで購入時、（メーカー不具合）迅速に御対応頂き非常に助かりました。\"":
+      - generic: "\"通販サイトで購入時、（メーカー不具合）迅速に御対応頂き非常に助かりました。\""
+    - 'link "次のクチコミ投稿者の写真: \"購入完了後に在庫が無い旨の連絡がされ、キャンセルすることになりました。\""':
+      - /url: https://www.google.com/maps/contrib/114279114727142497782?hl=ja-JP
+    - button "\"購入完了後に在庫が無い旨の連絡がされ、キャンセルすることになりました。\"":
+      - generic: "\"購入完了後に在庫が無い旨の連絡がされ、キャンセルすることになりました。\""
+    - 'link "次のクチコミ投稿者の写真: \"挨拶がないとのレビューが有りましたが、そんなことはなく、相談すれば、すごく親切。\""':
+      - /url: https://www.google.com/maps/contrib/117230513839827405961?hl=ja-JP
+    - button "\"挨拶がないとのレビューが有りましたが、そんなことはなく、相談すれば、すごく親切。\"":
+      - generic: "\"挨拶がないとのレビューが有りましたが、そんなことはなく、相談すれば、すごく親切。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "通販: 6 件のクチコミで言及。"':
+        - generic: 通販
+        - generic: "6"
+      - 'radio "挨拶: 5 件のクチコミで言及。"':
+        - generic: 挨拶
+        - generic: "5"
+      - 'radio "メンテナンス: 4 件のクチコミで言及。"':
+        - generic: メンテナンス
+        - generic: "4"
+      - 'radio "在庫: 3 件のクチコミで言及。"':
+        - generic: 在庫
+        - generic: "3"
+      - button "他 5 件のトピックを表示":
+        - generic: "+5"
+    - generic "Lys Noir":
+      - button "Lys Noir の写真"
+      - button "Lys Noir 12 件のクチコミ":
+        - generic: Lys Noir
+        - generic: 12 件のクチコミ
+      - button "Lys Noir さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: 数年前に楽天経由でクロスバイクを購入。 きちんと整備/調整された自転車が届きました。 注文後に「一緒に注文したパーツの取り付けも承りますが如何しますか？」など親切な対応でとても良かったです。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Lys Noir さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "キリンのやつ":
+      - button "キリンのやつ の写真"
+      - button "キリンのやつ 2 件のクチコミ":
+        - generic: キリンのやつ
+        - generic: 2 件のクチコミ
+      - button "キリンのやつ さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: "最終編集: 9 か月前"
+      - text: 高校の寮生活を始める息子のために、こちらで自転車を購入しました。 通販での購入でしたが、事前に「在庫の確認」や「入寮日に合わせた寮への配送」が可能か相談したところ、快く対応していただけました。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "キリンのやつ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "06 Syu":
+      - button "06 Syu の写真"
+      - button "06 Syu 6 件のクチコミ":
+        - generic: 06 Syu
+        - generic: 6 件のクチコミ
+      - button "06 Syu さんのクチコミへのアクション":
+        - generic: 
+      - img "1 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - generic: こちらのお店でビアンキのロードバイクを購入。お店に置いてあるものが欲しかったので、その場で即決。ペダルや整備なので1週間かかると言われ、1週間後に現車の確認に来て下さいとの事。現車の確認の日に電話がかかってきて、「お急ぎのお客様がいて、○○様(私)のロードバイクメーカー取り寄せしてるので1週間遅れてお渡しになります」との事。高いお金を出してそのロードバイクを買って私のモノになったものが確認もなしで、今もうないから後で来るものでお願い、みたいなニュアンス。なんなんですかこの対応は？客のこと小馬鹿にしてますか？安いお金じゃないんですよ。対応が酷すぎます。
+      - button "いいね 6 件":
+        - generic: 
+        - generic: "6"
+      - button "06 Syu さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (50)":
+      - generic: その他のクチコミ (50)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "ル・モンド・ヴェロ·4.4 つ星·クチコミ 29 件·自転車屋":
+      - generic: ル・モンド・ヴェロ
+      - img "4.4 つ星 クチコミ 29 件":
+        - text: "4.4"
+        - text: (29)
+      - generic: 自転車屋
+    - link "サイクルベースあさひ防府店·2.8 つ星·クチコミ 22 件·自転車屋":
+      - generic: サイクルベースあさひ防府店
+      - img "2.8 つ星 クチコミ 22 件":
+        - text: "2.8"
+        - text: (22)
+      - generic: 自転車屋
+    - link "バイクショップシゲムラ·4.0 つ星·クチコミ 45 件·自転車屋":
+      - generic: バイクショップシゲムラ
+      - img "4.0 つ星 クチコミ 45 件":
+        - text: "4.0"
+        - text: (45)
+      - generic: 自転車屋
+    - link "フクダサイクル·3.1 つ星·クチコミ 26 件·バイク販売業者":
+      - generic: フクダサイクル
+      - img "3.1 つ星 クチコミ 26 件":
+        - text: "3.1"
+        - text: (26)
+      - generic: バイク販売業者
+    - link "藤井自転車商会·5.0 つ星·クチコミ 2 件·自転車屋":
+      - generic: 藤井自転車商会
+      - img "5.0 つ星 クチコミ 2 件":
+        - text: "5.0"
+        - text: (2)
+      - generic: 自転車屋
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

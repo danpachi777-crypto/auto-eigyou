@@ -1,0 +1,87 @@
+{
+  "company": "自転車館びーくる",
+  "industry": "自転車専門店",
+  "region": "山口県防府市",
+  "email": "info@vehicle-cyc.co.jp",
+  "email_source": "https://www.vehicle-cyc.co.jp/html/page28.html",
+  "website_url": "https://www.vehicle-cyc.co.jp/",
+  "discovery_source": "https://www.podium.co.jp/shop",
+  "checked_at": "2026-11-01T11:09:06.367Z",
+  "maps": {
+    "rating": 3.8,
+    "review_count": 53,
+    "url": "https://www.google.com/maps/search/?api=1&query=自転車館びーくる 防府",
+    "identity": "高倉2-12-22・0835-22-0019・公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.vehicle-cyc.co.jp/",
+    "service": "https://www.vehicle-cyc.co.jp/shopbrand/I95384/",
+    "contact": "https://www.vehicle-cyc.co.jp/html/page28.html",
+    "form": "https://www.vehicle-cyc.co.jp/ssl/contact/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "ブラウザー幅390pxで主サイト1102px、購入前注意書き右側が切れる。1280pxも確認。問い合わせフォーム自体は390pxに収まる。実機UA挙動は未確認。"
+    },
+    {
+      "item": 2,
+      "result": "一般公開メール・電話・フォームを確認。送信操作なし。"
+    },
+    {
+      "item": 3,
+      "result": "商品区分、会社所在地、営業時間、在庫非リアルタイムの案内を確認。"
+    },
+    {
+      "item": 4,
+      "result": "画像読込後の表示を確認し保存。"
+    },
+    {
+      "item": 5,
+      "result": "フォーム到達可能。WEB受注・問い合わせ対応は店舗定休日に加え土日祝休み。維持する。"
+    },
+    {
+      "item": 6,
+      "result": "古さや在庫の非リアルタイム自体は問題扱いしない。営業拒否記載なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.vehicle-cyc.co.jp/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、トップページの購入前の注意書きが横幅1102pxの配置の中に表示され、右側の説明が画面外に隠れていました。",
+      "proposal": "狭い画面幅では購入前の注意書きを縦に並べ、文章が画面内で折り返される配置に整える",
+      "evidence_path": "evidence/vehicle-cyc/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "自転車館びーくる",
+      "豊嶋商会",
+      "vehicle-cyc.co.jp"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://bike-shigemura.com/",
+      "note": "自転車カテゴリと問い合わせ区分を参考に閲覧。転用なし。"
+    },
+    {
+      "url": "https://hiroshige.co.jp/",
+      "note": "利用案内・店舗情報と問い合わせを区分する構成を確認。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.podium.co.jp/shop"
+  ]
+}
