@@ -1,0 +1,9 @@
+{
+  "company": "Tools",
+  "website_url": "https://www.tools-shop.jp/inquiry/form.html",
+  "checked_at": "2026-11-01T10:14:30.623806+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "問い合わせページに業者など営業目的利用を遠慮するよう明示。送信除外。",
+  "findings": []
+}

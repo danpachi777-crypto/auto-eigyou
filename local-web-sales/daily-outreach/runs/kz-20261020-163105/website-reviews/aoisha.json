@@ -1,0 +1,83 @@
+{
+  "company": "あおい舎画材額縁店",
+  "industry": "画材・額縁",
+  "region": "熊本県熊本市",
+  "email": "shop@aoisha.com",
+  "email_source": "https://www.aoisha.com/notation.cgi",
+  "website_url": "https://www.aoisha.com/",
+  "discovery_source": "https://kumaripo.com/report/686/",
+  "checked_at": "2026-11-01T10:13:29.482Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 38,
+    "url": "https://www.google.com/maps/search/?api=1&query=あおい舎画材額縁店 上通店",
+    "name": "あおい舎画材額縁店(上通店)",
+    "identity": "公式URLと店舗電話096-354-3995一致。製作所と店舗を区別。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.aoisha.com/",
+    "service": "https://www.aoisha.com/cgibin/shopping/search.cgi?class=0030000&display=small",
+    "contact": "https://www.aoisha.com/notation.cgi"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px幅でトップ952px・水彩一覧882pxの横幅となり、商品説明が右側画面外。1280pxでは表示できる。"
+    },
+    {
+      "item": 2,
+      "result": "特商法に公開メールと店舗・製作所電話。トップ右側に問い合わせ電話。"
+    },
+    {
+      "item": 3,
+      "result": "画材分類と価格・説明を掲載。地図上通店4.4/38、直近5か月の口コミあり。"
+    },
+    {
+      "item": 4,
+      "result": "画像は読み込み後表示。最初の読み込み中の空白を不具合とは扱わない。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話・メールの連絡方針を保つ案。フォーム等送信せず。"
+    },
+    {
+      "item": 6,
+      "result": "トップ初回閲覧に2026年8月の休み等を掲載。営業時間の表記違いは提案対象外、デザインにも時間を掲載しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.aoisha.com/cgibin/shopping/search.cgi?class=0030000&display=small",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、水彩画材の一覧が横幅882pxのまま表示され、商品名や説明の右側が画面外に隠れていました。",
+      "proposal": "スマートフォンでは画材の分類と商品説明、問い合わせ案内を縦に並べ、画像と文章が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/aoisha/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "aoisha.com",
+      "あおい舎"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.bunrindou.com/",
+      "note": "画材分類と店舗・問い合わせ情報を分ける構成を閲覧。転用なし。"
+    },
+    {
+      "url": "https://www.konan-gazai.net/",
+      "note": "画材種類・額装・問い合わせの区分を閲覧。転用なし。"
+    }
+  ]
+}

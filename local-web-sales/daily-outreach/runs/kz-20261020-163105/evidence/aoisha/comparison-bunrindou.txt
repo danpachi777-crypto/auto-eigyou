@@ -1,0 +1,198 @@
+- link "コンテンツへスキップ":
+  - /url: "#content"
+- banner:
+  - text:               
+  - heading "熊本の額縁・画材店 有限会社 文林堂本店" [level=1]:
+    - link "熊本の額縁・画材店 有限会社 文林堂本店":
+      - /url: https://www.bunrindou.com/
+      - img "熊本の額縁・画材店 有限会社 文林堂本店"
+  - navigation:
+    - list:
+      - link "ホーム":
+        - /url: https://www.bunrindou.com/
+      - link "画材 ":
+        - /url: "#"
+      - text:        
+      - link "額縁 ":
+        - /url: "#"
+      - link "画廊 ":
+        - /url: "#"
+      - link "表装/修復・保存 ":
+        - /url: "#"
+      - link "絵画教室":
+        - /url: https://www.bunrindou.com/%e7%b5%b5%e7%94%bb%e6%95%99%e5%ae%a4/
+      - link "ご案内 ":
+        - /url: "#"
+      - link "リンク ":
+        - /url: "#"
+      - link "English":
+        - /url: https://www.bunrindou.com/english/
+      - link "简体中文":
+        - /url: https://www.bunrindou.com/%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87/
+      - link "繁體中文":
+        - /url: https://www.bunrindou.com/%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87/
+      - link "한국어":
+        - /url: https://www.bunrindou.com/%ed%95%9c%ea%b5%ad%ec%96%b4/
+      - link "くまモングッズ":
+        - /url: https://www.bunrindou.com/%e3%81%8f%e3%81%be%e3%83%a2%e3%83%b3%e3%82%b0%e3%83%83%e3%82%ba/
+- main:
+  - heading "HOME" [level=1]
+  - article:
+    - region "New Slideshow":
+      - list:
+      - list "Slide controls":
+        - tab "Show slide 1 of 5": "1"
+        - tab "Show slide 2 of 5": "2"
+        - tab "Show slide 3 of 5": "3"
+        - tab "Show slide 4 of 5": "4"
+        - tab "Show slide 5 of 5": "5"
+      - list:
+        - button "前へ": Previous
+        - button "次へ": Next
+    - separator
+    - heading "■ 営業時間及び定休日変更のお知らせ(2026年2月1日より)" [level=6]:
+      - text: ■
+      - strong: 営業時間及び定休日変更のお知らせ(2026年2月1日より)
+    - paragraph:
+      - text: 平素より文林堂本店をご愛顧頂き、誠にありがとうございます。
+      - text: このたび
+      - strong: 2026年2月1日(日)より
+      - text: 下記の通り営業時間を変更させて頂くことになりました。
+      - text: また定休日も日曜日から火曜日に変更致します。
+      - text: お客さまにはご不便をお掛けいたしますが、何とぞご理解とご協力をお願い申し上げます。
+    - paragraph:
+      - strong: 営業時間：午前11時～午後6時
+      - strong: 定休日：火曜日・祝日・振替休日
+    - separator
+    - heading "■ ネットショップのご案内" [level=6]:
+      - text: ■
+      - strong: ネットショップのご案内
+    - paragraph: 現在ネットショップは再構築中です。しばらくおお待ち下さい。
+    - separator
+    - heading "■ あなたのアートを応援します！！" [level=6]:
+      - generic: ■
+      - text: あなたのアートを応援します！！
+    - paragraph:
+      - text: 学生(中学生・高校生・大学生)・・・・・学生証提示で
+      - strong:
+        - emphasis: 10%OFF！！
+      - text: カルチャー教室受講生・・・・・受講証提示で
+      - strong:
+        - emphasis: 5%OFF！！
+    - paragraph: ※一部割引対象外の商品もあります。
+    - separator
+    - heading "■ 新着＆おすすめ商品Pickup ユニフォーム額 人工芝ユニフォーム額 ホルベイン クッツカーネ 作品保護 クッツカーネ2 リアルライン F3 オレンジ REAL LINE F3（リアルライン） くまモン 掛け軸 加藤清正 端午の節句 せいしょこさん くまモン せいしょこさん (掛軸ver.) 続きを見る" [level=6]:
+      - text: ■ 新着＆おすすめ商品Pickup
+      - link "ユニフォーム額 人工芝ユニフォーム額":
+        - /url: https://www.bunrindou.com/shop_menu/%e4%ba%ba%e5%b7%a5%e8%8a%9d%e3%83%a6%e3%83%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e9%a1%8d/
+        - img "ユニフォーム額"
+        - paragraph: 人工芝ユニフォーム額
+      - link "ホルベイン クッツカーネ 作品保護 クッツカーネ2":
+        - /url: https://www.bunrindou.com/shop_menu/%e3%82%af%e3%83%83%e3%83%84%e3%82%ab%e3%83%bc%e3%83%8d/
+        - img "ホルベイン クッツカーネ 作品保護"
+        - paragraph: クッツカーネ2
+      - link "リアルライン F3 オレンジ REAL LINE F3（リアルライン）":
+        - /url: https://www.bunrindou.com/shop_menu/real-line-f3%ef%bc%88%e3%83%aa%e3%82%a2%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%b3%ef%bc%89/
+        - img "リアルライン F3 オレンジ"
+        - paragraph: REAL LINE F3（リアルライン）
+      - link "くまモン 掛け軸 加藤清正 端午の節句 せいしょこさん くまモン せいしょこさん (掛軸ver.)":
+        - /url: https://www.bunrindou.com/shop_menu/%e3%81%8f%e3%81%be%e3%83%a2%e3%83%b3-%e3%81%9b%e3%81%84%e3%81%97%e3%82%87%e3%81%93%e3%81%95%e3%82%93/
+        - img "くまモン 掛け軸 加藤清正 端午の節句 せいしょこさん"
+        - paragraph: くまモン せいしょこさん (掛軸ver.)
+      - generic: 続きを見る
+    - navigation
+- text: 
+- paragraph: "フォロー:"
+- list:
+  - link "フォローする Facebook-square":
+    - /url: https://www.facebook.com/bunrindou/
+    - generic: 
+  - link "フォローする Twitter-square":
+    - /url: https://twitter.com/bunrindo_honten?lang=jahttp%3A%2F
+    - generic: 
+  - link "フォローする Instagram":
+    - /url: https://www.instagram.com/bunrindo_honten/
+    - generic: 
+- paragraph:
+  - strong: ㈲文林堂本店
+- paragraph:
+  - strong: 〒860-0004
+  - strong: 熊本県熊本市中央区
+  - strong: 新町2-7-16
+- paragraph:
+  - strong:
+    - link "地図を見る":
+      - /url: https://maps.google.co.jp/maps?q=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%96&ie=UTF8&sll=32.7988616,130.6994253&sspn=0.027705,0.0439464&fb=1&gl=jp&hnear=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%96&t=m&z=16&brcurrent=3,0x3540f4695fc37b29:0xb92ec9debaeb841b,0,0x3540f4695d539f95:0x328e2a42d01a229a
+- paragraph:
+  - strong: TEL 096-355-0274
+  - strong: FAX 096-355-0275
+- paragraph:
+  - strong: 営業時間
+  - strong: 11：00～18：00
+  - strong: 定休日：火曜日･祝日
+  - text: ※振替休日は定休日となります。
+- paragraph:
+  - strong: ※駐車場完備（5台分）
+  - strong:
+    - link "地図":
+      - /url: https://www.bunrindou.com/wp/wp-content/uploads/2020/05/parking.pdf
+- paragraph:
+  - strong: 店頭お支払い各種キャッシュレス決済対応
+- paragraph:
+  - text: ・クレジットカード各種
+  - text: ・交通系カード
+  - text: ・WAON
+  - text: ・nanaco
+  - text: ・楽天Edy
+  - text: ・iD
+  - text: ・QUICPay
+  - text: ・PayPay
+  - text: ・d払い、他コード決済
+- paragraph: ※楽天Payは諸事情によりお取り扱い出来ません。
+- paragraph:
+  - emphasis:
+    - strong:
+      - link "お問い合わせ":
+        - /url: http://www.bunrindou.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/
+- paragraph
+- paragraph
+- paragraph:
+  - iframe:
+    - link:
+      - /url: https://www.facebook.com/bunrindou?ref=embed_page
+    - link:
+      - /url: https://www.facebook.com/147956865373350?ref=embed_page
+    - link "有限会社 文林堂本店":
+      - /url: https://www.facebook.com/147956865373350?ref=embed_page
+    - generic: 373 フォロワー
+    - button "ページをフォロー": ページをフォロー
+    - link "シェアする":
+      - /url: /sharer/sharer.php?app_id=776730922422337&u=https%3A%2F%2Fwww.facebook.com%2F147956865373350&display=popup&ref=embed_page&src=page
+      - button "シェアする": シェアする
+- paragraph:
+  - code:
+    - link "Tweets by bunrindo_honten":
+      - /url: https://twitter.com/bunrindo_honten?ref_src=twsrc%5Etfw
+- contentinfo:
+  - navigation:
+    - list:
+      - link "お問い合わせ Contact us":
+        - /url: https://www.bunrindou.com/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/
+      - link "プライバシーポリシー":
+        - /url: https://www.bunrindou.com/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%90%e3%82%b7%e3%83%bc%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc/
+      - link "特定商取引に基づく表記":
+        - /url: https://www.bunrindou.com/%e7%89%b9%e5%ae%9a%e5%95%86%e5%8f%96%e5%bc%95%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%8f%e8%a1%a8%e8%a8%98/
+  - link "":
+    - /url: "#"
+    - generic: 
+  - paragraph: 文林堂本店 © 2024. All Rights Reserved.
+  - list:
+    - link "フォローする Facebook-square":
+      - /url: https://www.facebook.com/bunrindou/
+      - generic: 
+    - link "フォローする Twitter-square":
+      - /url: https://twitter.com/bunrindo_honten?lang=jahttp%3A%2F
+      - generic: 
+    - link "フォローする Instagram":
+      - /url: https://www.instagram.com/bunrindo_honten/
+      - generic: 

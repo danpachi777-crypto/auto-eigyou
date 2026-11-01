@@ -1,0 +1,495 @@
+- banner:
+  - heading "神戸の画材・額縁専門店の甲南画材は、額縁、油絵具、画材（ホルベイン、アルテージュ、クサカベ、リキテックス、マツダ）など阪神間屈指の品揃えです。" [level=1]
+  - img "ご質問・お問い合わせはお気軽にどうぞ"
+  - link "甲南画材":
+    - /url: index.html
+    - img "甲南画材"
+  - img "TEL.078-855-8550"
+  - link "facebook":
+    - /url: https://www.facebook.com/%E7%94%B2%E5%8D%97%E7%94%BB%E6%9D%90-1647628802155626/
+    - img "facebook"
+- link "prev":
+  - /url: "#"
+- link "next":
+  - /url: "#"
+- link:
+  - /url: ""
+- link "pause":
+  - /url: "#"
+- generic: Loading
+- list:
+  - link "ホーム":
+    - /url: index.html
+    - img "ホーム"
+  - link "新着情報":
+    - /url: news.html
+    - img "新着情報"
+  - link "商品紹介":
+    - /url: products.html
+    - img "商品紹介"
+  - link "額装相談コーナー":
+    - /url: orderframe.html
+    - img "額装相談コーナー"
+  - link "よくあるご質問":
+    - /url: qanda.html
+    - img "よくあるご質問"
+  - link "会社案内":
+    - /url: company.html
+    - img "会社案内"
+  - link "店舗案内":
+    - /url: company.html#store
+    - img "店舗案内"
+  - link "お問い合わせ":
+    - /url: contact.html
+    - img "お問い合わせ"
+- img "商品カテゴリー"
+- list:
+  - link "油絵具":
+    - /url: https://www.konan-gazai.net/products/index/3
+    - listitem: 油絵具
+  - link "水彩絵具（チューブ）":
+    - /url: https://www.konan-gazai.net/products/index/4
+    - listitem: 水彩絵具（チューブ）
+  - link "水彩絵具（固形）":
+    - /url: https://www.konan-gazai.net/products/index/5
+    - listitem: 水彩絵具（固形）
+  - link "日本画":
+    - /url: https://www.konan-gazai.net/products/index/7
+    - listitem: 日本画
+  - link "アクリル絵具":
+    - /url: https://www.konan-gazai.net/products/index/6
+    - listitem: アクリル絵具
+  - link "パンパステル":
+    - /url: https://www.konan-gazai.net/products/index/13
+    - listitem: パンパステル
+  - link "ソフトパステル":
+    - /url: https://www.konan-gazai.net/products/index/14
+    - listitem: ソフトパステル
+  - link "オイルパステル":
+    - /url: https://www.konan-gazai.net/products/index/17
+    - listitem: オイルパステル
+  - link "水彩色鉛筆":
+    - /url: https://www.konan-gazai.net/products/index/15
+    - listitem: 水彩色鉛筆
+  - link "油性色鉛筆":
+    - /url: https://www.konan-gazai.net/products/index/16
+    - listitem: 油性色鉛筆
+  - link "ポスターカラー":
+    - /url: https://www.konan-gazai.net/products/index/19
+    - listitem: ポスターカラー
+  - link "画筆":
+    - /url: https://www.konan-gazai.net/products/index/22
+    - listitem: 画筆
+  - link "スケッチブック":
+    - /url: https://www.konan-gazai.net/products/index/21
+    - listitem: スケッチブック
+  - link "スケッチ用品":
+    - /url: https://www.konan-gazai.net/products/index/20
+    - listitem: スケッチ用品
+  - link "油彩画用額縁":
+    - /url: https://www.konan-gazai.net/products/index/2
+    - listitem: 油彩画用額縁
+  - link "額装絵画":
+    - /url: https://www.konan-gazai.net/products/index/12
+    - listitem: 額装絵画
+- img "ブランド別で選ぶ"
+- list:
+  - link "ホルベイン":
+    - /url: https://www.konan-gazai.net/products/index/search:ホルベイン
+    - listitem: ホルベイン
+  - link "クサカベ":
+    - /url: https://www.konan-gazai.net/products/index/search:クサカベ
+    - listitem: クサカベ
+  - link "リキテックス":
+    - /url: https://www.konan-gazai.net/products/index/search:リキテックス
+    - listitem: リキテックス
+  - link "マツダ":
+    - /url: https://www.konan-gazai.net/products/index/search:マツダ
+    - listitem: マツダ
+  - link "ウィンザー＆ニュートン":
+    - /url: https://www.konan-gazai.net/products/index/search:ウィンザーニュートン
+    - listitem: ウィンザー＆ニュートン
+  - link "ターレンス":
+    - /url: https://www.konan-gazai.net/products/index/search:ターレンス
+    - listitem: ターレンス
+  - link "ミューズ":
+    - /url: https://www.konan-gazai.net/products/index/search:ミューズ
+    - listitem: ミューズ
+  - link "ターナー":
+    - /url: https://www.konan-gazai.net/products/index/search:ターナー
+    - listitem: ターナー
+  - link "カラン・ダッシュ":
+    - /url: https://www.konan-gazai.net/products/index/search:カランダッシュ
+    - listitem: カラン・ダッシュ
+  - link "ファーバー・カステル":
+    - /url: https://www.konan-gazai.net/products/index/search:ファーバーカステル
+    - listitem: ファーバー・カステル
+  - link "デーラー・ラウニー":
+    - /url: https://www.konan-gazai.net/products/index/search:デーラーラウニー
+    - listitem: デーラー・ラウニー
+  - link "ペリカン":
+    - /url: https://www.konan-gazai.net/products/index/search:ペリカン
+    - listitem: ペリカン
+  - link "吉祥":
+    - /url: https://www.konan-gazai.net/products/index/search:吉祥
+    - listitem: 吉祥
+  - link "彩雲堂":
+    - /url: https://www.konan-gazai.net/products/index/search:彩雲堂
+    - listitem: 彩雲堂
+  - link "ナカガワ胡粉":
+    - /url: https://www.konan-gazai.net/products/index/search:ナカガワ胡粉
+    - listitem: ナカガワ胡粉
+- img "QRコードによる会員登録"
+- paragraph:
+  - img "qrcode"
+  - text: 新製品のご紹介やセールのご案内等さまざまな情報を配信させていただきます。
+- img "神戸の画材・額縁専門店、阪神間屈指の品揃えの甲南画材"
+- paragraph:
+  - text: 神戸の画材・額縁専門店、株式会社 甲南画材オフィシャルサイトへようこそ！
+  - text: 当店では、初心者から画家・プロデザイナーの方までご利用いただけるよう、額縁・油絵具・水彩絵具・アクリル絵具・デザイン用品・コミック材料・色鉛筆など豊富に取り揃えています。
+  - text: （ホルベイン、アルテージュ、クサカベ、リキテックス、マツダ、ウィンザー＆ニュートンなど）阪神間屈指の品揃えです！
+  - text: 是非一度お越しください！
+- img "おすすめ商品"
+- list:
+  - link "IMG_1876":
+    - /url: https://www.konan-gazai.net/products/view/214
+    - img "IMG_1876"
+  - link "IMG_1375":
+    - /url: https://www.konan-gazai.net/products/view/71
+    - img "IMG_1375"
+  - link "IMG_1358":
+    - /url: https://www.konan-gazai.net/products/view/69
+    - img "IMG_1358"
+  - link "244_256x190":
+    - /url: https://www.konan-gazai.net/products/view/36
+    - img "244_256x190"
+  - link "IMG_1900":
+    - /url: https://www.konan-gazai.net/products/view/218
+    - img "IMG_1900"
+  - link "IMG_1579":
+    - /url: https://www.konan-gazai.net/products/view/184
+    - img "IMG_1579"
+  - link "IMG_1874":
+    - /url: https://www.konan-gazai.net/products/view/217
+    - img "IMG_1874"
+- img "よくあるご質問"
+- link "イメージ画像":
+  - /url: qanda.html
+  - img "イメージ画像"
+- paragraph:
+  - text: 甲南画材では、お客様の素朴な疑問にお答えします。
+  - text: また、過去ご相談いただいたご質問も一覧で紹介させていただいております。
+  - text: お気軽にご相談ください。
+- img "額装相談コーナー"
+- link "イメージ画像":
+  - /url: orderframe.html
+  - img "イメージ画像"
+- paragraph:
+  - text: お客様の指定するサイズに、フレームを加工いたします。
+  - text: 既存のフレームに満足できないお客様は、甲南画材のオーダーメードサービスをご利用ください。
+- img "商品のご注文"
+- img "イメージ画像"
+- paragraph:
+  - text: 商品のご注文は、メール又は、FAXにてお伺いさせていただきます。
+  - text: 弊社ホームページでご紹介しております商品や、その他ご希望の商品がございましたら、お手数ですがお問い合わせコーナー又は、FAXにて商品名・数量をご連絡ください。
+  - text: 折り返し弊社よりお買い上げ金額・納期等のご連絡をさせていただきます。
+- paragraph:
+  - link "メールフォームはこちら":
+    - /url: contact.html
+    - img "メールフォームはこちら"
+- img "お知らせ"
+- term: 2026/8/12
+- definition:
+  - link "夏季休業のお知らせ":
+    - /url: news/index/page:1#268
+- term: 2025/12/24
+- definition:
+  - link "年末年始の営業時間のお知らせ":
+    - /url: news/index/page:1#267
+- term: 2025/8/12
+- definition:
+  - link "夏季休業のお知らせ":
+    - /url: news/index/page:1#266
+- term: 2024/12/24
+- definition:
+  - link "年末年始の営業日":
+    - /url: news/index/page:1#265
+- term: 2024/8/9
+- definition:
+  - link "夏季休業のお知らせ":
+    - /url: news/index/page:1#264
+- term: 2023/12/13
+- definition:
+  - link "年末年始の営業":
+    - /url: news/index/page:1#263
+- term: 2023/7/25
+- definition:
+  - link "夏季休業のお知らせ":
+    - /url: news/index/page:1#261
+- term: 2022/12/27
+- definition:
+  - link "年末年始の営業日":
+    - /url: news/index/page:1#260
+- term: 2022/8/13
+- definition:
+  - link "夏季休業のお知らせ":
+    - /url: news/index/page:1#259
+- term: 2022/2/2
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:1#258
+- term: 2021/12/24
+- definition:
+  - link "年末年始の臨時休業":
+    - /url: news/index/page:2#257
+- term: 2021/8/11
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:2#256
+- term: 2021/5/1
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:2#255
+- term: 2021/4/8
+- definition:
+  - link "住吉店営業開始":
+    - /url: news/index/page:2#254
+- term: 2021/3/12
+- definition:
+  - link "移転準備の為休業":
+    - /url: news/index/page:2#253
+- term: 2021/1/30
+- definition:
+  - link "2月の臨時休業":
+    - /url: news/index/page:2#252
+- term: 2021/1/9
+- definition:
+  - link "移転準備の在庫処分セール":
+    - /url: news/index/page:2#251
+- term: 2021/1/9
+- definition:
+  - link "店舗移転のお知らせ":
+    - /url: news/index/page:2#250
+- term: 2020/12/23
+- definition:
+  - link "年末・年始の営業について":
+    - /url: news/index/page:2#249
+- term: 2020/9/28
+- definition:
+  - link "営業時間変更のお知らせ":
+    - /url: news/index/page:2#248
+- term: 2020/8/3
+- definition:
+  - link "夏季臨時休業のお知らせ":
+    - /url: news/index/page:3#247
+- term: 2020/7/20
+- definition:
+  - link "営業時間について":
+    - /url: news/index/page:3#246
+- term: 2020/7/1
+- definition:
+  - link "営業時間変更のお知らせ":
+    - /url: news/index/page:3#245
+- term: 2020/6/15
+- definition:
+  - link "６月１６日の営業時間変更のお知らせ":
+    - /url: news/index/page:3#244
+- term: 2020/5/2
+- definition:
+  - link "連休明けの営業予定について":
+    - /url: news/index/page:3#243
+- term: 2020/4/28
+- definition:
+  - link "WEB発注について":
+    - /url: news/index/page:3#242
+- term: 2020/4/25
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:3#241
+- term: 2020/4/9
+- definition:
+  - link "営業時間変更のお知らせ":
+    - /url: news/index/page:3#240
+- term: 2020/1/24
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:3#239
+- term: 2019/12/23
+- definition:
+  - link "年末年始の営業日について":
+    - /url: news/index/page:3#238
+- term: 2019/12/9
+- definition:
+  - link "歳末バーゲンセール開催":
+    - /url: news/index/page:4#237
+- term: 2019/8/2
+- definition:
+  - link "夏季臨時休業のお知らせ":
+    - /url: news/index/page:4#236
+- term: 2019/7/20
+- definition:
+  - link "夏のセール開催いたします":
+    - /url: news/index/page:4#235
+- term: 2019/4/24
+- definition:
+  - link "ゴールデンウィークの臨時休業":
+    - /url: news/index/page:4#234
+- term: 2019/1/21
+- definition:
+  - link "臨時休業と定休日変更のお知らせ":
+    - /url: news/index/page:4#233
+- term: 2018/12/27
+- definition:
+  - link "年末年始の営票日について":
+    - /url: news/index/page:4#232
+- term: 2018/12/7
+- definition:
+  - link "歳末バーゲンセール開催":
+    - /url: news/index/page:4#231
+- term: 2018/11/5
+- definition:
+  - link "得用スケッチブック３種発売！":
+    - /url: news/index/page:4#230
+- term: 2018/11/5
+- definition:
+  - link "アルシュ水彩紙４＋１パック入荷しました！":
+    - /url: news/index/page:4#229
+- term: 2018/11/5
+- definition:
+  - link "高級シックキャンバス現品処分‼":
+    - /url: news/index/page:4#228
+- term: 2018/9/14
+- definition:
+  - link "定休日のお知らせ":
+    - /url: news/index/page:5#227
+- term: 2018/8/4
+- definition:
+  - link "夏季臨時休業のお知らせ":
+    - /url: news/index/page:5#226
+- term: 2018/7/13
+- definition:
+  - link "夏のセールと臨時休業のお知らせ":
+    - /url: news/index/page:5#225
+- term: 2018/5/21
+- definition:
+  - link "定休日再開のお知らせ":
+    - /url: news/index/page:5#224
+- term: 2018/4/29
+- definition:
+  - link "臨時休業のお知らせ5":
+    - /url: news/index/page:5#223
+- term: 2017/12/29
+- definition:
+  - link "年末年始臨時休業のお知らせ":
+    - /url: news/index/page:5#197
+- term: 2017/12/6
+- definition:
+  - link "歳末バーゲンセール開催！":
+    - /url: news/index/page:5#196
+- term: 2017/9/4
+- definition:
+  - link "ホルベイン画材より新発売!!『ホワイトアイビス』":
+    - /url: news/index/page:5#190
+- term: 2017/8/5
+- definition:
+  - link "夏季臨時休業のお知らせ":
+    - /url: news/index/page:5#179
+- term: 2017/7/16
+- definition:
+  - link "恒例！夏のセール開催中！":
+    - /url: news/index/page:5#175
+- term: 2017/5/27
+- definition:
+  - link "商品紹介について":
+    - /url: news/index/page:6#153
+- term: 2017/4/30
+- definition:
+  - link "ゴールデンウィークの臨時休業":
+    - /url: news/index/page:6#152
+- term: 2016/12/29
+- definition:
+  - link "年末年始の臨時休業":
+    - /url: news/index/page:6#151
+- term: 2016/12/7
+- definition:
+  - link "歳末バーゲンセール開催":
+    - /url: news/index/page:6#150
+- term: 2016/9/30
+- definition:
+  - link "営業日について":
+    - /url: news/index/page:6#149
+- term: 2016/8/6
+- definition:
+  - link "夏季臨時休業のご連絡":
+    - /url: news/index/page:6#148
+- term: 2016/7/15
+- definition:
+  - link "★在庫処分品！！仮縁大特価５０%引きセール！！★":
+    - /url: news/index/page:6#141
+- term: 2016/7/13
+- definition:
+  - link "夏のセール開催‼":
+    - /url: news/index/page:6#139
+- term: 2016/4/27
+- definition:
+  - link "臨時休業のお知らせ":
+    - /url: news/index/page:6#138
+- term: 2015/12/27
+- definition:
+  - link "年末・年始の営業日について":
+    - /url: news/index/page:6#130
+- term: 2015/12/6
+- definition:
+  - link "歳末ﾊﾞｰｹﾞﾝｾｰﾙ開催":
+    - /url: news/index/page:7#127
+    - paragraph: 歳末ﾊﾞｰｹﾞﾝｾｰﾙ開催
+- term: 2015/8/22
+- definition:
+  - link "価格改定のお知らせ":
+    - /url: news/index/page:7#94
+    - paragraph: 価格改定のお知らせ
+- term: 2015/8/8
+- definition:
+  - link "夏季臨時休業のお知らせ":
+    - /url: news/index/page:7#57
+- term: 2015/7/27
+- definition:
+  - link "ホームページリニューアル致しました。":
+    - /url: news/index/page:7#47
+- term: 2015/7/14
+- definition:
+  - link "夏のセール開催":
+    - /url: news/index/page:7#34
+- img "Facebook"
+- blockquote:
+  - link "甲南画材":
+    - /url: https://www.facebook.com/%E7%94%B2%E5%8D%97%E7%94%BB%E6%9D%90-1647628802155626/
+- contentinfo:
+  - paragraph:
+    - link "HOME":
+      - /url: index.html
+    - text: "|"
+    - link "商品紹介":
+      - /url: products.html
+    - text: ｜
+    - link "額装相談コーナー":
+      - /url: orderframe.html
+    - text: ｜
+    - link "会社案内":
+      - /url: company.html
+    - text: ｜
+    - link "店舗案内":
+      - /url: company.html#store
+    - text: ｜
+    - link "お問い合わせ":
+      - /url: contact.html
+  - link "甲南画材":
+    - /url: index.html
+    - img "甲南画材"
+  - paragraph:
+    - text: 〒658-0052
+    - text: 兵庫県神戸市東灘区住吉東町2-3-20 フォルザ住吉
+    - text: 休日：日曜・祝祭日 ※年末年始、GW、夏季休業
+    - text: 営業時間：10：00～19：00
+  - img "Copyright (C) 2015 株式会社甲南画材 All Rights Reserved."
+- generic "Scroll Back to Top":

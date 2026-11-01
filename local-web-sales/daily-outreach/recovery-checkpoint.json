@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 326,
+  "verified_sent_last_known": 327,
   "target": 450,
-  "remaining_unsent_target": 124,
+  "remaining_unsent_target": 123,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -50,7 +50,8 @@
     "noncurante",
     "central-sports",
     "sakashita",
-    "ed-couture"
+    "ed-couture",
+    "aoisha"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -94,19 +95,20 @@
     "noncurante",
     "central-sports",
     "sakashita",
-    "ed-couture"
+    "ed-couture",
+    "aoisha"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 40,
+  "prepared_count_in_recovery": 41,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "b67dc85",
-  "resume_note": "326/450 verified sent. ed-couture Gmail SENT 1a19692640c4fcdd. 2 additional holds: unique-watch no verified issue; kanda-shugei already sent under 神田商事. Continue discovery.",
+  "last_pushed_commit": "95486ee",
+  "resume_note": "327/450 verified sent. aoisha Gmail SENT 1a1969a22476ecee. Continue discovery; artarts.jp unreviewed, duplicate check empty.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 328,
-    "remaining_preparations": 122,
+    "completed_prepared_or_sent": 329,
+    "remaining_preparations": 121,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -157,7 +159,8 @@
     "noncurante",
     "central-sports",
     "sakashita",
-    "ed-couture"
+    "ed-couture",
+    "aoisha"
   ],
   "remaining_prepared_unsent": 2
 }
