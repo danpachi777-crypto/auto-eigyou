@@ -1,0 +1,87 @@
+{
+  "company": "カラマツトレイン 塩尻店",
+  "industry": "鉄道用品・模型販売買取",
+  "region": "長野県塩尻市",
+  "email": "tencho@karamatsu-train.jp",
+  "email_source": "https://www.karamatsu-train.jp/",
+  "website_url": "https://www.karamatsu-train.jp/shiogiri-index.htm",
+  "discovery_source": "https://www.google.com/maps/search/?api=1&query=カラマツトレイン長野店",
+  "checked_at": "2026-11-01T12:06:07.745Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 15,
+    "url": "https://www.google.com/maps/search/?api=1&query=カラマツトレイン長野店",
+    "identity": "検索結果の塩尻店。住所大門八番町12-27、電話0263-53-6111、公式URL一致。長野店5.0/1と区別。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.karamatsu-train.jp/shiogiri-index.htm",
+    "service": "http://www.karamatsu-train.jp/shiojiri/shiojiri-mini168.html",
+    "contact": "https://www.karamatsu-train.jp/toiawase/toiawase.htm"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで問い合わせ本文の右端が画面外。問い合わせページ幅795px、店舗ページ910px、入荷1069px。1280px比較と6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "本部トップ2026/11/1更新の一般質問相談メールtencho@karamatsu-train.jp、塩尻店mailtoも同じ。旧共通ページはco.jpだが現行本部・店ページのjpを使用。両ドメイン重複0。"
+    },
+    {
+      "item": 3,
+      "result": "店舗所在地、11〜18時、水木定休、11/1更新、鉄道用品販売と買取を確認。"
+    },
+    {
+      "item": 4,
+      "result": "一部画像読込不可を今回の改善指摘にしない。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話メール案内保持。予約は在庫確認後に受付番号案内で成立する説明を保持。"
+    },
+    {
+      "item": 6,
+      "result": "古い携帯サイト告知はリンク無し。現在のMaps指定店舗ページをレビュー。長野店は口コミ1件で対象外。店舗横断で同一企業への送信は今回1件だけ。営業拒否は確認範囲になし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.karamatsu-train.jp/toiawase/toiawase.htm",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、ご予約・お問い合わせ案内が横幅795pxの配置で表示され、予約方法などの説明文の右側が画面外に隠れていました。",
+      "proposal": "狭い画面幅では予約方法と問い合わせ案内を縦に並べ、説明文が画面内で折り返して読める配置に整える",
+      "evidence_path": "evidence/karamatsu-shiojiri/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "karamatsu-train.jp",
+      "karamatsu-train.co.jp",
+      "カラマツトレイン",
+      "tencho@karamatsu-train.jp"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.miyake-shouten.jp/",
+      "note": "入荷情報と問い合わせの区分を参照。転用なし。"
+    },
+    {
+      "url": "https://www.popondetta.com/",
+      "note": "ブラウザーで販売・買取・店舗案内分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.google.com/maps/search/?api=1&query=カラマツトレイン長野店"
+  ]
+}

@@ -1,0 +1,142 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: カラマツトレイン長野店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main:
+    - feed "「カラマツトレイン長野店」の検索結果":
+      - article:
+        - link "カラマツトレイン長野店" [active]:
+          - /url: https://www.google.com/maps/place/%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%84%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3%E9%95%B7%E9%87%8E%E5%BA%97/data=!4m7!3m6!1s0x601d87002c5fb2f7:0x532e05bf16695a6c!8m2!3d36.6415626!4d138.1902892!16s%2Fg%2F11ybhgf1h3!19sChIJ97JfLACHHWARbFppFr8FLlM?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: カラマツトレイン長野店
+        - generic: カラマツトレイン長野店
+        - img "5.0 つ星 クチコミ 1 件":
+          - text: "5.0"
+          - text: (1)
+        - generic: 鉄道模型店
+        - generic: · 栗田１０１５ ＮＫコーポ
+        - generic: "営業時間外 · 営業開始: 11:00（月）"
+        - generic: · 026-219-3166
+        - link "「カラマツトレイン長野店」のウェブサイトにアクセス":
+          - /url: https://www.karamatsu-train.jp/nagano-index.htm
+          - generic: 
+          - generic: ウェブサイト
+        - button "カラマツトレイン長野店 へのルート検索":
+          - generic: 
+          - generic: ルート・乗換
+      - article:
+        - link "カラマツトレイン 新宿店":
+          - /url: https://www.google.com/maps/place/%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%84%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3+%E6%96%B0%E5%AE%BF%E5%BA%97/data=!4m7!3m6!1s0x60188cd164fa50b1:0x32449f19c2defad0!8m2!3d35.6886401!4d139.6966903!16s%2Fg%2F1hc9fw638!19sChIJsVD6ZNGMGGAR0PrewhmfRDI?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: カラマツトレイン 新宿店
+        - generic: カラマツトレイン 新宿店
+        - img "4.1 つ星 クチコミ 68 件":
+          - text: "4.1"
+          - text: (68)
+        - generic: ホビーショップ
+        - text: ·
+        - img "車椅子対応の入り口なし":
+          - generic: 
+        - generic: · 西新宿１丁目１４−１０ ３階
+        - generic: "営業時間外 · 営業開始: 12:00（月）"
+        - generic: · 03-3342-0027
+        - link "「カラマツトレイン 新宿店」のウェブサイトにアクセス":
+          - /url: https://www.karamatsu-train.jp/shinjuuku-index.htm
+          - generic: 
+          - generic: ウェブサイト
+        - button "カラマツトレイン 新宿店 へのルート検索":
+          - generic: 
+          - generic: ルート・乗換
+        - generic: "\"だいぶ昔にJR東日本の運転士のカバンを買えてよかった。\""
+      - article:
+        - link "カラマツトレイン 神田駅前店":
+          - /url: https://www.google.com/maps/place/%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%84%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3+%E7%A5%9E%E7%94%B0%E9%A7%85%E5%89%8D%E5%BA%97/data=!4m7!3m6!1s0x60188c02289a35c5:0xa8d2ec4a1ae38efb!8m2!3d35.6926589!4d139.7709246!16s%2Fg%2F11clvb3lzr!19sChIJxTWaKAKMGGAR-47jGkrs0qg?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: カラマツトレイン 神田駅前店
+        - generic: カラマツトレイン 神田駅前店
+        - img "3.7 つ星 クチコミ 46 件":
+          - text: "3.7"
+          - text: (46)
+        - generic: ホビーショップ
+        - text: ·
+        - img "車椅子対応の入り口なし":
+          - generic: 
+        - generic: · 内神田３丁目２０−１ ４階
+        - generic: "営業時間外 · 営業開始: 12:00（月）"
+        - generic: · 03-3255-3255
+        - link "「カラマツトレイン 神田駅前店」のウェブサイトにアクセス":
+          - /url: http://www.karamatsu-train.jp/kandaakiba-index.htm
+          - generic: 
+          - generic: ウェブサイト
+        - button "カラマツトレイン 神田駅前店 へのルート検索":
+          - generic: 
+          - generic: ルート・乗換
+        - generic: 実店舗の営業
+      - article:
+        - link "カラマツトレイン塩尻店":
+          - /url: https://www.google.com/maps/place/%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%84%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3%E5%A1%A9%E5%B0%BB%E5%BA%97/data=!4m7!3m6!1s0x601d04edaa5f05bf:0x791927373b293c31!8m2!3d36.1146387!4d137.9492071!16s%2Fg%2F11c6tws5bd!19sChIJvwVfqu0EHWARMTwpOzcnGXk?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: カラマツトレイン塩尻店
+        - generic: カラマツトレイン塩尻店
+        - img "4.1 つ星 クチコミ 15 件":
+          - text: "4.1"
+          - text: (15)
+        - generic: 鉄道模型店
+        - generic: · 大門八番町１２−２７
+        - generic: "営業時間外 · 営業開始: 11:00（月）"
+        - generic: · 0263-53-6111
+        - link "「カラマツトレイン塩尻店」のウェブサイトにアクセス":
+          - /url: https://www.karamatsu-train.jp/shiogiri-index.htm
+          - generic: 
+          - generic: ウェブサイト
+        - button "カラマツトレイン塩尻店 へのルート検索":
+          - generic: 
+          - generic: ルート・乗換
+        - generic: "\"鉄道ファンでなくとも一度は行ってみると懐かしいものに出会えるかもしれません！\""
+      - paragraph:
+        - generic: リストの最後に到達しました。
+    - checkbox "地図の移動後に結果を更新":
+      - generic: 
+      - text: 地図の移動後に結果を更新
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "20 km": 20 km
