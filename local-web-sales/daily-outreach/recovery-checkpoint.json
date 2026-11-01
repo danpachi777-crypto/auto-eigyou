@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 367,
+  "verified_sent_last_known": 368,
   "target": 450,
-  "remaining_unsent_target": 83,
+  "remaining_unsent_target": 82,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -89,7 +89,8 @@
     "flowershopnakamura",
     "circle-kk",
     "p-grandeur",
-    "leafkiyosato"
+    "leafkiyosato",
+    "stream"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -172,11 +173,12 @@
     "flowershopnakamura",
     "circle-kk",
     "p-grandeur",
-    "leafkiyosato"
+    "leafkiyosato",
+    "stream"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 79,
+  "prepared_count_in_recovery": 80,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "e149006",
@@ -276,8 +278,9 @@
     "flowershopnakamura",
     "circle-kk",
     "p-grandeur",
-    "leafkiyosato"
+    "leafkiyosato",
+    "stream"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 79
+  "prepared_count": 80
 }

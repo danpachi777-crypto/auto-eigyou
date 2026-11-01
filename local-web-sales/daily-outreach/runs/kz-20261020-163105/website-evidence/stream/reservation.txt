@@ -1,0 +1,590 @@
+- table:
+  - rowgroup:
+    - row
+    - row "Top | 設備 | 料理 | 部屋の種類・料金 | 空室とご予約 | ヒーリング | 交通 | お得な情報 | 写真集 | お祝い事 | 観光･SPORTS | ネット接続 | ご家族 | 生中継 | ゲストの声 | stream club | Owner | English":
+      - cell "Top | 設備 | 料理 | 部屋の種類・料金 | 空室とご予約 | ヒーリング | 交通 | お得な情報 | 写真集 | お祝い事 | 観光･SPORTS | ネット接続 | ご家族 | 生中継 | ゲストの声 | stream club | Owner | English":
+        - link "Top":
+          - /url: ../index.html
+        - text: "|"
+        - link "設備":
+          - /url: ../equip.html
+        - text: "|"
+        - link "料理":
+          - /url: ../diner.html
+        - text: "|"
+        - link "部屋の種類・料金":
+          - /url: ../charge.html
+        - text: "|"
+        - link "空室とご予約":
+          - /url: ../reserve/index.html
+        - text: "|"
+        - link "ヒーリング":
+          - /url: ../healing.html
+        - text: "|"
+        - link "交通":
+          - /url: ../traf.html
+        - text: "|"
+        - link "お得な情報":
+          - /url: ../discount.html
+        - text: "|"
+        - link "写真集":
+          - /url: ../photo.html
+        - text: "|"
+        - link "お祝い事":
+          - /url: ../s-day/index.html
+        - text: "|"
+        - link "観光･SPORTS":
+          - /url: ../kanko.html
+        - text: "|"
+        - link "ネット接続":
+          - /url: ../commu.html
+        - text: "|"
+        - link "ご家族":
+          - /url: ../familly.html
+        - text: "|"
+        - link "生中継":
+          - /url: ../webcam/index.html
+        - text: "|"
+        - link "ゲストの声":
+          - /url: ../guest.html
+        - text: "|"
+        - link "stream club":
+          - /url: ../club/index.html
+        - text: "|"
+        - link "Owner":
+          - /url: ../owner.html
+        - text: "|"
+        - link "English":
+          - /url: ../english.html
+- separator
+- table:
+  - rowgroup:
+    - row:
+      - cell:
+        - table:
+          - rowgroup:
+            - row
+            - row "空室状況 | ご予約フォーム":
+              - cell "空室状況 | ご予約フォーム":
+                - link "空室状況":
+                  - /url: "#aki"
+                - text: "|"
+                - link "ご予約フォーム":
+                  - /url: "#reserve-form"
+        - generic: 空 室 状 況
+        - separator
+        - generic: 休前日は常に満室となりますので、ご予約はお早めにお願いします。
+        - separator
+        - text: 御予約は、下記に御記入いただくか、直接電話でお願いします。
+        - text: 希望の部屋の種類がない場合があるので、できたら第６希望までお知らせ下さい。
+        - text: また、様々な特典のある
+        - link "ストリームクラブ":
+          - /url: ../club/index.html
+        - text: への登録（無料）も同時に行えます。
+        - table:
+          - rowgroup:
+            - row "現在、アフターコロナ対策の無人チェックインのため、 ご予約を「じゃらん」「楽天」にてカード決済のみの受付です。直接予約は中止中です。 料金や料理はじゃらんの価格・料理となります。(３歳未満無料も実施していません) 特別な日を除きじゃら等んが大変お得です。":
+              - text: 現在、アフターコロナ対策の無人チェックインのため、
+              - text: ご予約を「じゃらん」「楽天」にてカード決済のみの受付です。直接予約は中止中です。
+              - text: 料金や料理はじゃらんの価格・料理となります。(３歳未満無料も実施していません)
+              - text: 特別な日を除きじゃら等んが大変お得です。
+        - separator
+        - generic: ご 予 約 フ ォ ー ム
+        - table:
+          - rowgroup:
+            - row "月 日 1月 1日 着 1月 月 1日 発 1泊2日 2食":
+              - rowheader "月 日"
+              - cell "1月 1日 着 1月 月 1日 発 1泊2日 2食":
+                - combobox:
+                  - option "1月" [selected]
+                  - option "2月"
+                  - option "3月"
+                  - option "4月"
+                  - option "5月"
+                  - option "6月"
+                  - option "7月"
+                  - option "8月"
+                  - option "9月"
+                  - option "10月"
+                  - option "11月"
+                  - option "12月"
+                - combobox:
+                  - option "1日" [selected]
+                  - option "2日"
+                  - option "3日"
+                  - option "4日"
+                  - option "5日"
+                  - option "6日"
+                  - option "7日"
+                  - option "8日"
+                  - option "9日"
+                  - option "10日"
+                  - option "11日"
+                  - option "12日"
+                  - option "13日"
+                  - option "14日"
+                  - option "15日"
+                  - option "16日"
+                  - option "17日"
+                  - option "18日"
+                  - option "19日"
+                  - option "20日"
+                  - option "21日"
+                  - option "22日"
+                  - option "23日"
+                  - option "24日"
+                  - option "25日"
+                  - option "26日"
+                  - option "27日"
+                  - option "28日"
+                  - option "29日"
+                  - option "30日"
+                  - option "31日"
+                - text: 着
+                - combobox:
+                  - option "1月" [selected]
+                  - option "2月"
+                  - option "3月"
+                  - option "4月"
+                  - option "5月"
+                  - option "6月"
+                  - option "7月"
+                  - option "8月"
+                  - option "9月"
+                  - option "10月"
+                  - option "11月"
+                  - option "12月"
+                - text: 月
+                - combobox:
+                  - option "1日" [selected]
+                  - option "2日"
+                  - option "3日"
+                  - option "4日"
+                  - option "5日"
+                  - option "6日"
+                  - option "7日"
+                  - option "8日"
+                  - option "9日"
+                  - option "10日"
+                  - option "11日"
+                  - option "12日"
+                  - option "13日"
+                  - option "14日"
+                  - option "15日"
+                  - option "16日"
+                  - option "17日"
+                  - option "18日"
+                  - option "19日"
+                  - option "20日"
+                  - option "21日"
+                  - option "22日"
+                  - option "23日"
+                  - option "24日"
+                  - option "25日"
+                  - option "26日"
+                  - option "27日"
+                  - option "28日"
+                  - option "29日"
+                  - option "30日"
+                  - option "31日"
+                - text: 発
+                - combobox:
+                  - option "1泊2日" [selected]
+                  - option "2泊3日"
+                  - option "3泊4日"
+                  - option "4泊5日"
+                  - option "5泊6日"
+                - combobox:
+                  - option "1食"
+                  - option "2食" [selected]
+                  - option "3食（1泊目夕食なし）"
+                  - option "4食"
+                  - option "5食（1泊目夕食なし）"
+                  - option "6食"
+                  - option "7食（1泊目夕食なし）"
+                  - option "8食"
+                  - option "9食（1泊目夕食なし）"
+                  - option "10食"
+            - 'row "ご 人 数 大 人: 2名 小学生: 0名 幼児（３ー６才）: 0名 乳児（３才未満）: 0名 乳児のお食事の要否： 不要 幼児・乳児のご年齢（乳児は○才○カ月）："':
+              - rowheader "ご 人 数"
+              - 'cell "大 人: 2名 小学生: 0名 幼児（３ー６才）: 0名 乳児（３才未満）: 0名 乳児のお食事の要否： 不要 幼児・乳児のご年齢（乳児は○才○カ月）："':
+                - text: "大 人:"
+                - combobox:
+                  - option "1名"
+                  - option "2名" [selected]
+                  - option "3名"
+                  - option "4名"
+                  - option "5名"
+                  - option "6名"
+                  - option "7名"
+                  - option "8名"
+                  - option "9名"
+                  - option "10名"
+                  - option "11名"
+                  - option "12名"
+                  - option "13名"
+                  - option "14名"
+                  - option "15名"
+                  - option "他"
+                - text: 小学生
+                - text: ":"
+                - combobox:
+                  - option "0名" [selected]
+                  - option "1名"
+                  - option "2名"
+                  - option "3名"
+                  - option "4名"
+                  - option "5名"
+                  - option "6名"
+                  - option "7名"
+                  - option "8名"
+                  - option "9名"
+                  - option "10名"
+                  - option "他"
+                - text: "幼児（３ー６才）:"
+                - combobox:
+                  - option "0名" [selected]
+                  - option "1名"
+                  - option "2名"
+                  - option "3名"
+                  - option "4名"
+                  - option "5名"
+                  - option "6名"
+                  - option "7名"
+                  - option "8名"
+                  - option "9名"
+                  - option "10名"
+                  - option "他"
+                - text: "乳児（３才未満）:"
+                - combobox:
+                  - option "0名" [selected]
+                  - option "1名"
+                  - option "2名"
+                  - option "3名"
+                  - option "4名"
+                  - option "5名"
+                  - option "6名"
+                  - option "7名"
+                  - option "8名"
+                  - option "9名"
+                  - option "10名"
+                  - option "他"
+                - paragraph:
+                  - text: 乳児のお食事の要否：
+                  - combobox:
+                    - option "不要" [selected]
+                    - option "必要(離乳食)"
+                    - option "必要(お子様ランチ)"
+                  - text: 幼児・乳児のご年齢（乳児は○才○カ月）：
+                  - textbox
+            - row "お 料 理 ●コース料理 ・・・予約時に選択して下さい。（部屋毎で同一料理となります。）":
+              - rowheader "お 料 理"
+              - cell "●コース料理 ・・・予約時に選択して下さい。（部屋毎で同一料理となります。）":
+                - combobox:
+                  - option "●コース料理" [selected]
+                  - option "●那須豆乳で牛しゃぶしゃぶ食放題"
+                - text: ・・・予約時に選択して下さい。（部屋毎で同一料理となります。）
+            - row "各種サービス (税別) ○特別料理（一人当り2000円増） 不要 ○高級栃木牛 不要 ・・・牛しゃぶしゃぶコースの方のみ ○部屋食（一人当り1000円増） 不要（食堂で皆様と） ・・・和室,露天付和洋DXに限定 ○イン/アウト時間延長 通常(IN:15時-OUT:10時) ・・・部屋数限定 ○お祝い事 不要 ○ヒーリング 不要 ・・人数 0名 時頃希望（18-20時はお避け下さい）":
+              - rowheader "各種サービス (税別)":
+                - text: 各種サービス
+                - text: (税別)
+              - cell "○特別料理（一人当り2000円増） 不要 ○高級栃木牛 不要 ・・・牛しゃぶしゃぶコースの方のみ ○部屋食（一人当り1000円増） 不要（食堂で皆様と） ・・・和室,露天付和洋DXに限定 ○イン/アウト時間延長 通常(IN:15時-OUT:10時) ・・・部屋数限定 ○お祝い事 不要 ○ヒーリング 不要 ・・人数 0名 時頃希望（18-20時はお避け下さい）":
+                - text: ○特別料理（一人当り2000円増）
+                - combobox:
+                  - option "不要" [selected]
+                  - option "★特別料理を追加"
+                - text: ○高級栃木牛
+                - combobox:
+                  - option "不要" [selected]
+                  - option "★高級栃木牛(一人当り200g,2000円増)を追加"
+                  - option "★最高級栃木牛(一人当り200g,4000円増)を追加"
+                  - option "★超最高級栃木牛(一人当り200g,5000円増)を追加"
+                  - option "★超最高級栃木牛(食放題,7000円増)を追加"
+                - text: ・・・牛しゃぶしゃぶコースの方のみ
+                - text: ○部屋食（一人当り1000円増）
+                - combobox:
+                  - option "不要（食堂で皆様と）" [selected]
+                  - option "★部屋食を希望"
+                - text: ・・・和室,露天付和洋DXに限定
+                - text: ○イン/アウト時間延長
+                - combobox:
+                  - option "通常(IN:15時-OUT:10時)" [selected]
+                  - option "★イン ２時間延長(IN:１３時-OUT:10時) 1000円増/人"
+                  - option "★アウト２時間延長(IN:15時-OUT:１２時) 1000円増/人"
+                  - option "★インとアウト２時間延長(IN:13時-OUT:12時) 2000円増/人"
+                - text: ・・・部屋数限定
+                - text: ○お祝い事
+                - combobox:
+                  - option "不要" [selected]
+                  - option "★お花(3600円)"
+                  - option "★シャンパン(5000円)"
+                  - option "★シャンパン(10000円)"
+                  - option "★シャンパン・ドンペリ(18000円)"
+                  - option "★お花(3600円)＋シャンパン(5000円)"
+                  - option "★お花(3600円)＋シャンパン(10000円)"
+                  - option "★お花(3600円)＋シャンパン・ドンペリ(18000円)"
+                - text: ○ヒーリング
+                - combobox:
+                  - option "不要" [selected]
+                  - option "★足裏30分(3500円)"
+                  - option "★足裏60分(6500円)"
+                  - option "★全身40分(4500円)"
+                  - option "★全身60分(6500円)"
+                  - option "★全身90分(9500円)"
+                - text: ・・人数
+                - combobox:
+                  - option "0名" [selected]
+                  - option "1名"
+                  - option "2名"
+                  - option "3名"
+                  - option "4名"
+                  - option "5名"
+                  - option "他"
+                - textbox
+                - text: 時頃希望（18-20時はお避け下さい）
+            - row "お 部 屋 1 部屋 第１希望 洋室 第２希望 おまかせ 第３希望 おまかせ 第４希望 おまかせ 第５希望 おまかせ 第６希望 おまかせ":
+              - rowheader "お 部 屋"
+              - cell "1 部屋 第１希望 洋室 第２希望 おまかせ 第３希望 おまかせ 第４希望 おまかせ 第５希望 おまかせ 第６希望 おまかせ":
+                - combobox:
+                  - option "1" [selected]
+                  - option "2"
+                  - option "3"
+                  - option "4"
+                  - option "5"
+                  - option "6"
+                  - option "7"
+                  - option "8"
+                - text: 部屋
+                - paragraph:
+                  - text: 第１希望
+                  - combobox:
+                    - option "洋室" [selected]
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ"
+                  - text: 第２希望
+                  - combobox:
+                    - option "なし"
+                    - option "洋室"
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ" [selected]
+                - paragraph:
+                  - text: 第３希望
+                  - combobox:
+                    - option "なし"
+                    - option "洋室"
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ" [selected]
+                  - text: 第４希望
+                  - combobox:
+                    - option "なし"
+                    - option "洋室"
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ" [selected]
+                - paragraph:
+                  - text: 第５希望
+                  - combobox:
+                    - option "なし"
+                    - option "洋室"
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ" [selected]
+                  - text: 第６希望
+                  - combobox:
+                    - option "なし"
+                    - option "洋室"
+                    - option "和室"
+                    - option "和室ワイド"
+                    - option "和洋室"
+                    - option "和洋ロフト"
+                    - option "洋室（専用露天付）"
+                    - option "和室（専用露天付）"
+                    - option "和洋ロフト（専用露天付）"
+                    - option "和洋室（専用露天付）"
+                    - option "和洋ＤＸ室（専用露天付）"
+                    - option "おまかせ" [selected]
+            - row "お 名 前 様":
+              - rowheader "お 名 前"
+              - cell "様":
+                - textbox
+                - text: 様
+            - row "これまでの宿泊の有無 今回、はじめての宿泊。":
+              - rowheader "これまでの宿泊の有無"
+              - cell "今回、はじめての宿泊。":
+                - combobox:
+                  - option "今回、はじめての宿泊。" [selected]
+                  - option "★以前、宿泊したことがある。"
+            - row "ストリームクラブ 非会員でもついでに登録（無料）":
+              - rowheader "ストリームクラブ"
+              - cell "非会員でもついでに登録（無料）":
+                - combobox:
+                  - option "非会員でもついでに登録（無料）" [selected]
+                  - option "非会員"
+                  - option "会 員"
+            - row "お 電 話 (半角、なるべく携帯と一般電話等連絡し易いように複数記入してください。)":
+              - rowheader "お 電 話"
+              - cell "(半角、なるべく携帯と一般電話等連絡し易いように複数記入してください。)":
+                - textbox
+                - text: (半角、なるべく携帯と一般電話等連絡し易いように複数記入してください。)
+            - row "E-mail (半角) （mailアドレスのご記入を必ずお願い致します。）":
+              - rowheader "E-mail"
+              - cell "(半角) （mailアドレスのご記入を必ずお願い致します。）":
+                - textbox
+                - text: (半角)
+                - generic: （mailアドレスのご記入を必ずお願い致します。）
+            - row "ご 住 所 郵便番号： 都道府県： 宮城県 （市区町村、番地、マンション名、部屋番号等）":
+              - rowheader "ご 住 所"
+              - cell "郵便番号： 都道府県： 宮城県 （市区町村、番地、マンション名、部屋番号等）":
+                - text: 郵便番号：
+                - textbox
+                - text: 都道府県：
+                - combobox:
+                  - option "北海道"
+                  - option "青森県"
+                  - option "秋田県"
+                  - option "岩手県"
+                  - option "山形県"
+                  - option "宮城県" [selected]
+                  - option "新潟県"
+                  - option "福島県"
+                  - option "群馬県"
+                  - option "栃木県"
+                  - option "茨城県"
+                  - option "埼玉県"
+                  - option "千葉県"
+                  - option "東京都"
+                  - option "神奈川県"
+                  - option "山梨県"
+                  - option "長野県"
+                  - option "静岡県"
+                  - option "富山県"
+                  - option "石川県"
+                  - option "岐阜県"
+                  - option "愛知県"
+                  - option "福井県"
+                  - option "滋賀県"
+                  - option "三重県"
+                  - option "京都府"
+                  - option "大阪府"
+                  - option "奈良県"
+                  - option "和歌山県"
+                  - option "兵庫県"
+                  - option "鳥取県"
+                  - option "岡山県"
+                  - option "島根県"
+                  - option "広島県"
+                  - option "山口県"
+                  - option "香川県"
+                  - option "徳島県"
+                  - option "高知県"
+                  - option "愛媛県"
+                  - option "福岡県"
+                  - option "大分県"
+                  - option "佐賀県"
+                  - option "長崎県"
+                  - option "熊本県"
+                  - option "宮崎県"
+                  - option "鹿児島県"
+                  - option "沖縄県"
+                - text: （市区町村、番地、マンション名、部屋番号等）
+                - textbox
+            - row "メ モ （スキー等パックご希望の場合はその旨をご記入して下さい）":
+              - rowheader "メ モ"
+              - cell "（スキー等パックご希望の場合はその旨をご記入して下さい）":
+                - text: （スキー等パックご希望の場合はその旨をご記入して下さい）
+                - textbox
+            - row "アンケート 当館を何で知りましたか。例) 以前宿泊/googleのXXで検索/xxのHP/xx雑誌":
+              - rowheader "アンケート"
+              - cell "当館を何で知りましたか。例) 以前宿泊/googleのXXで検索/xxのHP/xx雑誌":
+                - text: 当館を何で知りましたか。例) 以前宿泊/googleのXXで検索/xxのHP/xx雑誌
+                - textbox
+        - button "申 込"
+        - button "リセット"
+        - table:
+          - rowgroup:
+            - row "●空室状況を最終確認した後、予約確認書を電子メール（または郵便）でお送りいたします。 この予約確認書の発行によって予約が成立したこととさせていただきます。 ●24時間以内にe-mailで返事がない場合は、直接お電話をお願いします。 ●一部のブラウザでは、このフォームが機能しない場合があります。 （申込ボタンをクリックするとメールソフトが起動する場合は、送信不可能です。） このフォームでの予約ができない場合には、下記をコピーして、 電子メールで上記と同内容をお送りください。 ●チェックイン３時、チェックアウト１０時、夕食６時頃（到着が遅れる方はご連絡ください。） ●深夜のチェックインにも予め言っていただければ対応可能です。 ●キャンセルについては、宿泊約款に従いキャンセル料を請求させていただきます。":
+              - cell "●空室状況を最終確認した後、予約確認書を電子メール（または郵便）でお送りいたします。 この予約確認書の発行によって予約が成立したこととさせていただきます。 ●24時間以内にe-mailで返事がない場合は、直接お電話をお願いします。 ●一部のブラウザでは、このフォームが機能しない場合があります。 （申込ボタンをクリックするとメールソフトが起動する場合は、送信不可能です。） このフォームでの予約ができない場合には、下記をコピーして、 電子メールで上記と同内容をお送りください。 ●チェックイン３時、チェックアウト１０時、夕食６時頃（到着が遅れる方はご連絡ください。） ●深夜のチェックインにも予め言っていただければ対応可能です。 ●キャンセルについては、宿泊約款に従いキャンセル料を請求させていただきます。":
+                - text: ●空室状況を最終確認した後、予約確認書を電子メール（または郵便）でお送りいたします。
+                - text: この予約確認書の発行によって予約が成立したこととさせていただきます。
+                - text: ●24時間以内にe-mailで返事がない場合は、直接お電話をお願いします。
+                - text: ●一部のブラウザでは、このフォームが機能しない場合があります。
+                - text: （申込ボタンをクリックするとメールソフトが起動する場合は、送信不可能です。）
+                - text: このフォームでの予約ができない場合には、下記をコピーして、
+                - link "電子メール":
+                  - /url: mailto:stream@mua.biglobe.ne.jp
+                - text: で上記と同内容をお送りください。
+                - text: ●チェックイン３時、チェックアウト１０時、夕食６時頃（到着が遅れる方はご連絡ください。）
+                - text: ●深夜のチェックインにも予め言っていただければ対応可能です。
+                - text: ●キャンセルについては、宿泊約款に従いキャンセル料を請求させていただきます。
+        - separator
+        - text: －－－御予約－－－
+        - text: 宿泊日： 月 日到着、 月 日出発、 泊 日 食
+        - text: 人 数：大人 名
+        - text: 子供（小学生） 名、幼児（３ー６才） 名、乳児（３才未満） 名
+        - text: 乳児の食事有無：不要、必要（離乳食）、必要（お子様ランチ）
+        - text: 乳児の食事が必要な場合、年齢：○才○カ月
+        - text: お料理：コース料理、那須豆乳で牛しゃぶしゃぶ食放題 ←選択して下さい。
+        - text: 特別料理・サービス等の要否：
+        - text: 部 屋：
+        - text: 第１希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: 第２希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: 第３希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: 第４希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: 第５希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: 第６希望 洋室、和室、和室ワイド、和洋室、和洋ロフト、和洋ＤＸ室露天付、和洋室露天付、洋室露天付、和室露天付、和洋ロフト露天付
+        - text: （希望の部屋がない場合があるので、第１希望以外にも記述願います。）
+        - text: 部屋数：○部屋
+        - text: 氏 名：
+        - text: 以前の宿泊の有無：あり、なし
+        - text: ストリームクラブ員ですか。：会員、非会員、非会員でもついでに登録（無料）
+        - text: 電 話：
+        - text: E-mail：
+        - text: 住 所：（郵便番号） 都道府県
+        - text: 市区町村、番地、マンション名、部屋番号等：
+        - text: メ モ：
+        - separator
+        - text: ご予約、問い合せ先：
+        - generic: ペンション ストリーム
+        - generic: TEL 0287-76-2882
+        - link "stream@mua.biglobe.ne.jp":
+          - /url: mailto:stream@mua.biglobe.ne.jp
+- link "[TOP頁へ戻る]":
+  - /url: ../index.html

@@ -1,0 +1,19 @@
+- text: "[P.ストリーム]"
+- link "0287-76-2882":
+  - /url: tel:0287762882
+- text: 那須の中心バス停５分。ケーキ食放題・貸切露天、全室プレステ付
+- link "1 .特徴":
+  - /url: tokucho.html
+- link "2 .部屋・料金":
+  - /url: charge.html
+- link "3 .交通":
+  - /url: traf.html
+- link "■ライブ映像":
+  - /url: live/index.html
+- separator
+- link "[PC版HP]":
+  - /url: ../index.html
+- link "[那須高原のHP]":
+  - /url: http://www2a.biglobe.ne.jp/~nasu/i/index.html
+- link "stream@mua.biglobe.ne.jp":
+  - /url: mailto:stream@mua.biglobe.ne.jp
