@@ -1,0 +1,57 @@
+{
+  "company": "有限会社ユーハウス・イング",
+  "industry": "家具販売・修理",
+  "region": "福岡県福岡市",
+  "email": "info@u-house.net",
+  "email_source": "https://repair.u-house.net/contact 公開メールリンク",
+  "website_url": "https://repair.u-house.net/",
+  "discovery_source": "https://www.mapion.co.jp/phonebook/M02013/40134/24030171595/",
+  "checked_at": "2026-11-01T20:24:47.594Z",
+  "maps": {
+    "rating": 3.9,
+    "review_count": 26,
+    "url": "https://www.google.com/maps/search/ユーハウスイング+福岡",
+    "identity": "建物内U-houseingユーハウスイングを選択。名称・玉川町5-6・電話092-554-8700・公式u-house.net一致。本体公式から修理サブドメインへのリンクを確認。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://repair.u-house.net/",
+    "https://repair.u-house.net/type-chair",
+    "https://repair.u-house.net/contact"
+  ],
+  "review_checks": [
+    "390px問い合わせページは固定幅でラベル右・入力欄が画面外。1280pxでは入力欄表示。",
+    "修理サイトの電話・メール・フォーム・LINEへの導線確認。",
+    "修理対象、写真送付の必要事項、所在地・電話確認。",
+    "主な写真・ナビ・フォーム表示確認。",
+    "別の家具販売サイトがあるが、公式本体からこの修理サイトにリンク。修理専用モバイル代替案内なし。問い合わせ不能とは断定しない。",
+    "現行修理事例と2026年記事あり。古い見た目や更新年を問題にしない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://repair.u-house.net/contact",
+      "viewport_width": 390,
+      "observation": "家具修理サイトのお問い合わせページを幅390pxで表示すると、お名前やメールアドレスなどの入力欄が画面の右側に外れ、横に移動しないと確認できない状態",
+      "proposal": "問い合わせ項目の見出しと入力欄をスマートフォンでは縦に並べ、写真添付まで画面幅内で確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/u-house/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・本体ドメイン・社名0件。台帳・失敗宛先0件。一般問い合わせページの公開メール。閲覧範囲に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://www.riuso-upholstery.com/",
+      "note": "写真付き相談と連絡手段の分類のみ参考。固有素材・表現コピーなし。"
+    },
+    {
+      "url": "https://isu-tao.com/",
+      "note": "サービスから問い合わせまでの構造のみ参考。価格や実績転用なし。"
+    }
+  ]
+}

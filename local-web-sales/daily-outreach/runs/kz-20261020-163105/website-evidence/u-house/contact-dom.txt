@@ -1,0 +1,232 @@
+- banner:
+  - heading "お問い合わせ" [level=1]
+  - link "福岡で家具修理ならユーハウス・イング｜椅子、ソファ・テーブル・ダイニングチェアの修理・張替え":
+    - /url: https://repair.u-house.net
+  - img "TEL：0925548700"
+  - link "お問い合わせ":
+    - /url: https://repair.u-house.net/contact
+    - img "お問い合わせ"
+  - link "instagram":
+    - /url: https://www.instagram.com/repair_uhouse/
+    - img "instagram"
+  - navigation:
+    - list:
+      - link:
+        - /url: https://repair.u-house.net
+      - link "家具修理へのこだわり":
+        - /url: https://repair.u-house.net/kodawari
+        - img "家具修理へのこだわり"
+      - link "修理・張替え事例":
+        - /url: https://repair.u-house.net/jirei
+        - img "修理・張替え事例"
+      - img "家具修理の種類"
+      - link "料金目安表":
+        - /url: https://repair.u-house.net/price
+        - img "料金目安表"
+      - link "スタッフブログ":
+        - /url: https://repair.u-house.net/blog
+        - img "スタッフブログ"
+- complementary:
+  - link:
+    - /url: https://u-house.net/about/#access
+  - link:
+    - /url: https://repair.u-house.net/kodawari
+  - link "過去の事例":
+    - /url: https://repair.u-house.net/jirei
+    - img "過去の事例"
+  - list:
+    - link "テーブル":
+      - /url: https://repair.u-house.net/jirei/table
+      - img "テーブル"
+    - img "椅子"
+    - link "ソファ":
+      - /url: https://repair.u-house.net/jirei/sofa
+      - img "ソファ"
+    - link "病院・施設":
+      - /url: https://repair.u-house.net/jirei/hospital
+      - img "病院・施設"
+    - link "その他修理":
+      - /url: https://repair.u-house.net/jirei/other-facility
+      - img "その他修理"
+    - link "箪笥・桐タンス":
+      - /url: https://repair.u-house.net/jirei/tansu
+      - img "箪笥・桐タンス"
+  - list:
+    - link "テーブル":
+      - /url: https://repair.u-house.net/type-table
+      - img "テーブル"
+    - img "椅子"
+    - link "ソファ":
+      - /url: https://repair.u-house.net/type-sofa
+      - img "ソファ"
+    - link "病院・施設":
+      - /url: https://repair.u-house.net/type-hospital
+      - img "病院・施設"
+    - link "その他修理":
+      - /url: https://repair.u-house.net/type-other
+      - img "その他修理"
+    - link "箪笥・桐タンス":
+      - /url: https://repair.u-house.net/type-tansu
+      - img "箪笥・桐タンス"
+  - list:
+    - link:
+      - /url: https://repair.u-house.net/price
+    - link:
+      - /url: https://u-house.net/about/#access
+    - link:
+      - /url: https://repair.u-house.net#flow
+  - link "お問い合わせはこちら":
+    - /url: https://repair.u-house.net/contact
+    - img "お問い合わせはこちら"
+  - link "家具修理無料LINE相談":
+    - /url: https://repair.u-house.net/line
+    - img "家具修理無料LINE相談"
+  - list:
+    - text: »
+    - link "個人情報保護方針":
+      - /url: https://repair.u-house.net/privacy
+    - text: »
+    - link "サイトマップ":
+      - /url: https://repair.u-house.net/sitemap
+- heading "お問い合わせ" [level=2]:
+  - img "お問い合わせ"
+- link "HOME":
+  - /url: https://repair.u-house.net
+- text: "> お問い合わせ"
+- paragraph:
+  - text: 家具修理に関するお見積もり・ご相談は無料となっております。お気軽にご相談ください！
+  - text: お問い合わせ内容によっては、ご返答にお時間をいただく場合がございます。予めご了承ください。
+- form:
+  - status
+  - list
+  - generic: お名前 (必須)
+  - textbox
+  - generic: 郵便番号(必須)
+  - text: 〒
+  - textbox
+  - text: "-"
+  - textbox
+  - generic: ご住所(必須)
+  - textbox
+  - generic: メールアドレス (必須)
+  - textbox
+  - generic: お電話番号
+  - textbox
+  - generic: お問い合わせ内容
+  - textbox
+  - generic: 画像添付
+  - button "Choose File"
+  - text: ※複数ファイル選択可能です
+  - paragraph:
+    - checkbox
+    - text: 確認ページはございません。内容をご確認の上チェックを入れてください
+  - paragraph:
+    - button "Submit": 送信
+- link:
+  - /url: mailto:info@u-house.net?subject=修理の相談、見積り依頼&body=お名前、お電話番号、修理したい家具のお写真とサイズ、個数、ご要望をご記入ください。3日以内に当店からの返信が無い場合は、お手数ですが092-554-8700までご連絡ください。
+- link "お問い合わせはこちら":
+  - /url: https://repair.u-house.net/contact
+  - img "お問い合わせはこちら"
+- link "交通アクセス":
+  - /url: https://u-house.net/about/#access
+  - img "交通アクセス"
+- link "家具修理無料LINE相談":
+  - /url: https://repair.u-house.net/line
+  - img "家具修理無料LINE相談"
+- link "instagram更新中":
+  - /url: https://www.instagram.com/repair_uhouse/
+  - img "instagram更新中"
+- list:
+  - link:
+    - /url: https://u-house.net/about/
+  - link:
+    - /url: https://u-house.net/about/
+  - link:
+    - /url: https://u-house.net/about/
+  - link:
+    - /url: https://u-house.net/about/
+  - link:
+    - /url: https://u-house.net/about/
+  - link:
+    - /url: https://u-house.net/about/
+- paragraph: ユーハウス・イングは町の家具相談屋。木の香りが漂うお店です。お気軽にお越しください。
+- contentinfo:
+  - list:
+    - link "HOME":
+      - /url: https://repair.u-house.net
+    - link "家具修理へのこだわり":
+      - /url: https://repair.u-house.net/kodawari
+    - link "料金目安表":
+      - /url: https://repair.u-house.net/price
+    - link "店舗紹介":
+      - /url: https://u-house.net/about
+  - list:
+    - link "過去の事例":
+      - /url: https://repair.u-house.net/jirei
+    - list:
+      - link "・テーブル":
+        - /url: https://repair.u-house.net/jirei/table
+      - text: ・椅子
+      - list:
+        - link "・椅子":
+          - /url: https://repair.u-house.net/jirei/chair
+        - link "・北欧家具／木製":
+          - /url: https://repair.u-house.net/jirei/nordic-furniture_wooden
+        - link "・北欧家具／その他":
+          - /url: https://repair.u-house.net/jirei/nordic-furniture_others
+        - link "・クラシック椅子":
+          - /url: https://repair.u-house.net/jirei/classic-chair
+        - link "・ピアノ椅子／鏡台の椅子":
+          - /url: https://repair.u-house.net/jirei/piano-chair
+      - link "・ソファ":
+        - /url: https://repair.u-house.net/jirei/sofa
+      - link "・病院・施設":
+        - /url: https://repair.u-house.net/jirei/hospital
+      - link "・その他修理":
+        - /url: https://repair.u-house.net/jirei/other-facility
+      - link "・箪笥・桐タンス":
+        - /url: https://repair.u-house.net/jirei/tansu
+  - list:
+    - listitem: 家具修理の種類
+    - list:
+      - link "・テーブル":
+        - /url: https://repair.u-house.net/type-table
+      - text: ・椅子
+      - list:
+        - link "・椅子":
+          - /url: https://repair.u-house.net/type-chair
+        - link "・北欧家具／木製":
+          - /url: https://repair.u-house.net/type-nordic-furniture_wooden
+        - link "・北欧家具／その他":
+          - /url: https://repair.u-house.net/type-nordic-furniture_others
+        - link "・クラシック椅子":
+          - /url: https://repair.u-house.net/type-classic-chair
+        - link "・ピアノ椅子／鏡台の椅子":
+          - /url: https://repair.u-house.net/type-piano-chair
+      - link "・ソファ":
+        - /url: https://repair.u-house.net/type-sofa
+      - link "・病院・施設":
+        - /url: https://repair.u-house.net/type-hospital
+      - link "・その他修理":
+        - /url: https://repair.u-house.net/type-other
+      - link "・箪笥・桐タンス":
+        - /url: https://repair.u-house.net/type-tansu
+  - list:
+    - link "スタッフブログ":
+      - /url: https://repair.u-house.net/blog
+    - link "交通アクセス":
+      - /url: https://u-house.net/about/#access
+    - link "個人情報保護方針":
+      - /url: https://repair.u-house.net/privacy
+    - link "サイトマップ":
+      - /url: https://repair.u-house.net/sitemap
+    - link "お問い合わせ":
+      - /url: https://repair.u-house.net/contact
+    - link "家具修理無料LINE相談":
+      - /url: https://repair.u-house.net/line
+- paragraph:
+  - text: 福岡の家具修理倶楽部
+  - text: <有限会社 ユーハウス・イング>
+  - text: 〒815-0037 福岡県福岡市南区玉川町5-6
+  - text: TEL：092-554-8700 FAX：092-554-9900
+- generic: Copyright(c) 2015-2026 U-house/ing All Right Reseved.
