@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 325,
+  "verified_sent_last_known": 326,
   "target": 450,
-  "remaining_unsent_target": 125,
+  "remaining_unsent_target": 124,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -49,7 +49,8 @@
     "itamicoffee",
     "noncurante",
     "central-sports",
-    "sakashita"
+    "sakashita",
+    "ed-couture"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -92,19 +93,20 @@
     "itamicoffee",
     "noncurante",
     "central-sports",
-    "sakashita"
+    "sakashita",
+    "ed-couture"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 39,
+  "prepared_count_in_recovery": 40,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "7152eea",
-  "resume_note": "325/450 verified sent. sakashita Gmail SENT verified 1a1968aac2cf052d. Six screening holds recorded. Continue new prospects; do not resend.",
+  "last_pushed_commit": "b67dc85",
+  "resume_note": "326/450 verified sent. ed-couture Gmail SENT 1a19692640c4fcdd. 2 additional holds: unique-watch no verified issue; kanda-shugei already sent under 神田商事. Continue discovery.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 327,
-    "remaining_preparations": 123,
+    "completed_prepared_or_sent": 328,
+    "remaining_preparations": 122,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -154,7 +156,8 @@
     "itamicoffee",
     "noncurante",
     "central-sports",
-    "sakashita"
+    "sakashita",
+    "ed-couture"
   ],
   "remaining_prepared_unsent": 2
 }

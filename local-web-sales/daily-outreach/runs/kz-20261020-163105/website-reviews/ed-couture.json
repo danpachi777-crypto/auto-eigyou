@@ -1,0 +1,84 @@
+{
+  "company": "株式会社江戸ッ子",
+  "industry": "生地・手芸用品",
+  "region": "岐阜県岐阜市・愛知県豊橋市",
+  "email": "info@ed-couture.com",
+  "email_source": "https://www.ed-couture.com/hpgen/HPB/shop/business.html",
+  "website_url": "https://www.ed-couture.com/",
+  "discovery_source": "https://www.ekiten.jp/shop_1015344/",
+  "checked_at": "2026-11-01T10:03:02.805777+00:00",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 19,
+    "url": "https://www.google.com/maps/search/?api=1&query=江戸ッ子豊橋店",
+    "name": "江戸ッ子豊橋店",
+    "identity": "公式に掲載する営業中店舗。住所電話一致、地図公式リンクも同一サイト。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.ed-couture.com/",
+    "service": "https://www.ed-couture.com/SHOP/172545/list.html",
+    "contact": "https://www.ed-couture.com/_ga/FORM/contact.cgi"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップ・商品一覧が960px。右側の画像と商品説明が画面外。1280pxでは全体表示。6画像保存。"
+    },
+    {
+      "item": 2,
+      "result": "特商法に一般メールと電話。問い合わせリンクはNot Found表示だが今回の提案には含めない。"
+    },
+    {
+      "item": 3,
+      "result": "商品素材・カテゴリ・店舗住所電話が掲載。豊橋店のGoogleマップ4.5/19。"
+    },
+    {
+      "item": 4,
+      "result": "トップ・商品・店舗・特商法は表示。問い合わせ404は断定的な原因推測をしない。"
+    },
+    {
+      "item": 5,
+      "result": "既存のメール・電話連絡を維持する案。フォーム送信なし。"
+    },
+    {
+      "item": 6,
+      "result": "静岡店閉店告知と区別し豊橋店2026/7更新・Maps10/29オーナー告知で営業確認。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.ed-couture.com/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、トップページや織物生地・服地の一覧が横幅960pxのまま表示され、商品分類の画像や説明の右側が画面外に隠れていました。",
+      "proposal": "スマートフォンでは生地の分類と説明、問い合わせ案内を縦に並べ、画像と文章が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/ed-couture/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "江戸ッ子",
+      "ed-couture.com",
+      "210ya.co.jp"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.tomoyasyugeiten.jp/info",
+      "note": "商品分類と問い合わせの区分を確認。文章画像転用なし。"
+    },
+    {
+      "url": "https://marufab.com/",
+      "note": "商品紹介と会社案内・問い合わせを分ける構成を確認。転用なし。"
+    }
+  ]
+}
