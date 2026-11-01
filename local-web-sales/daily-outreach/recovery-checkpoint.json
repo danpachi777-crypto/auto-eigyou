@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 321,
+  "verified_sent_last_known": 322,
   "target": 450,
-  "remaining_unsent_target": 129,
+  "remaining_unsent_target": 128,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -45,7 +45,8 @@
     "ikeda-cleaning",
     "sansui-nara",
     "vivimodel",
-    "tomsouya"
+    "tomsouya",
+    "itamicoffee"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -84,29 +85,30 @@
     "ikeda-cleaning",
     "sansui-nara",
     "vivimodel",
-    "tomsouya"
+    "tomsouya",
+    "itamicoffee"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 35,
+  "prepared_count_in_recovery": 36,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "c6eeb85",
-  "resume_note": "321/450 sent; tomsouya verified SENT. 129 remaining including 2 held preparations. Next candidate seikodowatch.jp requires full checks.",
+  "last_pushed_commit": "ec8804c",
+  "resume_note": "322/450 sent; itamicoffee verified SENT. 128 remaining including 2 held preparations. Next candidate studio-toumu needs Maps and full review; Gmail company/domain/both emails query zero.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 323,
-    "remaining_preparations": 127,
+    "completed_prepared_or_sent": 324,
+    "remaining_preparations": 126,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
-    "next_candidate": "seikodowatch",
-    "next_step": "Verify 精工堂時計店 at seikodowatch.jp (no checks yet).",
-    "candidate_official_url": "https://seikodowatch.jp/company",
-    "candidate_email": "rail@vivimodel.com",
-    "candidate_maps_rating": 4.0,
-    "candidate_maps_reviews": 22,
-    "candidate_independent_source": "https://www.tochinavi.net/spot/home/?id=1141",
+    "next_candidate": "studio-toumu",
+    "next_step": "Verify Maps for スタジオ陶夢; then official pages mobile and desktop. Gmail duplicate query zero.",
+    "candidate_official_url": "https://studio-toumu.life.coocan.jp/",
+    "candidate_email": "toumu.studio@gmail.com",
+    "candidate_maps_rating": null,
+    "candidate_maps_reviews": null,
+    "candidate_independent_source": "https://www.katsushika-kushouren.jp/store/s24060/",
     "candidate_counted": false
   },
   "sent_from_recovery": [
@@ -142,7 +144,8 @@
     "ikeda-cleaning",
     "sansui-nara",
     "vivimodel",
-    "tomsouya"
+    "tomsouya",
+    "itamicoffee"
   ],
   "remaining_prepared_unsent": 2
 }

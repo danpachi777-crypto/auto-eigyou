@@ -1,0 +1,18 @@
+{
+  "company": "精工堂時計店",
+  "email": "seikodo2@eagle.ocn.ne.jp",
+  "website_url": "https://seikodowatch.jp/",
+  "checked_at": "2026-10-31T11:57:55.800583+00:00",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 37,
+    "url": "https://www.google.com/maps/search/精工堂時計店+東根"
+  },
+  "priority": "hold",
+  "status": "hold_no_clear_issue",
+  "reason": "390pxトップ・修理一覧・問い合わせ表示を確認。トップとフォームは横幅390px内に収まる。修理詳細リンクは縦折返しだが到達可能。古いフェア表示だけで現在の改善需要を断定せず保留。",
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "viewport_restored": true
+}

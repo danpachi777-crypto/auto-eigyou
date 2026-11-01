@@ -1,0 +1,76 @@
+{
+  "company": "イタミコーヒー",
+  "industry": "自家焙煎コーヒー豆販売",
+  "region": "東京都八王子市",
+  "email": "itamicoffee@nifty.com",
+  "email_source": "https://itamicoffee.la.coocan.jp/info.html",
+  "website_url": "https://itamicoffee.la.coocan.jp/",
+  "discovery_source": "https://hachioji.asthcj.jp/gourmet/coffee/hachioji-itamicoffee-w594-20260114/",
+  "checked_at": "2026-10-31T16:08:15.578608+00:00",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 32,
+    "url": "https://www.google.com/maps/search/イタミコーヒー+八王子"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://itamicoffee.la.coocan.jp/",
+    "service": "https://itamicoffee.la.coocan.jp/coffee.html",
+    "contact": "https://itamicoffee.la.coocan.jp/order.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxに対し横幅841px。商品説明と注文案内が右に欠ける。6画像保存。"
+    },
+    {
+      "item": 2,
+      "result": "電話FAXメール確認。フォームなし。"
+    },
+    {
+      "item": 3,
+      "result": "住所と電話を公式、地図、地元紹介記事で照合。"
+    },
+    {
+      "item": 4,
+      "result": "主要3ページ表示。商品画像の見た目を不具合扱いしない。"
+    },
+    {
+      "item": 5,
+      "result": "電話・FAX・メールでの注文方針維持。"
+    },
+    {
+      "item": 6,
+      "result": "商品リスト2026年9月8日更新。価格産地変更の注意書きあり。デモは価格送料を省略。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://itamicoffee.la.coocan.jp/coffee.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、コーヒー豆の説明やご注文案内が画面幅を超え、右側の文章を読むために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは商品紹介とご注文案内を縦に並べ、文章を画面幅に合わせて折り返す配置に整える",
+      "evidence_path": "evidence/itamicoffee/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "comparisons": [
+    {
+      "url": "https://www.tonya.co.jp/shop/",
+      "note": "商品分類と注文案内の一般構成を参考。文章写真転用なし。"
+    },
+    {
+      "url": "https://coffeemeikan.jp/shop/hachioji/",
+      "note": "豆販売店の店舗案内構成を参考。"
+    }
+  ]
+}
