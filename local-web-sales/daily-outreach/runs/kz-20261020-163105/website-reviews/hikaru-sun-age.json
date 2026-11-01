@@ -1,0 +1,9 @@
+{
+  "company": "ヒカル写真館",
+  "website_url": "https://hikaru.sun-age.or.jp/",
+  "reason": "ブラウザでDNS解決失敗。現行公式サイト確認不足。",
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T22:41:42.087Z",
+  "findings": []
+}
