@@ -1,0 +1,270 @@
+- paragraph
+- paragraph
+- table:
+  - rowgroup:
+    - row "名前":
+      - cell "名前":
+        - paragraph
+        - generic: 名前
+      - cell:
+        - textbox
+    - row "フリガナ":
+      - cell "フリガナ":
+        - paragraph
+        - generic: フリガナ
+      - cell:
+        - textbox
+    - row "宿泊希望日 西暦 年 1 月 1 日 ～ 年 1 月 1 日":
+      - cell "宿泊希望日":
+        - paragraph
+        - generic: 宿泊希望日
+      - cell "西暦 年 1 月 1 日 ～ 年 1 月 1 日":
+        - text: 西暦
+        - textbox
+        - text: 年
+        - combobox:
+          - option "1" [selected]
+          - option "2"
+          - option "3"
+          - option "4"
+          - option "5"
+          - option "6"
+          - option "7"
+          - option "8"
+          - option "9"
+          - option "10"
+          - option "11"
+          - option "12"
+        - text: 月
+        - combobox:
+          - option "1" [selected]
+          - option "2"
+          - option "3"
+          - option "4"
+          - option "5"
+          - option "6"
+          - option "7"
+          - option "8"
+          - option "9"
+          - option "10"
+          - option "11"
+          - option "12"
+          - option "13"
+          - option "14"
+          - option "15"
+          - option "16"
+          - option "17"
+          - option "18"
+          - option "19"
+          - option "20"
+          - option "21"
+          - option "22"
+          - option "23"
+          - option "24"
+          - option "25"
+          - option "26"
+          - option "27"
+          - option "28"
+          - option "29"
+          - option "30"
+          - option "31"
+        - text: 日 ～
+        - textbox
+        - text: 年
+        - combobox:
+          - option "1" [selected]
+          - option "2"
+          - option "3"
+          - option "4"
+          - option "5"
+          - option "6"
+          - option "7"
+          - option "8"
+          - option "9"
+          - option "10"
+          - option "11"
+          - option "12"
+        - text: 月
+        - combobox:
+          - option "1" [selected]
+          - option "2"
+          - option "3"
+          - option "4"
+          - option "5"
+          - option "6"
+          - option "7"
+          - option "8"
+          - option "9"
+          - option "10"
+          - option "11"
+          - option "12"
+          - option "13"
+          - option "14"
+          - option "15"
+          - option "16"
+          - option "17"
+          - option "18"
+          - option "19"
+          - option "20"
+          - option "21"
+          - option "22"
+          - option "23"
+          - option "24"
+          - option "25"
+          - option "26"
+          - option "27"
+          - option "28"
+          - option "29"
+          - option "30"
+          - option "31"
+        - text: 日
+    - row "宿泊人数 人 （内訳 … 大人： 人，小学生： 人，幼児： 人）":
+      - cell "宿泊人数":
+        - paragraph
+        - generic: 宿泊人数
+      - cell "人 （内訳 … 大人： 人，小学生： 人，幼児： 人）":
+        - textbox
+        - text: 人 （内訳 … 大人：
+        - textbox
+        - text: 人，小学生：
+        - textbox
+        - text: 人，幼児：
+        - textbox
+        - text: 人）
+    - row "ご希望のお部屋 ★ツイン洋室 └定員2名 … 室[全1室] ★ツイン洋室（バス付） └定員2名 … 室[全2室] ★ダブル＋ロフト洋室 └定員3名 … 室[全1室] ★和室 └定員2～3名 … 室[全4室] 合計 室":
+      - cell "ご希望のお部屋":
+        - paragraph
+        - generic: ご希望のお部屋
+      - cell "★ツイン洋室 └定員2名 … 室[全1室] ★ツイン洋室（バス付） └定員2名 … 室[全2室] ★ダブル＋ロフト洋室 └定員3名 … 室[全1室] ★和室 └定員2～3名 … 室[全4室] 合計 室":
+        - table:
+          - rowgroup:
+            - row "★ツイン洋室 └定員2名 … 室[全1室] ★ツイン洋室（バス付） └定員2名 … 室[全2室]":
+              - cell "★ツイン洋室 └定員2名":
+                - text: ★ツイン洋室
+                - text: └定員2名
+              - cell "… 室[全1室]":
+                - text: …
+                - textbox
+                - text: 室[全1室]
+              - cell "★ツイン洋室（バス付） └定員2名":
+                - text: ★ツイン洋室（バス付）
+                - text: └定員2名
+              - cell "… 室[全2室]":
+                - text: …
+                - textbox
+                - text: 室[全2室]
+            - row "★ダブル＋ロフト洋室 └定員3名 … 室[全1室] ★和室 └定員2～3名 … 室[全4室]":
+              - cell "★ダブル＋ロフト洋室 └定員3名":
+                - text: ★ダブル＋ロフト洋室
+                - text: └定員3名
+              - cell "… 室[全1室]":
+                - text: …
+                - textbox
+                - text: 室[全1室]
+              - cell "★和室 └定員2～3名":
+                - text: ★和室
+                - text: └定員2～3名
+              - cell "… 室[全4室]":
+                - text: …
+                - textbox
+                - text: 室[全4室]
+        - generic: 合計
+        - textbox
+        - text: 室
+    - row "到着時間 頃到着予定":
+      - cell "到着時間":
+        - paragraph
+        - generic: 到着時間
+      - cell "頃到着予定":
+        - textbox
+        - text: 頃到着予定
+    - row "郵便番号 〒 -":
+      - cell "郵便番号":
+        - paragraph
+        - generic: 郵便番号
+      - cell "〒 -":
+        - text: 〒
+        - textbox
+        - text: "-"
+        - textbox
+    - row "住所":
+      - cell "住所":
+        - paragraph
+        - generic: 住所
+      - cell:
+        - textbox
+    - row "電話番号":
+      - cell "電話番号":
+        - paragraph
+        - generic: 電話番号
+      - cell:
+        - textbox
+    - row "ＦＡＸ番号":
+      - cell "ＦＡＸ番号":
+        - paragraph
+        - generic: ＦＡＸ番号
+      - cell:
+        - textbox
+    - row "メールアドレス":
+      - cell "メールアドレス":
+        - paragraph
+        - generic: メールアドレス
+      - cell:
+        - textbox
+    - row "予約確認の返信方法 郵送 メール FAX 電話":
+      - cell "予約確認の返信方法":
+        - paragraph
+        - generic: 予約確認の返信方法
+      - cell "郵送 メール FAX 電話":
+        - radio
+        - text: 郵送
+        - radio [checked]
+        - text: メール
+        - radio
+        - text: FAX
+        - radio
+        - text: 電話
+    - row "ご意見・ご質問及び お食事に関するご希望等 （お気軽にご記入ください）":
+      - cell "ご意見・ご質問及び お食事に関するご希望等":
+        - paragraph
+        - text: ご意見・ご質問及び
+        - text: お食事に関するご希望等
+      - cell "（お気軽にご記入ください）":
+        - text: （お気軽にご記入ください）
+        - textbox
+- paragraph
+- table:
+  - rowgroup:
+    - row "申し込む 書き直す":
+      - cell "申し込む 書き直す":
+        - paragraph
+        - button "申し込む"
+        - button "書き直す"
+- paragraph
+- paragraph
+- table:
+  - rowgroup:
+    - row "ＴＥＬ／ＦＡＸ／メールでのご予約もできます。 「ご予約・お問い合わせFAX用紙」の印刷はこちら→ ＴＥＬ／ＦＡＸ：０７９９－７２－５５３９ メールアドレス：e-yado@p-yamaichiya.com ※３日ほどしても返事が届かない場合は お手数ですが、この予約画面にてもう一度送信していただくか メール、ＴＥＬでお問い合わせください。":
+      - cell:
+      - cell "ＴＥＬ／ＦＡＸ／メールでのご予約もできます。 「ご予約・お問い合わせFAX用紙」の印刷はこちら→ ＴＥＬ／ＦＡＸ：０７９９－７２－５５３９ メールアドレス：e-yado@p-yamaichiya.com ※３日ほどしても返事が届かない場合は お手数ですが、この予約画面にてもう一度送信していただくか メール、ＴＥＬでお問い合わせください。":
+        - paragraph:
+          - text: ＴＥＬ／ＦＡＸ／メールでのご予約もできます。
+          - text: 「ご予約・お問い合わせFAX用紙」の印刷はこちら→
+          - link:
+            - /url: http://www.p-yamaichiya.com/pdf/fax.pdf
+        - paragraph:
+          - text: ＴＥＬ／ＦＡＸ：０７９９－７２－５５３９
+          - text: メールアドレス：
+          - link "e-yado@p-yamaichiya.com":
+            - /url: mailto:e-yado@p-yamaichiya.com
+        - paragraph:
+          - text: ※３日ほどしても返事が届かない場合は
+          - text: お手数ですが、この予約画面にてもう一度送信していただくか
+          - text: メール、ＴＥＬでお問い合わせください。
+- paragraph
+- link:
+  - /url: http://www.adobe.co.jp/products/acrobat/readstep.html
+- text: ※印刷用画面の表示には「Adobe Acrobat Reader」が必要です。
+- paragraph
+- link "トップページへ":
+  - /url: http://www.p-yamaichiya.com/top.html

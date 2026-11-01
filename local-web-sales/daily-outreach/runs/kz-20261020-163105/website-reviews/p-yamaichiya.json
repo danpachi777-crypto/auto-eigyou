@@ -1,0 +1,57 @@
+{
+  "company": "ペンション山一屋",
+  "industry": "ペンション",
+  "region": "兵庫県淡路市",
+  "email": "e-yado@p-yamaichiya.com",
+  "email_source": "http://www.sam.hi-ho.ne.jp/yoshikatsu/form-to-mail.html 公式予約フォーム掲載",
+  "website_url": "http://www.p-yamaichiya.com/",
+  "discovery_source": "https://www.jpa.org/pension/hyougo/yamaitiya.htm",
+  "checked_at": "2026-11-01T21:37:02.816Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 41,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンション山一屋%20淡路",
+    "identity": "公式URL・岩屋2593-2・0799725539一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "http://www.p-yamaichiya.com/top.html",
+    "http://www.p-yamaichiya.com/shisetsu_fs.html",
+    "http://www.sam.hi-ho.ne.jp/yoshikatsu/form-to-mail.html"
+  ],
+  "review_checks": [
+    "390pxで予約フォーム右側の宿泊日・部屋・メール等が画面外。1280pxでは全体表示。",
+    "公式メニューから予約フォームへ到達。電話FAXメールの別経路あり。",
+    "施設・客室・食事・所在地・一般メールを確認。",
+    "写真と案内表示確認。空室カレンダー動作は未確認。",
+    "予約フォームを送信せず閲覧。スマホでも入力欄を幅内に収める提案。",
+    "価格・時刻は案に掲載しない。閲覧範囲に営業拒否なし。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://www.sam.hi-ho.ne.jp/yoshikatsu/form-to-mail.html",
+      "viewport_width": 390,
+      "observation": "宿泊予約フォームをスマートフォン幅390pxで表示すると、宿泊希望日やお部屋の選択欄、メールアドレス欄などの右側が画面内に収まらない状態",
+      "proposal": "予約フォームの項目名と入力欄をスマートフォンでは縦に並べ、日付や連絡先を画面幅の中で確認・入力できる構成に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/p-yamaichiya/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・名称0、台帳・失敗一覧・既存レビュー一致なし。日本ペンション協会の住所電話メールURL一致。営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://pensione-kitamura.com/",
+      "note": "宿泊情報と予約問い合わせへの導線の整理のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://dandan.sanin.jp/contact/",
+      "note": "問い合わせ項目の分類のみ参考。固有文言素材コピーなし。"
+    }
+  ]
+}
