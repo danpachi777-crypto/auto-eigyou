@@ -1,0 +1,8 @@
+{
+  "company": "椅子張工房RIUSO",
+  "website_url": "https://www.riuso-upholstery.com/",
+  "checked_at": "2026-11-02T05:12:00+09:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxトップは本文が幅内で折返し表示。現時点で具体的支障未確認、全6画面未実施。"
+}

@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 372,
+  "verified_sent_last_known": 373,
   "target": 450,
-  "remaining_unsent_target": 78,
+  "remaining_unsent_target": 77,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -94,7 +94,8 @@
     "u-tan",
     "haru-isu",
     "innocent-age",
-    "pensionschnee"
+    "pensionschnee",
+    "zaokomorebi"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -182,11 +183,12 @@
     "u-tan",
     "haru-isu",
     "innocent-age",
-    "pensionschnee"
+    "pensionschnee",
+    "zaokomorebi"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 84,
+  "prepared_count_in_recovery": 85,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "e149006",
@@ -291,8 +293,9 @@
     "u-tan",
     "haru-isu",
     "innocent-age",
-    "pensionschnee"
+    "pensionschnee",
+    "zaokomorebi"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 84
+  "prepared_count": 85
 }

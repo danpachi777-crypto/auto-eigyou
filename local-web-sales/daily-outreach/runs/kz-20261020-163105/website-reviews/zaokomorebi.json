@@ -1,0 +1,57 @@
+{
+  "company": "蔵王ペンション・木もれ陽B&B",
+  "industry": "ペンション",
+  "region": "山形県上山市",
+  "email": "info@zaokomorebi.com",
+  "email_source": "https://zaokomorebi.com/ 全ページフッターの一般連絡先",
+  "website_url": "https://zaokomorebi.com/",
+  "discovery_source": "https://feel-the-zao.jp/stay/stay-4962/",
+  "checked_at": "2026-11-01T20:15:06.220Z",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 24,
+    "url": "https://www.google.com/maps/search/蔵王ペンション木もれ陽",
+    "identity": "名称・公式URL・上山市小倉大森1968-50一致。観光局電話とMaps電話一致。観光局HPリンクは旧ドメイン、現公式はMapsで照合。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://zaokomorebi.com/",
+    "https://zaokomorebi.com/infomation/",
+    "https://zaokomorebi.com/rooms/"
+  ],
+  "review_checks": [
+    "本文とナビはスマホ幅に対応。今回横はみ出しを指摘しない。",
+    "客室・予約リンク、メール、じゃらんへ到達可能。",
+    "客室・施設・所在地と公開一般メール確認。",
+    "ホームに [instagram-feed feed=1] が文字列で露出。390と1280、再訪問でも確認。主要写真は読み込み後表示。",
+    "既存フッターInstagramリンクあり。SNSへ一切到達できないとは主張しない。設定文字列の箇所を直接リンクに変更する案。",
+    "一部予約準備中記載・古いアクセス案内あり。需要や予約可能状態を推測せず今回の提案対象外。"
+  ],
+  "findings": [
+    {
+      "category": "content_display",
+      "url": "https://zaokomorebi.com/",
+      "viewport_width": 390,
+      "observation": "トップページの基本料金案内の上に「[instagram-feed feed=1]」という文字列が表示されている状態",
+      "proposal": "その箇所を施設のInstagramへの案内カードに置き換え、掲載先が分かるリンクとして表示する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/zaokomorebi/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・施設名0件。台帳・失敗宛先0件。公開一般メール確認。閲覧範囲に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "施設紹介と宿泊案内の情報分類のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "予約連絡手段と利用注意の分類のみ参考。他施設の条件を転用しない。"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+- link "内容をスキップ":
+  - /url: "#wp--skip-link--target"
+- banner:
+  - link "蔵王ペンション・木もれ陽B&B":
+    - /url: https://zaokomorebi.com/
+    - img "蔵王ペンション・木もれ陽B&B"
+  - paragraph:
+    - link "蔵王ペンション・木もれ陽B&B":
+      - /url: https://zaokomorebi.com
+  - navigation "ナビゲーション":
+    - button "メニューを開く":
+- main:
+  - heading "蔵王温泉スキー場山麓のペンション" [level=1]
+  - paragraph
+  - paragraph: 蔵王ペンション村
+  - figure:
+    - figure
+  - heading "蔵王温泉スキー場 大森駐車場より２分" [level=2]
+  - paragraph: 滑り重視のスキーヤー、スノーボーダーに最高な立地です。
+  - heading "基本的な宿泊プランは朝食付き" [level=3]
+  - paragraph:
+    - text: 朝のグッドコンディションを満喫できるように、早めの朝食をご用意いたします。
+    - text: ゲレンデへアクセスがスムースなホテルです。
+  - heading "夕食はレストランにて山形の食を準備" [level=3]
+  - paragraph: 夕食はダイニングにて居酒屋スタイルで山形の食をご用意しております。
+  - heading "貸切利用のできる露天風呂" [level=3]
+  - paragraph:
+    - text: 天然の湧水の貸切露天風呂もご利用いただけます。
+    - text: 蔵王温泉 共同浴場の割引もございます。
+  - heading "国産スノーボードのテストセンター" [level=3]
+  - paragraph:
+    - text: OGASAKA、NOVEMBER、SCOOTER、CASSAVESスノーボード
+    - text: DICEゴーグルの試乗、レンタル
+  - heading "ペット" [level=3]
+  - paragraph: ペットと一緒にお泊りいただけます。
+  - paragraph:
+    - text: 詳しくは
+    - link "こちら":
+      - /url: https://zaokomorebi.com/2024/11/01/pet/
+    - text: をご覧ください
+  - heading "レンタルも充実" [level=3]:
+    - link "レンタルも充実":
+      - /url: https://zaokomorebi.com/rentals/
+  - paragraph:
+    - text: BURTON STEP ONなど高品質レンタルを
+    - text: ご予約優先にて充実させております。
+    - text: スムースな滞在になるようにご予約下さい。
+  - paragraph:
+    - link "ご宿泊のお客様へ":
+      - /url: https://zaokomorebi.com/forguest/
+  - paragraph
+  - figure:
+    - figure
+  - paragraph: 蔵王 木もれ陽
+  - paragraph: B&B
+  - heading "パウダーボードのお試しも" [level=2]
+  - paragraph:
+    - text: オガサカ、ノーベンバー、スクーター、カザベス スノーボードの
+    - text: 試乗、レンタルも受付しております。
+  - heading "蔵王のパウダーを満喫" [level=3]
+  - list:
+    - listitem: 様々な特徴があるパウダーボード
+    - listitem: コンディション、お好みに合わせて
+    - listitem: 蔵王温泉スキー場を満喫できるボードをチョイス
+  - figure
+  - heading "DICEゴーグルデモセンター" [level=3]
+  - list:
+    - listitem: 高品質な日本製
+    - listitem: 画期的な換気システム
+    - listitem: 地形を見極められるゴーグル
+  - figure
+  - text: "[instagram-feed feed=1]"
+- paragraph: 基本料金
+- paragraph:
+  - link "お部屋詳細はこちらより":
+    - /url: https://zaokomorebi.com/rooms/
+- paragraph:
+  - text: ・宿泊料金は
+  - link "じゃらんページ" [active]:
+    - /url: https://www.jalan.net/yad344430/?screenId=UWW3101&yadNo=344430&smlCd=060203&distCd=01&stayCount=1&minPrice=0&maxPrice=999999&yadoDetailMode=1&stayYear=2025&stayMonth=12&stayDay=29&roomCount=1&adultNum=3&roomCrack=300000
+  - text: にてご確認お願いいたします。
+- paragraph: ・一棟貸切についてはAirbnbページにてご確認お願いいたします。
+- paragraph:
+  - text: ＊メール等にて直接ご予約の方は 1名：-¥500/泊サービスさせていただきます。
+  - text: ＊ペンションでのお支払いはカード、キャッシュレス対応可能です。
+  - text: info@zaokomorebi.com
+- paragraph:
+  - text: 夕食は「
+  - link "燻製バルやませみ":
+    - /url: https://zaokomorebi.com/dining/
+  - text: 」のご利用お待ちしております。
+  - text: 薪ストーブを囲い、ゆっくりとお過ごしください。
+  - text: 付属アメニティー：シャンプー、リンス、ボディーソープ、ドライヤーとなります。
+  - text: 有料アメニティー：歯ブラシ（¥100）、バスタオルレンタル（¥300）
+- paragraph:
+  - text: "[ 送迎について ]"
+  - text: ・ご予約制となります。(１組4名様まで）
+  - text: （時間帯によりお待ちいただく、対応不可の場合がございますことご了承ください。）
+  - text: ・蔵王バスターミナルまたはロープウェイ、大森駐車場ゲレンデへの送迎のみとなります。（繁忙期は大森駐車場のみ）
+  - text: ・送迎は実費（片道￥1000-蔵王周辺のみ）のご負担をお願いしております。
+  - text: または
+  - link "蔵王温泉フリーシャトルバス":
+    - /url: https://zaokomorebi.com/2025/12/22/shuttlebus/
+  - text: をご利用ください。
+  - text: ・チェックイン前、チェックイン後のお荷物のお預かりは有料（各500円づつ/一個）となります。
+- paragraph
+- paragraph:
+  - text: 山形の食材を中心に
+  - text: 夕食代わりに軽食＆ドリンクを提供いたします。
+  - text: 木もれ陽特製の燻製もぜひお試しください！
+  - text: 滑り後のいい時間をお過ごしください。
+- paragraph
+- figure:
+  - link:
+    - /url: https://zaokomorebi.com/dining/img_8449/
+- figure
+- heading "メニュー" [level=2]
+- paragraph:
+  - text: ・山形牛カレー ¥1700
+  - text: ・芋煮定食 ¥1200
+  - text: ・特製燻製各種 ¥600〜
+  - text: ・各種一品料理 ¥400〜
+  - text: ・生ビール（プレミアルモルツ） ¥500〜
+  - text: ・ハイボール（山崎、白州あり） ¥500〜
+  - text: ・山形地酒
+  - text: ・山形ワイン
+  - text: ・各種ソフトドリンク ¥200〜
+- main:
+  - heading "ブログ" [level=2]
+  - list:
+    - separator
+    - heading "樹氷ライトアップ予定" [level=2]:
+      - link "樹氷ライトアップ予定":
+        - /url: https://zaokomorebi.com/2025/12/24/%e6%a8%b9%e6%b0%b7%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97%e4%ba%88%e5%ae%9a/
+    - separator
+    - heading "2025-2026蔵王温泉フリーシャトルバス" [level=2]:
+      - link "2025-2026蔵王温泉フリーシャトルバス":
+        - /url: https://zaokomorebi.com/2025/12/22/shuttlebus/
+    - separator
+    - heading "山形蔵王樹氷へのアクセス" [level=2]:
+      - link "山形蔵王樹氷へのアクセス":
+        - /url: https://zaokomorebi.com/2025/10/12/snowmonster/
+    - separator
+    - heading "木もれ陽ライフ250122" [level=2]:
+      - link "木もれ陽ライフ250122":
+        - /url: https://zaokomorebi.com/2025/01/23/%e6%9c%a8%e3%82%82%e3%82%8c%e9%99%bd%e3%83%a9%e3%82%a4%e3%83%95250122/
+    - separator
+    - heading "木もれ陽ライフ250106" [level=2]:
+      - link "木もれ陽ライフ250106":
+        - /url: https://zaokomorebi.com/2025/01/06/%e6%9c%a8%e3%82%82%e3%82%8c%e9%99%bd%e3%83%a9%e3%82%a4%e3%83%95250106/
+    - separator
+    - heading "少しづつ整ってきました。" [level=2]:
+      - link "少しづつ整ってきました。":
+        - /url: https://zaokomorebi.com/2025/01/04/%e5%b0%91%e3%81%97%e3%81%a5%e3%81%a4%e6%95%b4%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/
+    - separator
+    - heading "DICEゴーグル デモセンターも併設開始。" [level=2]:
+      - link "DICEゴーグル デモセンターも併設開始。":
+        - /url: https://zaokomorebi.com/2024/12/30/dice%e3%82%b4%e3%83%bc%e3%82%b0%e3%83%ab%e3%80%80%e3%83%87%e3%83%a2%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e3%82%82%e4%bd%b5%e8%a8%ad%e9%96%8b%e5%a7%8b%e3%80%82/
+    - separator
+    - heading "（準備中）ペット同伴OKなお部屋" [level=2]:
+      - link "（準備中）ペット同伴OKなお部屋":
+        - /url: https://zaokomorebi.com/2024/11/01/pet/
+    - separator
+    - heading "ペンション木もれ陽B&B" [level=2]:
+      - link "ペンション木もれ陽B&B":
+        - /url: https://zaokomorebi.com/2024/10/14/hello-world/
+- contentinfo:
+  - link "蔵王ペンション・木もれ陽B&B":
+    - /url: https://zaokomorebi.com/
+    - img "蔵王ペンション・木もれ陽B&B"
+  - paragraph:
+    - link "蔵王ペンション・木もれ陽B&B":
+      - /url: https://zaokomorebi.com
+  - paragraph: 蔵王温泉スキー場 大森駐車場まで車で２分。
+  - paragraph: 〒999-3112 山形県上山市小倉字大森1968-50
+  - paragraph: info@zaokomorebi.com
+  - paragraph: ZAO Pension Village
+  - paragraph
+  - heading "About" [level=2]
+  - navigation "フッターナビゲーション 3"
+  - heading "プライバシー" [level=2]
+  - navigation "フッターナビゲーション 4":
+    - list:
+      - link "プライバシーポリシー":
+        - /url: /privacy-policy
+      - link "利用規約":
+        - /url: /privacy-policy
+  - heading "ソーシャル" [level=2]
+  - navigation "フッターナビゲーション 2":
+    - list:
+      - link "Instagram":
+        - /url: https://www.instagram.com/komorebi_bnb/
