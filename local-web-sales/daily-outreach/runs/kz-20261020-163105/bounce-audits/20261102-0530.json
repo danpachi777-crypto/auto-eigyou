@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-11-01T20:31:13.983675+00:00",
+  "query": "newer_than:1d {from:mailer-daemon from:postmaster subject:Delivery Status Notification subject:Undelivered}",
+  "verified_sent_unchanged": 374,
+  "campaign_matches": 0,
+  "new_messages": [
+    {
+      "email": "info@mk-kogyou.com",
+      "message_id": "1a197fb8e2394639",
+      "action": "failed",
+      "status": "5.1.2",
+      "campaign_match": false
+    },
+    {
+      "email": "info@kunisakibussan.com",
+      "message_id": "1a197c9682631481",
+      "action": "failed",
+      "status": "4.3.5",
+      "campaign_match": false
+    }
+  ],
+  "note": "残り3件は先行監査済み。kunisakibussanは遅延から最終失敗に移行。原送信者は別用途、台帳宛先なし。"
+}

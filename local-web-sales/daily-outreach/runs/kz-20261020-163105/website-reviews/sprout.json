@@ -1,0 +1,8 @@
+{
+  "company": "スプラウト",
+  "website_url": "http://sprout.co.jp",
+  "checked_at": "2026-11-01T20:36:17.440335+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "ブラウザでDNS解決不可。メールの恒久失敗とは断定せずレビュー保留。"
+}
