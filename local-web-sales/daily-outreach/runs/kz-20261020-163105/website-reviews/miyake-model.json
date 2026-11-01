@@ -1,0 +1,88 @@
+{
+  "company": "有限会社ミヤケ模型",
+  "industry": "模型専門店",
+  "region": "北海道釧路市",
+  "email": "shop@miyake.ocnk.net",
+  "email_source": "https://miyake.ocnk.net/info",
+  "website_url": "https://www.miyake-shouten.jp/",
+  "discovery_source": "https://www.city.kushiro.lg.jp/kenfuku/kenkou/1005027/1005057/1011341.html",
+  "checked_at": "2026-11-01T10:58:11.429Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 107,
+    "url": "https://www.google.com/maps/search/?api=1&query=ミヤケ模型 釧路",
+    "name": "㈲ミヤケ模型",
+    "identity": "公式URL・北大通13丁目1・0154-22-2269一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.miyake-shouten.jp/",
+    "service": "https://www.miyake-shouten.jp/products",
+    "contact": "https://www.miyake-shouten.jp/contact"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "幅390pxで問い合わせ・入荷ページは980px配置、本文右側と見出しが画面外に切れる。1280pxでは表示。6画面保存。PCブラウザーの幅変更で確認した範囲に限定し実機全般とは断定しない。"
+    },
+    {
+      "item": 2,
+      "result": "問い合わせフォーム有り、公式リンク先オンラインショップ特商法に一般公開メールを画像でも確認。"
+    },
+    {
+      "item": 3,
+      "result": "プラモデル等扱い商品と所在地営業時間あり。2026年10月31日入荷更新。"
+    },
+    {
+      "item": 4,
+      "result": "画像の読み込み直後の空白は指摘対象にしない。表示完了後再撮影。"
+    },
+    {
+      "item": 5,
+      "result": "バンダイ製品の在庫確認問い合わせお断りの案内あり。既存方針を提案画像にも維持し、商品在庫問い合わせを促さない。"
+    },
+    {
+      "item": 6,
+      "result": "更新頻度を改善点扱いしない。メーカー在庫状況や営業成果は推測しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.miyake-shouten.jp/contact",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、お問い合わせページが横幅980pxの配置で表示され、見出しや送信前の注意事項の右側が画面外に隠れていました。",
+      "proposal": "狭い画面幅では問い合わせの見出し・注意事項・入力欄を縦に並べ、文章が画面内で折り返される配置に整える",
+      "evidence_path": "evidence/miyake-model/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "ミヤケ模型",
+      "miyake-shouten.jp",
+      "miyake.ocnk.net"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.takeuchi-model.com/",
+      "note": "取扱商品と問い合わせの区分を参考に確認。写真・文章転用なし。"
+    },
+    {
+      "url": "https://ohm-mokei.ocnk.net/",
+      "note": "商品区分と店舗情報、問い合わせへの案内を確認。既送信先のため新たにメールしない。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.city.kushiro.lg.jp/kenfuku/kenkou/1005027/1005057/1011341.html",
+    "https://www.tokyo-marui.co.jp/shop/hokkaido/15/"
+  ]
+}

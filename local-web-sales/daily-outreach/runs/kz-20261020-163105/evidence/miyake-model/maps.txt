@@ -1,0 +1,312 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ㈲ミヤケ模型
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州":
+      - generic "50 か所": "50"
+      - generic: 本州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "㈲ミヤケ模型":
+    - 'button "写真: ㈲ミヤケ模型" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "㈲ミヤケ模型" [level=1]: ㈲ミヤケ模型
+    - text: "4.7"
+    - img "4.7 つ星"
+    - img "107 件のクチコミ": (107)
+    - button "模型店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "㈲ミヤケ模型 の概要" [selected]:
+        - generic: 概要
+      - tab "㈲ミヤケ模型 のクチコミ":
+        - generic: クチコミ
+      - tab "「㈲ミヤケ模型」について":
+        - generic: 基本情報
+    - region "㈲ミヤケ模型 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "㈲ミヤケ模型 の情報":
+      - 'button "住所: 〒085-0015 北海道釧路市北大通１３丁目１"':
+        - generic: 
+        - generic: 〒085-0015 北海道釧路市北大通１３丁目１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: miyake-shouten.jp"':
+        - /url: https://www.miyake-shouten.jp/
+        - generic: 
+        - generic: miyake-shouten.jp
+      - link "ウェブサイトを開きます":
+        - /url: https://www.miyake-shouten.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0154-22-2269"':
+        - generic: 
+        - generic: 0154-22-2269
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0154222269
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「㈲ミヤケ模型」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 83 件": "5"
+        - img "4 つ星、クチコミ 18 件": "4"
+        - img "3 つ星、クチコミ 4 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 1 件": "1"
+    - generic: "4.7"
+    - img "4.7 つ星"
+    - button "107 件のクチコミ":
+      - generic: 107 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"個人店にしては入りやすく、物も豊富だし店員も話しやすい。\""':
+      - /url: https://www.google.com/maps/contrib/115857262701730554811?hl=ja-JP
+    - button "\"個人店にしては入りやすく、物も豊富だし店員も話しやすい。\"":
+      - generic: "\"個人店にしては入りやすく、物も豊富だし店員も話しやすい。\""
+    - 'link "次のクチコミ投稿者の写真: \"店長の人柄とコアな品揃えが良いですよ。\""':
+      - /url: https://www.google.com/maps/contrib/117646709374373879488?hl=ja-JP
+    - button "\"店長の人柄とコアな品揃えが良いですよ。\"":
+      - generic: "\"店長の人柄とコアな品揃えが良いですよ。\""
+    - 'link "次のクチコミ投稿者の写真: \"気さくなマスターのおかげで、とても居心地の良い空間でした。\""':
+      - /url: https://www.google.com/maps/contrib/110925262544778731295?hl=ja-JP
+    - button "\"気さくなマスターのおかげで、とても居心地の良い空間でした。\"":
+      - generic: "\"気さくなマスターのおかげで、とても居心地の良い空間でした。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "塗料: 4 件のクチコミで言及。"':
+        - generic: 塗料
+        - generic: "4"
+      - 'radio "知識: 4 件のクチコミで言及。"':
+        - generic: 知識
+        - generic: "4"
+      - 'radio "旅行: 4 件のクチコミで言及。"':
+        - generic: 旅行
+        - generic: "4"
+      - 'radio "お母さん: 2 件のクチコミで言及。"':
+        - generic: お母さん
+        - generic: "2"
+      - button "他 5 件のトピックを表示":
+        - generic: "+5"
+    - generic "Y S":
+      - button "Y S の写真"
+      - button "Y S ローカルガイド · 2,202 件のクチコミ · 12,346 枚の写真":
+        - generic: Y S
+        - generic: ローカルガイド · 2,202 件のクチコミ · 12,346 枚の写真
+      - button "Y S さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: プラモデルファンには著名なこちらの店舗。 フラモデラーでは無いが、 …
+      - button "もっと見る"
+      - button "Y S さんのクチコミの写真 1"
+      - button "Y S さんのクチコミの写真 2"
+      - button "いいね 3 件":
+        - generic: 
+        - generic: "3"
+      - button "Y S さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "プラっとチャンネル":
+      - button "プラっとチャンネル の写真"
+      - button "プラっとチャンネル 1 件のクチコミ · 1 枚の写真":
+        - generic: プラっとチャンネル
+        - generic: 1 件のクチコミ · 1 枚の写真
+      - button "プラっとチャンネル さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 北見から来たけど、すんごい良いお店びっくりした！店主腰低すぎて。こっちも低くなりましたw（良い意味で）。また釧路行ったら顔出したいと思います。写真は北見で売り切れのガルスj！
+      - button "プラっとチャンネル さんのクチコミの写真 1"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "プラっとチャンネル さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "藪内秀晃":
+      - button "藪内秀晃 の写真"
+      - button "藪内秀晃 ローカルガイド · 453 件のクチコミ · 1,065 枚の写真":
+        - generic: 藪内秀晃
+        - generic: ローカルガイド · 453 件のクチコミ · 1,065 枚の写真
+      - button "藪内秀晃 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: "最終編集: 8 か月前"
+      - text: 昭和27年創業。JR釧路駅前の老舗模型店です。現在のご主人は三代目。 YouTube配信に注目、要チェックですよ! 2024年11月下旬に嬉しいニュースが! …
+      - button "もっと見る"
+      - button "藪内秀晃 さんのクチコミの写真 1"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "藪内秀晃 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (104)":
+      - generic: その他のクチコミ (104)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "フライ模型·4.2 つ星·クチコミ 46 件·模型店":
+      - generic: フライ模型
+      - img "4.2 つ星 クチコミ 46 件":
+        - text: "4.2"
+        - text: (46)
+      - generic: 模型店
+    - link "もけいのどらねこ堂 （模型のどらねこ堂） 釧路貨物駅前店 新富士·3.7 つ星·クチコミ 6 件·模型店":
+      - generic: もけいのどらねこ堂 （模型のどらねこ堂） 釧路貨物駅前店 新富士
+      - img "3.7 つ星 クチコミ 6 件":
+        - text: "3.7"
+        - text: (6)
+      - generic: 模型店
+    - link "㈲今村商店 玩具卸·0.0 つ星·店舗":
+      - generic: ㈲今村商店 玩具卸
+      - generic: クチコミはありません
+      - generic: 店舗
+    - link "㈱ミヤケ·5.0 つ星·クチコミ 1 件·建築材料販売店":
+      - generic: ㈱ミヤケ
+      - img "5.0 つ星 クチコミ 1 件":
+        - text: "5.0"
+        - text: (1)
+      - generic: 建築材料販売店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

@@ -1,0 +1,65 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- generic "logo-ffe600.png":
+  - link:
+    - /url: https://www.miyake-shouten.jp
+- generic "iconDownload.cgi.png":
+  - button
+- banner:
+  - navigation "サイト":
+    - list:
+      - link "ホーム":
+        - /url: https://www.miyake-shouten.jp
+        - paragraph: ホーム
+      - link "ミヤケVLog":
+        - /url: https://www.miyake-shouten.jp/miyake-channel
+        - paragraph: ミヤケVLog
+      - button "お店情報":
+        - paragraph: お店情報
+      - button "その他のお店情報ページ":
+      - link "オンラインストア":
+        - /url: http://miyake.ocnk.net/
+        - paragraph: オンラインストア
+      - button "ミヤケ模型の歴史":
+        - paragraph: ミヤケ模型の歴史
+      - button "その他のミヤケ模型の歴史ページ":
+      - link "お問い合わせ":
+        - /url: https://www.miyake-shouten.jp/contact
+        - paragraph: お問い合わせ
+- main:
+  - heading "お問い合わせ" [level=2]:
+    - generic: お問い合わせ
+  - paragraph: 当店にご感心いただきありがとうございます
+  - paragraph: ＜送信前にご確認ください＞
+  - paragraph:
+    - text: • ミヤケ模型や商品に関するご質問・お問い合せ等は、こちらからお願いします。
+    - text: • 半角カナで入力されますと、正しく表示されなかったり、送信できなかったりします。半角カナでの入力はご遠慮ください。
+    - text: • メールアドレスの記載に間違いがあると、返信メールをお届けできません。記載間違いが無いか、送信の前に今一度ご確認ください。
+    - text: • 携帯電話メールアドレスをご利用の場合ＰＣからのメールが受信拒否に設定されている場合がございます。当店からのメールを受信出来る設定にしてから、送信をお願いします
+  - generic: お名前 *
+  - textbox "お名前 *":
+    - /placeholder: お名前
+  - generic: メールアドレス *
+  - textbox "メールアドレス *":
+    - /placeholder: aaa@aaaa.com
+  - generic: お問い合わせ内容 *
+  - textbox "お問い合わせ内容 *":
+    - /placeholder: お問い合わせ内容を入力してください
+  - button "送信する":
+    - generic: 送信する
+- contentinfo:
+  - list "SNS バー":
+    - link "Facebook":
+      - /url: https://www.facebook.com/hobbyshop.miyake.online/
+      - img "Facebook"
+    - link "X":
+      - /url: https://twitter.com/Mmokei
+      - img "X"
+    - link "Instagram":
+      - /url: https://instagram.com/kazuaki.miyake
+      - img "Instagram"
+    - link "YouTube":
+      - /url: https://www.youtube.com/playlist?list=PLvDTseL4JTXfHJ0VmSganPEIn38HCFLBT
+      - img "YouTube"
+  - paragraph: © 2019 by Hobby shop MIYAKE
+- region "bottom of page"
