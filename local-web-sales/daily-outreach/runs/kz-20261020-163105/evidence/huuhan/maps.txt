@@ -1,0 +1,376 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 民宿 風帆
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのホテル":
+      - generic: 
+      - generic: 近くのホテル
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "民宿 風帆":
+    - 'button "写真: 民宿 風帆" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "民宿 風帆" [level=1]: 民宿 風帆
+    - text: "4.3"
+    - img "4.3 つ星"
+    - img "84 件のクチコミ": (84)
+    - text: ·
+    - generic: 民宿
+    - tablist:
+      - tab "民宿 風帆 の概要" [selected]:
+        - generic: 概要
+      - tab "民宿 風帆 の料金":
+        - generic: 価格
+      - tab "民宿 風帆 のクチコミ":
+        - generic: クチコミ
+      - tab "「民宿 風帆」について":
+        - generic: 基本情報
+    - region "民宿 風帆 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "朝食のみ":
+        - generic: 朝食のみ
+      - button "朝・夕食付":
+        - generic: 朝・夕食付
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - paragraph:
+      - generic: 料金と空き室状況については宿泊施設にお問い合わせください
+    - link "http://huuhan.sakura.ne.jp/ にアクセス":
+      - /url: http://huuhan.sakura.ne.jp/
+      - generic: サイトを見る
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - 'link "ホテル ビオラ·￥13,860·3.8 つ星·クチコミ 197 件·無料: Wi-Fi、駐車場·0.3 km 圏内"':
+        - generic: ￥13,860
+        - generic: ホテル ビオラ
+        - img "3.8 つ星 クチコミ 197 件":
+          - text: "3.8"
+          - text: (197)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 0.3 km 圏内
+      - 'link "ビジネスホテルフェニックス·￥13,200·3.4 つ星·クチコミ 137 件·無料: 駐車場·0.9 km 圏内"':
+        - generic: ￥13,200
+        - generic: ビジネスホテルフェニックス
+        - img "3.4 つ星 クチコミ 137 件":
+          - text: "3.4"
+          - text: (137)
+        - generic: "無料: 駐車場"
+        - generic: 0.9 km 圏内
+      - 'link "シティホテル望月·￥8,100·3.2 つ星·クチコミ 251 件·無料: Wi-Fi、駐車場·1.2 km 圏内"':
+        - generic: ￥8,100
+        - generic: シティホテル望月
+        - img "3.2 つ星 クチコミ 251 件":
+          - text: "3.2"
+          - text: (251)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 1.2 km 圏内
+      - 'link "窮楽通楽·￥30,600·4.8 つ星·クチコミ 39 件·無料: Wi-Fi、駐車場·7.5 km 圏内"':
+        - generic: ￥30,600
+        - generic: 窮楽通楽
+        - img "4.8 つ星 クチコミ 39 件":
+          - text: "4.8"
+          - text: (39)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 7.5 km 圏内
+      - 'link "おわせビジネスホテル·3.6 つ星·クチコミ 41 件·無料: Wi-Fi·1 km 圏内"':
+        - generic: おわせビジネスホテル
+        - img "3.6 つ星 クチコミ 41 件":
+          - text: "3.6"
+          - text: (41)
+        - generic: "無料: Wi-Fi"
+        - generic: 1 km 圏内
+      - 'link "民宿 山口(尾鷲市)·4.3 つ星·クチコミ 70 件·無料: 朝食、Wi-Fi·0.3 km 圏内"':
+        - generic: 民宿 山口(尾鷲市)
+        - img "4.3 つ星 クチコミ 70 件":
+          - text: "4.3"
+          - text: (70)
+        - generic: "無料: 朝食、Wi-Fi"
+        - generic: 0.3 km 圏内
+      - link "ビジネスホテル末広·4.6 つ星·クチコミ 35 件·1.3 km 圏内":
+        - generic: ビジネスホテル末広
+        - img "4.6 つ星 クチコミ 35 件":
+          - text: "4.6"
+          - text: (35)
+        - generic: 1.3 km 圏内
+      - 'link "ビジネスホテル 胡蝶舘·3.9 つ星·クチコミ 40 件·無料: Wi-Fi·1.2 km 圏内"':
+        - generic: ビジネスホテル 胡蝶舘
+        - img "3.9 つ星 クチコミ 40 件":
+          - text: "3.9"
+          - text: (40)
+        - generic: "無料: Wi-Fi"
+        - generic: 1.2 km 圏内
+      - 'link "民宿福嶋·4.5 つ星·クチコミ 31 件·無料: Wi-Fi·1.2 km 圏内"':
+        - generic: 民宿福嶋
+        - img "4.5 つ星 クチコミ 31 件":
+          - text: "4.5"
+          - text: (31)
+        - generic: "無料: Wi-Fi"
+        - generic: 1.2 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - region "民宿 風帆 の情報":
+      - 'button "住所: 〒519-3602 三重県尾鷲市南浦１１"':
+        - generic: 
+        - generic: 〒519-3602 三重県尾鷲市南浦１１
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: huuhan.sakura.ne.jp"':
+        - /url: http://huuhan.sakura.ne.jp/
+        - generic: 
+        - generic: huuhan.sakura.ne.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://huuhan.sakura.ne.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0597-22-2663"':
+        - generic: 
+        - generic: 0597-22-2663
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0597222663
+        - generic: 
+      - 'button "Plus Code: 36H3+3F 尾鷲市、三重県"':
+        - generic: 
+        - generic: 36H3+3F 尾鷲市、三重県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: 
+      - text: "チェックイン時間: 15:00"
+      - text: "チェックアウト時間: 10:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "立地情報" [level=2]
+    - generic: "3.8"
+    - generic: 非常に観光客向き
+    - button "立地のスコアに関する詳細情報":
+      - generic: 
+    - generic: 観光、レクリエーション、移動手段に基づき算出
+    - tablist "付近の場所":
+      - tab "アクティビティ":
+        - generic: 
+        - generic: アクティビティ
+      - tab "公共交通機関":
+        - generic: 
+        - generic: 公共交通機関
+      - tab "空港":
+        - generic: 
+        - generic: 空港
+    - heading "訪問者提供の最新情報" [level=2]
+    - button "窓の外は港 4 年前":
+      - generic: 窓の外は港
+      - generic: 4 年前
+    - heading "写真と動画" [level=2]
+    - region "「民宿 風帆」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "最新·17 日前"
+      - generic: 最新
+      - generic: 17 日前
+      - button "動画"
+      - generic: 動画
+      - button "客室"
+      - generic: 客室
+      - button "外観"
+      - generic: 外観
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "ゲスト提供"
+      - generic: ゲスト提供
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "ホテルの詳細" [level=2]
+    - 'img "Wi-Fi: 利用可能"':
+      - generic: 
+      - generic: Wi-Fi
+    - 'img "朝食（無料）: 利用不可"':
+      - generic: 
+      - generic: 朝食（無料）
+    - 'img "駐車場: 利用可能"':
+      - generic: 
+      - generic: 駐車場
+    - 'img "プール: 利用不可"':
+      - generic: 
+      - generic: プール
+    - 'img "エアコン完備: 利用可能"':
+      - generic: 
+      - generic: エアコン完備
+    - 'img "ビーチ付近: 利用可能"':
+      - generic: 
+      - generic: ビーチ付近
+    - button "その他の設備を表示":
+      - generic: 
+      - generic: その他の設備を表示
+    - heading "Google でのクチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 44 件": "5"
+        - img "4 つ星、クチコミ 28 件": "4"
+        - img "3 つ星、クチコミ 9 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 3 件": "1"
+    - generic: "4.3"
+    - img "4.3 つ星"
+    - button "84 件のクチコミ":
+      - generic: 84 件のクチコミ
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "すべてのクチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - generic: Tripadvisor
+    - generic: 4/5
+    - generic: ·
+    - generic: 9 件のクチコミ
+    - generic: Departure809482、4 年前
+    - generic: 左は「おぐら」で、どう異なっているかは全く存じ上げない。|海岸通りで、目の前の公共駐車場を使えるのであろうか。
+    - link "Tripadvisor でもっと見る":
+      - /url: https://www.tripadvisor.jp/ShowUserReviews-g1019678-d1112835-r818744269?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=JP&supul=ja
+      - generic: Tripadvisor でもっと見る
+    - button "その他のクチコミ (81)":
+      - generic: その他のクチコミ (81)
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
