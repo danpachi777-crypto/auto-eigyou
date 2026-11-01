@@ -1,0 +1,309 @@
+https://www.google.com/maps/place/%E5%9D%82%E4%B8%8B%E5%95%86%E5%BA%97/@40.466135,141.656076,17z/data=!3m1!4b1!4m6!3m5!1s0x5f84ac5dd0cb8115:0x9c7decb6ce8da426!8m2!3d40.466135!4d141.656076!16s%2Fg%2F1trrc_l9?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: 坂下商店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "坂下商店":
+    - 'button "写真: 坂下商店" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "坂下商店" [level=1]: 坂下商店
+    - text: "3.7"
+    - img "3.7 つ星"
+    - img "39 件のクチコミ": (39)
+    - button "釣具店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "坂下商店 の概要" [selected]:
+        - generic: 概要
+      - tab "坂下商店 のクチコミ":
+        - generic: クチコミ
+      - tab "「坂下商店」について":
+        - generic: 基本情報
+    - region "坂下商店 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "坂下商店 の情報":
+      - 'button "住所: 〒039-1201 青森県三戸郡階上町道仏浜久保２０"':
+        - generic: 
+        - generic: 〒039-1201 青森県三戸郡階上町道仏浜久保２０
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 まもなく営業終了: 19:00 · 営業開始: 5:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "まもなく営業終了: 19:00 · 営業開始: 5:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: turi2001.com"':
+        - /url: http://www.turi2001.com/
+        - generic: 
+        - generic: turi2001.com
+      - link "ウェブサイトを開きます":
+        - /url: http://www.turi2001.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0178-89-2252"':
+        - generic: 
+        - generic: 0178-89-2252
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0178892252
+        - generic: 
+      - 'button "Plus Code: FM84+FC 階上町、青森県"':
+        - generic: 
+        - generic: FM84+FC 階上町、青森県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=11276429311899182118&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "訪問者提供の最新情報" [level=2]
+    - button "お店前から見える、太平洋からの 日の出 1 年前":
+      - generic: お店前から見える、太平洋からの 日の出
+      - generic: 1 年前
+    - region "坂下商店 の混雑する時間帯":
+      - heading "混雑する時間帯" [level=2]
+      - button "日曜日":
+        - generic: 日曜日
+        - generic: 
+      - button "混雑する時間帯についての情報":
+        - generic: 
+      - button "前の日付に戻る":
+        - generic: 
+      - img "4時の混雑度は 0% です。"
+      - img "5時の混雑度は 44% です。"
+      - img "6時の混雑度は 41% です。":
+        - generic: 6時
+      - img "7時の混雑度は 44% です。"
+      - img "8時の混雑度は 52% です。"
+      - img "9時の混雑度は 67% です。":
+        - generic: 9時
+      - img "10時の混雑度は 76% です。"
+      - img "11時の混雑度は 82% です。"
+      - img "12時の混雑度は 73% です。":
+        - generic: 12時
+      - img "13時の混雑度は 64% です。"
+      - img "14時の混雑度は 64% です。"
+      - img "15時の混雑度は 58% です。":
+        - generic: 15時
+      - img "16時の混雑度は 52% です。"
+      - img "17時の混雑度は 50% です。"
+      - img "18時の混雑度は 55% です。":
+        - generic: 18時
+      - img "19時の混雑度は 0% です。"
+      - img "20時の混雑度は 0% です。"
+      - img "21時の混雑度は 0% です。":
+        - generic: 21時
+      - button "次の日付に進む":
+        - generic: 
+    - heading "写真と動画" [level=2]
+    - region "「坂下商店」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "釣り竿"
+      - generic: 釣り竿
+      - button "水"
+      - generic: 水
+      - button "魚類"
+      - generic: 魚類
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 14 件": "5"
+        - img "4 つ星、クチコミ 11 件": "4"
+        - img "3 つ星、クチコミ 7 件": "3"
+        - img "2 つ星、クチコミ 4 件": "2"
+        - img "1 つ星、クチコミ 3 件": "1"
+    - generic: "3.7"
+    - img "3.7 つ星"
+    - button "39 件のクチコミ":
+      - generic: 39 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"釣具、釣り船、鮮魚、飲み物や菓子パンやおやつ、カップ麺などがおいてあります。\""':
+      - /url: https://www.google.com/maps/contrib/107585913153614728328?hl=ja-JP
+    - button "\"釣具、釣り船、鮮魚、飲み物や菓子パンやおやつ、カップ麺などがおいてあります。\"":
+      - generic: "\"釣具、釣り船、鮮魚、飲み物や菓子パンやおやつ、カップ麺などがおいてあります。\""
+    - 'link "次のクチコミ投稿者の写真: \"乗合船の仕掛け、餌、氷は坂下商店で購入できる。\""':
+      - /url: https://www.google.com/maps/contrib/101802351982458742804?hl=ja-JP
+    - button "\"乗合船の仕掛け、餌、氷は坂下商店で購入できる。\"":
+      - generic: "\"乗合船の仕掛け、餌、氷は坂下商店で購入できる。\""
+    - 'link "次のクチコミ投稿者の写真: \"千鳥丸は田舎の釣りを最高に提供してくれます。\""':
+      - /url: https://www.google.com/maps/contrib/110422208153726344998?hl=ja-JP
+    - button "\"千鳥丸は田舎の釣りを最高に提供してくれます。\"":
+      - generic: "\"千鳥丸は田舎の釣りを最高に提供してくれます。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "船: 2 件のクチコミで言及。"':
+        - generic: 船
+        - generic: "2"
+    - generic "ボサノバブルック":
+      - button "ボサノバブルック の写真"
+      - button "ボサノバブルック ローカルガイド · 90 件のクチコミ · 110 枚の写真":
+        - generic: ボサノバブルック
+        - generic: ローカルガイド · 90 件のクチコミ · 110 枚の写真
+      - button "ボサノバブルック さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 第三浩丸に乗せて頂きました。 まだまだ初心者なのですが、タラ釣りでまるっきりお手伝いしてもらい、とても安心して釣りを楽しませてもらいました。ポイントもあちこち回ってくれたので自分の目標の釣果になりました。またよろしくお願いします！
+      - button "ボサノバブルック さんのクチコミの写真 1"
+      - button "ボサノバブルック さんのクチコミの写真 2"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "ボサノバブルック さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "ビッグウェーブ":
+      - button "ビッグウェーブ の写真"
+      - button "ビッグウェーブ ローカルガイド · 58 件のクチコミ":
+        - generic: ビッグウェーブ
+        - generic: ローカルガイド · 58 件のクチコミ
+      - button "ビッグウェーブ さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 3 年前
+      - text: 坂下のオヤジは若干めんどくさそうに教えてくれる。 自分が乗った千鳥丸は釣れるし先頭のオヤジはTHE漁師って感じでマジでかっこいい。タバコ咥えながらの操縦が渋かった。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "ビッグウェーブ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "yamato shima":
+      - button "yamato shima の写真"
+      - button "yamato shima ローカルガイド · 30 件のクチコミ · 3 枚の写真":
+        - generic: yamato shima
+        - generic: ローカルガイド · 30 件のクチコミ · 3 枚の写真
+      - button "yamato shima さんのクチコミへのアクション":
+        - generic: 
+      - img "2 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 年前
+      - text: ここのオーナーさん（船長）はとっても良い人で星5を付けたい所だけど、僚船の【日光丸】の船長がオワッてるので星2、、、 ⬇️日光丸の悪態⬇️ …
+      - button "もっと見る"
+      - button "いいね 2 件":
+        - generic: 
+        - generic: "2"
+      - button "yamato shima さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (36)":
+      - generic: その他のクチコミ (36)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "蛇沼商店·4.5 つ星·クチコミ 2 件·鮮魚店":
+      - generic: 蛇沼商店
+      - img "4.5 つ星 クチコミ 2 件":
+        - text: "4.5"
+        - text: (2)
+      - generic: 鮮魚店
+    - link "㈲坂下商店·4.5 つ星·クチコミ 2 件·鮮魚店":
+      - generic: ㈲坂下商店
+      - img "4.5 つ星 クチコミ 2 件":
+        - text: "4.5"
+        - text: (2)
+      - generic: 鮮魚店
+    - link "榊漁港·2.5 つ星·クチコミ 2 件·船上げ場":
+      - generic: 榊漁港
+      - img "2.5 つ星 クチコミ 2 件":
+        - text: "2.5"
+        - text: (2)
+      - generic: 船上げ場
+    - link "㈲オカヌマ·4.1 つ星·クチコミ 7 件·釣具店":
+      - generic: ㈲オカヌマ
+      - img "4.1 つ星 クチコミ 7 件":
+        - text: "4.1"
+        - text: (7)
+      - generic: 釣具店
+    - link "川口 釣具店·4.3 つ星·クチコミ 21 件·釣具店":
+      - generic: 川口 釣具店
+      - img "4.3 つ星 クチコミ 21 件":
+        - text: "4.3"
+        - text: (21)
+      - generic: 釣具店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

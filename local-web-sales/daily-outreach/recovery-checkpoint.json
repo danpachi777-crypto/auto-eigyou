@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 324,
+  "verified_sent_last_known": 325,
   "target": 450,
-  "remaining_unsent_target": 126,
+  "remaining_unsent_target": 125,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -48,7 +48,8 @@
     "tomsouya",
     "itamicoffee",
     "noncurante",
-    "central-sports"
+    "central-sports",
+    "sakashita"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -90,29 +91,30 @@
     "tomsouya",
     "itamicoffee",
     "noncurante",
-    "central-sports"
+    "central-sports",
+    "sakashita"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 38,
+  "prepared_count_in_recovery": 39,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "92d40bc",
-  "resume_note": "324/450 verified sent. Nov1 screening round excluded 18 candidates (existing correspondence, closed/unreachable, no verified issue or low Maps review count). No sends this screening round. Continue discovery in new sources; do not repeat listed hold reviews.",
+  "last_pushed_commit": "7152eea",
+  "resume_note": "325/450 verified sent. sakashita Gmail SENT verified 1a1968aac2cf052d. Six screening holds recorded. Continue new prospects; do not resend.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 326,
-    "remaining_preparations": 124,
+    "completed_prepared_or_sent": 327,
+    "remaining_preparations": 123,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
     "next_candidate": null,
     "next_step": "Find next eligible business; avoid repeats.",
-    "candidate_official_url": "https://studio-toumu.life.coocan.jp/",
-    "candidate_email": "toumu.studio@gmail.com",
+    "candidate_official_url": null,
+    "candidate_email": null,
     "candidate_maps_rating": null,
     "candidate_maps_reviews": null,
-    "candidate_independent_source": "https://www.katsushika-kushouren.jp/store/s24060/",
+    "candidate_independent_source": null,
     "candidate_counted": false
   },
   "sent_from_recovery": [
@@ -151,7 +153,8 @@
     "tomsouya",
     "itamicoffee",
     "noncurante",
-    "central-sports"
+    "central-sports",
+    "sakashita"
   ],
   "remaining_prepared_unsent": 2
 }

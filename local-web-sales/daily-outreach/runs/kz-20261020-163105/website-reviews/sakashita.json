@@ -1,0 +1,85 @@
+{
+  "company": "さかした釣具店",
+  "industry": "釣具・釣り船",
+  "region": "青森県階上町",
+  "email": "turi2001@alpha.ocn.ne.jp",
+  "email_source": "https://www.turi2001.com/",
+  "website_url": "https://www.turi2001.com/",
+  "discovery_source": "https://www.town.hashikami.lg.jp/index.cfm/7%2C23069%2Cc%2Chtml/23069/20260224-131426.pdf",
+  "checked_at": "2026-11-01T09:54:50.253287+00:00",
+  "maps": {
+    "rating": 3.7,
+    "review_count": 39,
+    "url": "https://www.google.com/maps/search/?api=1&query=さかした釣具店階上",
+    "name": "坂下商店",
+    "identity": "住所・電話・公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.turi2001.com/",
+    "service": "https://www.turi2001.com/turi/ryoukin/ryoukin.html",
+    "contact": "https://www.turi2001.com/turi/yoyaku/yoyaku.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップ921px、サービス640px、予約773px。右側に文章が切れる。1280pxは全幅表示。6画像保存。"
+    },
+    {
+      "item": 2,
+      "result": "トップに一般問い合わせmailtoと電話。予約ページも同一メール。"
+    },
+    {
+      "item": 3,
+      "result": "階上町2026年商品券対象店一覧に坂下商店・さかした釣具店。Maps同一所在地・電話・サイト。"
+    },
+    {
+      "item": 4,
+      "result": "確認した主要ページは表示。古い外部リンクの動作は提案対象外。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話メール連絡を維持し読みやすくする提案。フォーム送信なし。"
+    },
+    {
+      "item": 6,
+      "result": "公式令和8年10月31日釣果掲載。集合時刻の表記差は今回扱わない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.turi2001.com/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、トップページのお知らせや乗船予約案内の文章が右側の画面外に隠れ、読むために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは釣り船や店舗の案内、問い合わせ方法を縦に並べ、文章が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/sakashita/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "turi2001.com",
+      "turi2001@alpha.ocn.ne.jp",
+      "さかした釣具",
+      "坂下釣具"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.hirayama-fishing.jp/",
+      "note": "390pxで画像と問い合わせ導線が幅内に収まる構成を確認。転用なし。"
+    },
+    {
+      "url": "https://www.yugyo.jp/",
+      "note": "390pxで店名・お知らせを縦に配置。問い合わせ案内を確認。転用なし。"
+    }
+  ]
+}
