@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 376,
+  "verified_sent_last_known": 377,
   "target": 450,
-  "remaining_unsent_target": 74,
+  "remaining_unsent_target": 73,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -98,7 +98,8 @@
     "zaokomorebi",
     "u-house",
     "tsutsumikougei",
-    "p-boomerang"
+    "p-boomerang",
+    "akairibon"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -190,11 +191,12 @@
     "zaokomorebi",
     "u-house",
     "tsutsumikougei",
-    "p-boomerang"
+    "p-boomerang",
+    "akairibon"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 88,
+  "prepared_count_in_recovery": 89,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "e149006",
@@ -303,8 +305,9 @@
     "zaokomorebi",
     "u-house",
     "tsutsumikougei",
-    "p-boomerang"
+    "p-boomerang",
+    "akairibon"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 88
+  "prepared_count": 89
 }

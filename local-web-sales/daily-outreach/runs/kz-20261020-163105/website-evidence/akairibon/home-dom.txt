@@ -1,0 +1,473 @@
+- heading "大山 ペンション 赤いりぼん / 大山物語" [level=1]
+- heading "大山あけまの森ペンション村で本格アメリカンバーベキューが楽しめる" [level=2]
+- generic: ＴＥＬ ０８５９-５３-８０４１
+- list:
+  - link "TOP PAGE":
+    - /url: index.html
+  - link "ペンション":
+    - /url: pension.html
+  - link "コテージ":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+  - link "プレミアムハウス":
+    - /url: http://www.chukai.ne.jp/~akairibon1983/
+  - link "お食事":
+    - /url: cooking.html
+  - link "宿泊料金":
+    - /url: ryoukin.html
+  - link "空室検索":
+    - /url: toiawase.html
+  - link "アクセス":
+    - /url: access.html
+  - link "宿blog":
+    - /url: https://blog.akairibon.net/
+- heading "国立公園大山の大自然の中であなたのスタイルに合わせてお選び下さい" [level=3]
+- paragraph:
+  - strong: 大山
+  - text: 山麓、
+  - strong: 大山
+  - text: あけまの森の中に１５００坪のゆったりした敷地を持つ
+  - strong: ペンション
+  - text: 。
+  - strong: 大山
+  - text: は山は勿論、海も近く、山陰地方の真ん中に位置し、観光の拠点として最適です。
+  - strong: 大山
+  - text: ホワイトリゾート(
+  - strong: 大山
+  - text: スキー場)まで車で7分程度。
+  - strong: 大山
+  - text: フィールドアスレチック
+  - strong: 森の国
+  - text: まで車で2分程度。
+  - strong: ペンション
+  - text: の中では一番近い場所にあります。大自然の幸に恵まれた
+  - strong: 大山
+  - text: ・・・。
+  - strong: 大山
+  - text: にお越しの際は、
+  - strong: 大山
+  - strong: ペンション
+  - text: 赤いりぼんをご利用ください。
+  - strong: ペンション
+  - text: ・
+  - strong: コテージ
+  - text: ・
+  - strong: 貸し別荘
+  - text: の3タイプがあり、あなたのすてきな思い出作りをサポートいたします。
+- heading "ペンション" [level=3]
+- paragraph:
+  - link "大山ペンション":
+    - /url: pension.html
+    - img "大山ペンション"
+  - strong: ペンション
+  - text: には二部屋を一部屋に改装した
+  - text: ゆったりとしたお部屋から、
+  - text: 二人部屋まで、様々なタイプのお部屋があります
+- paragraph:
+  - link "大山ペンション赤いりぼんの部屋":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+    - img "大山ペンション赤いりぼんの部屋"
+  - text: 白と緑を基調とした
+  - strong: ペンション
+  - text: のお部屋。
+  - text: 全室冷暖房完備。
+  - text: ※全館禁煙。宴会不可
+- heading "コテージ" [level=3]
+- paragraph:
+  - link "大山コテージ":
+    - /url: pension.html
+    - img "大山コテージ"
+  - text: オーナーが手造りした
+  - emphasis: コテージ
+  - text: 。
+  - text: 最大6人まで収容可能。自炊可能で連泊もぴったり！
+  - text: ※禁煙・宴会不可
+- paragraph:
+  - link "大山コテージ":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+    - img "大山コテージ"
+  - emphasis: コテージ
+  - text: 専用BBQテラス。
+  - text: 屋根つきで雨の日も安心。
+  - text: ※BBQテラスの利用は午後9時迄。
+- paragraph
+- heading "プレミアムハウス" [level=3]
+- paragraph:
+  - link "大山ペンション":
+    - /url: http://www.akairibon.net/
+    - img "大山ペンション"
+  - strong: 大山
+  - strong: ペンション
+  - text: 赤いりぼんの特別室として
+  - text: プレミアムハウス（
+  - emphasis: 貸し別荘
+  - text: ）がオープン！
+  - text: 森の一軒屋でな
+  - emphasis: 別荘
+  - text: ライフを体験してみませんか？
+- paragraph:
+  - img "貸し別荘"
+  - link "森の中の一軒やの貸し別荘":
+    - /url: http://blog.akairibon.net/?eid=1272348
+  - text: 広々としたリビングでゆったりできます。
+  - text: ※禁煙・宴会不可。
+- paragraph
+- heading "その他施設" [level=3]
+- paragraph:
+  - link "大山ペンション":
+    - /url: http://www.akairibon.net/
+    - img "大山ペンション"
+  - strong: 大山
+  - strong: ペンション
+  - text: 赤いりぼんのバーベキューテラス
+  - text: 屋根付テラスで天候に関係なくBBQが楽しめる！
+  - text: ※
+  - emphasis: バーベキュー
+  - text: の際飲食物の持ち込み不可。
+- paragraph:
+  - img "プレミアムハウス"
+  - link "プレミアムハウスの屋根付きデッキ":
+    - /url: http://blog.akairibon.net/?eid=1272348
+  - text: プレミアムハウス専用屋根付きデッキで
+  - text: 雨の日も安心。wifiもOK！
+- paragraph
+- heading "ペンションの夕食はバーベキューor洋食の2プラン" [level=3]
+- paragraph:
+  - img "大山ペンション"
+  - text: 本格アメリカンバーベキュー(BBQ)！
+  - strong: ペンション
+  - text: の庭にある屋根付きデッキで雨の日も安心♪。
+  - strong: 大山
+  - text: ブランド「
+  - strong: 大山鶏
+  - text: 」も！！
+- paragraph:
+  - img "大山ペンション"
+  - text: 出来るだけ地元産(鳥取産・
+  - strong: 大山
+  - text: 産)や国産の食材を使用。
+  - strong: 大山
+  - text: 名物
+  - strong: 大山
+  - text: どんぐりそば日本の名水百選に選ばれた
+  - strong: 大山
+  - text: 山麓本宮の泉の近くのどんぐり村より購入
+- paragraph
+- heading "家族連れや3世代旅行・グループに" [level=3]
+- paragraph:
+  - img "大山ペンション"
+  - text: 二間続きのお部屋(4～5名)
+  - strong: ペンション
+  - text: では珍しい家族連れや小グループ向けのお部屋。
+- paragraph:
+  - img "大山ペンション"
+  - text: 3部屋続きのお部屋
+  - text: 二間続きのお部屋と隣のツインルームを繋げれば、お爺ちゃんお婆ちゃんとお孫さんのお部屋が繋がります。
+- paragraph
+- heading "アレルギー対応はできません" [level=3]
+- paragraph
+- paragraph:
+  - text: 当館には栄養士の資格と言った専門知識を備えたスタッフはおりません。中途半端な対応して、体調に異変がでたり、重篤な症状が出たりしたら一大事です。
+  - text: その為アレルギー対応は一切お受けしておりません。
+  - link "詳細はブログに記載しております。":
+    - /url: https://blog.akairibon.net/archives/15535
+- paragraph
+- heading "赤いりぼんは全館禁煙" [level=3]
+- paragraph
+- paragraph:
+  - text: 2020年4月1日から施行されている改正健康増進法（受法喫煙防止）により、より一層、室内の禁煙を徹底しております※法律です。破れば最大30万円の罰金が科せられます！
+  - text: ルールを守れない方のご利用は固くお断りいたします。
+  - link "詳細はブログに記載しております。":
+    - /url: https://blog.akairibon.net/archives/10365
+- paragraph
+- paragraph:
+  - link "赤いりぼんは全館禁煙":
+    - /url: https://blog.akairibon.net/archives/10365
+    - img "赤いりぼんは全館禁煙"
+- paragraph
+- heading "新着情報" [level=5]
+- term: 2026/9/3
+- definition:
+  - text: 【重要】本年のアメリカンバーベキュープラン見送りについて
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/18114
+  - text: ご確認下さい。
+- term: 2026/8/21
+- definition:
+  - text: 2027年2月末までの予約受付中
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/18071
+  - text: ご確認下さい
+- term: 2026/4/26
+- definition:
+  - text: 2026年11月末までの予約受付中
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17892
+  - text: ご確認下さい
+- term: 2026/4/4
+- definition:
+  - text: 【重要】アメリカンバーベキュープラン受付見合わせのお知らせ
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17841
+  - text: ご確認下さい。
+- term: 2026/2/1
+- definition: 2026年7月末までの予約受付中
+- term: 2025/12/28
+- definition:
+  - text: だいせんホワイトリゾート割引リフト2日券について
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17696
+  - text: ご確認下さい。
+- term: 2025/9/20
+- definition:
+  - text: 2026年2月末までの予約受付中
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17512
+  - text: ご確認下さい。
+- term: 2025/6/15
+- definition:
+  - text: 素泊まりでバーベキュー施設を利用したい方、こちらをご一読下さい
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17363
+  - text: ご確認下さい。
+- term: 2025/6/15
+- definition:
+  - text: 2025年9月末までの予約受付中
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17347
+  - text: ご確認下さい。
+- term: 2025/5/10
+- definition:
+  - text: 【重要】アメリカンバーベキュープラン受付開始
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17310
+  - text: ご確認下さい。
+- term: 2025/4/6
+- definition:
+  - text: 【重要】アメリカンバーベキュープラン受付見合わせのお知らせ
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17261
+  - text: ご確認下さい。
+- term: 2025/3/7
+- definition:
+  - text: 2025年8月までの受付中※お盆期間は除く
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17208
+  - text: ご確認下さい。
+- term: 2025/01/13
+- definition:
+  - text: だいせんホワイトリゾート割引リフト2日券について
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/17019
+  - text: ご確認下さい。
+- term: 2024/12/04
+- definition:
+  - text: 大山町に泊まろう！宿泊応援事業予約可能日について
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16977
+  - text: ご確認下さい。
+- term: 2024/10/30
+- definition:
+  - text: 大山町に泊まろう！宿泊応援事業の対象期間と予約方法
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16943
+  - text: ご確認下さい。
+- term: 2024/10/26
+- definition:
+  - text: 大山町に泊まろう！宿泊応援事業の詳細はまだわかりません
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16943
+  - text: ご確認下さい。
+- term: 2024/8/30
+- definition:
+  - text: 2024年12月～2025年3月までの受付受付開始
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16835
+  - text: ご確認下さい。
+- term: 2024/6/13
+- definition:
+  - text: 2024年秋・紅葉シーズンの受付受付開始(～11/30)
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16713
+  - text: ご確認下さい。
+- term: 2024/4/25
+- definition:
+  - text: 2024年夏休みの予約受付開始しました
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16552
+  - text: ご確認下さい。
+- term: 2024/2/14
+- definition:
+  - text: 2024年ゴールデンウィークの予約受付開始しました
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/16303
+  - text: ご確認下さい。
+- term: 2023/9/30
+- definition:
+  - text: インボイス(適格請求書発行事業者)制度に登録していません
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/15632
+  - text: ご確認下さい。
+- term: 2023/8/26
+- definition:
+  - text: 2023年12月～2024年2月29日までの予約開始しました。
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/15496
+  - text: ご確認下さい。
+- term: 2023/6/10
+- definition:
+  - text: トラブル防止の為お盆のご予約はオンライン(ネット予約)でお願いします
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/15183
+  - text: ご確認下さい。
+- term: 2023/6/01
+- definition:
+  - text: お盆休み団体(8名以上)でのご予約はお受けできません
+  - link "詳細はこちらで":
+    - /url: https://blog.akairibon.net/archives/3710
+  - text: ご確認下さい。
+- paragraph
+- paragraph:
+  - link "大山ペンション赤いりぼん電話番号":
+    - /url: tel:0859-453-8041
+    - img "大山ペンション赤いりぼん電話番号"
+- paragraph
+- paragraph:
+  - link "大山ペンション赤いりぼんオンライン予約":
+    - /url: https://www.jhpds.net/akairibon/uw/uwp3100/uww3101.do?yadNo=358010
+    - img "大山ペンション赤いりぼんオンライン予約"
+- paragraph
+- paragraph:
+  - link "大山ペンション赤いりぼんオンライン予約":
+    - /url: https://www.jhpds.net/akairibon/uw/uwp3100/uww3101.do?yadNo=358010
+    - img "大山ペンション赤いりぼんオンライン予約"
+- paragraph
+- paragraph:
+  - link "大山ペンション赤いりぼんの本格アメリカンバーベキュー":
+    - /url: cooking.html
+    - img "大山ペンション赤いりぼんの本格アメリカンバーベキュー"
+- paragraph
+- paragraph:
+  - img "大山フィールドアスレチック森の国"
+- paragraph: 選べる4プラン
+- paragraph:
+  - link:
+    - /url: oryouri.html
+- paragraph:
+  - text: 洋食＆創作料理
+  - text: 地元食材をできるだけ使用しています
+- paragraph:
+  - link "バーベキュー（ＢＢＱ）":
+    - /url: bbq.html
+    - img "バーベキュー（ＢＢＱ）"
+- paragraph:
+  - text: 本格的アメリカンスタイルの
+  - text: バーベキュー(ＢＢＱ)です
+- paragraph:
+  - link "1泊朝食付きプラン":
+    - /url: http://blog.akairibon.net/?eid=1272391
+    - img "1泊朝食付きプラン"
+- paragraph:
+  - text: 夕食は好きなものを！と言う方に
+  - text: 1泊朝食付きプラン
+- paragraph:
+  - link "コテージ素泊まりプラン":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+    - img "コテージ素泊まりプラン"
+- paragraph:
+  - text: 食事は自由に！と言う方に
+  - strong: コテージ
+  - text: 素泊まりプラン
+- paragraph:
+  - text: でっかいステーキ肉や新鮮なフルーツ等、本格的な
+  - strong: アメリカンスタイルのバーベキュー
+  - text: をお楽しみください！。オーナーは
+  - strong: 日本バーベキュー協会認定、上級インストラクター
+  - text: の有資格者です。
+- paragraph:
+  - img "バーベキューインストラクター"
+- paragraph:
+  - iframe
+- paragraph:
+  - iframe
+- paragraph:
+  - text: オンライン予約・お問い合わせ
+  - link "大山ペンション赤いりぼんのネット予約はこちらから":
+    - /url: https://www.jhpds.net/akairibon/uw/uwp3100/uww3101.do?yadNo=358010
+    - img "大山ペンション赤いりぼんのネット予約はこちらから"
+  - link "大山ペンション赤いりぼんへのお問い合わせ":
+    - /url: toiawase.html
+    - img "大山ペンション赤いりぼんへのお問い合わせ"
+- paragraph:
+  - text: ※ネットで予約された方の予約照会・キャンセルは、
+  - text: お問い合わせページからお願いします。
+- paragraph:
+  - iframe
+- paragraph:
+  - link "赤いりぼんのQ&A":
+    - /url: qa.html
+    - img "赤いりぼんのQ&A"
+  - link "BLOG":
+    - /url: https://blog.akairibon.net/
+    - img "BLOG"
+  - link "特典":
+    - /url: tokuten.html
+    - img "特典"
+- list:
+  - link "お知らせ":
+    - /url: "#fragment-1"
+    - generic: お知らせ
+  - link "最新情報":
+    - /url: "#fragment-2"
+    - generic: 最新情報
+  - link "空室情報":
+    - /url: "#fragment-3"
+    - generic: 空室情報
+- paragraph:
+  - text: 只今2027年2月末日迄の予約受付中。
+  - text: ※お盆期間は除く
+  - link "繁忙期8名以上のグループのご利用は お断りしております。":
+    - /url: https://blog.akairibon.net/archives/3710
+    - text: 繁忙期8名以上のグループのご利用は
+    - text: お断りしております。
+- paragraph:
+  - iframe
+- paragraph
+- paragraph:
+  - link "WIFI":
+    - /url: https://blog.akairibon.net/archives/12243
+    - img "WIFI"
+- paragraph: スマホは電話番号タップで発信
+- paragraph:
+  - link "0859-53-8041":
+    - /url: tel:0859-453-8041
+  - text: (AM10:00～PM9：00)
+- link "大山町が運営するの観光サイト":
+  - /url: http://www.daisen.jp/kanko/
+  - img "大山町が運営するの観光サイト"
+- link "大山王国":
+  - /url: http://npo.daisenking.net/
+  - img "大山王国"
+- link "大山の天気予報":
+  - /url: http://www.tenki.jp/mountain/famous100/7/34/192.html
+  - img "大山の天気予報"
+- link "水木しげるロード・キタロウロード":
+  - /url: http://mizukiroad.net/
+  - img "水木しげるロード・キタロウロード"
+- link "青山剛昌記念館名探偵コナン":
+  - /url: http://www.gamf.jp/
+  - img "青山剛昌記念館名探偵コナン"
+- link "大山の麓の天然温泉":
+  - /url: http://www.rapi-spa.com/
+  - img "大山の麓の天然温泉"
+- link "大山Gビールガンバリウス":
+  - /url: http://g-beer.jp/gambarius/
+  - img "大山Gビールガンバリウス"
+- link "大山ホワイトリゾート":
+  - /url: http://www.daisen-resort.jp/
+  - img "大山ホワイトリゾート"
+- heading "大山ペンション赤いりぼん" [level=2]
+- heading "〒689-3319 鳥取県西伯郡大山町赤松あけまの森３１３-１０ TEL 0859-53-8041(AM10:00～PM9：00)" [level=3]:
+  - text: 〒689-3319 鳥取県西伯郡大山町赤松あけまの森３１３-１０
+  - text: TEL 0859-53-8041(AM10:00～PM9：00)
+- paragraph: Copyright (C) Pension Akairibon. All right reserved.
+- paragraph

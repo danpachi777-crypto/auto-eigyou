@@ -1,0 +1,149 @@
+- heading "大山 ペンション 赤いりぼん / ペンション コテージ 貸し別荘" [level=1]
+- heading "大山あけまの森ペンション村に約1500坪の敷地を持つペンションです" [level=2]
+- generic: ＴＥＬ ０８５９-５３-８０４１
+- generic: ≡
+- list:
+  - link "TOP PAGE":
+    - /url: index.html
+  - link "ペンション":
+    - /url: pension.html
+  - link "コテージ":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+  - link "プレミアムハウス":
+    - /url: http://www.chukai.ne.jp/~akairibon1983/
+  - link "お食事":
+    - /url: cooking.html
+  - link "宿泊料金":
+    - /url: ryoukin.html
+  - link "空室検索":
+    - /url: toiawase.html
+  - link "アクセス":
+    - /url: access.html
+  - link "宿blog":
+    - /url: https://blog.akairibon.net/
+- heading "大山ペンション赤いりぼんへのお問い合わせ" [level=3]
+- paragraph:
+  - text: メールでのお問い合わせはリアルタイムではありません。
+  - text: ※お急ぎの件は、お電話でお願いいたします（TEL0859-53-8041）。
+  - text: ※午前9時～午後10時半。深夜・早朝はご遠慮ください。
+- heading "ネット予約（お申込み日より、2日以内のご宿泊はお電話でお願いします）" [level=3]
+- paragraph:
+  - link "オンライン予約":
+    - /url: https://www.jhpds.net/akairibon/uw/uwp3100/uww3101.do?yadNo=358010
+    - img "オンライン予約"
+- paragraph:
+  - text: ※GW・お盆前後・年末・年始のご予約は、オンライン予約限定です。日程間違い【4日(よっか) → 8日(ようか)等】やオーバーブッキング回避の為。
+  - text: ※満室でご期待に添えない場合があります。
+- heading "ネット予約された方の予約照会・ネット予約のキャンセル" [level=3]
+- paragraph:
+  - link "ネット予約の予約照会・キャンセルはこちら":
+    - /url: https://www.jhpds.net/akairibon/hi/hip9000/hiw9001Init.do?yadNo=358010
+    - img "ネット予約の予約照会・キャンセルはこちら"
+- paragraph:
+  - text: ※当サイトよりネット予約された方の予約照会・キャンセルです。
+  - text: ○お電話でご予約された方は、お電話でお願いいたします。
+  - text: ○じゃらん・楽天等ネットエージェントからご予約された方は、ネットエージェントサイトより予約照会・キャンセル処理をお願いします。
+- heading "会員登録" [level=3]
+- paragraph: ※会員登録をされた場合・次回からの予約の際、とても便利です。
+- paragraph:
+  - link "会員登録":
+    - /url: https://www.jhpds.net/akairibon/hi/hip2000/hiw2001Init.do?yadNo=358010
+    - img "会員登録"
+  - link "会員情報の変更":
+    - /url: https://www.jhpds.net/akairibon/hi/hip1000/hiw1001Init.do?param=changeInfo&yadNo=358010
+    - img "会員情報の変更"
+  - link "会員登録の削除":
+    - /url: https://www.jhpds.net/akairibon/hi/hip1000/hiw1001Init.do?param=withdraw&yadNo=358010
+    - img "会員登録の削除"
+- heading "メールでのお問い合わせ" [level=3]
+- paragraph:
+  - text: 下のアイコンをクリックするとメールが起動します。
+  - text: ※48時間たっても返事がない場合は、システムの不具合等でメールが届いていない可能性があります。この場合、お手数ですが、お電話でお問い合わせください。
+- paragraph
+- paragraph:
+  - text: 問い合わせメール送信
+  - link:
+    - /url: mailto:pension.akairibon@gmail.com?Subject=ペンション赤いりぼんコテージ問い合わせメール&body=以下をご記入ください。%0d%0a%0d%0a問い合わせ内容%20：%20%0d%0a%0d%0a
+- paragraph
+- heading "お願い" [level=3]
+- paragraph:
+  - text: 大山ペンション赤いりぼんは、じゃらん・楽天に参画しておりますが、
+  - text: お盆・ＧＷ等は部屋を提供していない場合があります。
+  - text: 空室がある場合もありますので、公式ページからのオンライン予約、又は直接お電話 もしくはメールでのご予約をお勧めいたします。
+- paragraph:
+  - link "電話番号0859-53-8041":
+    - /url: tel:0859-453-8041
+    - img "電話番号0859-53-8041"
+- paragraph: 選べる4プラン
+- paragraph:
+  - link:
+    - /url: oryouri.html
+- paragraph:
+  - text: 洋食＆創作料理
+  - text: 地元食材をできるだけ使用しています
+- paragraph:
+  - link "バーベキュー（ＢＢＱ）":
+    - /url: bbq.html
+    - img "バーベキュー（ＢＢＱ）"
+- paragraph:
+  - text: 本格的アメリカンスタイルの
+  - text: バーベキュー(ＢＢＱ)です
+- paragraph:
+  - link "1泊朝食付きプラン":
+    - /url: http://blog.akairibon.net/?eid=1272391
+    - img "1泊朝食付きプラン"
+- paragraph:
+  - text: 夕食は好きなものを！と言う方に
+  - text: 1泊朝食付きプラン
+- paragraph:
+  - link "コテージ素泊まりプラン":
+    - /url: http://www.chukai.ne.jp/~strike-freedom/
+    - img "コテージ素泊まりプラン"
+- paragraph:
+  - text: 食事は自由に！と言う方に
+  - strong: コテージ
+  - text: 素泊まりプラン
+- paragraph:
+  - text: でっかいステーキ肉や新鮮なフルーツ等、本格的な
+  - strong: アメリカンスタイルのバーベキュー
+  - text: をお楽しみください！。オーナーは
+  - strong: 日本バーベキュー協会、インストラクター
+  - text: の有資格者です
+- paragraph:
+  - img "バーベキューインストラクター"
+- paragraph:
+  - iframe
+- paragraph:
+  - iframe
+- paragraph:
+  - text: オンライン予約・お問い合わせ
+  - link "ネット予約はこちらから":
+    - /url: https://www.jhpds.net/akairibon/uw/uwp3100/uww3101.do?yadNo=358010
+    - img "ネット予約はこちらから"
+  - link "お問い合わせ":
+    - /url: toiawase.html
+    - img "お問い合わせ"
+- paragraph:
+  - text: ※ネットで予約された方の予約照会・キャンセルは、
+  - text: お問い合わせページからお願いします。
+- paragraph:
+  - link "赤いりぼんのQ&A":
+    - /url: qa.html
+    - img "赤いりぼんのQ&A"
+  - link "BLOG":
+    - /url: https://blog.akairibon.net/
+    - img "BLOG"
+  - link "特典":
+    - /url: tokuten.html
+    - img "特典"
+- paragraph:
+  - link "大山周辺観光おガイド":
+    - /url: https://blog.akairibon.net/archives/category/%e8%a6%b3%e5%85%89%e6%83%85%e5%a0%b1
+    - img "大山周辺観光おガイド"
+- paragraph: スマホは電話番号タップで発信
+- paragraph:
+  - link "0859-53-8041":
+    - /url: tel:0859-453-8041
+- heading "大山ペンション赤いりぼん" [level=2]
+- heading "〒689-3319 鳥取県西伯郡大山町赤松あけまの森３１３-１０ TEL 0859-53-8041" [level=3]
+- paragraph: Copyright (C) Pension Akairibon. All right reserved.

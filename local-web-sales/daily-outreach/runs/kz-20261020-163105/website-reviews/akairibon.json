@@ -1,0 +1,57 @@
+{
+  "company": "ペンション赤いりぼん",
+  "industry": "ペンション・コテージ",
+  "region": "鳥取県大山町",
+  "email": "pension.akairibon@gmail.com",
+  "email_source": "https://akairibon.net/toiawase.html 公開mailto",
+  "website_url": "https://akairibon.net/",
+  "discovery_source": "https://tourismdaisen.com/stay/3/",
+  "checked_at": "2026-11-01T21:00:37.825Z",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 26,
+    "url": "https://www.google.com/maps/search/ペンション 赤いりぼん",
+    "identity": "公式URL・赤松313-10・0859538041一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://akairibon.net/",
+    "https://akairibon.net/pension.html",
+    "https://akairibon.net/toiawase.html"
+  ],
+  "review_checks": [
+    "390px/1280pxでトップ・客室・問い合わせ表示を確認。モバイルメニューあり。",
+    "問い合わせ電話リンクの表示0859-53-8041に対してhref tel:0859-453-8041。トップ・問い合わせで一致しない。発信せず属性のみ確認。",
+    "宿泊タイプ・住所・電話・一般メールを確認。",
+    "主要写真・リンクは表示。",
+    "オンライン予約・照会キャンセルと一般メールを区別。リンクの発信先だけ修正案。",
+    "2026BBQプラン休止を新着情報に確認、案に掲載しない。電話受付時間はページ間で違うため案に時間を入れない。"
+  ],
+  "findings": [
+    {
+      "category": "contact_path",
+      "url": "https://akairibon.net/toiawase.html",
+      "viewport_width": 390,
+      "observation": "電話リンクに表示されている番号は「0859-53-8041」ですが、リンク先は「tel:0859-453-8041」となっており、表示番号と発信先の設定が異なる状態",
+      "proposal": "電話ボタンの発信先を掲載番号に合わせ、トップ画面と問い合わせ画面で同じ番号へつながる設定に統一する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/akairibon/contact-dom.txt"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere公開メール・ドメイン・名称0、台帳・失敗一覧・既存レビュー一致なし。大山観光局の住所電話URLとMaps一致。閲覧範囲に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://tanadahouse.com/contact",
+      "note": "スマホ幅に収まる案内・入力欄の情報整理のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://dandan.sanin.jp/contact/",
+      "note": "予約と一般問い合わせの分類のみ参考。固有素材や条件コピーなし。"
+    }
+  ]
+}
