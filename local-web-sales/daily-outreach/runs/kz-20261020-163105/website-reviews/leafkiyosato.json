@@ -1,0 +1,57 @@
+{
+  "company": "ゲストハウスリーフ",
+  "industry": "宿泊施設",
+  "region": "山梨県北杜市清里",
+  "email": "guesthouse2910leaf@gmail.com",
+  "email_source": "https://www.leafkiyosato.jp/ccontactme",
+  "website_url": "https://www.leafkiyosato.jp/",
+  "discovery_source": "https://www.city.hokuto.lg.jp/fs/4/2/2/3/2/5/_/_______0600404__.pdf",
+  "checked_at": "2026-11-01T19:07:46.654Z",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 47,
+    "url": "https://www.google.com/maps/search/ゲストハウスリーフ+清里",
+    "identity": "公式・Maps・市取扱店舗一覧で北杜市高根町清里3466-234、0551-48-2910が一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.leafkiyosato.jp/",
+    "https://www.leafkiyosato.jp/guide",
+    "https://www.leafkiyosato.jp/ccontactme"
+  ],
+  "review_checks": [
+    "390pxでフォーム右側・送信ボタンが画面外、ページ幅980px。1280pxでは全体を確認。",
+    "問い合わせリンクと一般メール・電話は存在。",
+    "施設案内・部屋種別・所在地を確認。",
+    "主要写真・フォームを確認。一部画像の一時読込は指摘しない。",
+    "サービスから問い合わせへのリンクあり。問い合わせ自体の不存在とはしない。",
+    "年付き過去記事は過去情報として扱い、古い日付だけを改善点としない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.leafkiyosato.jp/ccontactme",
+      "viewport_width": 390,
+      "observation": "幅390pxの表示では、お問い合わせフォームの入力欄の右側と「送信する」ボタンが画面外にはみ出す状態",
+      "proposal": "入力欄と送信ボタンをスマートフォンの画面幅に合わせて縦に配置し、横スクロールせず確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/leafkiyosato/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere メール・施設名・leafkiyosato.jp・nenbakiyosato.com 0件。台帳・失敗宛先0件。公式問い合わせ/プライバシーに営業拒否確認なし。",
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "宿の紹介・お知らせへの分類を参考。文章・写真等はコピーしない。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "施設・料金・予約/電話/メールを分ける構造のみ参考。"
+    }
+  ]
+}

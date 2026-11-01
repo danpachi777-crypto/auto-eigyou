@@ -1,0 +1,9 @@
+{
+  "company": "株式会社 好花園",
+  "website_url": "https://koukaen.info/",
+  "checked_at": "2026-11-01T19:07:46.654Z",
+  "priority": "hold",
+  "findings": [],
+  "reason": "390pxでトップと店舗情報の主要内容が画面内に収まり、メール・電話を確認。提案できる具体的支障未確認のため保留。全表示レビュー未完了。",
+  "evidence_path": "website-evidence/koukaen/contact-390.png"
+}

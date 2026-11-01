@@ -1,0 +1,77 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - link "リーフロゴ.png":
+    - /url: https://www.leafkiyosato.jp
+    - img "リーフロゴ.png"
+  - list "SNS バー":
+    - link "フェイスブック":
+      - /url: https://www.facebook.com/guesthouseleaf.urakiyosato
+      - img "フェイスブック"
+    - link "インスタ":
+      - /url: https://www.instagram.com/guesthouse_leaf/
+      - img "インスタ"
+  - navigation "サイト":
+    - list:
+      - link "HOME":
+        - /url: https://www.leafkiyosato.jp
+        - paragraph: HOME
+      - link "施設ガイド":
+        - /url: https://www.leafkiyosato.jp/guide
+        - paragraph: 施設ガイド
+      - link "宿泊プラン":
+        - /url: https://www.leafkiyosato.jp/bookingplan
+        - paragraph: 宿泊プラン
+      - link "近隣ガイド":
+        - /url: https://www.leafkiyosato.jp/neighborhoodguide
+        - paragraph: 近隣ガイド
+      - link "個人情報の取り扱い":
+        - /url: https://www.leafkiyosato.jp/privacypolicy
+        - paragraph: 個人情報の取り扱い
+      - paragraph: More
+  - link "ご予約はこちら":
+    - /url: https://www.leafkiyosato.jp/bookingplan
+    - generic: ご予約はこちら
+- main:
+  - img "info_pc.jpg"
+  - heading "お問い合わせは、下記のフォームにご記入のうえ送信ください。" [level=5]:
+    - generic: お問い合わせは、下記のフォームにご記入のうえ送信ください。
+  - textbox "氏名"
+  - textbox "メールアドレス"
+  - textbox "電話番号"
+  - textbox:
+    - /placeholder: メッセージを入力してください
+  - button "送信する":
+    - generic: 送信する
+- contentinfo:
+  - paragraph:
+    - generic: ゲストハウスリーフ
+  - paragraph:
+    - text: 〒407-0301
+    - text: 山梨県北杜市高根町清里3466-234
+  - paragraph:
+    - generic: TEL:0551-48-2910
+  - paragraph:
+    - text: "MAIL:"
+    - link "guesthouse2910leaf@gmail.com":
+      - /url: mailto:guesthouse2910leaf@gmail.com
+  - paragraph:
+    - generic: 営業許可番号：山梨県指令中北福第3979号
+  - paragraph:
+    - link "個人情報の取り扱い":
+      - /url: https://www.leafkiyosato.jp/privacypolicy
+      - generic: 個人情報の取り扱い
+  - img "リーフ全景.jpg"
+  - link "お問い合わせ":
+    - /url: https://www.leafkiyosato.jp/ccontactme
+    - generic: お問い合わせ
+  - list "SNS バー":
+    - link "フェイスブック":
+      - /url: https://www.facebook.com/guesthouseleaf.urakiyosato
+      - img "フェイスブック"
+    - link "インスタ":
+      - /url: https://www.instagram.com/guesthouse_leaf/
+      - img "インスタ"
+  - paragraph:
+    - generic: © 2023 GUESTHOUSE LEAF ALL RIGHTRESERVE.
+- region "bottom of page"

@@ -1,0 +1,9 @@
+{
+  "company": "コテージ セカンド",
+  "website_url": "https://www.eps4.comlink.ne.jp/~second/",
+  "reason": "公式予約ページに今シーズンは10月いっぱい、11月から4月下旬まで冬期休業と明記。現在休業期間のため保留。Maps3.9/11、公開メールあり、重複なし。表示レビュー未完了。",
+  "evidence_path": "website-evidence/second/reservation.txt",
+  "priority": "hold",
+  "findings": [],
+  "checked_at": "2026-11-01T19:05:28.465968+00:00"
+}

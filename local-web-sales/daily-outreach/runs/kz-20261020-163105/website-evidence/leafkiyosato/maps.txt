@@ -1,0 +1,391 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ゲストハウス リーフ -Guest House Leaf-
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのホテル":
+      - generic: 
+      - generic: 近くのホテル
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "3 か所 北杜市":
+      - generic "3 か所": "3"
+      - generic: 北杜市
+    - button "2 か所 山口市":
+      - generic "2 か所": "2"
+      - generic: 山口市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "ゲストハウス リーフ -Guest House Leaf-":
+    - 'button "写真: ゲストハウス リーフ -Guest House Leaf-" [active]':
+    - button "1 泊 ￥13,364から、11月8日～9日空きがあります。":
+      - generic: ￥13,364
+      - generic: 11月8日～9日
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ゲストハウス リーフ -Guest House Leaf-" [level=1]: ゲストハウス リーフ -Guest House Leaf-
+    - text: "4.6"
+    - img "4.6 つ星"
+    - img "47 件のクチコミ": (47)
+    - text: ·
+    - generic: 3 つ星ホテル
+    - tablist:
+      - tab "ゲストハウス リーフ -Guest House Leaf- の概要" [selected]:
+        - generic: 概要
+      - tab "ゲストハウス リーフ -Guest House Leaf- の料金":
+        - generic: 価格
+      - tab "ゲストハウス リーフ -Guest House Leaf- のクチコミ":
+        - generic: クチコミ
+      - tab "「ゲストハウス リーフ -Guest House Leaf-」について":
+        - generic: 基本情報
+    - region "ゲストハウス リーフ -Guest House Leaf- の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "朝食のみ":
+        - generic: 朝食のみ
+      - button "朝・夕食付":
+        - generic: 朝・夕食付
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - heading "スポンサー · おすすめのオプション" [level=1]:
+      - generic: スポンサー
+      - button "広告の表示について":
+        - generic: 
+      - generic: おすすめのオプション
+    - button "Booking.com 1 泊 2 名で ￥13,364 —— ツイン キャンセル料あり":
+      - generic: Booking.com
+      - generic: 1 泊 2 名で
+      - generic: ￥13,364
+      - generic: 
+      - generic: ——
+      - generic: ツイン
+      - generic: キャンセル料あり
+    - button "シングルベッド 1 台 ￥13,364":
+      - generic: シングルベッド 1 台
+      - generic: ￥13,364
+      - generic: 
+    - link "部屋をすべて表示":
+      - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwi4l5Dju-eXAxWnLnsHHfCFOooYACICCAEQARoCdG0&co=1&ase=2&gclid=CjwKCAjwxpvXBhASEiwAue4B4bbokMoMCpSSMFFoMAjycvvk6iCZ3uB4DmfNdOHR7n_chvFNQRd_2hoCKyEQAvD_BwE&cid=CAESjwLg9nMTUgrZZwAX5fhBoexr8b4-3T15vnS2wTWJXZmGqqmKNgu_U-ZTS3S-i-hGgfiR2lwks1GljruhKnzLyPqFZIKw6EmR35k75CNODo8-1ZVJ1pjH-QfDqJBLKrr1unBjbfO__wEc6qZAIf7YsIRD-gB2Gq761wkOpBBbrndR-WnNVS0K1OekFTFSN3nck-_lvRnTizccSG4dfZwXwePfoJ-zKmSOBum6D7Dblt7LOWmPDGfNzULAMdOKrx_AvOhPiVdysuk29Hqjc6iWMRCjn6vroB2Ya2thXEzTpUXkR_ziuLBeKo6IBPMLuy92BjROTUdJRMWzd5lJAB99fsjjwK0-k5HBLbOiNwpqVcFz&cce=2&category=acrcp_v1_32&sig=AOD64_0NZHSVTMbOdmLELVIyNkdqVDDRWg&nis=4&adurl
+      - text: 部屋をすべて表示
+      - generic: 
+    - heading "すべてのオプション" [level=2]
+    - button "Yahoo!トラベル 1 泊 2 名で ￥13,500 素泊まり ツイン キャンセル料あり":
+      - generic: Yahoo!トラベル
+      - generic: 1 泊 2 名で
+      - generic: ￥13,500
+      - generic: 
+      - generic: 素泊まり
+      - generic: ツイン
+      - generic: キャンセル料あり
+    - button "Booking.com 1 泊 2 名で ￥13,364 —— ツイン キャンセル料あり":
+      - generic: Booking.com
+      - generic: 1 泊 2 名で
+      - generic: ￥13,364
+      - generic: 
+      - generic: ——
+      - generic: ツイン
+      - generic: キャンセル料あり
+    - button "部屋を表示":
+      - text: 部屋を表示
+      - generic: 
+    - button "その他の料金を見る（￥14,613～）":
+      - generic: その他の料金を見る（￥14,613～）
+    - region "ゲストハウス リーフ -Guest House Leaf- の情報":
+      - 'button "住所: 〒407-0301 山梨県北杜市高根町清里３４６６−２３４"':
+        - generic: 
+        - generic: 〒407-0301 山梨県北杜市高根町清里３４６６−２３４
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: leafkiyosato.jp"':
+        - /url: https://www.leafkiyosato.jp/
+        - generic: 
+        - generic: leafkiyosato.jp
+      - link "ウェブサイトを開きます":
+        - /url: https://www.leafkiyosato.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0551-48-2910"':
+        - generic: 
+        - generic: 0551-48-2910
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0551482910
+        - generic: 
+      - 'button "Plus Code: VCQV+W3 北杜市、山梨県"':
+        - generic: 
+        - generic: VCQV+W3 北杜市、山梨県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: 
+      - text: "チェックイン時間: 15:00"
+      - text: "チェックアウト時間: 10:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "立地情報" [level=2]
+    - generic: "3.4"
+    - generic: 観光客向き
+    - button "立地のスコアに関する詳細情報":
+      - generic: 
+    - generic: 観光、レクリエーション、移動手段に基づき算出
+    - tablist "付近の場所":
+      - tab "アクティビティ":
+        - generic: 
+        - generic: アクティビティ
+      - tab "空港":
+        - generic: 
+        - generic: 空港
+    - heading "写真と動画" [level=2]
+    - region "「ゲストハウス リーフ -Guest House Leaf-」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "最新·22 日前"
+      - generic: 最新
+      - generic: 22 日前
+      - button "動画"
+      - generic: 動画
+      - button "客室"
+      - generic: 客室
+      - button "外観"
+      - generic: 外観
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "ゲスト提供"
+      - generic: ゲスト提供
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - link "ペンションポップコーン·￥14,200·4.4 つ星·クチコミ 16 件·0.1 km 圏内":
+        - generic: ￥14,200
+        - generic: ペンションポップコーン
+        - img "4.4 つ星 クチコミ 16 件":
+          - text: "4.4"
+          - text: (16)
+        - generic: 0.1 km 圏内
+      - link "ゲストハウス カーリーヴィレッジ·￥13,364·4.4 つ星·クチコミ 79 件·1.6 km 圏内":
+        - generic: ￥13,364
+        - generic: ゲストハウス カーリーヴィレッジ
+        - img "4.4 つ星 クチコミ 79 件":
+          - text: "4.4"
+          - text: (79)
+        - generic: 1.6 km 圏内
+      - link "Tabist 清里ペンション グランデール·￥15,858·4.1 つ星·クチコミ 94 件·0.9 km 圏内":
+        - generic: ￥15,858
+        - generic: Tabist 清里ペンション グランデール
+        - img "4.1 つ星 クチコミ 94 件":
+          - text: "4.1"
+          - text: (94)
+        - generic: 0.9 km 圏内
+      - link "オーベルジュ清里 八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里·￥11,000·4.3 つ星·クチコミ 110 件·同じ 3 つ星ホテル、￥2,364 低料金·0.9 km 圏内":
+        - generic: ￥11,000
+        - generic: オーベルジュ清里 八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里
+        - img "4.3 つ星 クチコミ 110 件":
+          - text: "4.3"
+          - text: (110)
+        - generic: 同じ 3 つ星ホテル、￥2,364 低料金
+        - generic: 0.9 km 圏内
+      - link "清里高原グレイハウンド·4.4 つ星·クチコミ 48 件·0.5 km 圏内":
+        - generic: 清里高原グレイハウンド
+        - img "4.4 つ星 クチコミ 48 件":
+          - text: "4.4"
+          - text: (48)
+        - generic: 0.5 km 圏内
+      - link "ペンション＆コテージ セカンド·3.9 つ星·クチコミ 11 件·0.9 km 圏内":
+        - generic: ペンション＆コテージ セカンド
+        - img "3.9 つ星 クチコミ 11 件":
+          - text: "3.9"
+          - text: (11)
+        - generic: 0.9 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - heading "ホテルの詳細" [level=2]
+    - 'img "無料 Wi-Fi: 利用可能"':
+      - generic: 
+      - generic: 無料 Wi-Fi
+    - 'img "朝食（有料）: 利用可能"':
+      - generic: 
+      - generic: 朝食（有料）
+    - 'img "駐車場（無料）: 利用可能"':
+      - generic: 
+      - generic: 駐車場（無料）
+    - 'img "プール: 利用不可"':
+      - generic: 
+      - generic: プール
+    - 'img "エアコン完備: 利用可能"':
+      - generic: 
+      - generic: エアコン完備
+    - 'img "ビジネス センター: 利用不可"':
+      - generic: 
+      - generic: ビジネス センター
+    - button "その他の設備を表示":
+      - generic: 
+      - generic: その他の設備を表示
+    - heading "Google でのクチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 33 件": "5"
+        - img "4 つ星、クチコミ 10 件": "4"
+        - img "3 つ星、クチコミ 3 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.6"
+    - img "4.6 つ星"
+    - button "47 件のクチコミ":
+      - generic: 47 件のクチコミ
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "すべてのクチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - generic: Tripadvisor
+    - generic: 5/5
+    - generic: ·
+    - generic: 2 件のクチコミ
+    - generic: nyankotowanko、6 年前
+    - generic: 家族で夏休みに滞在しました。高原の爽やかな景色が一面に拡がるペンションで本当に気持ち良いです。お庭で頂く朝食、夕食は、野菜のスープ、前菜、メイン、デザートと続きとても美味しかったです。夜はまさに満点の星空を楽しめます。オーナーご夫妻のお人柄もあり、とてもリラックスして過ごす事ができました。本当…
+    - link "Tripadvisor でもっと見る":
+      - /url: https://www.tripadvisor.com/ShowUserReviews-g1122381-d2349163-r764888740?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=JP&supul=ja
+      - generic: Tripadvisor でもっと見る
+    - button "その他のクチコミ (44)":
+      - generic: その他のクチコミ (44)
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
