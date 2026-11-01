@@ -1,0 +1,71 @@
+- paragraph
+- table:
+  - rowgroup:
+    - row:
+      - cell:
+        - link:
+          - /url: index2.htm
+    - row "現金のみのお支払いです ウエルカムドリンクサービス 黒姫童話館・一茶記念館 ナウマンゾウ博物館 わくわくチケット割引あります １１月３０日まで":
+      - cell "現金のみのお支払いです ウエルカムドリンクサービス 黒姫童話館・一茶記念館 ナウマンゾウ博物館 わくわくチケット割引あります １１月３０日まで":
+        - link:
+          - /url: internet.htm
+        - text: 現金のみのお支払いです
+        - img "ウエルカムドリンクサービス"
+        - text: 黒姫童話館・一茶記念館
+        - text: ナウマンゾウ博物館
+        - img "わくわくチケット割引あります"
+        - text: １１月３０日まで
+    - row:
+      - cell:
+    - row:
+      - cell:
+        - link:
+          - /url: kannai.htm
+    - row:
+      - cell:
+        - link:
+          - /url: ryouri01.htm
+    - row:
+      - cell:
+        - link:
+          - /url: niwa-haru.htm
+    - row:
+      - cell:
+        - link:
+          - /url: ryoukin1.htm
+    - row:
+      - cell:
+        - link:
+          - /url: kuusitu1.htm
+    - row:
+      - cell:
+        - link:
+          - /url: https://ws.formzu.net/fgen/S71233419/
+    - row:
+      - cell:
+        - link:
+          - /url: akusesu.htm
+    - row:
+      - cell:
+        - link:
+          - /url: syuhenkanko.htm
+    - row:
+      - cell:
+        - link:
+          - /url: mailto:holy@msh.biglobe.ne.jp?Subject=%82%A8%96%E2%82%A2%8D%87%82%ED%82%B9
+    - row:
+      - cell:
+    - row "花ごよみ レンタルスキー 予約代行料金表 長野県上水内郡 信濃町野尻黒姫高原 0120-40-5311 黒姫駅 無料送迎いたします":
+      - cell "花ごよみ レンタルスキー 予約代行料金表 長野県上水内郡 信濃町野尻黒姫高原 0120-40-5311 黒姫駅 無料送迎いたします":
+        - link "花ごよみ":
+          - /url: iyasi-6-2.htm
+          - img "花ごよみ"
+        - link "レンタルスキー 予約代行料金表":
+          - /url: rentaru1.html
+          - img "レンタルスキー 予約代行料金表"
+        - text: 長野県上水内郡
+        - text: 信濃町野尻黒姫高原
+        - text: 0120-40-5311
+        - text: 黒姫駅 無料送迎いたします
+        - link:
+          - /url: http://iyashinomori.main.jp/archives/4092

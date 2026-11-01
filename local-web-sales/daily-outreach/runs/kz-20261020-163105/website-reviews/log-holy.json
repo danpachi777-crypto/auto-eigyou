@@ -1,0 +1,86 @@
+{
+  "company": "ログハウスペンション ホゥリー",
+  "industry": "宿泊施設",
+  "region": "長野県信濃町",
+  "email": "holy@msh.biglobe.ne.jp",
+  "email_source": "https://www2u.biglobe.ne.jp/~log-holy/menu.htm",
+  "website_url": "https://www2u.biglobe.ne.jp/~log-holy/",
+  "discovery_source": "https://kurohime-kogen.jp/stayguide/index.html",
+  "checked_at": "2026-11-01T18:11:57.996Z",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 15,
+    "url": "https://www.google.com/maps/search/?api=1&query=ログハウスペンション+ホゥリー",
+    "identity": "公式サイトの固有パス一致。野尻3884-367・0262555311は共済会の宿紹介にも掲載。公式メニューと予約フォームは0120405311。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www2u.biglobe.ne.jp/~log-holy/",
+    "service": "https://www2u.biglobe.ne.jp/~log-holy/kannai.htm",
+    "contact": "https://ws.formzu.net/fgen/S71233419/",
+    "email_menu": "https://www2u.biglobe.ne.jp/~log-holy/menu.htm",
+    "rates": "https://www2u.biglobe.ne.jp/~log-holy/ryoukin1.htm"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px館内紹介で右側説明文が画面外、見出しの宿名も右端が欠ける。1280pxでは全体表示。トップフレームも390pxで左右両方の内容が切れる。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "公式メニューのお問い合わせ画像リンクがholy@msh.biglobe.ne.jp宛mailtoで件名お問い合わせ。予約フォームは宿泊専用のため送信しない。電話連絡先も公開。"
+    },
+    {
+      "item": 3,
+      "result": "館内・客室・食事・料金・所在地案内を確認。宿泊判断の情報があるが固定幅表示。"
+    },
+    {
+      "item": 4,
+      "result": "写真とメニュー画像は表示。別スマホ版への誘導は閲覧範囲で未検出。トップがフレーム構造のため各フレームの実URLを開き確認。"
+    },
+    {
+      "item": 5,
+      "result": "宿泊フォームは仮予約で宿の確認後に正式予約。急ぎや近日の日程は電話。問い合わせメールとは区別し提案にも保持。"
+    },
+    {
+      "item": 6,
+      "result": "年なし割引案内や価格を古いだけで不具合扱いしない。営業拒否は閲覧範囲で未検出。案に価格やサービス時間を追加しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www2u.biglobe.ne.jp/~log-holy/kannai.htm",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「館内紹介」を拝見すると、写真の右側にある説明文が画面外に出ており、そのままでは内容全体を確認できない状態でした。",
+      "proposal": "館内の写真と説明文を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず施設の案内を読み、問い合わせへ進めるようにする",
+      "evidence_path": "evidence/log-holy/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "holy@msh.biglobe.ne.jp",
+      "log-holy",
+      "ホゥリー"
+    ],
+    "note": "biglobe.ne.jpは共有ホストなので固有パスとメール・名称で照合。"
+  },
+  "comparisons": [
+    {
+      "url": "https://cecilclub.com/",
+      "note": "館内・食事・問い合わせの分類のみ参考。写真・文面は転載せず。"
+    },
+    {
+      "url": "https://pension-bernese.com/contact/",
+      "note": "独立した問い合わせ案内と予約導線の構造のみ参考。転載なし。"
+    }
+  ]
+}

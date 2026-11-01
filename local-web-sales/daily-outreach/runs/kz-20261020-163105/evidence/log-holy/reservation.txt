@@ -1,0 +1,550 @@
+- generic: 入力内容保存／読込
+- heading "予約申込" [level=1]
+- text: ご予約ありがとうございます。
+- text: 下記フォームに必要事項を入力の上ご送信下さい。
+- text: 受取り後、電話及びe-mailにてご連絡差し上げます。
+- text: ※頻繁にメールの確認やＨＰ予約状況の更新を行ないますが
+- text: 予約状況のアップロードの遅れや
+- text: 年末年始等ご要望の多い日に一度に多くのお客様が予約を申し込まれた場合
+- text: 先着順に承ります。予めご了承下さい。
+- text: ※
+- text: お急ぎの場合や近々の日程の場合は
+- text: お電話にてお願いします。【 tel 0120-40-5311 】
+- text: ※トラブルを防ぐ為に
+- text: フォームでのご予約は仮予約として承り
+- text: こちらからの電話又はメールにて確認後
+- text: 正式な予約
+- text: とさせて頂きます。
+- separator
+- text: お名前
+- generic: 必須
+- textbox
+- text: メールアドレス
+- generic: 必須
+- textbox
+- textbox
+- generic: 確認用
+- text: 住所
+- generic: 必須
+- table:
+  - rowgroup:
+    - row "〒 － 住所検索":
+      - rowheader "〒"
+      - cell "－ 住所検索":
+        - textbox
+        - text: －
+        - textbox
+        - button "住所検索"
+    - row "都道府県":
+      - rowheader "都道府県"
+      - cell:
+        - combobox:
+          - option [selected]
+          - option "東京都"
+          - option "------"
+          - option "北海道"
+          - option "青森県"
+          - option "岩手県"
+          - option "宮城県"
+          - option "秋田県"
+          - option "山形県"
+          - option "福島県"
+          - option "------"
+          - option "茨城県"
+          - option "栃木県"
+          - option "群馬県"
+          - option "埼玉県"
+          - option "千葉県"
+          - option "神奈川県"
+          - option "------"
+          - option "新潟県"
+          - option "富山県"
+          - option "石川県"
+          - option "福井県"
+          - option "山梨県"
+          - option "長野県"
+          - option "------"
+          - option "岐阜県"
+          - option "静岡県"
+          - option "愛知県"
+          - option "三重県"
+          - option "------"
+          - option "滋賀県"
+          - option "京都府"
+          - option "大阪府"
+          - option "兵庫県"
+          - option "奈良県"
+          - option "和歌山県"
+          - option "------"
+          - option "鳥取県"
+          - option "島根県"
+          - option "岡山県"
+          - option "広島県"
+          - option "山口県"
+          - option "------"
+          - option "徳島県"
+          - option "香川県"
+          - option "愛媛県"
+          - option "高知県"
+          - option "------"
+          - option "福岡県"
+          - option "佐賀県"
+          - option "長崎県"
+          - option "熊本県"
+          - option "大分県"
+          - option "宮崎県"
+          - option "鹿児島県"
+          - option "沖縄県"
+    - row "市区町村":
+      - rowheader "市区町村"
+      - cell:
+        - textbox
+    - row "町名番地等":
+      - rowheader "町名番地等"
+      - cell:
+        - textbox
+    - row "建物名":
+      - rowheader "建物名"
+      - cell:
+        - textbox
+- text: 連絡先電話番号
+- generic: 必須
+- textbox
+- text: "-"
+- textbox
+- text: "-"
+- textbox
+- text: 宿泊希望月日
+- generic: 必須
+- combobox:
+  - option [selected]
+  - option "01"
+  - option "02"
+  - option "03"
+  - option "04"
+  - option "05"
+  - option "06"
+  - option "07"
+  - option "08"
+  - option "09"
+  - option "10"
+  - option "11"
+  - option "12"
+- text: 月
+- combobox:
+  - option [selected]
+  - option "01"
+  - option "02"
+  - option "03"
+  - option "04"
+  - option "05"
+  - option "06"
+  - option "07"
+  - option "08"
+  - option "09"
+  - option "10"
+  - option "11"
+  - option "12"
+  - option "13"
+  - option "14"
+  - option "15"
+  - option "16"
+  - option "17"
+  - option "18"
+  - option "19"
+  - option "20"
+  - option "21"
+  - option "22"
+  - option "23"
+  - option "24"
+  - option "25"
+  - option "26"
+  - option "27"
+  - option "28"
+  - option "29"
+  - option "30"
+  - option "31"
+- text: 日 ～
+- text: 宿泊日数
+- generic: 必須
+- combobox:
+  - option [selected]
+  - option "１"
+  - option "２"
+  - option "３"
+  - option "４"
+- text: 泊
+- generic: ※１泊２食付（夕食・朝食）
+- text: 前半泊希望
+- generic: 必須
+- combobox:
+  - option [selected]
+  - option "はい"
+  - option "いいえ"
+- text: 交通機関
+- generic: 必須
+- combobox:
+  - option [selected]
+  - option "車"
+  - option "電車"
+  - option "バス"
+  - option "バイク"
+  - option "その他"
+- text: ※到着予定時間を最下部メッセージ欄にご記載下さい。
+- text: ※その他の場合は最下部メッセージ欄にご記載下さい。
+- text: 当館ご利用状況
+- generic: 必須
+- combobox:
+  - option [selected]
+  - option "初めて"
+  - option "２回目以降"
+- separator
+- text: ※ 状況によってはお一人様のご利用を
+- text: お断りする場合がありますのでご了承下さい。
+- generic: 大人・中学生
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- generic: 小人Ａ（大人食事）
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- text: 小人Ｂ（小人食事）
+- text: ※４歳以上
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: 幼児（３歳以下）
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+- generic: ※有料でベッドと食事が追加できます
+- text: 追加ベッド
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+- text: 追加食事
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+- generic: 部屋数
+- combobox:
+  - option [selected]
+  - option "１室"
+  - option "２室"
+  - option "３室"
+  - option "４室"
+  - option "５室"
+  - option "６室"
+  - option "７室"
+  - option "貸切（１４人以上）"
+- generic: 部屋内訳
+- text: ※上記で選んで頂いた部屋数の各部屋毎の内訳を教えてください。
+- textbox: 記入例： １部屋 【大人 名：小人A 名：小人B 名：幼児 名】 ２部屋 【大人 名：小人A 名：小人B 名：幼児 名】 ３部屋 【大人 名：小人A 名：小人B 名：幼児 名】
+- separator
+- generic: 朝食を和食・洋食からお選び頂けます。（要予約）
+- text: ※選択のない場合は洋食でご用意させて頂きます。
+- generic: １泊目 洋食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: 和食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: ２泊目 洋食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: 和食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: ３泊目 洋食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: 和食
+- text: 大人(小人Ａ)
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+  - option "１２名"
+  - option "１３名"
+  - option "１４名"
+  - option "１５名"
+  - option "１６名"
+  - option "１７名"
+  - option "１８名"
+  - option "１９名"
+  - option "２０名"
+  - option "２１名"
+  - option "２２名"
+- text: / 小人Ｂ
+- combobox:
+  - option [selected]
+  - option "１名"
+  - option "２名"
+  - option "３名"
+  - option "４名"
+  - option "５名"
+  - option "６名"
+  - option "７名"
+  - option "８名"
+  - option "９名"
+  - option "１０名"
+  - option "１１名"
+- generic: ※ ４泊目以降の朝食希望については最下部メッセージ欄にご記載下さい。
+- separator
+- text: メッセージ
+- generic: 必須
+- text: ※到着予定時間をお知らせ下さい。
+- textbox
+- text: ※レンタルご希望の方は下記を明記の上、ご送信下さい。
+- text: スキー／足のサイズ・身長（人数分）
+- text: ボード／足のサイズ・身長・利き足（人数分）
+- button "内容確認画面へ"
+- link "このフォームは「Formzu」で作成しました。 このフォームはFormzuで作成しました。":
+  - /url: http://www.formzu.com/
+  - img "このフォームは「Formzu」で作成しました。"
+  - generic: このフォームはFormzuで作成しました。
