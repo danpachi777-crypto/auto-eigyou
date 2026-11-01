@@ -1,0 +1,10 @@
+{
+  "company": "サイクルショップ エルモ",
+  "website_url": "https://elmo.gifu.jp/",
+  "email": "info@elmo.gifu.jp",
+  "checked_at": "2026-11-01T18:51:26.811Z",
+  "priority": "hold",
+  "findings": [],
+  "reason": "390pxでトップ・service・contactを閲覧。問い合わせ入力欄と案内は画面幅内、サービス本文も折り返す。具体的改善点を未確認。PCとMapsの全レビュー未完了。営業日時は木金14–17、土日祝12–17、月火水休（祝日も休）と公式に掲載。",
+  "evidence_path": "evidence/elmo-gifu/home-390.png"
+}
