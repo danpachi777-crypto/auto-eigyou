@@ -1,0 +1,84 @@
+{
+  "company": "スタジオいずも",
+  "industry": "写真館",
+  "region": "島根県出雲市",
+  "email": "studio@izumo-net.ne.jp",
+  "email_source": "https://www.studioizumo.com/contact.html",
+  "website_url": "https://www.studioizumo.com/index.html",
+  "discovery_source": "https://www.pgc.jp/chugoku",
+  "independent_source": "https://www.joymate.or.jp/joy_search/shop/shops/view/332",
+  "checked_at": "2026-11-01T17:35:18.249Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 20,
+    "url": "https://www.google.com/maps/search/?api=1&query=スタジオいずも",
+    "identity": "小山町283-1・0120228168・公式ドメイン一致。業界PGC・ジョイメイト検索掲載と所在地一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.studioizumo.com/index.html",
+    "service": "https://www.studioizumo.com/menu/menu.html",
+    "contact": "https://www.studioizumo.com/contact.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px問い合わせ本文が左画像群に重なりメール画像右側欠け。scrollWidth950。1280pxで全文表示。6枚を目視確認。"
+    },
+    {
+      "item": 2,
+      "result": "ヘッダーと問い合わせに同じ一般公開メール、電話あり。"
+    },
+    {
+      "item": 3,
+      "result": "七五三・婚礼・成人・家族等の撮影内容、所在地連絡先を確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要画像表示。390pxで自動モバイル切替なし、別スマホ版リンク閲覧範囲では未検出。"
+    },
+    {
+      "item": 5,
+      "result": "予約・急ぎは電話、メール返信3〜4営業日の方針を保持。フォーム新設せず。"
+    },
+    {
+      "item": 6,
+      "result": "2026年9月の営業変更記載はあるが今回の提案に含めず。閲覧範囲で営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.studioizumo.com/contact.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「お問い合わせ」を拝見すると、左側の撮影メニュー画像が案内文と重なり、メールでのお問い合わせ画像の右側も画面外に出ていました。",
+      "proposal": "スマートフォンでは撮影メニューと問い合わせ案内を縦に並べ、電話・メールの連絡先と説明文が重ならず画面内に収まるようにする",
+      "evidence_path": "evidence/studioizumo/contact-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "studioizumo.com",
+      "studio@izumo-net.ne.jp",
+      "スタジオいずも"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://k-photostudio.jp/contact/",
+      "note": "撮影の相談方法と案内整理を参照。転載なし。"
+    },
+    {
+      "url": "https://picoro.info/contact/",
+      "note": "スマホで情報を縦に配置する構成を参考。前ターンにブラウザー実見済み。転載なし。"
+    }
+  ]
+}

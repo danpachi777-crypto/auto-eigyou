@@ -1,0 +1,239 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: （有）スタジオいずも
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "（有）スタジオいずも":
+    - 'button "写真: （有）スタジオいずも" [active]':
+    - heading "（有）スタジオいずも" [level=1]: （有）スタジオいずも
+    - text: "4.2"
+    - img "4.2 つ星"
+    - img "20 件のクチコミ": (20)
+    - button "写真館"
+    - tablist:
+      - tab "（有）スタジオいずも の概要" [selected]:
+        - generic: 概要
+      - tab "（有）スタジオいずも のクチコミ":
+        - generic: クチコミ
+    - region "（有）スタジオいずも の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "（有）スタジオいずも の情報":
+      - 'button "住所: 〒693-0051 島根県出雲市小山町２８３−１"':
+        - generic: 
+        - generic: 〒693-0051 島根県出雲市小山町２８３−１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 9:00（火） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 9:00（火）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: studioizumo.com"':
+        - /url: https://www.studioizumo.com/
+        - generic: 
+        - generic: studioizumo.com
+      - link "ウェブサイトを開きます":
+        - /url: https://www.studioizumo.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0120-228-168"':
+        - generic: 
+        - generic: 0120-228-168
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0120228168
+        - generic: 
+      - 'button "Plus Code: 9PFV+92 出雲市、島根県"':
+        - generic: 
+        - generic: 9PFV+92 出雲市、島根県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=8176087602642728063&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「（有）スタジオいずも」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 10 件": "5"
+        - img "4 つ星、クチコミ 6 件": "4"
+        - img "3 つ星、クチコミ 3 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 1 件": "1"
+    - generic: "4.2"
+    - img "4.2 つ星"
+    - button "20 件のクチコミ":
+      - generic: 20 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"リラックスして撮影してもらうことが出来き、写真もとても気に入りました。\""':
+      - /url: https://www.google.com/maps/contrib/105497183869560841610?hl=ja-JP
+    - button "\"リラックスして撮影してもらうことが出来き、写真もとても気に入りました。\"":
+      - generic: "\"リラックスして撮影してもらうことが出来き、写真もとても気に入りました。\""
+    - 'link "次のクチコミ投稿者の写真: \"カメラマンさんに亡くなった母と間違われて、謝罪も一切ありませんでした。\""':
+      - /url: https://www.google.com/maps/contrib/101826176837788481019?hl=ja-JP
+    - button "\"カメラマンさんに亡くなった母と間違われて、謝罪も一切ありませんでした。\"":
+      - generic: "\"カメラマンさんに亡くなった母と間違われて、謝罪も一切ありませんでした。\""
+    - 'link "次のクチコミ投稿者の写真: \"ユニクロ、無印良品なども入っていて便利ですね。\""':
+      - /url: https://www.google.com/maps/contrib/110681853243052342459?hl=ja-JP
+    - button "\"ユニクロ、無印良品なども入っていて便利ですね。\"":
+      - generic: "\"ユニクロ、無印良品なども入っていて便利ですね。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - generic "noku":
+      - button "noku の写真"
+      - button "noku 5 件のクチコミ":
+        - generic: noku
+        - generic: 5 件のクチコミ
+      - button "noku さんのクチコミへのアクション":
+        - generic: 
+      - img "1 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 3 か月前
+      - generic: カメラマンさんに亡くなった母と間違われて、謝罪も一切ありませんでした。 その日の夜は、帰省した姉夫婦と家族揃って予約しておいたお店で食事の予定でしたが、食欲もなくて喉を通らなかったので欠席しました。 記念撮影から数年経った今でも、当時の写真を飾ることができません。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "noku さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "Long Island":
+      - button "Long Island の写真"
+      - button "Long Island ローカルガイド · 27 件のクチコミ · 10 枚の写真":
+        - generic: Long Island
+        - generic: ローカルガイド · 27 件のクチコミ · 10 枚の写真
+      - button "Long Island さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 年前
+      - generic: 事業のWEBサイト用にポートレート撮影を依頼。ワンカットとはいえ、背景を3パターン変えながら何十枚も撮ってもらい、その中からじっくり選べました。メールでその日のうちに納品。本物よりいい人に写っています（笑）。料金はリーズナブル。大満足です。
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "Long Island さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "錦織亨全":
+      - button "錦織亨全 の写真"
+      - button "錦織亨全 1 件のクチコミ":
+        - generic: 錦織亨全
+        - generic: 1 件のクチコミ
+      - button "錦織亨全 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - generic: 写真を撮られるのは苦手で、初めは緊張していたのですが、明るく優しい雰囲気のおかげで次第に緊張もほぐれました。リラックスして撮影してもらうことが出来き、写真もとても気に入りました。また、機会があれば訪れたいです😆 …
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "錦織亨全 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (17)":
+      - generic: その他のクチコミ (17)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "スタジオナウ·4.9 つ星·クチコミ 345 件·写真館":
+      - generic: スタジオナウ
+      - img "4.9 つ星 クチコミ 345 件":
+        - text: "4.9"
+        - text: (345)
+      - generic: 写真館
+    - link "スタジオフォトワークス·4.7 つ星·クチコミ 11 件·写真館":
+      - generic: スタジオフォトワークス
+      - img "4.7 つ星 クチコミ 11 件":
+        - text: "4.7"
+        - text: (11)
+      - generic: 写真館
+    - link "イマオカスタジオ·2.0 つ星·クチコミ 2 件·写真館":
+      - generic: イマオカスタジオ
+      - img "2.0 つ星 クチコミ 2 件":
+        - text: "2.0"
+        - text: (2)
+      - generic: 写真館
+    - link "スタジオLIG·0.0 つ星·写真館":
+      - generic: スタジオLIG
+      - generic: クチコミはありません
+      - generic: 写真館
+    - link "スタジオマックス·0.0 つ星·写真館":
+      - generic: スタジオマックス
+      - generic: クチコミはありません
+      - generic: 写真館
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

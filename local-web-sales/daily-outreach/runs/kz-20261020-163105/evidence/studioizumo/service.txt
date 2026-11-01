@@ -1,0 +1,156 @@
+- paragraph:
+  - link "LinkIconstudio@izumo-net.ne.jp":
+    - /url: mailto:studio@izumo-net.ne.jp
+    - img "LinkIcon"
+    - text: studio@izumo-net.ne.jp
+- paragraph:
+  - link "フェイスブックアイコン2.png":
+    - /url: https://www.facebook.com/スタジオいずも-106034641174901/?modal=admin_todo_tour
+    - img "フェイスブックアイコン2.png"
+  - link "インスタアイコン2.png":
+    - /url: https://www.instagram.com/studioizumo/
+    - img "インスタアイコン2.png"
+- heading "スタジオいずも" [level=1]:
+  - link "スタジオいずも":
+    - /url: ../index.html
+    - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: ../index.html#News
+    - img "お知らせ"
+  - link "撮影について":
+    - /url: menu.html
+    - img "撮影について"
+  - link "ギャラリー":
+    - /url: ../gallery/gallerall.html
+    - img "ギャラリー"
+  - link "料金 商品":
+    - /url: ../ryoukinshouhin.html
+    - img "料金 商品"
+  - link "店舗ご案内":
+    - /url: ../Access.html
+    - img "店舗ご案内"
+  - link "お問い合わせ":
+    - /url: ../contact.html
+    - img "お問い合わせ"
+- paragraph:
+  - link "トップ":
+    - /url: ../index.html
+  - text: "> 撮影について >"
+  - emphasis: メニュー
+- heading [level=2]
+- paragraph
+- table:
+  - rowgroup:
+    - row "753 Photograph 753 白いバルコニーやスタジオ撮影で、居ながらにして、プリンス・プリンセス気分！！ Wedding Photo Wedding Photo お衣裳に合わせた雰囲気のロケーションなど、お二人のご希望に沿ったスタイルで撮影いたします。 成人記念 成人記念 無邪気さも色っぽさも、カワイイもカッコイイも。 すべてあわせもつ二十歳の今を残します。":
+      - cell "753 Photograph 753 白いバルコニーやスタジオ撮影で、居ながらにして、プリンス・プリンセス気分！！":
+        - heading "753 Photograph" [level=4]
+        - paragraph:
+          - link "753":
+            - /url: 753menu.html
+            - img "753"
+        - paragraph: 白いバルコニーやスタジオ撮影で、居ながらにして、プリンス・プリンセス気分！！
+        - paragraph:
+          - link:
+            - /url: 753menu.html
+      - cell "Wedding Photo Wedding Photo お衣裳に合わせた雰囲気のロケーションなど、お二人のご希望に沿ったスタイルで撮影いたします。":
+        - heading "Wedding Photo" [level=4]
+        - paragraph:
+          - link "Wedding Photo":
+            - /url: weddingmenu.html
+            - img "Wedding Photo"
+        - paragraph: お衣裳に合わせた雰囲気のロケーションなど、お二人のご希望に沿ったスタイルで撮影いたします。
+        - paragraph:
+          - link:
+            - /url: weddingmenu.html
+      - cell "成人記念 成人記念 無邪気さも色っぽさも、カワイイもカッコイイも。 すべてあわせもつ二十歳の今を残します。":
+        - heading "成人記念" [level=4]
+        - paragraph:
+          - link "成人記念":
+            - /url: seijinmenu.html
+            - img "成人記念"
+        - paragraph:
+          - text: 無邪気さも色っぽさも、カワイイもカッコイイも。
+          - text: すべてあわせもつ二十歳の今を残します。
+          - link:
+            - /url: seijinmenu.html
+- table:
+  - rowgroup:
+    - row "お宮詣り お宮詣り スタジオで、赤ちゃん１人、兄弟、ご家族など、ご希望に合わせて撮影させていただきます。 記念撮影 記念撮影 特別な日。特別な人と、特別な写真を残します。":
+      - cell "お宮詣り お宮詣り スタジオで、赤ちゃん１人、兄弟、ご家族など、ご希望に合わせて撮影させていただきます。":
+        - heading "お宮詣り" [level=4]
+        - paragraph:
+          - link "お宮詣り":
+            - /url: omiyamairimenu.html
+            - img "お宮詣り"
+        - paragraph: スタジオで、赤ちゃん１人、兄弟、ご家族など、ご希望に合わせて撮影させていただきます。
+        - paragraph:
+          - link:
+            - /url: omiyamairimenu.html
+      - cell "記念撮影 記念撮影 特別な日。特別な人と、特別な写真を残します。":
+        - heading "記念撮影" [level=4]
+        - paragraph:
+          - link "記念撮影":
+            - /url: kinenmenu.html
+            - img "記念撮影"
+        - paragraph: 特別な日。特別な人と、特別な写真を残します。
+        - paragraph:
+          - link:
+            - /url: kinenmenu.html
+      - cell
+- list:
+  - link "753":
+    - /url: 753menu.html
+  - link "Wedding":
+    - /url: weddingmenu.html
+  - link "成人記念":
+    - /url: seijinmenu.html
+  - link "お宮詣り":
+    - /url: omiyamairimenu.html
+  - link "記念撮影":
+    - /url: kinenmenu.html
+  - link "Maternity & Baby":
+    - /url: MaternityBabyPhotoPlan.html
+- paragraph:
+  - img "カメラ2.png"
+  - img "menu_shita2.png"
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: ../index-2.html
+  - link "ギャラリー":
+    - /url: ../gallery/gallerall.html
+  - link "料金・商品":
+    - /url: ../ryoukinshouhin.html
+- list:
+  - listitem: 撮影について
+  - link "753":
+    - /url: 753menu.html
+  - link "成人式":
+    - /url: seijinmenu.html
+  - link "Wedding":
+    - /url: weddingmenu.html
+  - link "お宮詣り":
+    - /url: omiyamairimenu.html
+  - link "Baby Photo Clab":
+    - /url: MaternityBabyPhotoPlan.html
+  - link "記念撮影":
+    - /url: kinenmenu.html
+- list:
+  - link "店舗のご案内":
+    - /url: ../Access.html
+  - link "お問い合わせ":
+    - /url: ../contact.html
+  - link "プライバシーポリシー":
+    - /url: ../privacy.html
+  - link "著作権について":
+    - /url: ../privacy.html
+  - link:
+    - /url: https://www.instagram.com/studioizumo/
+  - link:
+    - /url: https://www.facebook.com/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%84%E3%81%9A%E3%82%82-106034641174901/?modal=admin_todo_tour
+- generic: Copyright 2016 StudioIzumo. All Rights Reserved.

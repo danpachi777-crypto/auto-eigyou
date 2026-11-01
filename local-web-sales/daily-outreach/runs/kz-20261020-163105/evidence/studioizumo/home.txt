@@ -1,0 +1,174 @@
+- paragraph:
+  - link "LinkIconstudio@izumo-net.ne.jp":
+    - /url: mailto:studio@izumo-net.ne.jp
+    - img "LinkIcon"
+    - text: studio@izumo-net.ne.jp
+- paragraph:
+  - link "フェイスブックアイコン2.png":
+    - /url: https://www.facebook.com/スタジオいずも-106034641174901/?modal=admin_todo_tour
+    - img "フェイスブックアイコン2.png"
+  - link "インスタアイコン2.png":
+    - /url: https://www.instagram.com/studioizumo/
+    - img "インスタアイコン2.png"
+- heading "スタジオいずも" [level=1]:
+  - link "スタジオいずも":
+    - /url: index.html
+    - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: index.html#News
+    - img "お知らせ"
+  - link "撮影について":
+    - /url: menu/menu.html
+    - img "撮影について"
+  - link "ギャラリー":
+    - /url: gallery/gallerall.html
+    - img "ギャラリー"
+  - link "料金 商品":
+    - /url: ryoukinshouhin.html
+    - img "料金 商品"
+  - link "店舗ご案内":
+    - /url: Access.html
+    - img "店舗ご案内"
+  - link "お問い合わせ":
+    - /url: contact.html
+    - img "お問い合わせ"
+- paragraph:
+  - link:
+    - /url: menu/seijinmenu.html
+  - generic: "1"
+  - generic: "2"
+  - generic: "3"
+- paragraph:
+  - img "スタジオいずも"
+- paragraph:
+  - img "カメラ2.png"
+- paragraph
+- paragraph:
+  - text: お客様とのコミュニケーションを大事に写真を通じて何か伝えていけないか、
+  - text: その家族に感動と喜びを世代を越え時代を越え伝えていきたい。
+  - text: そんな思いを1枚1枚の写真に真心を込め、より確かな技術と新しい感覚で感動の1枚を提供致します。
+  - text: 写真があなたの心に残るように、そして家族を幸せにできるように少しでもお手伝いができますように....
+  - strong: 皆様のご来店をスタッフ一同、笑顔で心よりお待ちしております。
+- heading "お知らせ" [level=2]:
+  - img "お知らせ"
+- paragraph
+- paragraph:
+  - img "赤ちゃんキャンペーン2021"
+  - text: 誠に勝手ながら、今月の営業日.休業日（通常 月曜日 定休）を
+  - text: 以下の内容に変更させていただきます。
+  - text: 2026年9月21日（月） 9：00 〜18：00 営業
+  - text: 2026年9月23日（水） 休
+  - text: 2026年9月24日（木） 休
+  - text: 2026年9月28日（月） 9：00 〜18：00 営業
+  - text: 2026年9月29日（火） 休
+  - text: お客様にはご迷惑をおかけしますが、よろしくお願いいたします。
+  - text: ※ご予約やお急ぎの場合はお電話にてお問い合わせくださいませ。
+- paragraph:
+  - img "line.png"
+  - img "753キャンペーン"
+  - link "753 ウェディング 成人":
+    - /url: _src/sc6080/97a0_1.jpg
+    - img "753 ウェディング 成人"
+  - img "line.png"
+- paragraph:
+  - img "ウェディングフォト"
+- paragraph:
+  - text: 大好評のウェディングフォトプランは、なんと当店衣装と着付け
+  - text: ヘアメイクが付いているとってもお得な撮影プランです！！
+- paragraph:
+  - text: 結婚前にウェルカムボードを作りたいという方や、
+  - text: 結婚式や披露宴はしないけど、
+  - text: 結婚の思い出は形に残したいなぁという方。
+  - text: 授かり婚や子どもがいるけど
+  - text: 結婚式をしていない方など、どんな方でもOKです＾＾
+  - text: ロケーション撮影なども（別途料金がかかります）できますので
+  - text: お気軽にお問い合わせください♪
+  - link:
+    - /url: menu/weddingmenu.html
+- paragraph:
+  - img "婚礼"
+- paragraph:
+  - img "line.png"
+  - img "スクリーンショット 2026-07-10 17.30.21.png"
+  - img "line.png"
+  - text: 2023年 赤ちゃんキャンペーン27TH 下記にて一部ご紹介しております。
+  - text: ↓↓↓↓ぜひご覧ください↓↓↓↓
+  - link "赤ちゃんペーンキャンペーン":
+    - /url: gallery/akachan2023.html
+    - img "赤ちゃんペーンキャンペーン"
+  - img "line.png"
+- paragraph:
+  - img "line.png"
+  - text: 詳しいお問い合わせやご予約はこちらまで
+  - link "LinkIcon0120-22-8168":
+    - /url: tel:0120228168
+    - img "LinkIcon"
+    - text: 0120-22-8168
+  - img "line.png"
+  - link "成人記念":
+    - /url: menu/seijinmenu.html
+    - img "成人記念"
+- list:
+  - link "753":
+    - /url: menu/753menu.html
+    - img "753"
+- list:
+  - link "成人":
+    - /url: menu/seijinmenu.html
+    - img "成人"
+- list:
+  - link "ウェディング":
+    - /url: menu/weddingmenu.html
+    - img "ウェディング"
+- list:
+  - link "フォトスポット":
+    - /url: https://www.photospot.jp
+    - img "フォトスポット"
+- list:
+  - link:
+    - /url: https://www.instagram.com/studioizumo/
+- list:
+  - link:
+    - /url: https://www.facebook.com/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%84%E3%81%9A%E3%82%82-106034641174901/?modal=admin_todo_tour
+- paragraph
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: index-2.html
+  - link "ギャラリー":
+    - /url: gallery/gallerall.html
+  - link "料金・商品":
+    - /url: ryoukinshouhin.html
+- list:
+  - listitem: 撮影について
+  - link "753":
+    - /url: menu/753menu.html
+  - link "成人式":
+    - /url: menu/seijinmenu.html
+  - link "Wedding":
+    - /url: menu/weddingmenu.html
+  - link "お宮詣り":
+    - /url: menu/omiyamairimenu.html
+  - link "Baby Photo Clab":
+    - /url: menu/MaternityBabyPhotoPlan.html
+  - link "記念撮影":
+    - /url: menu/kinenmenu.html
+- list:
+  - link "店舗のご案内":
+    - /url: Access.html
+  - link "お問い合わせ":
+    - /url: contact.html
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+  - link "著作権について":
+    - /url: privacy.html
+  - link:
+    - /url: https://www.instagram.com/studioizumo/
+  - link:
+    - /url: https://www.facebook.com/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%84%E3%81%9A%E3%82%82-106034641174901/?modal=admin_todo_tour
+- generic: Copyright 2016 StudioIzumo. All Rights Reserved.

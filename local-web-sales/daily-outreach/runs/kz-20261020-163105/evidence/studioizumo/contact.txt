@@ -1,0 +1,126 @@
+- paragraph:
+  - link "LinkIconstudio@izumo-net.ne.jp":
+    - /url: mailto:studio@izumo-net.ne.jp
+    - img "LinkIcon"
+    - text: studio@izumo-net.ne.jp
+- paragraph:
+  - link "フェイスブックアイコン2.png":
+    - /url: https://www.facebook.com/スタジオいずも-106034641174901/?modal=admin_todo_tour
+    - img "フェイスブックアイコン2.png"
+  - link "インスタアイコン2.png":
+    - /url: https://www.instagram.com/studioizumo/
+    - img "インスタアイコン2.png"
+- heading "スタジオいずも" [level=1]:
+  - link "スタジオいずも":
+    - /url: index.html
+    - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: index.html#News
+    - img "お知らせ"
+  - link "撮影について":
+    - /url: menu/menu.html
+    - img "撮影について"
+  - link "ギャラリー":
+    - /url: gallery/gallerall.html
+    - img "ギャラリー"
+  - link "料金 商品":
+    - /url: ryoukinshouhin.html
+    - img "料金 商品"
+  - link "店舗ご案内":
+    - /url: Access.html
+    - img "店舗ご案内"
+  - link "お問い合わせ":
+    - /url: contact.html
+    - img "お問い合わせ"
+- paragraph:
+  - link "トップ":
+    - /url: index.html
+  - text: ">"
+  - emphasis: お問い合わせ
+- heading "お問い合わせ" [level=2]:
+  - img "お問い合わせ"
+- paragraph
+- paragraph:
+  - text: 撮影、料金、その他ご不明な点がございましたら、
+  - link:
+    - /url: tel:0120228168
+  - text: までお電話いただくか、
+  - text: またはメールにて(ご返信までには３〜４営業日いただいております。
+  - text: あらかじめご了承ください。)お問い合わせください。
+- paragraph: メールでのお問い合わせはこちらからどうぞ
+- paragraph:
+  - link "メールでのお問い合わせ":
+    - /url: mailto:studio@izumo-net.ne.jp
+    - img "メールでのお問い合わせ"
+- paragraph
+- paragraph:
+  - text: 写真館のスタジオいずも
+  - text: "[婚礼][成人式][紐落し][お宮参り][赤ちゃん][家族写真][ロケーション][学校アルバム]"
+  - text: "[商品][出張撮影][建築][写真複製・合成・修正][大型集合写真]"
+  - text: 〒693-0051 島根県出雲市小山町283-1 ツインタワーブレス内
+  - text: "TEL : 0120-22-8168 FAX : 0853-24-2243"
+  - text: "営業時間 : 9:00～18:00 《定休日 月曜日》"
+- list:
+  - link "753":
+    - /url: menu/753menu.html
+    - img "753"
+- list:
+  - link "成人":
+    - /url: menu/seijinmenu.html
+    - img "成人"
+- list:
+  - link "ウェディング":
+    - /url: menu/weddingmenu.html
+    - img "ウェディング"
+- list:
+  - link "フォトスポット":
+    - /url: https://www.photospot.jp
+    - img "フォトスポット"
+- list:
+  - link:
+    - /url: https://www.instagram.com/studioizumo/
+- list:
+  - link:
+    - /url: https://www.facebook.com/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%84%E3%81%9A%E3%82%82-106034641174901/?modal=admin_todo_tour
+- paragraph
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - img "スタジオいずも"
+- list:
+  - link "お知らせ":
+    - /url: index-2.html
+  - link "ギャラリー":
+    - /url: gallery/gallerall.html
+  - link "料金・商品":
+    - /url: ryoukinshouhin.html
+- list:
+  - listitem: 撮影について
+  - link "753":
+    - /url: menu/753menu.html
+  - link "成人式":
+    - /url: menu/seijinmenu.html
+  - link "Wedding":
+    - /url: menu/weddingmenu.html
+  - link "お宮詣り":
+    - /url: menu/omiyamairimenu.html
+  - link "Baby Photo Clab":
+    - /url: menu/MaternityBabyPhotoPlan.html
+  - link "記念撮影":
+    - /url: menu/kinenmenu.html
+- list:
+  - link "店舗のご案内":
+    - /url: Access.html
+  - link "お問い合わせ":
+    - /url: contact.html
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+  - link "著作権について":
+    - /url: privacy.html
+  - link:
+    - /url: https://www.instagram.com/studioizumo/
+  - link:
+    - /url: https://www.facebook.com/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%84%E3%81%9A%E3%82%82-106034641174901/?modal=admin_todo_tour
+- generic: Copyright 2016 StudioIzumo. All Rights Reserved.
