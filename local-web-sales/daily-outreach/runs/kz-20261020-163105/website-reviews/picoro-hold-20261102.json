@@ -1,0 +1,9 @@
+{
+  "slug": "picoro",
+  "company": "しゃしんやさんPICORO",
+  "website_url": "https://picoro.info/",
+  "reason": "390pxのホーム・問い合わせは本文と入力欄が画面内に収まり、今回範囲では改善点未確認。問い合わせはフォーム指定、公開メール未確認。Maps・サービス・1280pxは未実施。",
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T17:30:16.245172+00:00"
+}
