@@ -1,0 +1,822 @@
+- table:
+  - rowgroup:
+    - row "料金、空室のご案内":
+      - cell "料金、空室のご案内":
+        - generic: 料金、空室のご案内
+- table:
+  - rowgroup:
+    - row "ＴＯＰページ アクセスⅠ アクセスⅡ 宿のご案内 遊びⅠ 遊びⅡ スポーツ 温泉施設":
+      - cell "ＴＯＰページ":
+        - link "ＴＯＰページ":
+          - /url: index.htm
+      - cell "アクセスⅠ":
+        - link "アクセスⅠ":
+          - /url: newpage2.htm
+      - cell "アクセスⅡ":
+        - link "アクセスⅡ":
+          - /url: newpage27.htm
+      - cell "宿のご案内":
+        - link "宿のご案内":
+          - /url: newpage3.htm
+      - cell "遊びⅠ":
+        - link "遊びⅠ":
+          - /url: newpage4.htm
+      - cell "遊びⅡ":
+        - link "遊びⅡ":
+          - /url: newpage28.htm
+      - cell "スポーツ":
+        - link "スポーツ":
+          - /url: newpage10.htm
+      - cell "温泉施設":
+        - link "温泉施設":
+          - /url: newpage16.htm
+    - row "歴史散策 ミニ尾瀬公園 イベント情報 お知らせ 時刻表 尾瀬 尾瀬の花 尾瀬の滝":
+      - cell "歴史散策":
+        - link "歴史散策":
+          - /url: newpage24.htm
+      - cell "ミニ尾瀬公園":
+        - link "ミニ尾瀬公園":
+          - /url: newpage5.htm
+      - cell "イベント情報":
+        - link "イベント情報":
+          - /url: newpage9.htm
+      - cell "お知らせ":
+        - link "お知らせ":
+          - /url: newpage7.htm
+      - cell "時刻表":
+        - link "時刻表":
+          - /url: newpage20.htm
+      - cell "尾瀬":
+        - link "尾瀬":
+          - /url: newpage12.htm
+      - cell "尾瀬の花":
+        - link "尾瀬の花":
+          - /url: newpage22.htm
+      - cell "尾瀬の滝":
+        - link "尾瀬の滝":
+          - /url: newpage11.htm
+    - row "初めての尾瀬 燧ケ岳一周 モデルコース 会津駒ケ岳 燧ケ岳 帝釈山 田代山":
+      - cell "初めての尾瀬":
+        - link "初めての尾瀬":
+          - /url: newpage26.htm
+      - cell "燧ケ岳一周":
+        - link "燧ケ岳一周":
+          - /url: newpage25.htm
+      - cell "モデルコース":
+        - link "モデルコース":
+          - /url: newpage15.htm
+      - cell "会津駒ケ岳":
+        - link "会津駒ケ岳":
+          - /url: newpage6.htm
+      - cell "燧ケ岳":
+        - link "燧ケ岳":
+          - /url: newpage6.htm
+      - cell "帝釈山":
+        - link "帝釈山":
+          - /url: newpage23.htm
+      - cell "田代山":
+        - link "田代山":
+          - /url: newpage23.htm
+      - cell:
+    - row "オンラインご予約 ご予約申込書 感想メール リンク集 特典":
+      - cell "オンラインご予約":
+        - link "オンラインご予約":
+          - /url: newpage17.htm
+      - cell "ご予約申込書":
+        - link "ご予約申込書":
+          - /url: newpage13.htm
+      - cell "感想メール":
+        - link "感想メール":
+          - /url: newpage14.htm
+      - cell "リンク集":
+        - link "リンク集":
+          - /url: newpage19.htm
+      - cell "特典":
+        - link "特典":
+          - /url: newpage8.htm
+      - cell:
+- separator
+- paragraph
+- table:
+  - rowgroup:
+    - row "ご宿泊料金（税込）":
+      - cell "ご宿泊料金（税込）":
+        - generic: ご宿泊料金（税込）
+- table:
+  - rowgroup:
+    - row "ご宿泊内容 平日 休前日":
+      - cell
+      - cell
+      - cell "ご宿泊内容"
+      - cell "平日":
+        - generic: 平日
+      - cell "休前日":
+        - generic: 休前日
+    - row "ご宿泊 大人（中学生以上） １泊２食付 ９，２００円～ ９，５００円～":
+      - cell "ご宿泊":
+        - generic: ご宿泊
+      - cell "大人（中学生以上）"
+      - cell "１泊２食付"
+      - cell "９，２００円～":
+        - generic: ９，２００円～
+      - cell "９，５００円～":
+        - generic: ９，５００円～
+    - row "（２名様以上の料金） １泊夕食付 ８，７００円～ ９，０００円～":
+      - cell "（２名様以上の料金）":
+        - text: （
+        - generic: ２名
+        - text: 様以上の料金）
+      - cell
+      - cell "１泊夕食付"
+      - cell "８，７００円～":
+        - generic: ８，７００円～
+      - cell "９，０００円～":
+        - generic: ９，０００円～
+    - row "１泊朝食付 ８，２００円～ ８，５００円～":
+      - cell
+      - cell
+      - cell "１泊朝食付"
+      - cell "８，２００円～":
+        - generic: ８，２００円～
+      - cell "８，５００円～":
+        - generic: ８，５００円～
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "素泊り ６，０００円～ ６，３００円～":
+      - cell
+      - cell
+      - cell "素泊り"
+      - cell "６，０００円～":
+        - generic: ６，０００円～
+      - cell "６，３００円～":
+        - generic: ６，３００円～
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "小人（小学生以下） １泊２食付 ７，８００円～ ８，１００円～":
+      - cell
+      - cell "小人（小学生以下）"
+      - cell "１泊２食付"
+      - cell "７，８００円～":
+        - generic: ７，８００円～
+      - cell "８，１００円～":
+        - generic: ８，１００円～
+    - row "１泊夕食付 ７，２００円～ ７，５００円～":
+      - cell
+      - cell
+      - cell "１泊夕食付"
+      - cell "７，２００円～":
+        - generic: ７，２００円～
+      - cell "７，５００円～":
+        - generic: ７，５００円～
+    - row "１泊朝食付 ６，８００円～ ７，１００円～":
+      - cell
+      - cell
+      - cell "１泊朝食付"
+      - cell "６，８００円～":
+        - generic: ６，８００円～
+      - cell "７，１００円～":
+        - generic: ７，１００円～
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "素泊り ５，０００円～ ５，３００円～":
+      - cell
+      - cell
+      - cell "素泊り"
+      - cell "５，０００円～":
+        - generic: ５，０００円～
+      - cell "５，３００円～":
+        - generic: ５，３００円～
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "幼児 食事・布団なし １，５００円～ １，５００円～":
+      - cell
+      - cell "幼児"
+      - cell "食事・布団なし"
+      - cell "１，５００円～":
+        - generic: １，５００円～
+      - cell "１，５００円～":
+        - generic: １，５００円～
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+    - row:
+      - cell
+    - row "●１名様で１部屋ご利用の場合１，０００円増とさせていただきますのでご了承願います":
+      - cell "●１名様で１部屋ご利用の場合１，０００円増とさせていただきますのでご了承願います":
+        - generic: ●１名様で１部屋ご利用
+        - text: の場合
+        - generic: １，０００円増
+        - text: とさせていただきますのでご了承願います
+    - row "●冬期間（１１月～４月ころ） 暖房費として１部屋８００円別途申し受けさせていただきますのでご了承願います":
+      - cell "●冬期間（１１月～４月ころ） 暖房費として１部屋８００円別途申し受けさせていただきますのでご了承願います":
+        - text: ●冬期間（１１月～４月ころ）
+        - text: 暖房費として
+        - generic: １部屋８００円
+        - text: 別途申し受けさせていただきますのでご了承願います
+    - row "●休前日は⇒土曜日と・祝日及び休日の前日になります":
+      - cell "●休前日は⇒土曜日と・祝日及び休日の前日になります":
+        - text: ●
+        - generic: 休前日
+        - generic: は⇒土曜日と・祝日及び休日の前日になります
+    - row "●年末年始、連休期間（飛石連休含む）、お盆・GW期間中及び歌舞伎上演日は休前日と同料金と させていただきますのでご了承願います （２０２６の場合 年末年始⇒１２/３０～１/３ お盆期間⇒８/８～１５ GW期間⇒４/２５～５/６ 他連休・飛び石連休）":
+      - cell "●年末年始、連休期間（飛石連休含む）、お盆・GW期間中及び歌舞伎上演日は休前日と同料金と させていただきますのでご了承願います （２０２６の場合 年末年始⇒１２/３０～１/３ お盆期間⇒８/８～１５ GW期間⇒４/２５～５/６ 他連休・飛び石連休）":
+        - generic: ●年末年始、連休期間（飛石連休含む）、お盆・GW期間中及び歌舞伎上演日
+        - text: は
+        - generic: 休前日
+        - generic: と同料金
+        - generic: と
+        - generic: させていただきますのでご了承願います
+        - generic: （
+        - generic: ２０２６
+        - generic: の場合
+        - text: 年末年始⇒１２/３０～１/３ お盆期間⇒８/８～１５
+        - generic: GW期間⇒
+        - text: ４/２５～５/６
+        - generic: 他
+        - generic: 連休・飛び石連休
+        - generic: ）
+    - row "●アメニティ➡浴衣・フェイスタオル（歯ブラシセット付）を用意しております ＊バスタオルはございませんので必要な方はご用意願います・・・":
+      - cell "●アメニティ➡浴衣・フェイスタオル（歯ブラシセット付）を用意しております ＊バスタオルはございませんので必要な方はご用意願います・・・":
+        - text: ●
+        - generic: アメニティ
+        - generic: ➡浴衣
+        - text: ・フェイスタオル（歯ブラシセット付）を用意しております
+        - text: ＊バスタオルはございませんので必要な方はご用意願います・・・
+- table:
+  - rowgroup:
+    - row "お食事 夕食 ３，０００円～":
+      - cell "お食事":
+        - generic: お食事
+      - cell "夕食"
+      - cell
+      - cell "３，０００円～":
+        - generic: ３，０００円～
+    - row "朝食 ２，０００円～":
+      - cell
+      - cell "朝食"
+      - cell
+      - cell "２，０００円～":
+        - generic: ２，０００円～
+    - row "弁当（おにぎり） おかず＋自然水付 １，０００円":
+      - cell
+      - cell "弁当（おにぎり）"
+      - cell "おかず＋自然水付"
+      - cell "１，０００円":
+        - generic: １，０００円
+- table:
+  - rowgroup:
+    - row "お飲物 日本酒 お銚子（1合） ４００円":
+      - cell "お飲物":
+        - text: お飲物
+      - cell "日本酒"
+      - cell "お銚子（1合）"
+      - cell "４００円":
+        - generic: ４００円
+    - row "／ 1升 ３，３００円":
+      - cell
+      - cell "／"
+      - cell "1升"
+      - cell "３，３００円":
+        - generic: ３，３００円
+    - row "／ 円":
+      - cell
+      - cell "／"
+      - cell
+      - cell "円":
+        - generic: 円
+    - row "／ 冷酒（ / ）「檜枝岐１００年」 ９００円":
+      - cell
+      - cell "／"
+      - cell "冷酒（ / ）「檜枝岐１００年」"
+      - cell "９００円":
+        - generic: ９００円
+    - row "／ イワナの骨酒（２合） １，５００円":
+      - cell
+      - cell "／"
+      - cell "イワナの骨酒（２合）"
+      - cell "１，５００円":
+        - generic: １，５００円
+    - row "＊「イワナの骨酒」はご宿泊ご予約時にお申し込みください":
+      - cell
+      - cell "＊「イワナの骨酒」はご宿泊ご予約時にお申し込みください":
+        - generic: ＊「イワナの骨酒」はご宿泊ご予約時にお申し込みください
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "焼酎 ボトル（７２０ml） ２，０００円":
+      - cell
+      - cell "焼酎"
+      - cell "ボトル（７２０ml）"
+      - cell "２，０００円":
+        - generic: ２，０００円
+    - row "／ グラス ４００円":
+      - cell
+      - cell "／"
+      - cell "グラス"
+      - cell "４００円":
+        - generic: ４００円
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "ウィスキー グラス ４００円":
+      - cell
+      - cell "ウィスキー"
+      - cell "グラス"
+      - cell "４００円":
+        - generic: ４００円
+    - row:
+      - cell
+      - cell
+      - cell
+      - cell
+    - row "ビール 中ビン ７００円":
+      - cell
+      - cell "ビール"
+      - cell "中ビン"
+      - cell "７００円":
+        - generic: ７００円
+    - row "／ 缶（３５０ml） ４００円":
+      - cell
+      - cell "／"
+      - cell "缶（３５０ml）"
+      - cell "４００円":
+        - generic: ４００円
+    - row "茶・ジュース類 ペットボトル ２００円":
+      - cell
+      - cell "茶・ジュース類"
+      - cell "ペットボトル"
+      - cell "２００円":
+        - generic: ２００円
+- table:
+  - rowgroup:
+    - row "福島県の宿泊割引事業 「また来て。」割はこちらから":
+      - cell:
+      - cell "福島県の宿泊割引事業 「また来て。」割はこちらから":
+        - text: 福島県の宿泊割引事業
+        - text: 「また来て。」割
+        - text: は
+        - link "こちらから":
+          - /url: newpage7.htm
+    - row "上記料金は税込表示（消費税、入湯税）となっております":
+      - cell:
+      - cell "上記料金は税込表示（消費税、入湯税）となっております":
+        - text: 上記料金は
+        - generic: 税込表示
+        - text: （消費税、入湯税）となっております
+    - row "キャッシュレス決済 始めました クレジットカード （VISA Master／JCB）のみです！ ＊冬期間ご利用不可能な日がございますのでご了承願います！":
+      - cell:
+      - cell "キャッシュレス決済 始めました クレジットカード （VISA Master／JCB）のみです！ ＊冬期間ご利用不可能な日がございますのでご了承願います！":
+        - generic: キャッシュレス決済
+        - text: 始めました
+        - generic: クレジットカード
+        - generic: （VISA Master／JCB）
+        - generic: のみです！
+        - generic: ＊冬期間ご利用不可能な日がございますのでご了承願います！
+    - row:
+      - cell
+      - cell
+    - row:
+      - cell
+- paragraph
+- paragraph:
+- table:
+  - rowgroup:
+    - row "空室状況":
+      - cell "空室状況":
+        - generic: 空室状況
+- table:
+  - rowgroup:
+    - row "＊Ｘ の日は満室になっております。申し訳ございませんが、またの機会にお願い致します｡ ＊▲ の日は少し空きがあります。 ＊グレー■塗りつぶしの日は誠に勝手ながら、休館させていただきます。申し訳ございません。 ■尚、誠に勝手ではございますが、ご予約につきましては下記年・月の空室状況が掲載中の期間においてのみ受付させていただきますので、ご了承願います。 ■平日は休館にさせていただく日が多くなるかもしれません。申し訳ございませんがご了承願います。（グレーの日以外でも）":
+      - cell "＊Ｘ の日は満室になっております。申し訳ございませんが、またの機会にお願い致します｡ ＊▲ の日は少し空きがあります。 ＊グレー■塗りつぶしの日は誠に勝手ながら、休館させていただきます。申し訳ございません。 ■尚、誠に勝手ではございますが、ご予約につきましては下記年・月の空室状況が掲載中の期間においてのみ受付させていただきますので、ご了承願います。 ■平日は休館にさせていただく日が多くなるかもしれません。申し訳ございませんがご了承願います。（グレーの日以外でも）":
+        - text: ＊
+        - generic: Ｘ
+        - generic: の日は満室になっております。申し訳ございませんが、またの機会にお願い致します｡
+        - text: ＊
+        - generic: ▲
+        - generic: の日は少し空きがあります。
+        - text: ＊
+        - generic: グレー
+        - generic: ■
+        - text: 塗りつぶし
+        - generic: の日は誠に勝手ながら、休館させていただきます。申し訳ございません。
+        - text: ■尚、誠に勝手ではございますが、
+        - generic: ご予約
+        - text: につきましては
+        - generic: 下記年・月の空室状況が掲載中の期間においてのみ
+        - generic: 受付させていただきますので、ご了承願います。
+        - generic: ■
+        - generic: 平日
+        - text: は
+        - generic: 休館にさせていただく日が多くなるかもしれません。
+        - text: 申し訳ございませんがご了承願います。
+        - generic: （グレーの日以外でも）
+- blockquote:
+  - blockquote:
+    - blockquote:
+      - table:
+        - rowgroup:
+          - row "２０２６年０９月 ２０２６年１０月":
+            - cell "２０２６年０９月"
+            - cell
+            - cell "２０２６年１０月"
+          - row "日 月 火 水 木 金 土 日 月 火 水 木 金 土":
+            - cell "日"
+            - cell "月"
+            - cell "火"
+            - cell "水"
+            - cell "木"
+            - cell "金"
+            - cell "土"
+            - cell
+            - cell "日"
+            - cell "月"
+            - cell "火"
+            - cell "水"
+            - cell "木"
+            - cell "金"
+            - cell "土"
+          - row "・ ・ １ ２ ３ ４ ５ ・ ・ ・ ・ １ ２ ３":
+            - cell "・":
+              - generic: ・
+            - cell "・":
+              - generic: ・
+            - cell "１"
+            - cell "２"
+            - cell "３":
+              - generic: ３
+            - cell "４":
+              - generic: ４
+            - cell "５":
+              - generic: ５
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "１":
+              - generic: １
+            - cell "２"
+            - cell "３":
+              - generic: ３
+          - row "６ ７ ８ ９ １０ １１ １２ ４ ５ ６ ７ ８ ９ １０":
+            - cell "６"
+            - cell "７":
+              - generic: ７
+            - cell "８":
+              - generic: ８
+            - cell "９":
+              - generic: ９
+            - cell "１０"
+            - cell "１１"
+            - cell "１２"
+            - cell "４"
+            - cell "５":
+              - generic: ５
+            - cell "６"
+            - cell "７":
+              - generic: ７
+            - cell "８":
+              - generic: ８
+            - cell "９"
+            - cell "１０"
+          - row "１３ １４ １５ １６ １７ １８ １９ １１ １２ １３ １４ １５ １６ １７":
+            - cell "１３"
+            - cell "１４":
+              - generic: １４
+            - cell "１５":
+              - generic: １５
+            - cell "１６":
+              - generic: １６
+            - cell "１７"
+            - cell "１８":
+              - generic: １８
+            - cell "１９"
+            - cell "１１"
+            - cell "１２":
+              - generic: １２
+            - cell "１３":
+              - generic: １３
+            - cell "１４"
+            - cell "１５"
+            - cell "１６"
+            - cell "１７"
+          - row "２０ ２１ ２２ ２３ ２４ ２５ ２６ １８ １９ ２０ ２１ ２２ ２３ ２４":
+            - cell "２０":
+              - generic: ２０
+            - cell "２１":
+              - generic: ２１
+            - cell "２２":
+              - generic: ２２
+            - cell "２３":
+              - generic: ２３
+            - cell "２４"
+            - cell "２５"
+            - cell "２６"
+            - cell "１８"
+            - cell "１９":
+              - generic: １９
+            - cell "２０"
+            - cell "２１"
+            - cell "２２"
+            - cell "２３":
+              - generic: ２３
+            - cell "２４"
+          - row "２７ ２８ ２９ ３０ ・ ・ ・ ２５ ２６ ２７ ２８ ２９ ３０ ３１":
+            - cell "２７"
+            - cell "２８"
+            - cell "２９"
+            - cell "３０":
+              - generic: ３０
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "２５"
+            - cell "２６":
+              - generic: ２６
+            - cell "２７"
+            - cell "２８"
+            - cell "２９"
+            - cell "３０"
+            - cell "３１"
+          - row "・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・":
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+            - cell "・"
+- blockquote:
+  - table:
+    - rowgroup:
+      - row "２０２６年１１月 ２０２６年１２月":
+        - cell "２０２６年１１月"
+        - cell
+        - cell "２０２６年１２月"
+      - row "日 月 火 水 木 金 土 日 月 火 水 木 金 土":
+        - cell "日"
+        - cell "月"
+        - cell "火"
+        - cell "水"
+        - cell "木"
+        - cell "金"
+        - cell "土"
+        - cell
+        - cell "日"
+        - cell "月"
+        - cell "火"
+        - cell "水"
+        - cell "木"
+        - cell "金"
+        - cell "土"
+      - row "１ｘ ２ ３ ４ ５ ６ ７▲ ・ ・ １ ２ ３ ４ ５":
+        - cell "１ｘ":
+          - text: １
+          - generic: ｘ
+        - cell "２"
+        - cell "３":
+          - generic: ３
+        - cell "４"
+        - cell "５"
+        - cell "６"
+        - cell "７▲":
+          - generic: ７▲
+        - cell "・"
+        - cell "・"
+        - cell "１"
+        - cell "２":
+          - generic: ２
+        - cell "３"
+        - cell "４"
+        - cell "５"
+      - row "８▲ ９ １０ １１ １２ １３ １４ ６ ７ ８ ９ １０ １１ １２":
+        - cell "８▲"
+        - cell "９":
+          - generic: ９
+        - cell "１０":
+          - generic: １０
+        - cell "１１":
+          - generic: １１
+        - cell "１２":
+          - generic: １２
+        - cell "１３":
+          - generic: １３
+        - cell "１４"
+        - cell "６":
+          - generic: ６
+        - cell "７"
+        - cell "８":
+          - generic: ８
+        - cell "９":
+          - generic: ９
+        - cell "１０":
+          - generic: １０
+        - cell "１１":
+          - generic: １１
+        - cell "１２"
+      - row "１５ １６ １７ １８ １９ ２０▲ ２１▲ １３ １４ １５ １６ １７ １８ １９▲":
+        - cell "１５"
+        - cell "１６":
+          - generic: １６
+        - cell "１７":
+          - generic: １７
+        - cell "１８"
+        - cell "１９"
+        - cell "２０▲":
+          - generic: ２０▲
+        - cell "２１▲"
+        - cell "１３"
+        - cell "１４":
+          - generic: １４
+        - cell "１５":
+          - generic: １５
+        - cell "１６"
+        - cell "１７":
+          - generic: １７
+        - cell "１８"
+        - cell "１９▲"
+      - row "２２▲ ２３ ２４ ２５ ２６ ２７ ２８ ２１ ２２ ２３ ２４ ２５ ２６ ２７":
+        - cell "２２▲":
+          - generic: ２２▲
+        - cell "２３":
+          - generic: ２３
+        - cell "２４":
+          - generic: ２４
+        - cell "２５":
+          - generic: ２５
+        - cell "２６":
+          - generic: ２６
+        - cell "２７"
+        - cell "２８":
+          - generic: ２８
+        - cell "２１"
+        - cell "２２":
+          - generic: ２２
+        - cell "２３":
+          - generic: ２３
+        - cell "２４"
+        - cell "２５"
+        - cell "２６"
+        - cell "２７":
+          - generic: ２７
+      - row "２９ ３０ ・ ・ ・ ・ ・ ２８ ２９ ２９ ３０ ３１ ・ ・":
+        - cell "２９"
+        - cell "３０":
+          - generic: ３０
+        - cell "・"
+        - cell "・":
+          - generic: ・
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "２８"
+        - cell "２９":
+          - generic: ２９
+        - cell "２９":
+          - generic: ２９
+        - cell "３０":
+          - generic: ３０
+        - cell "３１":
+          - generic: ３１
+        - cell "・"
+        - cell "・"
+      - row "・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・":
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+        - cell "・"
+- paragraph:
+- table:
+  - rowgroup:
+    - row "◆お客様へのお願い◆ ＊会津駒ケ岳終点までのお送りをさせていただいておりますが、諸事情によりお送り出来ない 場合もございますので、ご了承願います。 （公共交通ご利用のお客様） ★冬期間のご予約で（車でお越しの場合）２１：００以降のご到着はお受けできませんので、ご了承願います。 （天候により道路状況が悪くなり、危険が伴うためですのでご理解いただきたいと思います）":
+      - cell "◆お客様へのお願い◆ ＊会津駒ケ岳終点までのお送りをさせていただいておりますが、諸事情によりお送り出来ない 場合もございますので、ご了承願います。 （公共交通ご利用のお客様） ★冬期間のご予約で（車でお越しの場合）２１：００以降のご到着はお受けできませんので、ご了承願います。 （天候により道路状況が悪くなり、危険が伴うためですのでご理解いただきたいと思います）":
+        - generic: ◆お客様へのお願い◆
+        - text: ＊会津駒ケ岳終点までのお送りをさせていただいておりますが、諸事情によりお送り出来ない
+        - text: 場合もございますので、ご了承願います。 （公共交通ご利用のお客様）
+        - text: ★冬期間のご予約で（車でお越しの場合）２１：００以降のご到着はお受けできませんので、ご了承願います。
+        - text: （天候により道路状況が悪くなり、危険が伴うためですのでご理解いただきたいと思います）
+- table:
+  - rowgroup:
+    - row:
+      - cell
+      - cell
+    - row:
+      - cell
+      - cell
+    - row:
+      - cell
+      - cell
+- table:
+  - rowgroup:
+    - row "★予約のお申込は電話・メール・ＦＡＸ・予約フォーム（オンライン予約）の いずれかでお願い致します｡":
+      - cell "★予約のお申込は電話・メール・ＦＡＸ・予約フォーム（オンライン予約）の いずれかでお願い致します｡":
+        - text: ★
+        - text: 予約のお申込は電話・メール・ＦＡＸ・予約フォーム（オンライン予約）の
+        - text: いずれかでお願い致します｡
+    - row "★ＦＡＸでお申込の場合は宿泊予約申込書をプリントアウトし、必要事項 をご記入の上ＦＡＸして下さい。こちらから・・・":
+      - cell "★ＦＡＸでお申込の場合は宿泊予約申込書をプリントアウトし、必要事項 をご記入の上ＦＡＸして下さい。こちらから・・・":
+        - text: ★
+        - text: ＦＡＸでお申込の場合は宿泊予約申込書をプリントアウトし、必要事項
+        - text: をご記入の上ＦＡＸして下さい。
+        - link "こちらから・・・":
+          - /url: newpage13.htm
+    - row "★予約フォーム（オンライン予約）は～申し訳ございません、只今ご利用になれません":
+      - cell "★予約フォーム（オンライン予約）は～申し訳ございません、只今ご利用になれません":
+        - text: ★
+        - generic: 予約フォーム（オンライン予約）は
+        - text: ～申し訳ございません、只今ご利用になれません
+    - row "★ご予約の申込後３日以内に当民宿より連絡がない場合は、お手数で すがお電話で確認願います｡":
+      - cell "★ご予約の申込後３日以内に当民宿より連絡がない場合は、お手数で すがお電話で確認願います｡":
+        - text: ★ご予約の申込後３日以内
+        - text: に当民宿より連絡がない場合は、お手数で
+        - text: すがお電話で確認願います｡
+    - row "★直前のご予約の場合は、お電話でお願い致します｡":
+      - cell "★直前のご予約の場合は、お電話でお願い致します｡"
+    - row "★ご予約後のキャンセル、人数等の変更はお電話でお願い致します｡ ★キャンセル料は下記の通り申し受けさせていただきますので、ご了承願います （尚、自然災害や不慮の事故等が原因でのキャンセルにつきましては、この限りではありません） キャンセル料 ２日前～ １０％ 前日～ ３０％ 当日午前中～ ５０％ 当日午後～ ７０％ 当日ご連絡なし １００％":
+      - cell "★ご予約後のキャンセル、人数等の変更はお電話でお願い致します｡ ★キャンセル料は下記の通り申し受けさせていただきますので、ご了承願います （尚、自然災害や不慮の事故等が原因でのキャンセルにつきましては、この限りではありません） キャンセル料 ２日前～ １０％ 前日～ ３０％ 当日午前中～ ５０％ 当日午後～ ７０％ 当日ご連絡なし １００％":
+        - text: ★
+        - generic: ご予約後のキャンセル、人数等の変更はお電話でお願い致します｡
+        - text: ★
+        - text: キャンセル料は下記の通り申し受けさせていただきますので、ご了承願います
+        - text: （尚、自然災害や不慮の事故等が原因でのキャンセルにつきましては、この限りではありません）
+        - table:
+          - rowgroup:
+            - row "キャンセル料":
+              - cell "キャンセル料"
+            - row "２日前～ １０％ 前日～ ３０％":
+              - cell "２日前～"
+              - cell "１０％"
+              - cell "前日～"
+              - cell "３０％"
+            - row "当日午前中～ ５０％ 当日午後～ ７０％":
+              - cell "当日午前中～"
+              - cell "５０％"
+              - cell "当日午後～"
+              - cell "７０％"
+            - row "当日ご連絡なし １００％":
+              - cell "当日ご連絡なし"
+              - cell "１００％"
+              - cell
+            - row:
+              - cell
+    - row "★ＴＥＬ ０２４１‐７５‐２２３５ ＦＡＸ ０２４１‐７５-２２４５":
+      - cell "★ＴＥＬ ０２４１‐７５‐２２３５ ＦＡＸ ０２４１‐７５-２２４５":
+        - text: ★
+        - generic: ＴＥＬ ０２４１‐７５‐２２３５ ＦＡＸ ０２４１‐７５-２２４５
+- table:
+  - rowgroup:
+    - row:
+      - cell
+- separator
+- paragraph:
+  - text: 資料請求、ご予約、お問合せはこちらまで
+  - text: 尾瀬.檜枝岐温泉 「民宿 おぜぐち」
+  - text: 福島県南会津郡檜枝岐村見通1135-2
+  - text: ｔｅｌｌ 0241-75-2235 ｆａｘ 0241-75-2245
+  - text: e-mail ozeguchi.hoshi@nifty.com
+- paragraph:
+  - link:
+    - /url: hyoushi.htm
+  - link:
+    - /url: newpage7.htm
+  - link:
+    - /url: newpage9.htm
