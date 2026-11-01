@@ -1,0 +1,11 @@
+{
+  "company": "パピルス（渡辺文具店）",
+  "website_url": "https://papirus-iwaki.com/",
+  "checked_at": "2026-11-01T11:16:03.999464+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "現行公式サイトを発見。390pxで収まり表示に明確な支障なし。旧Wixサイトを根拠に送信しない。",
+  "gmail_matches": 0,
+  "csv_matches": 0,
+  "findings": []
+}

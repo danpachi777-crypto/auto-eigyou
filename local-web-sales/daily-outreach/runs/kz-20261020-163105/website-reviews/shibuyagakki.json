@@ -1,0 +1,11 @@
+{
+  "company": "シブヤ楽器店",
+  "website_url": "https://www.shibuyagakki.com/",
+  "checked_at": "2026-11-01T11:16:04.000414+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxで現行トップは収まり、予約案内も読める。明確な改善未確認。メール表記は旧新PDF間に差異があり宛先未確定。送信しない。",
+  "gmail_matches": 0,
+  "csv_matches": 0,
+  "findings": []
+}

@@ -1,0 +1,11 @@
+{
+  "company": "株式会社シマモト",
+  "website_url": "https://www.simamoto.net/",
+  "checked_at": "2026-11-01T11:16:04.000214+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "Google Maps同住所の店舗は評価3.0・口コミ1件。10件未満につき保留。",
+  "gmail_matches": 0,
+  "csv_matches": 0,
+  "findings": []
+}
