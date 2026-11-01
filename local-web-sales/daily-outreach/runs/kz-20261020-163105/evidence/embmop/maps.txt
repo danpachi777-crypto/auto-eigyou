@@ -1,0 +1,274 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】":
+    - 'button "写真: オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】" [level=1]: オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】
+    - text: "4.3"
+    - img "4.3 つ星"
+    - img "27 件のクチコミ": (27)
+    - button "カスタム T シャツ専門店"
+    - tablist:
+      - tab "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】 の概要" [selected]:
+        - generic: 概要
+      - tab "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】 のクチコミ":
+        - generic: クチコミ
+      - tab "「オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】」について":
+        - generic: 基本情報
+    - region "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】 について":
+      - button "オンラインで注文した商品の店舗受け取り可":
+        - group "オンラインで注文した商品の店舗受け取り可":
+          - text: ·
+          - generic: 
+          - generic: 店舗受け取り可
+        - generic: 
+    - region "オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】 の情報":
+      - 'button "住所: 〒732-0068 広島県広島市東区牛田新町１丁目７−２３"':
+        - generic: 
+        - generic: 〒732-0068 広島県広島市東区牛田新町１丁目７−２３
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: embmop.com"':
+        - /url: https://www.embmop.com/
+        - generic: 
+        - generic: embmop.com
+      - link "ウェブサイトを開きます":
+        - /url: https://www.embmop.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 082-224-1118"':
+        - generic: 
+        - generic: 082-224-1118
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0822241118
+        - generic: 
+      - 'button "Plus Code: CFC8+27 広島市、広島県"':
+        - generic: 
+        - generic: CFC8+27 広島市、広島県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「オリジナル刺繍・プリント専門店【ココスタイル (エンブモップ)】」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "Tシャツ"
+      - generic: Tシャツ
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 18 件": "5"
+        - img "4 つ星、クチコミ 3 件": "4"
+        - img "3 つ星、クチコミ 4 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 1 件": "1"
+    - generic: "4.3"
+    - img "4.3 つ星"
+    - button "27 件のクチコミ":
+      - generic: 27 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"主人のお父さんとおじいちゃんのお祝いで注文させてもらいました。\""':
+      - /url: https://www.google.com/maps/contrib/110123618939954577449?hl=ja-JP
+    - button "\"主人のお父さんとおじいちゃんのお祝いで注文させてもらいました。\"":
+      - generic: "\"主人のお父さんとおじいちゃんのお祝いで注文させてもらいました。\""
+    - 'link "次のクチコミ投稿者の写真: \"価格、品質ともにトップクラスの良店です！\""':
+      - /url: https://www.google.com/maps/contrib/107612185704216580341?hl=ja-JP
+    - button "\"価格、品質ともにトップクラスの良店です！\"":
+      - generic: "\"価格、品質ともにトップクラスの良店です！\""
+    - 'link "次のクチコミ投稿者の写真: \"ラインでのやり取り電話でのやり取りどちらもとても丁寧に対応していただけました。\""':
+      - /url: https://www.google.com/maps/contrib/102467508907262856929?hl=ja-JP
+    - button "\"ラインでのやり取り電話でのやり取りどちらもとても丁寧に対応していただけました。\"":
+      - generic: "\"ラインでのやり取り電話でのやり取りどちらもとても丁寧に対応していただけました。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "ユニフォーム: 2 件のクチコミで言及。"':
+        - generic: ユニフォーム
+        - generic: "2"
+      - 'radio "LINE: 2 件のクチコミで言及。"':
+        - generic: LINE
+        - generic: "2"
+    - generic "ゆっこ":
+      - button "ゆっこ の写真"
+      - button "ゆっこ 4 件のクチコミ":
+        - generic: ゆっこ
+        - generic: 4 件のクチコミ
+      - button "ゆっこ さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 9 か月前
+      - text: 高校の全国大会出場記念ハンカチを作っていただきました。ラインでのやり取り電話でのやり取りどちらもとても丁寧に対応していただけました。スタッフの方全員感じが良いです！ …
+      - button "もっと見る"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "ゆっこ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 9 か月前
+      - text: ゆっこ様 お世話になっております。 この度は高評価・ご注文を頂きまして、誠にありがとうございます。 …
+      - button "もっと見る"
+    - generic "Yukkun":
+      - button "Yukkun の写真"
+      - button "Yukkun 3 件のクチコミ":
+        - generic: Yukkun
+        - generic: 3 件のクチコミ
+      - button "Yukkun さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 小学生のスポーツクラブの6年生卒団プレゼント用にオリジナルタオルを作成してもらいました。 こちらのイメージをふまえて素敵なデザインを複数提案してもらえ、予算やロット、細かい部分のデザイン注文についても丁寧に聞いていただき大変助かりました。 店頭スタッフの方々の応対もとても心地よくLINEでのやりとりも迅速丁寧で、気持ちよく最後の受取りまでさせてもらいました。 仕上がったオリジナルタオルは大好評で、ココスタイルさんにお願いして本当に正解だったと思います。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Yukkun さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: この度はご利用・ありがたいお言葉をいただき、ありがとうございます。今後もご満足いただけるよう、スタッフ一同、初心忘れず！で邁進してまいります。これからもよろしくお願いします。誠にありがとうございました。ココスタイル
+    - generic "宅明竜一":
+      - button "宅明竜一 の写真"
+      - button "宅明竜一 3 件のクチコミ · 4 枚の写真":
+        - generic: 宅明竜一
+        - generic: 3 件のクチコミ · 4 枚の写真
+      - button "宅明竜一 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: 高校の部活動試合応援出着る保護者用応援Tシャツを作成しました。 いろいろ注文つけ、2、３度図案を変更しながら作成頂き最終的に満足の行く仕上がりとなりました。 発注枚数で最後ドタバタしましたが、テキパキと対応頂き短期間に対応頂いたので感謝しております。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "宅明竜一 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: この度はご注文と嬉しい口コミをありがとうございました。 こちらこそ、最後までご丁寧に対応してくださり、 感謝しております。今後ともよろしくお願いいたします。 誠にありがとうございました。ココスタイル
+    - button "その他のクチコミ (24)":
+      - generic: その他のクチコミ (24)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "畝 刺繍店·4.1 つ星·クチコミ 53 件·刺繍店":
+      - generic: 畝 刺繍店
+      - img "4.1 つ星 クチコミ 53 件":
+        - text: "4.1"
+        - text: (53)
+      - generic: 刺繍店
+    - link "ますだ 刺しゅう店·4.6 つ星·クチコミ 13 件·刺繍店":
+      - generic: ますだ 刺しゅう店
+      - img "4.6 つ星 クチコミ 13 件":
+        - text: "4.6"
+        - text: (13)
+      - generic: 刺繍店
+    - link "（有）日の丸ネーム·4.0 つ星·クチコミ 1 件·ファブリック製品製造業者":
+      - generic: （有）日の丸ネーム
+      - img "4.0 つ星 クチコミ 1 件":
+        - text: "4.0"
+        - text: (1)
+      - generic: ファブリック製品製造業者
+    - link "（有）マスダ・ネーム·0.0 つ星·印刷屋":
+      - generic: （有）マスダ・ネーム
+      - generic: クチコミはありません
+      - generic: 印刷屋
+    - link "print booth プリントブース (地下孔版韻刷)·4.6 つ星·クチコミ 11 件·カスタム T シャツ専門店":
+      - generic: print booth プリントブース (地下孔版韻刷)
+      - img "4.6 つ星 クチコミ 11 件":
+        - text: "4.6"
+        - text: (11)
+      - generic: カスタム T シャツ専門店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

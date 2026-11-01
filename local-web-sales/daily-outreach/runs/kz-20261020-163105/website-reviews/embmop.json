@@ -1,0 +1,87 @@
+{
+  "company": "ココスタイル 広島牛田店",
+  "industry": "刺繍・オリジナルウェア製作",
+  "region": "広島県広島市",
+  "email": "original@embmop.com",
+  "email_source": "https://www.embmop.com/contact/",
+  "website_url": "https://www.embmop.com/",
+  "discovery_source": "https://united-athle.jp/shoplist/?p=1679",
+  "checked_at": "2026-11-01T12:23:02.767Z",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 27,
+    "url": "https://www.google.com/maps/search/?api=1&query=ココスタイル+エンブモップ+牛田",
+    "identity": "牛田新町1丁目7-23、電話082-224-1118と公式URL一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.embmop.com/",
+    "service": "https://www.embmop.com/chokusetu.html",
+    "contact": "https://www.embmop.com/contact/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでヘッダーが横幅1086pxに広がり電話番号・メール・上部ナビが画面右側に隠れる。1280pxでは全体表示。6画面保存。問い合わせフォーム本文自体は390px内に収まる。"
+    },
+    {
+      "item": 2,
+      "result": "一般問い合わせ電話・メールと既存フォームを確認。original@embmop.comはヘッダーと問い合わせ案内に公開。"
+    },
+    {
+      "item": 3,
+      "result": "刺繍・プリント、牛田店住所、電話、平日10〜18時。打ち合わせ17時まで、引取18時まで、土日祝定休。"
+    },
+    {
+      "item": 4,
+      "result": "一時的な画像読み込みは改善指摘にしない。"
+    },
+    {
+      "item": 5,
+      "result": "持ち込み商品加工不可。既存フォームへの案内を保持し新フォームを捏造しない。最少枚数は例外あり提案に記載しない。"
+    },
+    {
+      "item": 6,
+      "result": "営業拒否は確認範囲になし。古さを理由とせずヘッダーの横はみ出し1点に限定。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.embmop.com/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、ページ上部のヘッダーが画面幅を超えて表示され、電話番号やメールなどの連絡先が右側の画面外に隠れていました。",
+      "proposal": "狭い画面では連絡先とお問い合わせボタンを縦に並べ、画面内で確認できる配置に整える",
+      "evidence_path": "evidence/embmop/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "embmop.com",
+      "ココスタイル",
+      "エンブ・モップ",
+      "original@embmop.com"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://tmix.jp/",
+      "note": "電話・フォームへの案内とサービス分類を参照。転用なし。"
+    },
+    {
+      "url": "https://www.rub-lab.com/",
+      "note": "ブラウザーで一般問い合わせと加工分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://united-athle.jp/shoplist/?p=1679"
+  ]
+}
