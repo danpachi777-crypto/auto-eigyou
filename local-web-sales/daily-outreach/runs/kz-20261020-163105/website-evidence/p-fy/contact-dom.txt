@@ -1,0 +1,65 @@
+- heading "メールフォーム ｜ 家族旅行におすすめの格安ペンション。妙高高原、赤倉温泉、野尻湖近くのペンション「プチハウスふぉ～ゆ～」" [level=1]
+- link "妙高高原のペンション「プチハウスふぉーゆー」":
+  - /url: http://p-fy.com/
+  - img "妙高高原のペンション「プチハウスふぉーゆー」"
+- list:
+  - link "インターネット宿泊予約":
+    - /url: ../index.htm
+  - link "空室状況":
+    - /url: ../calendar/index.htm
+  - link "お問い合わせ":
+    - /url: index.htm
+- list:
+  - link "ペンショントップ":
+    - /url: ../../index.htm
+  - link "お食事":
+    - /url: ../../meal_menu/index.htm
+  - link "ペンション概要":
+    - /url: ../../info/index.htm
+  - link "お得な宿泊プラン":
+    - /url: ../../price/index.htm
+  - link "妙高高原、赤倉温泉の魅力":
+    - /url: ../../myoko_akakura/index.htm
+  - link "交通アクセス":
+    - /url: ../../access/index.htm
+- img "インターネット宿泊予約"
+- heading "ご予約、お問い合わせメール" [level=2]
+- paragraph:
+  - text: メールフォーム不具合のため下記メールでお問い合わせください。
+  - link "info@p-fy.com":
+    - /url: mailto:info@p-fy.com
+  - text: 現在ご使用のメールソフトが自動的に立ち上がります。
+  - text: お名前、連絡先、日程、人数など、できるだけ詳細に記載して頂きます様お願いいたします。
+- list:
+  - link "宿泊予約、お問い合わせ":
+    - /url: ../index.htm
+  - link "空室状況":
+    - /url: ../calendar/index.htm
+  - listitem: メールフォーム
+- paragraph:
+  - link "ペンショントップ":
+    - /url: ../../index.htm
+  - text: ｜
+  - link "お食事":
+    - /url: ../../meal_menu/index.htm
+  - text: ｜
+  - link "ペンション概要":
+    - /url: ../../info/index.htm
+  - text: ｜
+  - link "お得な宿泊プラン":
+    - /url: ../../price/index.htm
+  - text: ｜
+  - link "妙高高原、赤倉温泉の魅力":
+    - /url: ../../myoko_akakura/index.htm
+  - text: ｜
+  - link "交通アクセス":
+    - /url: ../../access/index.htm
+- heading "家族旅行、スキー、スノボーなら、新潟県 妙高高原 赤倉温泉の格安ペンション、プチハウスふぉ～ゆ～へ。" [level=3]:
+  - link "家族旅行、スキー、スノボーなら、新潟県 妙高高原 赤倉温泉の格安ペンション、プチハウスふぉ～ゆ～へ。":
+    - /url: http://p-fy.com/
+- paragraph:
+  - text: 〒949-2106 新潟県妙高市田口1438-1 東赤倉ペンション村 （赤倉温泉スキー場近く） 年中無休
+  - text: Tel：0255-87-3231 Fax：0255-87-3215 チェックイン 15：00 チェックアウト 10：00
+  - link "info@p-fy.com":
+    - /url: mailto:info@p-fy.com
+- paragraph: Copyright © プチハウスふぉ～ゆ～ All rights reserved.

@@ -1,0 +1,58 @@
+{
+  "company": "プチハウスふぉ～ゆ～",
+  "industry": "ペンション",
+  "region": "新潟県妙高市",
+  "email": "info@p-fy.com",
+  "email_source": "https://p-fy.com/contact_us/mail/index.htm 公開問い合わせメール",
+  "website_url": "https://p-fy.com/",
+  "discovery_source": "https://myoko.bona.jp/myokojp/you.html",
+  "checked_at": "2026-11-01T22:33:18.733Z",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 33,
+    "url": "https://www.google.com/maps/search/?api=1&query=プチハウスふぉーゆー%20妙高",
+    "identity": "公式URL、妙高市田口1438-1、0255873231一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://p-fy.com/",
+    "https://p-fy.com/info/index.htm",
+    "https://p-fy.com/contact_us/mail/index.htm",
+    "https://p-fy.com/contact_us/index.htm"
+  ],
+  "review_checks": [
+    "390pxの固定幅表示で本文右側が切れる。1280pxでは全体表示。",
+    "トップ・施設から予約、問い合わせへ移動確認。",
+    "コース料理、洋室和室、所在地、電話メールFAX確認。",
+    "主な画像と案内リンク表示。",
+    "フォーム不具合のためメール案内という現行方針を保持。メール機能故障と断定しない。",
+    "トップ画像と本文の料金に相違があるが今回取り上げず。画像には料金・キャンペーンを掲載しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://p-fy.com/contact_us/mail/index.htm",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅390pxでお問い合わせページを表示すると、問い合わせ時に必要な情報を説明する文章の右側が画面内に収まらない状態",
+      "proposal": "スマートフォンでは問い合わせ案内を縦一列に配置し、メールアドレスと必要事項の説明を画面幅に収めて読める構成に整える",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/p-fy/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere公開メール・ドメイン・名称0件。台帳・失敗一覧・レビュー一致なし。妙高観光局案内とMapsの住所電話URL一致。閲覧範囲営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://oujip.com/contact/",
+      "note": "問い合わせ案内をスマホ幅に収める構造のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://www.hotel-matsuya.co.jp/reservation/",
+      "note": "予約方法と連絡先の情報整理のみ参考。固有素材や条件コピーなし。"
+    }
+  ]
+}

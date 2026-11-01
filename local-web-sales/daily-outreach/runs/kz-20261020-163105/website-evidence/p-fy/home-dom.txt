@@ -1,0 +1,154 @@
+- heading "新潟県 妙高高原 赤倉温泉、家族旅行におすすめの格安ペンション「プチハウスふぉ～ゆ～」" [level=1]
+- link:
+  - /url: english/index.htm
+- link "妙高高原のペンション「プチハウスふぉーゆー」":
+  - /url: http://p-fy.com/
+  - img "妙高高原のペンション「プチハウスふぉーゆー」"
+- list:
+  - link "インターネット宿泊予約":
+    - /url: contact_us/index.htm
+  - link "空室状況":
+    - /url: contact_us/calendar/index.htm
+  - link "お問い合わせ":
+    - /url: contact_us/mail/index.htm
+- list:
+  - listitem: トップ
+  - link "お食事":
+    - /url: meal_menu/index.htm
+  - link "客室、ペンション案内":
+    - /url: info/index.htm
+  - link "お得な宿泊プラン":
+    - /url: price/index.htm
+  - link "妙高高原、赤倉温泉の魅力":
+    - /url: myoko_akakura/index.htm
+  - link "交通アクセス":
+    - /url: access/index.htm
+- heading "食事は期待を裏切らない、おいしさで勝負！" [level=2]
+- img "お食事の一例"
+- paragraph: ペンション自慢のコース料理は、とても、この低価格からは想像できない、しっかり豪華メニュー。
+- paragraph: また、子供向けメニューなども、ご用意しておりますので、お子様連れの家族旅行にもおすすめです。
+- paragraph:
+  - link "自慢のお食事メニュー":
+    - /url: meal_menu/index.htm
+- heading "宿泊プランで目指すは、お客さま満足度120%！" [level=2]
+- img "ファミリーパプラン"
+- heading "家族4人で、計33,000円" [level=3]:
+  - link "家族4人で、計33,000円":
+    - /url: price/family/index.htm
+- paragraph:
+  - link "家族4人で泊まって食べてお得なプランです。 3名さまプランもございます！":
+    - /url: price/family/index.htm
+    - text: 家族4人で泊まって食べてお得なプランです。
+    - text: 3名さまプランもございます！
+- img "リフト券付宿泊プラン"
+- heading "スキースノボ宿泊は、リフト券付15,800円！" [level=3]:
+  - link "スキースノボ宿泊は、リフト券付15,800円！":
+    - /url: price/winter/
+- paragraph:
+  - link "赤倉観光スキー場平日限定！ 1泊2食付の宿泊4名で、リフト券をセットして15,800円/1名です。":
+    - /url: price/winter/
+    - text: 赤倉観光スキー場平日限定！
+    - text: 1泊2食付の宿泊4名で、リフト券をセットして15,800円/1名です。
+- img "野尻湖プラン"
+- heading "野尻湖で、バス釣りですか？" [level=3]:
+  - link "野尻湖で、バス釣りですか？":
+    - /url: price/nojiriko/
+- paragraph:
+  - link "バス釣りが大人気の野尻湖まで、車でわずか12分の近さ。 素泊まり6,600円の格安プランでどうぞ！":
+    - /url: price/nojiriko/
+    - text: バス釣りが大人気の野尻湖まで、車でわずか12分の近さ。
+    - text: 素泊まり6,600円の格安プランでどうぞ！
+- img "ファミリープラン"
+- heading "日本百名山の火打山妙高山へ登山、宿泊！" [level=3]:
+  - link "日本百名山の火打山妙高山へ登山、宿泊！":
+    - /url: price/mountain/
+- paragraph:
+  - link "特典多数をセットして、登山、トレッキングをサポート！ お昼のお弁当も手配できます。下山後はご入浴サービス。":
+    - /url: price/mountain/
+    - text: 特典多数をセットして、登山、トレッキングをサポート！
+    - text: お昼のお弁当も手配できます。下山後はご入浴サービス。
+- img "ゴルフ宿泊プラン"
+- heading "ゴルフ場予約と宿泊予約が、20,400円～" [level=3]:
+  - link "ゴルフ場予約と宿泊予約が、20,400円～":
+    - /url: price/golf/
+- paragraph:
+  - link "ランチ付き1Rプレイと宿泊（1泊2食付）のセットです。 妙高、赤倉でのゴルフには、ゴルフ宿泊プランが断然お得。":
+    - /url: price/golf/
+    - text: ランチ付き1Rプレイと宿泊（1泊2食付）のセットです。
+    - text: 妙高、赤倉でのゴルフには、ゴルフ宿泊プランが断然お得。
+- paragraph:
+  - text: 宿泊料金の一覧は、「すべての宿泊料金一覧」に記載しております。
+  - text: また、各種格安プランを、多数ご用意しておりますので、 どうぞご覧くださいませ。
+- paragraph:
+  - link "すべての宿泊料金一覧":
+    - /url: price/index.htm
+- paragraph: オーナーおすすめ、周辺観光スポット紹介！！
+- paragraph: 妙高高原におとずれて自然を満喫していただける観光スポットを中心にご案内します。
+- list:
+  - strong: いもり池
+  - text: かつていもりが多く棲んでいた小さな池。周囲約２０haの湿原が広がる。一帯は、湿生植物の宝庫で、特に１０万株のミズバショウの群生が美しい。毎年４月末～５月上旬にかけて、ミズバショウ祭りが開催されています。
+  - strong: 妙高高原スカイケーブル
+  - text: 妙高高原スカイケーブル乗り場から標高１３００ｍ地点にある山頂駅まで１１分の空中散歩をたのしみます。山頂からは、無料でぶなばやしの遊歩道を１時間ほどガイドしてくれます。斑尾山や妙高高原、野尻湖の展望がすばらしい。
+  - strong: 笹ヶ峰
+  - text: 四方を妙高山などに囲まれた笹ヶ峰は、ヨーロッパのようなドイツトウヒの森と牧場が広がる。１周４時間ほどの遊歩道や日本百名山火打山登山への登山道口があります。
+  - strong: 苗名滝
+  - text: 長野県と新潟県の県境を流れる関川にかかる、日本の滝百選の中に選ばれています苗名滝は、落差５５ｍを轟音とともに豪快に流れ落ちます。遊歩道も整備されています。
+  - strong: 野尻湖
+  - text: 長野県内第２位の大きさの野尻湖。火山の噴火物でできたせき止め湖で、ナウマンゾウの発掘調査で有名。４月下旬からはブラックバス釣りが解禁。夏にはマリンスポーツが楽しめます。遊覧船から眺める北信州の５つの名山、北信五岳〔妙高・黒姫・斑尾・戸隠・飯綱〕は最高です。
+- paragraph:
+  - link "周辺施設など便利リンク集":
+    - /url: myoko_akakura/link/index.htm
+- heading "最新ニュース" [level=4]
+- paragraph:
+  - strong: 新型コロナ感染予防対策として
+- paragraph: 1.チェックインに際しては、フェイスシールドを着用させていただき、直接の体面を避けるようにしています。
+- paragraph: 2.チェックイン時にお客様全員の本人確認を実施しています。[公的書類にて〕
+- paragraph: 3.検温等の体調チェックの実施及び発熱がある場合は、保健所などに指示を仰ぎ、適切に対応します。
+- paragraph: 4.浴場や食堂においては、人数制限や時間調整などで、3密対策を徹底しています。
+- paragraph: 5.食事時には、テーブルの間隔を離し、3密対策しています。
+- paragraph: 6.客室などの共用スペース等の消毒・換気を実施しています。
+- heading "妙高高原の天気情報" [level=4]
+- paragraph: 妙高の天気予報は、こちらです。
+- paragraph:
+  - link "妙高高原の天気予報":
+    - /url: http://weather.yahoo.co.jp/weather/jp/15/5430/15217.html
+- heading "ペンションオーナーから" [level=4]
+- paragraph:
+  - img "オーナー"
+  - text: 平成9年12月27日、妙高高原でペンションをオープン。
+- paragraph: 本当にたくさんのお客さまと、ふれ合う事ができ、感謝の気持ちでいっぱいです。
+- paragraph: 今までの経験から得たノウハウを活かし、常にお客さまに満足していただける宿泊施設を目指して、日々精進してまいります。
+- paragraph: ぜひ、「プチハウスふぉ～ゆ～」へ、足をお運びくださいませ。
+- heading "お気に入りへ追加" [level=4]
+- paragraph:
+  - text: 是非、このサイトを
+  - link "お気に入りへ登録":
+    - /url: javascript:window.external.addFavorite('http://p-fy.com','妙高高原のペンションふぉ～ゆ～')
+  - text: してください！
+- paragraph:
+  - link "ペンショントップ":
+    - /url: index.htm
+  - text: ｜
+  - link "お食事":
+    - /url: meal_menu/index.htm
+  - text: ｜
+  - link "客室、ペンション案内":
+    - /url: info/index.htm
+  - text: ｜
+  - link "お得な宿泊プラン":
+    - /url: price/index.htm
+  - text: ｜
+  - link "妙高高原、赤倉温泉の魅力":
+    - /url: myoko_akakura/index.htm
+  - text: ｜
+  - link "交通アクセス":
+    - /url: access/index.htm
+- heading "家族旅行、スキー、スノボーなら、新潟県 妙高高原 赤倉温泉の格安ペンション、プチハウスふぉ～ゆ～へ。" [level=5]:
+  - link "家族旅行、スキー、スノボーなら、新潟県 妙高高原 赤倉温泉の格安ペンション、プチハウスふぉ～ゆ～へ。":
+    - /url: http://p-fy.com/
+- paragraph:
+  - text: 〒949-2106 新潟県妙高市田口1438-1 （赤倉温泉スキー場近く） 年中無休
+  - text: Tel：0255-87-3231 Fax：0255-87-3215 チェックイン 15：00 チェックアウト 10：00
+  - link "info@p-fy.com":
+    - /url: mailto:info@p-fy.com
+- paragraph: Copyright © プチハウスふぉ～ゆ～ All rights reserved.

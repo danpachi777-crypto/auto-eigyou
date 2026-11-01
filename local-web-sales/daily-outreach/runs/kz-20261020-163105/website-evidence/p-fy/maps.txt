@@ -1,0 +1,244 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: プチハウスふぉーゆー
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのホテル":
+      - generic: 
+      - generic: 近くのホテル
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "4 か所 信濃町 & 妙高市":
+      - generic "4 か所": "4"
+      - generic: 信濃町 & 妙高市
+    - button "2 か所 高知市":
+      - generic "2 か所": "2"
+      - generic: 高知市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "プチハウスふぉーゆー":
+    - 'button "写真: プチハウスふぉーゆー" [active]':
+    - button "1 泊 ￥13,600から、11月8日～9日空きがあります。":
+      - generic: ￥13,600
+      - generic: 11月8日～9日
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "プチハウスふぉーゆー" [level=1]: プチハウスふぉーゆー
+    - text: "4.8"
+    - img "4.8 つ星"
+    - img "33 件のクチコミ": (33)
+    - text: ·
+    - generic: 2 つ星ホテル
+    - tablist:
+      - tab "プチハウスふぉーゆー の概要" [selected]:
+        - generic: 概要
+      - tab "プチハウスふぉーゆー の料金":
+        - generic: 価格
+      - tab "プチハウスふぉーゆー のクチコミ":
+        - generic: クチコミ
+      - tab "「プチハウスふぉーゆー」について":
+        - generic: 基本情報
+    - region "プチハウスふぉーゆー の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "朝食のみ":
+        - generic: 朝食のみ
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - heading "スポンサー · おすすめのオプション" [level=1]:
+      - generic: スポンサー
+      - button "広告の表示について":
+        - generic: 
+      - generic: おすすめのオプション
+    - button "Trip.com 1 泊 2 名で ￥14,939 素泊まり —— キャンセル料あり":
+      - generic: Trip.com
+      - generic: 1 泊 2 名で
+      - generic: ￥14,939
+      - generic: 
+      - generic: 素泊まり
+      - generic: ——
+      - generic: キャンセル料あり
+    - button "楽天トラベル 1 泊 2 名で ￥15,300 素泊まり —— キャンセル料あり":
+      - generic: 楽天トラベル
+      - generic: 1 泊 2 名で
+      - generic: ￥17,000
+      - generic: ￥15,300
+      - generic: 
+      - generic: 素泊まり
+      - generic: ——
+      - generic: キャンセル料あり
+    - button "じゃらん 1 泊 2 名で ￥16,150 素泊まり ベッド 4 台以上 キャンセル料あり":
+      - generic: じゃらん
+      - generic: 1 泊 2 名で
+      - generic: ￥16,150
+      - generic: 
+      - generic: 素泊まり
+      - generic: ベッド 4 台以上
+      - generic: キャンセル料あり
+    - button "Agoda 1 泊 2 名で ￥18,090 —— ツイン キャンセル料あり":
+      - generic: Agoda
+      - generic: 1 泊 2 名で
+      - generic: ￥18,090
+      - generic: 
+      - generic: ——
+      - generic: ツイン
+      - generic: キャンセル料あり
+    - heading "すべてのオプション" [level=2]
+    - button "Yahoo!トラベル 1 泊 2 名で ￥13,600 素泊まり ベッド 3 台 11/7までキャンセル無料":
+      - generic: Yahoo!トラベル
+      - generic: 1 泊 2 名で
+      - generic: ￥13,600
+      - generic: 
+      - generic: 素泊まり
+      - generic: ベッド 3 台
+      - generic: 11/7までキャンセル無料
+    - button "Trip.com 1 泊 2 名で ￥14,939 素泊まり —— キャンセル料あり":
+      - generic: Trip.com
+      - generic: 1 泊 2 名で
+      - generic: ￥14,939
+      - generic: 
+      - generic: 素泊まり
+      - generic: ——
+      - generic: キャンセル料あり
+    - button "その他の料金を見る（￥18,090～）":
+      - generic: その他の料金を見る（￥18,090～）
+    - region "プチハウスふぉーゆー の情報":
+      - 'button "住所: 〒949-2106 新潟県妙高市田口１４３８−１"':
+        - generic: 
+        - generic: 〒949-2106 新潟県妙高市田口１４３８−１
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: p-fy.com"':
+        - /url: https://p-fy.com/
+        - generic: 
+        - generic: p-fy.com
+      - link "ウェブサイトを開きます":
+        - /url: https://p-fy.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0255-87-3231"':
+        - generic: 
+        - generic: 0255-87-3231
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0255873231
+        - generic: 
+      - 'button "Plus Code: V5MJ+3G 妙高市、新潟県"':
+        - generic: 
+        - generic: V5MJ+3G 妙高市、新潟県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=1300452838303223763&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - generic: 
+      - text: "チェックイン時間: 15:00"
+      - text: "チェックアウト時間: 10:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    -
