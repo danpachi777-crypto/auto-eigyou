@@ -1,0 +1,87 @@
+{
+  "company": "写真の光画園",
+  "industry": "写真館",
+  "region": "奈良県桜井市",
+  "email": "info@kougaen.co.jp",
+  "email_source": "https://kougaen.co.jp/contact.html",
+  "website_url": "https://kougaen.co.jp/",
+  "discovery_source": "https://www.shashinkan.com/photo_studio/nara/",
+  "checked_at": "2026-11-01T13:26:51.212Z",
+  "maps": {
+    "rating": 3.8,
+    "review_count": 14,
+    "url": "https://www.google.com/maps/search/?api=1&query=光画園+桜井",
+    "identity": "桜井1133、0744-42-2861、公式URL一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://kougaen.co.jp/index.html",
+    "service": "https://kougaen.co.jp/studio.html",
+    "contact": "https://kougaen.co.jp/contact.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで問い合わせ本文幅825px、電話・メールを含む右側本文が画面外に隠れる。1280pxで全体確認。3ページ6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "一般お問い合わせinfo@kougaen.co.jp、電話0744-42-2861確認。同アドレスに卒業アルバム専用リンクもあるが一般問い合わせページにも公開。"
+    },
+    {
+      "item": 3,
+      "result": "記念撮影・証明写真・現像プリント、桜井1133、9〜18時。"
+    },
+    {
+      "item": 4,
+      "result": "スタジオページはリニューアル工事中の明記あり。準備中を不具合とせず横はみ出しだけ指摘。"
+    },
+    {
+      "item": 5,
+      "result": "撮影予約は電話か来店のみ。メールは相談のみ。予約フォームを新設する提案はしない。"
+    },
+    {
+      "item": 6,
+      "result": "2026年11月の再販売案内あり。営業拒否は確認範囲なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://kougaen.co.jp/contact.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてお問い合わせページを拝見すると、本文が画面幅を超えて表示され、電話番号やメールアドレスを含む案内が右側の画面外に隠れていました。",
+      "proposal": "狭い画面では電話・メールの連絡先と注意事項を縦に並べ、画面幅に収まる配置に整える",
+      "evidence_path": "evidence/kougaen/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "kougaen.co.jp",
+      "光画園",
+      "info@kougaen.co.jp"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://photo-sugie.com/reserve/",
+      "note": "撮影分類と電話・メール・LINE案内の整理を参照。転用なし。"
+    },
+    {
+      "url": "https://www.hinomaru-studio.net/form",
+      "note": "別地域同名写真館の問い合わせ項目分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.shashinkan.com/photo_studio/nara/",
+    "https://sakuraishoko.org/member/"
+  ]
+}
