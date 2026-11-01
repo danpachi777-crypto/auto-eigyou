@@ -1,0 +1,67 @@
+- list:
+  - link:
+    - /url: javascript:;
+  - link:
+    - /url: javascript:;
+  - link:
+    - /url: javascript:;
+  - link:
+    - /url: javascript:;
+  - link:
+    - /url: javascript:;
+- definition:
+  - link "企業理念":
+    - /url: company.html
+- definition:
+  - link "会社概要":
+    - /url: company2.html
+- definition:
+  - link "事業内容":
+    - /url: company3.html
+- link "ウェスト日記（社長のブログ）":
+  - /url: http://go-west.cocolog-nifty.com/
+  - img "ウェスト日記（社長のブログ）"
+- iframe [name="maker-window"]: <font size="1">ここに内容が表示されないブラウザをご使用の方は<a href="https://west-msc.co.jp/left-navi.html" target="_blank">こちら</a>をクリックしてください。</font>:
+  - link "X":
+    - /url: https://twitter.com/WESTMUSIC2014
+    - img "X"
+  - link "instagram":
+    - /url: http://instagram.com/WEST_MUSIC
+    - img "instagram"
+  - link "WEST MUSIC ON LINE":
+    - /url: http://www.west-msc.co.jp/index.html
+    - img "WEST MUSIC ON LINE"
+  - link "デジマート":
+    - /url: http://www.digimart.net/shop/1440/
+    - img "デジマート"
+  - link "WEST 楽天市場店":
+    - /url: http://www.rakuten.ne.jp/gold/westmusic/
+    - img "WEST 楽天市場店"
+  - img "営業時間変更のお知らせ"
+- text: »
+- link "TOP":
+  - /url: ../
+- text: » 事業内容
+- heading [level=2]:
+- table:
+  - rowgroup:
+    - row "事業項目":
+      - generic: 事業項目
+- table:
+  - rowgroup:
+    - row "楽器･音楽機器 楽器・音楽機器の販売":
+      - rowheader "楽器･音楽機器"
+      - cell "楽器・音楽機器の販売"
+    - row "イベントコミュニケーション 舞台イベント、文化・スポーツイベント、展示会イベント等の企画・運行":
+      - rowheader "イベントコミュニケーション"
+      - cell "舞台イベント、文化・スポーツイベント、展示会イベント等の企画・運行"
+    - row "音響設備、放送設備、防音設計":
+      - columnheader "音響設備、放送設備、防音設計"
+      - cell
+    - row "リハーサル、録音スタジオ":
+      - columnheader "リハーサル、録音スタジオ"
+      - cell
+    - row "録音・編集・ＣＤ等メディアパッケージ製作":
+      - columnheader "録音・編集・ＣＤ等メディアパッケージ製作"
+      - cell
+- generic: Copyright (C) 2006 WEST Corporation. All Rights Reserved.

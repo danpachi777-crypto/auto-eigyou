@@ -1,0 +1,85 @@
+{
+  "company": "株式会社ウエスト",
+  "industry": "楽器・音響・スタジオ",
+  "region": "愛媛県松山市",
+  "email": "info@west-msc.co.jp",
+  "email_source": "https://www.west-msc.co.jp/etc/company2.html",
+  "website_url": "https://west-msc.co.jp/",
+  "discovery_source": "https://www.egakkiya.com/web/detail/11935",
+  "checked_at": "2026-11-01T16:57:17.392103+00:00",
+  "maps": {
+    "rating": 3.9,
+    "review_count": 39,
+    "url": "https://www.google.com/maps/search/?api=1&query=WEST+MUSIC+松山市空港通",
+    "identity": "株式会社ウエスト スタジオウエスト。松山市空港通3丁目12-16・0899686667・公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://west-msc.co.jp/",
+    "service": "https://www.west-msc.co.jp/etc/company3.html",
+    "contact": "https://west-msc.co.jp/FORM/contact.cgi"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxトップscrollWidth782。案内リンクとニュース本文右側が画面外。事業説明表も右側欠け。1280pxでは表示。6枚目視保存済み。"
+    },
+    {
+      "item": 2,
+      "result": "トップの問い合わせリンクから別タブの一般フォームを確認。会社概要に公開一般メール。"
+    },
+    {
+      "item": 3,
+      "result": "楽器音響販売・リハーサル録音スタジオ・イベント業務、所在地電話を確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要ページ表示済み。旧Flash表示はあるが今回の指摘に含めない。別スマホリンク未検出。"
+    },
+    {
+      "item": 5,
+      "result": "フォームは入力項目ラベルが390pxで一文字ずつ折返し。提案では項目名を上に。電話任意を保持。操作なし。"
+    },
+    {
+      "item": 6,
+      "result": "更新日の古さを需要根拠にしない。営業拒否は閲覧範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://west-msc.co.jp/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、トップページの案内リンクやお知らせの本文が画面の右側にはみ出し、そのままでは全体を確認できない状態でした。",
+      "proposal": "事業案内と問い合わせの導線を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず本文や連絡先を確認できるようにする",
+      "evidence_path": "evidence/west-msc/home-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "info@west-msc.co.jp",
+      "west-msc.co.jp",
+      "株式会社ウエスト",
+      "スタジオウエスト",
+      "WEST MUSIC"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://centralmusic-web.com/?mode=f3",
+      "note": "楽器案内と連絡先の分類を参照。文言写真等転載なし。"
+    },
+    {
+      "url": "https://www.musicshop-toshino.com/",
+      "note": "商品分類と問い合わせ案内を参考。文言写真等転載なし。"
+    }
+  ]
+}

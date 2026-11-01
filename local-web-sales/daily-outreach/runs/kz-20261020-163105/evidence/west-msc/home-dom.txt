@@ -1,0 +1,78 @@
+- link "WEST":
+  - /url: https://www.west-msc.co.jp/
+- navigation:
+  - list:
+    - link "TOP":
+      - /url: https://www.west-msc.co.jp/
+    - link "会社概要":
+      - /url: https://www.west-msc.co.jp/etc/company.html
+    - link "お問合せ":
+      - /url: javascript:void(0);
+    - link "プライバシー":
+      - /url: https://www.west-msc.co.jp/etc/privacy.html
+    - link "特定商取引法表示":
+      - /url: https://www.west-msc.co.jp/etc/regulations.html
+    - link "サイトマップ":
+      - /url: https://www.west-msc.co.jp/etc/sitemap.html
+    - link "アクセス":
+      - /url: https://www.west-msc.co.jp/etc/access.html
+- list:
+  - img "WEST MUSIC"
+  - img "WEST SR&MI"
+  - img "WEST STUDIO WEST"
+  - img "WEST WEST COMMUNICATION"
+  - img "WEST WEST SOUND SYSTEMS"
+- generic: 音楽を出発点に、音にこだわり、
+- generic: 楽器、舞台、設備、文化・スポーツ・展示会イベント…
+- generic: 安心、感動を創るコミュニケーションカンパニーです
+- text:     
+- iframe [name="maker-window"]: <font size="1">ここに内容が表示されないブラウザをご使用の方は<a href="https://west-msc.co.jp/left-navi.html target="_blank">こちら</a>をクリックしてください。</font>:
+  - link "X":
+    - /url: https://twitter.com/WESTMUSIC2014
+    - img "X"
+  - link "instagram":
+    - /url: http://instagram.com/WEST_MUSIC
+    - img "instagram"
+  - link "WEST MUSIC ON LINE":
+    - /url: http://www.west-msc.co.jp/index.html
+    - img "WEST MUSIC ON LINE"
+  - link "デジマート":
+    - /url: http://www.digimart.net/shop/1440/
+    - img "デジマート"
+  - link "WEST 楽天市場店":
+    - /url: http://www.rakuten.ne.jp/gold/westmusic/
+    - img "WEST 楽天市場店"
+  - img "営業時間変更のお知らせ"
+- generic: » TOP
+- heading [level=2]:
+- generic: 2022.4.28
+- paragraph:
+  - text: "[更新情報]"
+  - link "VOX PATHFINDER10 ギターアンプ限定カラー 入荷!":
+    - /url: https://west-msc.co.jp/SHOP/list.php?Search=VOX+PATHFINDER+10
+- generic: 2022.4.22
+- paragraph:
+  - text: "[更新情報]"
+  - link "BOSS/新製品 RE-2 入荷♪":
+    - /url: https://west-msc.co.jp/SHOP/BOSS_RE2_4957054519025.html
+- generic: 2022.4.22
+- paragraph:
+  - text: "[更新情報]"
+  - link "話題のKORG Volca FM2 入荷!":
+    - /url: https://west-msc.co.jp/SHOP/4959112233140.html
+- generic: 2022.3.16
+- paragraph:
+  - text: "[更新情報]"
+  - link "FENDER Made in JAPAN JUNIOR COLLECTION 新製品続々入荷中!":
+    - /url: https://west-msc.co.jp/SHOP/list.php?Search=FENDER+Made+in+JAPAN+JUNIOR+COLLECTION+
+- generic: 2021.02.17
+- paragraph:
+  - text: "[更新情報]"
+  - link "新時代のポータブルラインアレイPAシステム「BOSE L1 Pro8」ご注文受付開始いたしました。":
+    - /url: https://west-msc.co.jp/SHOP/BOSE_L1P8_4969929256140.html
+- generic: 2020.10.16
+- paragraph:
+  - text: "[更新情報]"
+  - link "FENDERの新シリーズ American Proffesional II入荷いたしました":
+    - /url: https://west-msc.co.jp/SHOP/list.php?Search=Fender+American+Professional+II+
+- generic: Copyright (C) 2006 WEST Corporation. All Rights Reserved.

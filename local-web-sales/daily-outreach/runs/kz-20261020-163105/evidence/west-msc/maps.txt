@@ -1,0 +1,315 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: （株）ウエスト スタジオウエスト
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "2 か所 松山市":
+      - generic "2 か所": "2"
+      - generic: 松山市
+    - button "2 か所 米沢市":
+      - generic "2 か所": "2"
+      - generic: 米沢市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "（株）ウエスト スタジオウエスト":
+    - 'button "写真: （株）ウエスト スタジオウエスト" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "（株）ウエスト スタジオウエスト" [level=1]: （株）ウエスト スタジオウエスト
+    - text: "3.9"
+    - img "3.9 つ星"
+    - img "39 件のクチコミ": (39)
+    - button "音楽スタジオ"
+    - tablist:
+      - tab "（株）ウエスト スタジオウエスト の概要" [selected]:
+        - generic: 概要
+      - tab "（株）ウエスト スタジオウエスト のクチコミ":
+        - generic: クチコミ
+      - tab "「（株）ウエスト スタジオウエスト」について":
+        - generic: 基本情報
+    - region "（株）ウエスト スタジオウエスト の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "（株）ウエスト スタジオウエスト の情報":
+      - 'button "住所: 〒791-0054 愛媛県松山市空港通３丁目１２−１６ スタジオウエスト"':
+        - generic: 
+        - generic: 〒791-0054 愛媛県松山市空港通３丁目１２−１６ スタジオウエスト
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 11:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 11:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: west-msc.co.jp"':
+        - /url: http://www.west-msc.co.jp/
+        - generic: 
+        - generic: west-msc.co.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.west-msc.co.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 089-968-6667"':
+        - generic: 
+        - generic: 089-968-6667
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0899686667
+        - generic: 
+      - 'button "Plus Code: RPHP+XV 松山市、愛媛県"':
+        - generic: 
+        - generic: RPHP+XV 松山市、愛媛県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=12104264538906030813&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「（株）ウエスト スタジオウエスト」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "外観"
+      - generic: 外観
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 24 件": "5"
+        - img "4 つ星、クチコミ 4 件": "4"
+        - img "3 つ星、クチコミ 2 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 8 件": "1"
+    - generic: "3.9"
+    - img "3.9 つ星"
+    - button "39 件のクチコミ":
+      - generic: 39 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"時間帯によると夕方は前の道路がスゴく込むときがあるので出入り注意。\""':
+      - /url: https://www.google.com/maps/contrib/106154826931830298631?hl=ja-JP
+    - button "\"時間帯によると夕方は前の道路がスゴく込むときがあるので出入り注意。\"":
+      - generic: "\"時間帯によると夕方は前の道路がスゴく込むときがあるので出入り注意。\""
+    - 'link "次のクチコミ投稿者の写真: \"他人の迷惑も想像できない奴が素敵な音楽を創造できる訳ないやろ。\""':
+      - /url: https://www.google.com/maps/contrib/110240861697944460842?hl=ja-JP
+    - button "\"他人の迷惑も想像できない奴が素敵な音楽を創造できる訳ないやろ。\"":
+      - generic: "\"他人の迷惑も想像できない奴が素敵な音楽を創造できる訳ないやろ。\""
+    - 'link "次のクチコミ投稿者の写真: \"パーツも割と揃っています。\""':
+      - /url: https://www.google.com/maps/contrib/107769565100115555409?hl=ja-JP
+    - button "\"パーツも割と揃っています。\"":
+      - generic: "\"パーツも割と揃っています。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "ギター: 2 件のクチコミで言及。"':
+        - generic: ギター
+        - generic: "2"
+    - generic "飛んで散れ":
+      - button "飛んで散れ の写真"
+      - button "飛んで散れ ローカルガイド · 13 件のクチコミ":
+        - generic: 飛んで散れ
+        - generic: ローカルガイド · 13 件のクチコミ
+      - button "飛んで散れ さんのクチコミへのアクション":
+        - generic: 
+      - img "2 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 練習で入りました。 ドラムのシンバルが割れていて、交換をお願いしたら快く取り替えていただいたのですが、取り替えてもらったシンバルも割れていました。 仕方なくそれを使うことにしましたが、手を切る怪我の恐れ＋音が潰れているためほとんど使えませんでした。 松山のスタジオの中では料金もそれなりにする方だと思うので、価格相当の設備は整えてもらいたいです。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "飛んで散れ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "M":
+      - button "M の写真"
+      - button "M 1 件のクチコミ":
+        - generic: M
+        - generic: 1 件のクチコミ
+      - button "M さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: どこのスタジオよりも親しみがあって良い。ラフな感じが私はだいすきです。 某スタジオはネット予約も対応も遅くていちいちまったりめんどくさいので、私は利用させていだだいてます。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "M さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "裕喜白石":
+      - button "裕喜白石 の写真"
+      - button "裕喜白石 ローカルガイド · 91 件のクチコミ · 9 枚の写真":
+        - generic: 裕喜白石
+        - generic: ローカルガイド · 91 件のクチコミ · 9 枚の写真
+      - button "裕喜白石 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - generic: こじんまりしたお店ですが、社長やメンテナンスの今井さん…音楽を愛し、楽器に労りの心をもったスタッフさんが、笑顔で迎えてくれます。 値引き交渉にも、誠意をもって対応してくれます。 ギターやアンプ、貸しスタジオ…楽器好きな方は、是非一度足を運ばれたらいかがでしょうか😄 …
+      - button "いいね 2 件":
+        - generic: 
+        - generic: "2"
+      - button "裕喜白石 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (36)":
+      - generic: その他のクチコミ (36)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "株式会社WEST·5.0 つ星·クチコミ 1 件·溶接業者":
+      - generic: 株式会社WEST
+      - img "5.0 つ星 クチコミ 1 件":
+        - text: "5.0"
+        - text: (1)
+      - generic: 溶接業者
+    - link "スタジオサクラメント·5.0 つ星·クチコミ 1 件·音楽スタジオ":
+      - generic: スタジオサクラメント
+      - img "5.0 つ星 クチコミ 1 件":
+        - text: "5.0"
+        - text: (1)
+      - generic: 音楽スタジオ
+    - link "オオガ・スタジオ·4.9 つ星·クチコミ 17 件·音楽スタジオ":
+      - generic: オオガ・スタジオ
+      - img "4.9 つ星 クチコミ 17 件":
+        - text: "4.9"
+        - text: (17)
+      - generic: 音楽スタジオ
+    - link "Oto-Niwa·4.8 つ星·クチコミ 66 件·音楽スタジオ":
+      - generic: Oto-Niwa
+      - img "4.8 つ星 クチコミ 66 件":
+        - text: "4.8"
+        - text: (66)
+      - generic: 音楽スタジオ
+    - link "LIVE＆LUNCH スタジオOWL·4.4 つ星·クチコミ 114 件·音楽スタジオ":
+      - generic: LIVE＆LUNCH スタジオOWL
+      - img "4.4 つ星 クチコミ 114 件":
+        - text: "4.4"
+        - text: (114)
+      - generic: 音楽スタジオ
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
