@@ -1,0 +1,11 @@
+{
+  "slug": "sonnyboyjitensha",
+  "company": "Sonny Boy Jitensha",
+  "website_url": "https://sonnyboyjitensha.com/",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "公式問い合わせページのブラウザー確認時にERR_CERT_AUTHORITY_INVALID。警告を回避せず保留。画像・送信なし。",
+  "viewports_checked": [],
+  "findings": [],
+  "checked_at": "2026-11-01T18:03:47.917112+00:00"
+}

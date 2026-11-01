@@ -1,0 +1,80 @@
+- link "コンテンツへスキップ":
+  - /url: "#content"
+- banner:
+  - link "ペンション バーニーズ":
+    - /url: https://pension-bernese.com/
+    - img "ペンション バーニーズ"
+  - link "メニュー":
+    - /url: "#0"
+    - text: メニュー
+  - navigation:
+    - list:
+      - link "お知らせ":
+        - /url: https://pension-bernese.com/topics/
+      - text: 
+      - link "宿泊案内":
+        - /url: "#"
+      - list:
+        - link "宿泊のご案内":
+          - /url: https://pension-bernese.com/stay/
+        - link "スタッフとワンコ":
+          - /url: https://pension-bernese.com/staff/
+        - link "アクセス":
+          - /url: https://pension-bernese.com/access-info/
+      - link "施設案内":
+        - /url: https://pension-bernese.com/facility/
+      - link "お食事":
+        - /url: https://pension-bernese.com/gourmet/
+      - text: 
+      - link "宿泊プラン・ご予約":
+        - /url: "#"
+      - list:
+        - link "ご予約について":
+          - /url: https://pension-bernese.com/charge/
+        - link "宿泊プラン・ご予約":
+          - /url: https://bernese.rwiths.net/r-withs/tfi0010a.do
+        - link "空室検索":
+          - /url: https://bernese.rwiths.net/r-withs/tfs0010a.do
+        - link "会員登録":
+          - /url: https://bernese.rwiths.net/portal/yoyaku/tm_kaiin_touroku.html
+        - link "予約確認・キャンセル":
+          - /url: https://ssl.rwiths.net/r-withs/rfcReserveConfirmLogin.do?hotelNo=55460
+      - text: 
+      - link "清里の楽しみ方":
+        - /url: "#"
+      - list:
+        - link "ワンコとリトリート":
+          - /url: https://pension-bernese.com/k_style/
+        - link "ワンコとアウトドア":
+          - /url: https://pension-bernese.com/outdoor/
+        - link "八ヶ岳周辺情報":
+          - /url: https://pension-bernese.com/yatsu/
+- heading "問い合わせフォーム" [level=1]
+- main:
+  - article:
+    - generic: 名前 *
+    - textbox "名前 *"
+    - generic: メール *
+    - textbox "メール *"
+    - generic: 問い合わせ内容 *
+    - textbox "問い合わせ内容 *"
+    - button "送信"
+- contentinfo:
+  - link "":
+    - /url: https://www.facebook.com/134311789967756
+    - generic: 
+  - link "":
+    - /url: https://www.instagram.com/pension_bernese_kiyosato/
+    - generic: 
+  - link "":
+    - /url: https://www.youtube.com/channel/UCGdTfaK7Rxfz9gW5TTi43ag
+    - generic: 
+  - link "ページトップへ戻る":
+    - /url: "#page"
+  - paragraph:
+    - text: 八ケ岳南麓・清里高原 ペンション バーニーズ
+    - text: 〒407-0301 山梨県北杜市高根町清里3545-3160
+    - text: ご予約・お問い合わせ tel.0551-48-3925
+    - link "お問い合わせフォーム":
+      - /url: https://pension-bernese.com/contact/
+  - paragraph: Copyright© Pension BERNESE All Rights Reserved.

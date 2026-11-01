@@ -1,0 +1,13 @@
+{
+  "slug": "pension-bernese",
+  "company": "ペンション バーニーズ",
+  "website_url": "https://pension-bernese.com/",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxホーム・問い合わせフォームで確認範囲に表示支障なし。公式サイト閲覧範囲に一般公開メールなし。外部掲載メールのみでは送信対象としない。PC・サービス・Mapsの完全確認未実施。",
+  "viewports_checked": [
+    390
+  ],
+  "findings": [],
+  "checked_at": "2026-11-01T18:03:47.917948+00:00"
+}
