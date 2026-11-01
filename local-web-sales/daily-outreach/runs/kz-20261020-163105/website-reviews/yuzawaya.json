@@ -1,0 +1,9 @@
+{
+  "company": "悠湯の宿 湯澤屋",
+  "website_url": "http://yuzawaya.cocot.jp/index2.html",
+  "checked_at": "2026-11-01T11:23:24.851656+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "公式サイトをブラウザーで開くと名前解決エラー。Webも到達不可。表示レビュー未確認につき送信しない。Gmail/CSV0。",
+  "findings": []
+}

@@ -1,0 +1,9 @@
+{
+  "company": "ペンションあけまの森",
+  "website_url": "https://www.313-daisen.com/",
+  "checked_at": "2026-11-01T11:22:42.102667+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390px表示は横はみ出しなし。表示直後の写真空白は不具合扱いしない。改善未確認。",
+  "findings": []
+}
