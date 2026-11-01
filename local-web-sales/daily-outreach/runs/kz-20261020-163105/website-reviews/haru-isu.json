@@ -1,0 +1,58 @@
+{
+  "company": "ハル椅子店",
+  "industry": "椅子・ソファー張替え修理",
+  "region": "大分県別府市",
+  "email": "info@haru-isu.jp",
+  "email_source": "https://www.haru-isu.jp/inquiry.html および https://www.pref.oita.jp/site/syuriyasan/kagu.html",
+  "website_url": "https://www.haru-isu.jp/",
+  "discovery_source": "https://www.pref.oita.jp/site/syuriyasan/kagu.html",
+  "checked_at": "2026-11-01T19:40:58.308Z",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 12,
+    "url": "https://www.google.com/maps/search/ハル椅子店+大分",
+    "identity": "店名・公式URL・電話0977-21-3106・上田の湯町1-4一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.haru-isu.jp/",
+    "https://www.haru-isu.jp/chair-repair.html",
+    "https://www.haru-isu.jp/inquiry.html",
+    "https://www.haru-isu.jp/company.html"
+  ],
+  "review_checks": [
+    "390px問い合わせ案内と入力欄右側が画面外、1280pxで全文表示。",
+    "トップ・サービスに電話、ナビに問い合わせあり。連絡不能とは断定しない。",
+    "サービス種別、対応地域、会社住所・電話確認。",
+    "主要画像と内部ナビ表示確認。",
+    "見積相談は極力電話、お急ぎは必ず電話という案内を尊重する。別のモバイル版リンクは確認なし。",
+    "県紹介の旧営業時間と定休日は公式と差あり。公式9-16時/日月休・土不定休を優先し、画像には営業時間を載せない。古い記事だけで支障を断定しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.haru-isu.jp/inquiry.html",
+      "viewport_width": 390,
+      "observation": "お問い合わせページを幅390pxで表示すると、見積もり相談やお急ぎの場合はお電話をお願いする説明文が右側で切れ、全文確認に横スクロールが必要な状態",
+      "proposal": "問い合わせ前の説明をスマートフォンの画面幅で折り返し、見積もり・お急ぎの方への電話案内と一般のお問い合わせ導線を縦に並べて読めるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/haru-isu/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・社名0件。台帳・失敗宛先0件。公開メールは公式の個人情報方針内と大分県修理屋さん紹介の一般連絡先が同一で照合。閲覧した公式案内に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://www.sunfurniture.co.jp/recovering/index.html",
+      "note": "サービス・流れ・質問の分類のみ参考。固有文言写真コピーなし。"
+    },
+    {
+      "url": "https://www.riuso-upholstery.com/",
+      "note": "連絡手段ごとの案内構造のみ参考。他社のLINE受付等は提案に持ち込まない。"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+- heading "大分県・福岡県・熊本県・宮崎県・鹿児島県・長崎県・佐賀県の椅子とソファーの張替え、椅子とソファーの修理はハル椅子店へ。" [level=1]
+- link "大分の椅子・ソファー張替え、椅子・ソファー修理のハル椅子店":
+  - /url: https://www.haru-isu.jp/
+  - img "大分の椅子・ソファー張替え、椅子・ソファー修理のハル椅子店"
+- list:
+  - link "大分の椅子・ソファー張替え修理のハル椅子店・トップページ":
+    - /url: https://www.haru-isu.jp/
+  - link "大分の椅子・ソファー張替え修理のハル椅子店・イスとソファーの張替えについて":
+    - /url: https://www.haru-isu.jp/chair-repair.html
+  - link "大分の椅子・ソファー張替え修理のハル椅子店・張替えと修理の施工例":
+    - /url: https://www.haru-isu.jp/chair-works.html
+  - link "大分の椅子・ソファー張替え修理のハル椅子店・張替えと修理のFAQ":
+    - /url: https://www.haru-isu.jp/chair-faq.html
+  - link "大分の椅子・ソファー張替え修理のハル椅子店・お問い合わせ":
+    - /url: https://www.haru-isu.jp/inquiry.html
+- heading "お問い合わせフォーム" [level=1]
+- paragraph:
+  - text: 以下のメールフォームよりお問い合わせを承ります。ご不明な点やご要望がございましたらお気軽にお問い合わせください。ご返答には最善を尽くしますが、お急ぎの際は必ずお電話にてお問い合わせを頂きますようお願い申し上げます。
+  - text: また、椅子やソファーのお見積りに関してのご相談は現物により異なりますので、極力お電話にてお問い合わせを頂けますようにお願い申し上げます。
+- button "Submit"
+- term:
+  - text: お名前
+  - img "入力必須"
+- definition:
+  - textbox
+- term:
+  - text: メールアドレス
+  - img "入力必須"
+- definition:
+  - textbox
+- term:
+  - text: メールアドレス（確認用）
+  - img "入力必須"
+- definition:
+  - textbox
+- term: 郵便番号
+- definition:
+  - text: ↓この欄に郵便番号やご住所を入力すると検索できます
+  - textbox
+- term: ご住所
+- definition:
+  - list:
+    - text: 都道府県
+    - combobox:
+      - option "【選択して下さい】" [selected]
+      - option "北海道"
+      - option "青森県"
+      - option "岩手県"
+      - option "秋田県"
+      - option "宮城県"
+      - option "山形県"
+      - option "福島県"
+      - option "栃木県"
+      - option "群馬県"
+      - option "茨城県"
+      - option "埼玉県"
+      - option "東京都"
+      - option "千葉県"
+      - option "神奈川県"
+      - option "山梨県"
+      - option "長野県"
+      - option "新潟県"
+      - option "富山県"
+      - option "石川県"
+      - option "福井県"
+      - option "静岡県"
+      - option "岐阜県"
+      - option "愛知県"
+      - option "三重県"
+      - option "滋賀県"
+      - option "京都府"
+      - option "大阪府"
+      - option "兵庫県"
+      - option "奈良県"
+      - option "和歌山県"
+      - option "徳島県"
+      - option "香川県"
+      - option "愛媛県"
+      - option "高知県"
+      - option "鳥取県"
+      - option "島根県"
+      - option "岡山県"
+      - option "広島県"
+      - option "山口県"
+      - option "福岡県"
+      - option "佐賀県"
+      - option "長崎県"
+      - option "大分県"
+      - option "熊本県"
+      - option "宮崎県"
+      - option "鹿児島県"
+      - option "沖縄県"
+    - text: 市区町村
+    - textbox
+    - text: 丁目番地
+    - textbox
+- term:
+  - text: お問合せ内容
+  - img "入力必須"
+- definition:
+  - textbox
+- term:
+  - text: ご希望の返信方法
+  - img "入力必須"
+- definition:
+  - list:
+    - radio "メールでの返信を希望"
+    - text: メールでの返信を希望
+    - radio "お電話での返信を希望"
+    - text: お電話での返信を希望
+- term: 個人情報の取り扱いについて
+- definition:
+  - paragraph: ハル椅子店（以下、「当店」といいます。）は、個人情報の安全管理を遵守することが重要な社会的責務であると認識し、個人情報保護を道の駅の活動における最優先事項のひとつとして位置付けています。また、これを確実に実践していくために以下の個人情報保護方針を定め、個人情報の適正な取扱い、管理に努めて参ります。
+  - heading "ハル椅子店の個人情報保護方針" [level=2]
+  - paragraph: 1. 当店は、個人情報に関して、あらかじめご本人様より同意をいただいたうえで収集し、利用及び提供におきましては、法令に基づく場合以外は同意を得た範囲に限定して行います。
+  - paragraph: 2. 当店の保有する個人情報への不正アクセス、個人情報の紛失、破壊、改ざん及び漏えいなどにつきましては、ＩＤ・パスワードの管理、個人情報の保存・管理・廃棄ルールの徹底、ファイヤーウォールの構築、入退室管理、職員及び業務委託先の管理体制の確認など、合理的な安全セキュリティ対策を講ずることで予防を図るとともに、必要時には適切かつ速やかな是正に努めます。
+  - paragraph: 3. 当店は、個人情報保護に関する法令、その他の規範の遵守に努めます。個人情報を取扱う業務を遂行するにあたり、内部規定を定め、遵守いたします。
+  - paragraph: 4. 当店は、個人情報保護に関する内部コンプライアンス・プログラム（社内規定）を定期的に見直すとともに、時代の趨勢を踏まえて、コンプライアンス管理責任者を中心として、継続的にその改善に努めます。
+  - paragraph:
+    - text: ハル椅子店の個人情報保護方針についてのご質問・お問合せ個人情報に関する質問・お問い合わせは、当ホームページ（
+    - link "https://www.haru-isu.jp":
+      - /url: https://www.haru-isu.jp
+    - text: ）、またはメールアドレス「infoあっとharu-isu.jp」（あっとを@と入力して送信ください）までご連絡ください。個人情報に関するお問い合わせの際は、ご本人様であることを確認させていただくことを予めご了承願います。
+- term:
+  - text: 送信確認
+  - img "入力必須"
+- definition:
+  - checkbox "個人情報の取り扱いについて同意の上、送信内容を確認する"
+  - text: 個人情報の取り扱いについて同意の上、送信内容を確認する
+- button "入力内容のご確認へ":
+  - img "入力内容のご確認へ"
+- list:
+  - strong: 大分の椅子・ソファー張替え、椅子・ソファー修理のハル椅子店
+  - text: 〒874-0908 大分県別府市上田の湯町1-4
+  - text: TEL 0977-21-3106 FAX 0977-76-6088
+  - text: 営業時間 AM9:00～PM16:00 ／ 定休日 毎週日曜・月曜（土曜は不定休）
+  - text: ホームページ ／
+  - link "https://www.haru-isu.jp":
+    - /url: https://www.haru-isu.jp/
+- list:
+  - link "会社概要":
+    - /url: https://www.haru-isu.jp/company.html
+    - img "会社概要"
+  - link "サイトマップ":
+    - /url: https://www.haru-isu.jp/site-map.html
+    - img "サイトマップ"
+  - link "個人情報の取り扱いについて":
+    - /url: https://www.haru-isu.jp/privacypolicy.html
+    - img "個人情報の取り扱いについて"
+- list:
+  - img "Copyright.2010.ハル椅子店.All rights reserved."
+  - link "Valid XHTML 1.0 Transitional":
+    - /url: http://validator.w3.org/check?uri=referer
+    - img "Valid XHTML 1.0 Transitional"
+  - link "Valid CSS":
+    - /url: http://jigsaw.w3.org/css-validator/validator?uri=https://www.haru-isu.jp/css/style.css
+    - img "Valid CSS"
+  - link "大分のホームページ制作STFウェブプランニング":
+    - /url: http://www.web-stf.jp
+    - img "大分のホームページ制作STFウェブプランニング"

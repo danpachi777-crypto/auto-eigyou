@@ -1,0 +1,14 @@
+{
+  "company": "オートバイのイトーKT",
+  "website_url": "https://www.itokt.co.jp/",
+  "checked_at": "2026-11-01T19:38:07.110057+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "問い合わせページ390px表示は本文・フォームが幅内に収まり、確認範囲に提案対象の表示支障なし。公式公開一般メールも未確認。第三者販売ページのBike@itokt.co.jpだけでは採用しない。全6画面レビュー・Maps確認未実施。",
+  "pages_checked": [
+    "https://www.itokt.co.jp/ask/"
+  ],
+  "viewports_checked": [
+    390
+  ]
+}
