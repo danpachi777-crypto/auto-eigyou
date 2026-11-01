@@ -1,0 +1,493 @@
+- banner:
+  - heading "ケーケー山本自転車店" [level=1]:
+    - link "ケーケー山本自転車店":
+      - /url: https://circle-kk.com/
+      - img "ケーケー山本自転車店"
+  - heading "楽しく苦しく最高です！ケーケー山本自転車店" [level=2]
+  - link "0596-72-8676":
+    - /url: tel:0596-72-8676
+  - text: 
+  - navigation:
+    - list:
+      - link "TRIATHLON":
+        - /url: https://circle-kk.com/triathlon/
+      - link "ROADBIKE":
+        - /url: https://circle-kk.com/roadbike/
+      - link "MOUNTAINBIKE":
+        - /url: https://circle-kk.com/mountainbike/
+      - link "RENTALBIKE":
+        - /url: https://circle-kk.com/rentalbike/
+      - link "BGFIT&RETUL":
+        - /url: https://circle-kk.com/bgfitretul/
+      - link "入荷情報！":
+        - /url: https://circle-kk.com/accessories/
+      - link "店舗紹介":
+        - /url: https://circle-kk.com/about/
+      - link "CONTACT":
+        - /url: https://circle-kk.com/contact/
+      - button "LANGUAGE"
+- heading "店舗紹介" [level=1]
+- heading "ケーケーイベント！" [level=3]
+- generic "Click to copy shortcode":
+  - strong: 今月も皆様の自転車生活をサポートさせていただきます！
+- generic "Click to copy shortcode"
+- generic "Click to copy shortcode":
+  - img "読み込み中..."
+  - text: 読み込み中...
+  - heading "11月 2026" [level=2]
+  - button "‹":
+    - generic: ‹
+  - button "›":
+    - generic: ›
+  - button "今日" [disabled]
+  - table:
+    - rowgroup:
+      - row "月 火 水 木 金 土 日":
+        - cell "月 火 水 木 金 土 日":
+          - table:
+            - rowgroup:
+              - row "月 火 水 木 金 土 日":
+                - columnheader "月"
+                - columnheader "火"
+                - columnheader "水"
+                - columnheader "木"
+                - columnheader "金"
+                - columnheader "土"
+                - columnheader "日"
+    - rowgroup:
+      - row "26 27 28 29 30 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6":
+        - cell "26 27 28 29 30 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6":
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "26 27 28 29 30 31 1":
+                - cell "26"
+                - cell "27"
+                - cell "28"
+                - cell "29"
+                - cell "30"
+                - cell "31"
+                - cell "1"
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "2 3 4 5 6 7 8":
+                - cell "2"
+                - cell "3"
+                - cell "4"
+                - cell "5"
+                - cell "6"
+                - cell "7"
+                - cell "8"
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "9 10 11 12 13 14 15":
+                - cell "9"
+                - cell "10"
+                - cell "11"
+                - cell "12"
+                - cell "13"
+                - cell "14"
+                - cell "15"
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "16 17 18 19 20 21 22":
+                - cell "16"
+                - cell "17"
+                - cell "18"
+                - cell "19"
+                - cell "20"
+                - cell "21"
+                - cell "22"
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "23 24 25 26 27 28 29":
+                - cell "23"
+                - cell "24"
+                - cell "25"
+                - cell "26"
+                - cell "27"
+                - cell "28"
+                - cell "29"
+          - table:
+            - rowgroup:
+              - row:
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+                - cell
+          - table:
+            - rowgroup:
+              - row "30 1 2 3 4 5 6":
+                - cell "30"
+                - cell "1"
+                - cell "2"
+                - cell "3"
+                - cell "4"
+                - cell "5"
+                - cell "6"
+- generic "Click to copy shortcode"
+- generic "Click to copy shortcode":
+  - text: ※毎月のイベントは自己責任でのご参加になりますのでよろしくお願い致します！
+  - text: イベントは当店ご購入のお客様へのサービスの一つでさせていただいております。ご了承ください。
+  - text: 皆様のご参加お待ちしております。
+  - paragraph
+- link "triathlon":
+  - /url: https://circle-kk.com/triathlon/
+  - img "triathlon"
+- link "roadbike":
+  - /url: https://circle-kk.com/roadbike/
+  - img "roadbike"
+- link "mountainbike":
+  - /url: https://circle-kk.com/mountainbike/
+  - img "mountainbike"
+- link "bgfit&retul":
+  - /url: https://circle-kk.com/bgfitretul/
+  - img "bgfit&retul"
+- link "accessories":
+  - /url: https://circle-kk.com/accessories/
+  - img "accessories"
+- link "event":
+  - /url: https://circle-kk.com/category/event/
+  - img "event"
+- link "event":
+  - /url: https://circle-kk.com/rentalbike/
+  - img "event"
+- article:
+  - heading "有限会社ケーケー山本自転車店" [level=2]
+  - paragraph:
+    - text: 三重県伊勢市ケーケー山本自転車店は創業明治41年。1908年。
+    - text: ファミリーサイクルからスポーツバイクまで取り扱い、「修理大好きな店」のケーケーは「自分スタイル」で「楽しく気軽に自転車生活」を過ごせるようお手伝いしたいと思っております。
+    - text: 楽しい事大好きなケーケーに是非御来店ください。
+  - paragraph
+  - heading "お客様と楽しく苦しく最高です！ケーケー山本自転車店 1号店" [level=3]
+  - paragraph:
+    - strong: ケーケー山本自転車店 1号店
+    - text: 〒516-0041
+    - text: 三重県伊勢市常磐2-12-23
+    - strong: 営業時間：10:00〜19:00
+    - strong: 定休日：水曜定休 ※臨時休業有り
+    - text: TEL&FAX：0596-72-8676
+    - text: MAIL：info@circle-kk.com
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - heading "「修理大好きな店」ケーケー山本自転車店 ファミリーサイクル店" [level=3]
+  - paragraph:
+    - strong: ケーケー山本自転車店 ファミリーサイクル店
+    - text: 〒516-0041
+    - text: 三重県伊勢市常磐2-6-22
+    - strong: 営業時間：10:00〜18:00
+    - strong: 定休日：水曜定休 ※臨時休業有り
+    - text: TEL&FAX：0596-28-3044
+    - text: MAIL：info@circle-kk.com
+  - paragraph:
+    - strong: 当店は「修理代好きな店」として通勤・通学の当店ご購入自転車のお客様をサポートさせていただいております！特に学生さんは途中でパンクなど故障の際、お電話いただき学校やご自宅等に引き取り修理もしております！
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - heading "スペシャライズド 三重" [level=2]
+  - figure:
+    - table:
+      - rowgroup:
+        - row "所在地 〒511-0944 三重県桑名市芳ヶ崎1537-14":
+          - rowheader "所在地"
+          - cell "〒511-0944 三重県桑名市芳ヶ崎1537-14":
+            - strong:
+              - text: 〒511-0944
+              - text: 三重県桑名市芳ヶ崎1537-14
+        - 'row "営業時間 平日: 11:00 – 19:00 ／ 土日: 10:00 – 19:00"':
+          - rowheader "営業時間"
+          - 'cell "平日: 11:00 – 19:00 ／ 土日: 10:00 – 19:00"':
+            - strong: "平日: 11:00 – 19:00 ／ 土日: 10:00 – 19:00"
+        - row "定休日 火曜日、水曜日":
+          - rowheader "定休日"
+          - cell "火曜日、水曜日":
+            - strong: 火曜日、水曜日
+        - row "電話番号 0594-84-7877":
+          - rowheader "電話番号"
+          - cell "0594-84-7877":
+            - link "0594-84-7877":
+              - /url: tel:0594-84-7877
+        - row "駐車場 駐車場有":
+          - rowheader "駐車場"
+          - cell "駐車場有":
+            - strong: 駐車場有
+        - row "アクセス お車：東名阪自動車道 桑名ICより約10分 バス：広見ヶ丘バス停より徒歩3分 電車：三岐鉄道北勢線 七和駅から徒歩15分":
+          - rowheader "アクセス"
+          - cell "お車：東名阪自動車道 桑名ICより約10分 バス：広見ヶ丘バス停より徒歩3分 電車：三岐鉄道北勢線 七和駅から徒歩15分":
+            - strong:
+              - text: お車：東名阪自動車道 桑名ICより約10分
+              - text: バス：広見ヶ丘バス停より徒歩3分
+            - strong: 電車：三岐鉄道北勢線 七和駅から徒歩15分
+  - paragraph:
+    - strong:
+      - text: HP：
+      - link "https://specialized-store.jp/mie/":
+        - /url: https://specialized-store.jp/mie/
+  - figure:
+    - list:
+      - figure
+  - paragraph:
+    - strong: スペシャライズド 三重は、初心者から愛好者まで、それぞれに最適な一台が見つかる、県内初のスペシャライズドストアです。
+  - figure
+  - paragraph:
+    - strong: 私たちは、スペシャライズドバイクの魅力を伝えるだけでなく、スポーツバイク本来の楽しさをお客様にお届けしたいと考えています。お客様が何を求め、どのようなサポートを必要としているのかを第一に考え、最適なご提案をいたします。
+- list:
+  - listitem: Category
+- list:
+  - link "未分類 221":
+    - /url: https://circle-kk.com/category/%e6%9c%aa%e5%88%86%e9%a1%9e/
+    - text: 未分類
+    - generic: "221"
+  - link "入荷情報！ 1,048":
+    - /url: https://circle-kk.com/category/receipt-infomation/
+    - text: 入荷情報！
+    - generic: 1,048
+  - link "ロードバイク 927":
+    - /url: https://circle-kk.com/category/roadbike/
+    - text: ロードバイク
+    - generic: "927"
+  - link "マウンテンバイク 718":
+    - /url: https://circle-kk.com/category/mountainbike/
+    - text: マウンテンバイク
+    - generic: "718"
+  - link "トライアスロン 1,022":
+    - /url: https://circle-kk.com/category/triathlon/
+    - text: トライアスロン
+    - generic: 1,022
+  - link "イベント 1,162":
+    - /url: https://circle-kk.com/category/event/
+    - text: イベント
+    - generic: 1,162
+  - link "LIFE 2,816":
+    - /url: https://circle-kk.com/category/life/
+    - text: LIFE
+    - generic: 2,816
+  - link "BGfit 18":
+    - /url: https://circle-kk.com/category/bgfit/
+    - text: BGfit
+    - generic: "18"
+- complementary:
+  - list:
+    - listitem: 最近の投稿
+    - listitem: Category
+  - list:
+    - link:
+      - /url: https://circle-kk.com/2026/10/30/post-15559/
+      - figure
+    - time: Oct 30, 2026
+    - heading "お知らせ" [level=4]:
+      - link "お知らせ":
+        - /url: https://circle-kk.com/2026/10/30/post-15559/
+    - link:
+      - /url: https://circle-kk.com/2026/10/29/post-15550/
+      - figure
+    - time: Oct 29, 2026
+    - heading "ありがとうございます♪" [level=4]:
+      - link "ありがとうございます♪":
+        - /url: https://circle-kk.com/2026/10/29/post-15550/
+    - link:
+      - /url: https://circle-kk.com/2026/10/26/post-15545/
+      - figure
+    - time: Oct 26, 2026
+    - heading "無金利キャンペーン" [level=4]:
+      - link "無金利キャンペーン":
+        - /url: https://circle-kk.com/2026/10/26/post-15545/
+    - link:
+      - /url: https://circle-kk.com/2026/10/25/post-15542/
+      - figure
+    - time: Oct 25, 2026
+    - heading "来年に向けて！" [level=4]:
+      - link "来年に向けて！":
+        - /url: https://circle-kk.com/2026/10/25/post-15542/
+    - link:
+      - /url: https://circle-kk.com/2026/10/24/post-15531/
+      - figure
+    - time: Oct 24, 2026
+    - heading "うわ〜！" [level=4]:
+      - link "うわ〜！":
+        - /url: https://circle-kk.com/2026/10/24/post-15531/
+    - link:
+      - /url: https://circle-kk.com/2026/10/24/post-15528/
+      - figure
+    - time: Oct 24, 2026
+    - heading "雨" [level=4]:
+      - link "雨":
+        - /url: https://circle-kk.com/2026/10/24/post-15528/
+    - link:
+      - /url: https://circle-kk.com/2026/10/23/post-15525/
+      - figure
+    - time: Oct 23, 2026
+    - heading "スカスカ" [level=4]:
+      - link "スカスカ":
+        - /url: https://circle-kk.com/2026/10/23/post-15525/
+    - link:
+      - /url: https://circle-kk.com/2026/10/17/post-15514/
+      - figure
+    - time: Oct 17, 2026
+    - heading "朝一バイク練" [level=4]:
+      - link "朝一バイク練":
+        - /url: https://circle-kk.com/2026/10/17/post-15514/
+    - link:
+      - /url: https://circle-kk.com/2026/10/16/post-15511/
+      - figure
+    - time: Oct 16, 2026
+    - heading "チューブ交換講習会" [level=4]:
+      - link "チューブ交換講習会":
+        - /url: https://circle-kk.com/2026/10/16/post-15511/
+    - link:
+      - /url: https://circle-kk.com/2026/10/16/post-15507/
+      - figure
+    - time: Oct 16, 2026
+    - heading "えっちゃこい！" [level=4]:
+      - link "えっちゃこい！":
+        - /url: https://circle-kk.com/2026/10/16/post-15507/
+- navigation:
+  - list:
+    - link "HOME":
+      - /url: https://circle-kk.com/
+    - text: 
+    - link "店舗紹介":
+      - /url: https://circle-kk.com/about/
+- contentinfo:
+  - link "circlekk1908":
+    - /url: https://www.instagram.com/circlekk1908/
+    - heading "circlekk1908" [level=3]
+  - link "お待たせしました♪ 大人気スペシャ":
+    - /url: https://www.instagram.com/p/CskVnT-hZCU/
+    - generic: お待たせしました♪ 大人気スペシャ
+  - link:
+    - /url: https://www.instagram.com/p/CshyV36plv-/
+  - link "おはようございます😃 今日はかなり":
+    - /url: https://www.instagram.com/p/Cscp6mVJ_IC/
+    - generic: おはようございます😃 今日はかなり
+  - link "おはようございます😃 昨日は【アミ":
+    - /url: https://www.instagram.com/p/CsXcTvxhW1t/
+    - generic: おはようございます😃 昨日は【アミ
+  - link "【告知】 おはようございます😃 ゴ":
+    - /url: https://www.instagram.com/p/Cr-BQ82pzRR/
+    - generic: 【告知】 おはようございます😃 ゴ
+  - link "おはようございます😃 本日からゴー":
+    - /url: https://www.instagram.com/p/Crmtx7Np7tN/
+    - generic: おはようございます😃 本日からゴー
+  - link:
+    - /url: https://www.instagram.com/reel/CrfJOiLJGNS/
+  - link:
+    - /url: https://www.instagram.com/reel/Cre-TrkJz02/
+  - link:
+    - /url: https://www.instagram.com/p/CrHt1u-JL-e/
+  - link:
+    - /url: https://www.youtube.com/channel/UCkVif4TMRaEg9gvZ8-2E1zw/videos
+  - heading "BLOGカテゴリー" [level=1]:
+    - generic: BLOGカテゴリー
+  - list:
+    - link "イベント 1,162":
+      - /url: https://circle-kk.com/category/event/
+      - text: イベント
+      - generic: 1,162
+    - link "BGfit 18":
+      - /url: https://circle-kk.com/category/bgfit/
+      - text: BGfit
+      - generic: "18"
+    - link "入荷情報！ 1,048":
+      - /url: https://circle-kk.com/category/receipt-infomation/
+      - text: 入荷情報！
+      - generic: 1,048
+    - link "ロードバイク 927":
+      - /url: https://circle-kk.com/category/roadbike/
+      - text: ロードバイク
+      - generic: "927"
+    - link "マウンテンバイク 718":
+      - /url: https://circle-kk.com/category/mountainbike/
+      - text: マウンテンバイク
+      - generic: "718"
+    - link "トライアスロン 1,022":
+      - /url: https://circle-kk.com/category/triathlon/
+      - text: トライアスロン
+      - generic: 1,022
+    - link "LIFE 2,816":
+      - /url: https://circle-kk.com/category/life/
+      - text: LIFE
+      - generic: 2,816
+    - link "未分類 221":
+      - /url: https://circle-kk.com/category/%e6%9c%aa%e5%88%86%e9%a1%9e/
+      - text: 未分類
+      - generic: "221"
+  - list:
+    - link "TRIATHLON":
+      - /url: https://circle-kk.com/triathlon/
+    - link "ROADBIKE":
+      - /url: https://circle-kk.com/roadbike/
+    - link "MOUNTAINBIKE":
+      - /url: https://circle-kk.com/mountainbike/
+    - link "RENTALBIKE":
+      - /url: https://circle-kk.com/rentalbike/
+    - link "BGFIT&RETUL":
+      - /url: https://circle-kk.com/bgfitretul/
+    - link "入荷情報！":
+      - /url: https://circle-kk.com/accessories/
+    - link "店舗紹介":
+      - /url: https://circle-kk.com/about/
+    - link "CONTACT":
+      - /url: https://circle-kk.com/contact/
+  - text: © 2017 - 2026
+  - link "ケーケー山本自転車店":
+    - /url: https://circle-kk.com/
+- generic: 
+- iframe [name="a-djqiit93ksyh"]

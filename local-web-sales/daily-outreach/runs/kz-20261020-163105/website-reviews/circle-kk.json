@@ -1,0 +1,86 @@
+{
+  "company": "有限会社ケーケー山本自転車店",
+  "industry": "自転車販売・修理",
+  "region": "三重県伊勢市",
+  "email": "info@circle-kk.com",
+  "email_source": "https://circle-kk.com/about/",
+  "website_url": "https://circle-kk.com/",
+  "discovery_source": "https://www.kkr.mlit.go.jp/road/pcr/trouble/index.html",
+  "checked_at": "2026-11-01T18:47:07.584Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 65,
+    "url": "https://www.google.com/maps/search/?api=1&query=ケーケー山本自転車店+1号店",
+    "identity": "1号店の常磐2-12-23、0596-72-8676、circle-kk.com一致。ファミリーサイクル店とは区別。メーカー正規店一覧と国交省修理店一覧も同一。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://circle-kk.com/",
+    "service": "https://circle-kk.com/roadbike/",
+    "contact": "https://circle-kk.com/contact/",
+    "about": "https://circle-kk.com/about/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px共通ヘッダーでロゴと電話が重なる。ロゴリンクx10幅200、電話x159.7幅125.3、yも重なる。1280pxは別位置で全桁確認可能。3ページ6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "ヘッダーtelリンクは存在。問い合わせ不能とは主張しない。店舗紹介に電話FAXと一般メール。問い合わせフォームは電話必須。送信操作はしていない。"
+    },
+    {
+      "item": 3,
+      "result": "ロードバイク等サービスと店舗別連絡先・営業時間あり。1号店とファミリーサイクル店を区別。"
+    },
+    {
+      "item": 4,
+      "result": "ホーム初回読み込み中白画面を不具合とせず、描画完了後撮り直した。写真・主要リンク表示。"
+    },
+    {
+      "item": 5,
+      "result": "修理やイベントについて購入客向け条件あり。無条件参加や他店購入車修理可などの創作なし。提案はヘッダーだけ。"
+    },
+    {
+      "item": 6,
+      "result": "2026年10月の近況あり。古い見た目を問題にしない。確認範囲に営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://circle-kk.com/contact/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、ページ上部のロゴと電話番号が重なり、電話番号の先頭部分が読み取りにくい状態でした。1280px幅では重ならず表示されていました。",
+      "proposal": "スマートフォンではロゴと電話番号を別の段に配置し、ヘッダーの電話番号を先頭から読めるようにする",
+      "evidence_path": "evidence/circle-kk/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "circle-kk.com",
+      "info@circle-kk.com",
+      "ケーケー山本",
+      "スペシャライズド 三重",
+      "specialized-store.jp/mie"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://elmo.gifu.jp/",
+      "note": "サービス・店舗・問い合わせの情報分類のみ参照。転載なし。"
+    },
+    {
+      "url": "https://www.bikes-kurosawa.com/",
+      "note": "店舗名と連絡先情報を分離する構成のみ参考。転載なし。"
+    }
+  ]
+}
