@@ -1,0 +1,29 @@
+{
+  "company": "ペンション山日記",
+  "email": "inaba@yamanikki.com",
+  "email_source": "https://yamanikki.com/index.html",
+  "website_url": "https://yamanikki.com/index.html",
+  "status": "research_in_progress",
+  "maps": {
+    "rating": 4.9,
+    "review_count": 31,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンション山日記+那須",
+    "identity": "高久丙4364-1・0287626023・公式ドメイン一致"
+  },
+  "duplicate_check": {
+    "gmail_name_domain_matches": 0,
+    "csv_matches": 0,
+    "email_alias_check_pending": true
+  },
+  "finding": "ペンション概要 gaiyou.html の客室・施設説明の右側が390pxで欠け、1280pxでは表示。2枚保存目視確認済み。",
+  "contact_policy": "初回・急ぎ予約は電話。一般メール問い合わせあり、件名必須。夜23時過ぎ確認。ペット同宿不可。今回閲覧したご一読くださいに営業拒否なし。",
+  "remaining": [
+    "公式以外の独立紹介元確認",
+    "homeとcontact=ホーム下部メール案内を390/1280で保存",
+    "6項目調査と同業比較2サイト",
+    "一般メールの重複確認",
+    "画像2点・メール作成送信確認"
+  ],
+  "checked_at": "2026-11-01T17:12:19.361219+00:00",
+  "viewport_restored": true
+}

@@ -1,0 +1,375 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ペンション山日記
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのホテル":
+      - generic: 
+      - generic: 近くのホテル
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "ペンション山日記":
+      - generic: ペンション山日記
+    - button "2 か所 松山市":
+      - generic "2 か所": "2"
+      - generic: 松山市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "ペンション山日記":
+    - 'button "写真: ペンション山日記" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ペンション山日記" [level=1]: ペンション山日記
+    - text: "4.9"
+    - img "4.9 つ星"
+    - img "31 件のクチコミ": (31)
+    - text: ·
+    - generic: B&B
+    - tablist:
+      - tab "ペンション山日記 の概要" [selected]:
+        - generic: 概要
+      - tab "ペンション山日記 の料金":
+        - generic: 価格
+      - tab "ペンション山日記 のクチコミ":
+        - generic: クチコミ
+      - tab "「ペンション山日記」について":
+        - generic: 基本情報
+    - region "ペンション山日記 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "朝・夕食付":
+        - generic: 朝・夕食付
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - paragraph:
+      - generic: 料金と空き室状況については宿泊施設にお問い合わせください
+    - link "https://yamanikki.com/ にアクセス":
+      - /url: https://yamanikki.com/
+      - generic: サイトを見る
+    - generic: 
+    - button "11月9日(月)～11月10日(火) にご宿泊なら ￥25,600でご予約可能":
+      - generic: 11月9日(月)～11月10日(火)
+      - text: にご宿泊なら ￥25,600でご予約可能
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - link "那須ログコテージ・フィンランディア·￥19,140·4.7 つ星·クチコミ 252 件·0.3 km 圏内":
+        - generic: ￥19,140
+        - generic: 那須ログコテージ・フィンランディア
+        - img "4.7 つ星 クチコミ 252 件":
+          - text: "4.7"
+          - text: (252)
+        - generic: 0.3 km 圏内
+      - link "ガストホフ那須花·￥16,720·3.6 つ星·クチコミ 173 件·0.2 km 圏内":
+        - generic: ￥16,720
+        - generic: ガストホフ那須花
+        - img "3.6 つ星 クチコミ 173 件":
+          - text: "3.6"
+          - text: (173)
+        - generic: 0.2 km 圏内
+      - link "DOG SPA RESORT アルトピアーノ·￥23,562·4.5 つ星·クチコミ 193 件·0.1 km 圏内":
+        - generic: ￥23,562
+        - generic: DOG SPA RESORT アルトピアーノ
+        - img "4.5 つ星 クチコミ 193 件":
+          - text: "4.5"
+          - text: (193)
+        - generic: 0.1 km 圏内
+      - link "ペンシオーネ サライ·￥43,680·4.5 つ星·クチコミ 23 件·0.7 km 圏内":
+        - generic: ￥43,680
+        - generic: ペンシオーネ サライ
+        - img "4.5 つ星 クチコミ 23 件":
+          - text: "4.5"
+          - text: (23)
+        - generic: 0.7 km 圏内
+      - link "Grand Mercure Nasu Highlands Resort & Spa·￥33,598·3.9 つ星·クチコミ 2,269 件·0.8 km 圏内":
+        - generic: ￥33,598
+        - generic: Grand Mercure Nasu Highlands Resort & Spa
+        - img "3.9 つ星 クチコミ 2,269 件":
+          - text: "3.9"
+          - text: (2,269)
+        - generic: 0.8 km 圏内
+      - link "ウエルネスの森那須·￥33,000·4.1 つ星·クチコミ 797 件·1.5 km 圏内":
+        - generic: ￥33,000
+        - generic: ウエルネスの森那須
+        - img "4.1 つ星 クチコミ 797 件":
+          - text: "4.1"
+          - text: (797)
+        - generic: 1.5 km 圏内
+      - link "ホテルエピナール那須·￥50,610·4.2 つ星·クチコミ 6,167 件·1.8 km 圏内":
+        - generic: ￥50,610
+        - generic: ホテルエピナール那須
+        - img "4.2 つ星 クチコミ 6,167 件":
+          - text: "4.2"
+          - text: (6,167)
+        - generic: 1.8 km 圏内
+      - link "那須高原STAY 菊·￥12,727·4.1 つ星·クチコミ 79 件·0.7 km 圏内":
+        - generic: ￥12,727
+        - generic: 那須高原STAY 菊
+        - img "4.1 つ星 クチコミ 79 件":
+          - text: "4.1"
+          - text: (79)
+        - generic: 0.7 km 圏内
+      - link "ホテル森の風那須·￥20,828·4.2 つ星·クチコミ 336 件·1.8 km 圏内":
+        - generic: ￥20,828
+        - generic: ホテル森の風那須
+        - img "4.2 つ星 クチコミ 336 件":
+          - text: "4.2"
+          - text: (336)
+        - generic: 1.8 km 圏内
+      - link "那須ハミルの森 グランピング·4.6 つ星·クチコミ 591 件·1.7 km 圏内":
+        - generic: 那須ハミルの森 グランピング
+        - img "4.6 つ星 クチコミ 591 件":
+          - text: "4.6"
+          - text: (591)
+        - generic: 1.7 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - region "ペンション山日記 の情報":
+      - 'button "住所: 〒325-0002 栃木県那須郡那須町高久丙４３６４−１"':
+        - generic: 
+        - generic: 〒325-0002 栃木県那須郡那須町高久丙４３６４−１
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: yamanikki.com"':
+        - /url: https://yamanikki.com/
+        - generic: 
+        - generic: yamanikki.com
+      - link "ウェブサイトを開きます":
+        - /url: https://yamanikki.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0287-62-6023"':
+        - generic: 
+        - generic: 0287-62-6023
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0287626023
+        - generic: 
+      - 'button "Plus Code: 22PM+5C 那須町、栃木県"':
+        - generic: 
+        - generic: 22PM+5C 那須町、栃木県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: 
+      - generic: "チェックイン時間: 15:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "立地情報" [level=2]
+    - generic: "4.2"
+    - generic: 非常に観光客向き
+    - button "立地のスコアに関する詳細情報":
+      - generic: 
+    - generic: 観光、レクリエーション、移動手段に基づき算出
+    - tablist "付近の場所":
+      - tab "アクティビティ":
+        - generic: 
+        - generic: アクティビティ
+      - tab "公共交通機関":
+        - generic: 
+        - generic: 公共交通機関
+      - tab "空港":
+        - generic: 
+        - generic: 空港
+    - heading "写真と動画" [level=2]
+    - region "「ペンション山日記」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "客室"
+      - generic: 客室
+      - button "動画"
+      - generic: 動画
+      - button "外観"
+      - generic: 外観
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "ゲスト提供"
+      - generic: ゲスト提供
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "ホテルの詳細" [level=2]
+    - 'img "無料 Wi-Fi: 利用可能"':
+      - generic: 
+      - generic: 無料 Wi-Fi
+    - 'img "朝食（無料）: 利用不可"':
+      - generic: 
+      - generic: 朝食（無料）
+    - 'img "駐車場（無料）: 利用可能"':
+      - generic: 
+      - generic: 駐車場（無料）
+    - 'img "バリアフリー: 利用不可"':
+      - generic: 
+      - generic: バリアフリー
+    - 'img "プール: 利用不可"':
+      - generic: 
+      - generic: プール
+    - 'img "エアコン完備: 利用可能"':
+      - generic: 
+      - generic: エアコン完備
+    - button "その他の設備を表示":
+      - generic: 
+      - generic: その他の設備を表示
+    - heading "Google でのクチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 27 件": "5"
+        - img "4 つ星、クチコミ 4 件": "4"
+        - img "3 つ星、クチコミ 0 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.9"
+    - img "4.9 つ星"
+    - button "31 件のクチコミ":
+      - generic: 31 件のクチコミ
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "すべてのクチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - generic: Tripadvisor
+    - generic: 4.8/5
+    - generic: ·
+    - generic: 8 件のクチコミ
+    - generic: 舟橋悦、11 か月前
+    - generic: 14年ぶりの宿泊！３人の子供達が那須に行くなら山日記と言うくらい大好きなペンション❤️今回は主人と娘3人の宿泊でした‼️|オーナー夫妻の、暖かい笑顔☺️手間ひまかけた美味しい料理や楽しいお話、以前とは変わらず、いやそれ以上に、癒された時間でした❣️|以前株分けしてもらった、エンゼルプランも、元気に…
+    - link "Tripadvisor でもっと見る":
+      - /url: https://www.tripadvisor.jp/ShowUserReviews-g1121057-d1508904-r1039158943?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=JP&supul=ja
+      - generic: Tripadvisor でもっと見る
+    - button "その他のクチコミ (28)":
+      - generic: その他のクチコミ (28)
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
