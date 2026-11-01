@@ -1,0 +1,57 @@
+{
+  "company": "ペンションブーメラン",
+  "industry": "ペンション・コテージ",
+  "region": "鳥取県伯耆町",
+  "email": "info@p-boomerang.com",
+  "email_source": "http://www.p-boomerang.com/ の公式表示フレーム http://www.chukai.ne.jp/~boomerang/ に明記",
+  "website_url": "http://www.p-boomerang.com/",
+  "discovery_source": "https://www.houki-town.jp/hp/boomeran/",
+  "checked_at": "2026-11-01T20:52:37.856Z",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 33,
+    "url": "https://www.google.com/maps/search/ペンション ブーメラン 鳥取",
+    "identity": "公式URL・小林123-55・0859683770一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "http://www.p-boomerang.com/",
+    "http://www.chukai.ne.jp/~boomerang/boomerang/boomerang.html",
+    "http://www.chukai.ne.jp/~boomerang/toiawase/toiawase.html"
+  ],
+  "review_checks": [
+    "390pxで問い合わせ本文と入力欄の右側が画面外に隠れる。1280pxでは全体表示。",
+    "公式フレーム内の問い合わせリンクで到達可能。直接の表示先も確認。",
+    "本館・コテージ・食事・住所・公開電話メール確認。",
+    "主要写真・ナビ表示確認。",
+    "急ぎは電話という案内を維持。別モバイル版の誘導は確認なし。",
+    "更新日が古いことは指摘しない。ウイルスソフト停止の案内には従わず転用しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://www.chukai.ne.jp/~boomerang/toiawase/toiawase.html",
+      "viewport_width": 390,
+      "observation": "お問い合わせページを幅390pxで表示すると、本文とメッセージ・メールアドレスの入力欄が右側で切れて表示される状態",
+      "proposal": "問い合わせの説明文と入力欄をスマートフォンの画面幅に収め、項目を縦に並べて確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/p-boomerang/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere email/社名/domain/表示先パス0、台帳・失敗一覧・既存レビュー一致なし。公式一般メールを確認。営業拒否なし。町掲載でメール・施設名、食べログで住所電話公式URL一致。",
+  "comparisons": [
+    {
+      "url": "https://tanadahouse.com/contact",
+      "note": "スマホ幅に収まる案内・入力欄の情報整理のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://dandan.sanin.jp/contact/",
+      "note": "予約と一般問い合わせの分類のみ参考。固有素材や条件コピーなし。"
+    }
+  ]
+}

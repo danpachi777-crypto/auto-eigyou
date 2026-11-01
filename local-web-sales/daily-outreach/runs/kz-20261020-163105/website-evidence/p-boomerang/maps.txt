@@ -1,0 +1,263 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ペンション ブーメラン
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのホテル":
+      - generic: 
+      - generic: 近くのホテル
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "2 か所 伯耆町":
+      - generic "2 か所": "2"
+      - generic: 伯耆町
+    - button "2 か所 日野市 & 立川市":
+      - generic "2 か所": "2"
+      - generic: 日野市 & 立川市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "ペンション ブーメラン":
+    - 'button "写真: ペンション ブーメラン" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ペンション ブーメラン" [level=1]: ペンション ブーメラン
+    - text: "4.5"
+    - img "4.5 つ星"
+    - img "33 件のクチコミ": (33)
+    - text: ·
+    - generic: 2 つ星ホテル
+    - tablist:
+      - tab "ペンション ブーメラン の概要" [selected]:
+        - generic: 概要
+      - tab "ペンション ブーメラン の料金":
+        - generic: 価格
+      - tab "ペンション ブーメラン のクチコミ":
+        - generic: クチコミ
+      - tab "「ペンション ブーメラン」について":
+        - generic: 基本情報
+    - region "ペンション ブーメラン の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "朝食のみ":
+        - generic: 朝食のみ
+      - button "朝・夕食付":
+        - generic: 朝・夕食付
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - paragraph:
+      - generic: 料金と空き室状況については宿泊施設にお問い合わせください
+    - link "http://www.p-boomerang.com/ にアクセス":
+      - /url: http://www.p-boomerang.com/
+      - generic: サイトを見る
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - 'link "ペンションアップリケ·￥12,000·4.3 つ星·クチコミ 9 件·無料: Wi-Fi·0.1 km 圏内"':
+        - generic: ￥12,000
+        - generic: ペンションアップリケ
+        - img "4.3 つ星 クチコミ 9 件":
+          - text: "4.3"
+          - text: (9)
+        - generic: "無料: Wi-Fi"
+        - generic: 0.1 km 圏内
+      - 'link "大山バックパッカーズ·￥13,400·4.6 つ星·クチコミ 37 件·無料: 朝食、Wi-Fi、駐車場·0.1 km 圏内"':
+        - generic: ￥13,400
+        - generic: 大山バックパッカーズ
+        - img "4.6 つ星 クチコミ 37 件":
+          - text: "4.6"
+          - text: (37)
+        - generic: "無料: 朝食、Wi-Fi、駐車場"
+        - generic: 0.1 km 圏内
+      - 'link "Mercure Tottori Daisen Resort & Spa·￥24,407·3.7 つ星·クチコミ 2,160 件·無料: Wi-Fi、駐車場·1.3 km 圏内"':
+        - generic: ￥24,407
+        - generic: Mercure Tottori Daisen Resort & Spa
+        - img "3.7 つ星 クチコミ 2,160 件":
+          - text: "3.7"
+          - text: (2,160)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 1.3 km 圏内
+      - 'link "FBI DAISEN·￥2,750·4.0 つ星·クチコミ 232 件·無料: Wi-Fi·0.9 km 圏内"':
+        - generic: ￥2,750
+        - generic: FBI DAISEN
+        - img "4.0 つ星 クチコミ 232 件":
+          - text: "4.0"
+          - text: (232)
+        - generic: "無料: Wi-Fi"
+        - generic: 0.9 km 圏内
+      - link "雄峰ペンション·￥17,146·4.6 つ星·クチコミ 28 件·0.3 km 圏内":
+        - generic: ￥17,146
+        - generic: 雄峰ペンション
+        - img "4.6 つ星 クチコミ 28 件":
+          - text: "4.6"
+          - text: (28)
+        - generic: 0.3 km 圏内
+      - 'link "ペンション赤いりぼん·￥12,868·4.6 つ星·クチコミ 26 件·無料: Wi-Fi、駐車場·5 km 圏内"':
+        - generic: ￥12,868
+        - generic: ペンション赤いりぼん
+        - img "4.6 つ星 クチコミ 26 件":
+          - text: "4.6"
+          - text: (26)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 5 km 圏内
+      - 'link "ペンションわくわく村·￥16,561·4.7 つ星·クチコミ 19 件·無料: 駐車場·5.1 km 圏内"':
+        - generic: ￥16,561
+        - generic: ペンションわくわく村
+        - img "4.7 つ星 クチコミ 19 件":
+          - text: "4.7"
+          - text: (19)
+        - generic: "無料: 駐車場"
+        - generic: 5.1 km 圏内
+      - 'link "ペンション クッキーサーカス·4.6 つ星·クチコミ 37 件·無料: 駐車場·1.3 km 圏内"':
+        - generic: ペンション クッキーサーカス
+        - img "4.6 つ星 クチコミ 37 件":
+          - text: "4.6"
+          - text: (37)
+        - generic: "無料: 駐車場"
+        - generic: 1.3 km 圏内
+      - 'link "アリスの丘·4.4 つ星·クチコミ 12 件·無料: Wi-Fi·0.2 km 圏内"':
+        - generic: アリスの丘
+        - img "4.4 つ星 クチコミ 12 件":
+          - text: "4.4"
+          - text: (12)
+        - generic: "無料: Wi-Fi"
+        - generic: 0.2 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - region "ペンション ブーメラン の情報":
+      - 'button "住所: 〒689-4101 鳥取県西伯郡伯耆町小林１２３−５５"':
+        - generic: 
+        - generic: 〒689-4101 鳥取県西伯郡伯耆町小林１２３−５５
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: p-boomerang.com"':
+        - /url: http://www.p-boomerang.com/
+        - generic: 
+        - generic: p-boomerang.com
+      - link "ウェブサイトを開きます":
+        - /url: http://www.p-boomerang.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0859-68-3770"':
+        - generic: 
+        - generic: 0859-68-3770
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0859683770
+        - generic: 
+      - 'button "Plus Code: 9FHC+M6 伯耆町、鳥取県"':
+        - generic: 
+        - generic: 9FHC+M6 伯耆町、鳥取県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=5620968188330367572&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - generic: 
+      - generic: "チェックイン時間: 16:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    -
