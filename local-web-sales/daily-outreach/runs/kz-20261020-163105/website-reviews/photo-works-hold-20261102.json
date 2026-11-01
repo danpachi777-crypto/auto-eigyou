@@ -1,0 +1,8 @@
+{
+  "company": "スタジオフォトワークス",
+  "website_url": "https://www.photo-works.jp/",
+  "checked_at": "2026-11-01T17:37:39.053Z",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "検索で公式公開メールvivid@photo-works.jpを確認。GmailCSV0。しかしブラウザーでERR_CERT_COMMON_NAME_INVALIDとなりサイト実見不能。警告は回避せず、画像作成と送信を保留。Maps4.7/11は関連表示のみで正式確認未実施。"
+}
