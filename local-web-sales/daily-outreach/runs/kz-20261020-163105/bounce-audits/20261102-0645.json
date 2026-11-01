@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-11-01T21:42:56.292177+00:00",
+  "verified_sent_unchanged": 379,
+  "campaign_matches": 0,
+  "new_messages": [
+    {
+      "email": "info@i-karada.com",
+      "message_id": "1a1989a051d106bc",
+      "action": "failed",
+      "status": "4.3.0",
+      "already_excluded": true
+    },
+    {
+      "email": "mail@axelhair.com",
+      "message_id": "1a19898819b02cd1",
+      "action": "failed",
+      "status": "4.3.0",
+      "already_excluded": false
+    }
+  ],
+  "note": "メールボックス容量超過による最終失敗。別件LINE提案であり今回台帳に宛先なし。残り5件は先行監査済み。"
+}

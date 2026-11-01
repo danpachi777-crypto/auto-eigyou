@@ -1,0 +1,8 @@
+{
+  "company": "kikusuiryokan",
+  "website_url": "https://kikusuiryokan.jp/contact/",
+  "checked_at": "2026-11-01T21:42:56.292177+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "DNS解決失敗で表示未確認。メール配信失敗とは断定しない。"
+}
