@@ -97,8 +97,8 @@
   "prepared_count_in_recovery": 38,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "5aeb29b",
-  "resume_note": "324/450 verified sent. central-sports SENT 1a19676bbacc2ee8. Continue eligible discovery; 126 remaining including 2 held preparations.",
+  "last_pushed_commit": "92d40bc",
+  "resume_note": "324/450 verified sent. Nov1 screening round excluded 18 candidates (existing correspondence, closed/unreachable, no verified issue or low Maps review count). No sends this screening round. Continue discovery in new sources; do not repeat listed hold reviews.",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 326,
