@@ -1,0 +1,82 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - img "kaze-blue-test.gif"
+  - navigation "サイト":
+    - list:
+      - link "TOP":
+        - /url: https://www.kazenouta.com
+        - paragraph: TOP
+      - link "お部屋と館内":
+        - /url: https://www.kazenouta.com/projects-6
+        - paragraph: お部屋と館内
+      - link "お食事":
+        - /url: https://www.kazenouta.com/general-7
+        - paragraph: お食事
+      - link "宿泊プラン":
+        - /url: https://www.kazenouta.com/general-8
+        - paragraph: 宿泊プラン
+      - link "アクセス":
+        - /url: https://www.kazenouta.com/contact-10
+        - paragraph: アクセス
+      - link "お問い合わせ":
+        - /url: https://www.kazenouta.com/contact-8
+        - paragraph: お問い合わせ
+- main:
+  - img "霧と自然"
+  - heading "お問い合わせ" [level=2]:
+    - generic: お問い合わせ
+  - paragraph:
+    - generic: Contact
+  - paragraph:
+    - text: お問い合わせは、Ｅメールと電話にて承っております。
+    - text: お気軽にお問い合わせください。
+  - paragraph: Tell
+  - paragraph:
+    - generic: 0287-76-1584
+  - paragraph: Email
+  - paragraph:
+    - link "pension.kazenouta@gmail.com":
+      - /url: mailto:info@mysite.com
+  - generic: お名前 *
+  - textbox "お名前 *":
+    - /placeholder: ""
+  - generic: Email *
+  - textbox "Email *":
+    - /placeholder: ""
+  - generic: 電話番号
+  - textbox "電話番号"
+  - generic: お問い合わせ内容
+  - textbox "お問い合わせ内容":
+    - /placeholder: ""
+  - button "送 信":
+    - generic: 送 信
+  - paragraph:
+    - generic: プライバシーポリシー
+  - paragraph: お客様個人に関する情報（以下「個人情報」といいます。）を適切に保護することを社会的責務と考え、下記の方針に基づき、その保護を徹底してまいります。
+  - paragraph
+  - paragraph: １．お客様の個人情報を取得させていただく場合は、利用目的をできる限り特定するとともに、適法かつ公正な手段で必要な範囲の個人情報を取得させていただきます。
+  - paragraph
+  - paragraph:
+    - text: ２．お客様からお預かりした個人情報の利用目的は以下のとおりです。
+    - text: ・お見積りや予約、または商品やサービス内容の確認、受け渡し
+    - text: ・お問い合わせの返事、ご連絡等
+  - paragraph
+  - paragraph: ３．お客様より取得させていただいた個人情報は適切に管理し、法律に基づき必要と判断される場合を除き、お客様の同意を得た第三者以外への提供、開示等一切いたしません。
+  - paragraph
+  - paragraph: ４．お客様よりお預かりした個人情報の安全管理は合理的、組織的、物理的、技術的施策を講じるとともに、関連法令に準じた適切な取り扱いを行うことで個人情報への不正な侵入、紛失、改ざん、漏えい等の危険防止に努めます。
+  - paragraph
+  - paragraph: ５．個人情報について、開示・訂正・利用停止・削除などの要求がある場合には、本人からの要求であることが確認できた場合に限り、法令に従って対応します。
+- contentinfo:
+  - img "kaze-blue-test.gif"
+  - paragraph:
+    - text: 〒325-0303
+    - text: 栃木県那須郡那須町高久乙802
+    - text: TEL 0287-76-1584/080-5047-3786
+    - text: Mail:pension.kazenouta@gmail.com
+  - paragraph:
+    - generic: チェックイン ／ 15:00
+  - paragraph:
+    - generic: チェックアウト／10:00
+  - paragraph: © 2023 by pension kaze no uta.
+- region "bottom of page"

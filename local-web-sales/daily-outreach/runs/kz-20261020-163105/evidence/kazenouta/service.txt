@@ -1,0 +1,119 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - img "kaze-blue-test.gif"
+  - navigation "サイト":
+    - list:
+      - link "TOP":
+        - /url: https://www.kazenouta.com
+        - paragraph: TOP
+      - link "お部屋と館内":
+        - /url: https://www.kazenouta.com/projects-6
+        - paragraph: お部屋と館内
+      - link "お食事":
+        - /url: https://www.kazenouta.com/general-7
+        - paragraph: お食事
+      - link "宿泊プラン":
+        - /url: https://www.kazenouta.com/general-8
+        - paragraph: 宿泊プラン
+      - link "アクセス":
+        - /url: https://www.kazenouta.com/contact-10
+        - paragraph: アクセス
+      - link "お問い合わせ":
+        - /url: https://www.kazenouta.com/contact-8
+        - paragraph: お問い合わせ
+- main:
+  - img "_F5A9695.JPG"
+  - heading "お部屋と館内" [level=2]:
+    - generic: お部屋と館内
+  - paragraph:
+    - generic: Room & Inside the building.
+  - paragraph:
+    - generic: 風の詩のお部屋は、洋室、和室の２タイプあります。ご利用人数に合わせてお選びください。
+  - paragraph:
+    - text: 全館無料Ｗｉ－Ｆｉ、共用冷蔵庫もご利用になれます。
+    - text: 洗面用具、歯ブラシ、タオル、バスタオル、パジャマはご持参ください。
+  - heading "洋 室" [level=2]:
+    - generic: 洋 室
+  - paragraph:
+    - generic: Western-style room
+  - heading "和 室" [level=2]:
+    - generic: 和 室
+  - paragraph:
+    - generic: Japanese-style room
+  - list:
+    - heading "８室 (ツイン３室 トリプル４室 ４ベッド１室)" [level=2]:
+      - generic: ８室
+      - generic: (ツイン３室 トリプル４室 ４ベッド１室)
+    - paragraph:
+      - generic: シンプルで清潔感のあるお部屋。窓からは自然が楽しめます。
+    - paragraph:
+      - generic: 洗面所、トイレ、ＴＶ、冷暖房、無料Ｗｉ－Ｆｉ完備
+    - region "Slide show gallery":
+      - button "ツイン":
+        - img "ツイン"
+        - generic: ツイン
+        - paragraph
+      - generic: 1/3
+    - heading "１室" [level=2]:
+      - generic: １室
+    - paragraph:
+      - generic: ２名～４名様まで。清潔感のある落ち着いた和室８畳。
+    - paragraph:
+      - generic: 洗面所、トイレ、ＴＶ、冷暖房、無料Ｗｉ－Ｆｉ完備
+    - region "Slide show gallery":
+      - button "和室":
+        - img "和室"
+        - generic: 和室
+        - paragraph
+      - generic: 1/1
+  - heading "お風呂" [level=2]:
+    - generic: お風呂
+  - paragraph: bath
+  - img "女風呂"
+  - img "男風呂"
+  - paragraph:
+    - text: 女湯と男湯に分かれています。
+    - text: シャンプーとリンス、ボディソープをご用意しています。
+  - paragraph:
+    - generic: タオル類はご持参ください。
+  - paragraph:
+    - generic: 入浴時間 午後４時～午後１１時／午前６時～午前９時
+  - heading "ダイニングルーム" [level=2]:
+    - generic: ダイニングルーム
+  - paragraph: dining room
+  - img "ダイニングルーム"
+  - img "04.jpg"
+  - img "ダイニング画像 のコピー.jpg"
+  - img "バーカウンター.JPG"
+  - paragraph:
+    - text: お食事は夕朝ともに広々とした明るいダイニングでお召し上がりいただけます。
+    - text: ダイニングにはバーコーナーがあり、お食事の後はワインやウイスキー、焼酎、
+  - paragraph:
+    - text: ビールなどのアルコールも楽しめます。
+    - text: 見ているだけでも心が癒される本格的な薪ストーブの前で、一杯を味わう方も多いです。
+  - heading "プレイコーナー" [level=2]:
+    - generic: プレイコーナー
+  - paragraph: play corner
+  - img "05.jpg"
+  - img "07.jpg"
+  - img "09.jpg"
+  - img "08.jpg"
+  - paragraph:
+    - generic: 解放感のある吹き抜けとなっていて、大きな窓から外の景色と空を眺めながら
+  - paragraph:
+    - text: 過ごすことができます。
+    - text: ピアノ、漫画、将棋、オセロなどのゲーム類もご用意しています。
+- contentinfo:
+  - img "kaze-blue-test.gif"
+  - paragraph:
+    - text: 〒325-0303
+    - text: 栃木県那須郡那須町高久乙802
+    - text: TEL 0287-76-1584/080-5047-3786
+    - text: Mail:pension.kazenouta@gmail.com
+  - paragraph:
+    - generic: チェックイン ／ 15:00
+  - paragraph:
+    - generic: チェックアウト／10:00
+  - paragraph: © 2023 by pension kaze no uta.
+- region "bottom of page"

@@ -1,0 +1,127 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - img "kaze-blue-test.gif"
+  - navigation "サイト":
+    - list:
+      - link "TOP":
+        - /url: https://www.kazenouta.com
+        - paragraph: TOP
+      - link "お部屋と館内":
+        - /url: https://www.kazenouta.com/projects-6
+        - paragraph: お部屋と館内
+      - link "お食事":
+        - /url: https://www.kazenouta.com/general-7
+        - paragraph: お食事
+      - link "宿泊プラン":
+        - /url: https://www.kazenouta.com/general-8
+        - paragraph: 宿泊プラン
+      - link "アクセス":
+        - /url: https://www.kazenouta.com/contact-10
+        - paragraph: アクセス
+      - link "お問い合わせ":
+        - /url: https://www.kazenouta.com/contact-8
+        - paragraph: お問い合わせ
+- main:
+  - img "ＴＯＰイラスト.jpg"
+  - paragraph:
+    - generic: 風の詩へようこそ
+  - heading "庭には小川が流れて" [level=1]:
+    - generic: 庭には小川が流れて
+  - heading "木々を渡る風がやさしく詩をうたい" [level=1]:
+    - generic: 木々を渡る風がやさしく詩をうたい
+  - heading "クヌギやナラなど緑いっぱいの森の中で" [level=1]:
+    - generic: クヌギやナラなど緑いっぱいの森の中で
+  - heading "那須高原の風をたっぷりと感じてください" [level=1]:
+    - generic: 那須高原の風をたっぷりと感じてください
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/projects-6
+    - generic: m o r e
+  - heading "ごあいさつ" [level=2]:
+    - generic: ごあいさつ
+  - paragraph:
+    - generic: greeting
+  - paragraph: 「ペンション風の詩」は夫婦２人で営業している小さな
+  - paragraph: ペンションです。
+  - paragraph: みなさまに居心地良く過ごしてもらえるような、
+  - paragraph:
+    - text: おもてなしを心掛けております。
+    - text: 清潔なベッドと温かいお食事をご用意して
+  - paragraph: お待ちしておりますので、観光、登山、スキーなどの
+  - paragraph: 拠点としてご利用ください。
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/projects-6
+    - generic: m o r e
+  - img "名称未設定-1_アートボード 1.png"
+  - img "名称未設定-1_アートボード 1.png"
+  - region:
+    - img "DSC01636.JPG"
+    - img "DSC01636.JPG"
+    - button "Next Item":
+  - heading "お部屋と館内" [level=2]:
+    - generic: お部屋と館内
+  - paragraph:
+    - generic: Room & Inside the building
+  - paragraph:
+    - generic: こだわりの家具に囲まれた
+  - paragraph:
+    - generic: 落ち着いた空間の中で
+  - paragraph:
+    - generic: ゆっくりとお過ごしください
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/projects-6
+    - generic: m o r e
+  - img "top03.png"
+  - region "Gallery"
+  - img "top01.png"
+  - heading "お食事" [level=2]:
+    - generic: お食事
+  - paragraph:
+    - generic: meal
+  - paragraph: 地元野菜をふんだんに使用した
+  - paragraph: こだわりの一品を
+  - paragraph: ご堪能ください
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/general-7
+    - generic: m o r e
+  - region "Contact"
+  - heading "宿泊プラン" [level=2]:
+    - generic: 宿泊プラン
+  - paragraph:
+    - generic: staying plan
+  - paragraph: ひとりひとりの
+  - paragraph: 旅のスタイルに合わせた
+  - paragraph: お部屋でおもてなし致します
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/general-8
+    - generic: m o r e
+  - img "top04.png"
+  - img "外観１.jpg"
+  - img "外観１.jpg"
+  - heading "アクセス・観光" [level=2]:
+    - generic: アクセス・観光
+  - paragraph:
+    - generic: Access & sightseeing
+  - paragraph:
+    - text: 四季折々の
+    - generic: 那須の
+  - paragraph:
+    - generic: 魅力ある観光情報を
+  - paragraph:
+    - generic: お届けします
+  - link "m o r e":
+    - /url: https://www.kazenouta.com/contact-10
+    - generic: m o r e
+- contentinfo:
+  - img "kaze-blue-test.gif"
+  - paragraph:
+    - text: 〒325-0303
+    - text: 栃木県那須郡那須町高久乙802
+    - text: TEL 0287-76-1584/080-5047-3786
+    - text: Mail:pension.kazenouta@gmail.com
+  - paragraph:
+    - generic: チェックイン ／ 15:00
+  - paragraph:
+    - generic: チェックアウト／10:00
+  - paragraph: © 2023 by pension kaze no uta.
+- region "bottom of page"

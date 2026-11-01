@@ -1,0 +1,300 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: ペンション風の詩
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "ペンション風の詩":
+    - 'button "写真: ペンション風の詩" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ペンション風の詩" [level=1]: ペンション風の詩
+    - text: "4.4"
+    - img "4.4 つ星"
+    - img "14 件のクチコミ": (14)
+    - text: ·
+    - generic: 3 つ星ホテル
+    - tablist:
+      - tab "ペンション風の詩 の概要" [selected]:
+        - generic: 概要
+      - tab "ペンション風の詩 の料金":
+        - generic: 価格
+      - tab "ペンション風の詩 のクチコミ":
+        - generic: クチコミ
+    - region "ペンション風の詩 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - link "空室状況の確認":
+      - /url: "#"
+      - generic: 
+      - text: 空室状況の確認
+    - heading "価格を比較" [level=2]
+    - group "チェックイン / チェックアウト":
+      - generic: チェックイン / チェックアウト
+      - group "11月8日(日曜日)～ 11月9日(月曜日)":
+        - generic: 11月8日(日)
+        - button "チェックインを 1 日前に設定":
+          - generic: 
+        - button "チェックインを 1 日後に設定":
+          - generic: 
+        - generic: 11月9日(月)
+        - button "チェックアウトを 1 日前に設定" [disabled]:
+          - generic: 
+        - button "チェックアウトを 1 日後に設定":
+          - generic: 
+    - group "ゲスト":
+      - generic: 
+      - button "利用者 2 人":
+        - text: "2"
+        - generic: 
+    - region "この検索で利用可能なフィルタ":
+      - button "素泊まり":
+        - generic: 素泊まり
+      - button "朝食のみ":
+        - generic: 朝食のみ
+      - button "朝・夕食付":
+        - generic: 朝・夕食付
+      - button "禁煙":
+        - generic: 禁煙
+      - button "キャンセル無料":
+        - generic: キャンセル無料
+      - button "食事":
+        - generic: 食事
+        - generic: 
+      - button "部屋タイプ":
+        - generic: 部屋タイプ
+        - generic: 
+      - button "客室の特徴":
+        - generic: 客室の特徴
+        - generic: 
+      - button "チェックイン / チェックアウト":
+        - generic: チェックイン / チェックアウト
+        - generic: 
+      - button "次のページ":
+        - generic: 
+    - paragraph:
+      - generic: 料金と空き室状況については宿泊施設にお問い合わせください
+    - link "http://www.kazenouta.com/ にアクセス":
+      - /url: http://www.kazenouta.com/
+      - generic: サイトを見る
+    - heading "近くの類似のホテル" [level=2]
+    - region "近くの類似のホテル":
+      - 'link "ペンション映山湖（えいざんこ）·￥16,020·4.9 つ星·クチコミ 16 件·無料: 駐車場·0.4 km 圏内"':
+        - generic: ￥16,020
+        - generic: ペンション映山湖（えいざんこ）
+        - img "4.9 つ星 クチコミ 16 件":
+          - text: "4.9"
+          - text: (16)
+        - generic: "無料: 駐車場"
+        - generic: 0.4 km 圏内
+      - 'link "ゲストイン悠香里(ユーカリ）·￥11,664·4.4 つ星·クチコミ 41 件·無料: Wi-Fi、駐車場·0.2 km 圏内"':
+        - generic: ￥11,664
+        - generic: ゲストイン悠香里(ユーカリ）
+        - img "4.4 つ星 クチコミ 41 件":
+          - text: "4.4"
+          - text: (41)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 0.2 km 圏内
+      - 'link "ペンション イグアナの森·￥21,600·4.5 つ星·クチコミ 62 件·無料: Wi-Fi·0.1 km 圏内"':
+        - generic: ￥21,600
+        - generic: ペンション イグアナの森
+        - img "4.5 つ星 クチコミ 62 件":
+          - text: "4.5"
+          - text: (62)
+        - generic: "無料: Wi-Fi"
+        - generic: 0.1 km 圏内
+      - 'link "那須貸別荘villalaha-yu·￥43,555·4.5 つ星·クチコミ 32 件·無料: Wi-Fi、駐車場·0.4 km 圏内"':
+        - generic: ￥43,555
+        - generic: 那須貸別荘villalaha-yu
+        - img "4.5 つ星 クチコミ 32 件":
+          - text: "4.5"
+          - text: (32)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 0.4 km 圏内
+      - 'link "オーベルジュ ザ・ヴィンテージビュー·￥20,927·3.6 つ星·クチコミ 82 件·無料: Wi-Fi·0.5 km 圏内"':
+        - generic: ￥20,927
+        - generic: オーベルジュ ザ・ヴィンテージビュー
+        - img "3.6 つ星 クチコミ 82 件":
+          - text: "3.6"
+          - text: (82)
+        - generic: "無料: Wi-Fi"
+        - generic: 0.5 km 圏内
+      - 'link "ハロハロ・ｉｎｎ那須·￥15,682·4.7 つ星·クチコミ 83 件·無料: Wi-Fi、駐車場·0.8 km 圏内"':
+        - generic: ￥15,682
+        - generic: ハロハロ・ｉｎｎ那須
+        - img "4.7 つ星 クチコミ 83 件":
+          - text: "4.7"
+          - text: (83)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 0.8 km 圏内
+      - 'link "コテージ ウッドノート 湯本本館·￥10,000·4.5 つ星·クチコミ 110 件·無料: 駐車場·0.5 km 圏内"':
+        - generic: ￥10,000
+        - generic: コテージ ウッドノート 湯本本館
+        - img "4.5 つ星 クチコミ 110 件":
+          - text: "4.5"
+          - text: (110)
+        - generic: "無料: 駐車場"
+        - generic: 0.5 km 圏内
+      - 'link "ペンション散歩道·￥20,862·4.7 つ星·クチコミ 140 件·無料: Wi-Fi、駐車場·1.4 km 圏内"':
+        - generic: ￥20,862
+        - generic: ペンション散歩道
+        - img "4.7 つ星 クチコミ 140 件":
+          - text: "4.7"
+          - text: (140)
+        - generic: "無料: Wi-Fi、駐車場"
+        - generic: 1.4 km 圏内
+      - link "アニマーレ アネックス·￥16,002·3.7 つ星·クチコミ 120 件·0.9 km 圏内":
+        - generic: ￥16,002
+        - generic: アニマーレ アネックス
+        - img "3.7 つ星 クチコミ 120 件":
+          - text: "3.7"
+          - text: (120)
+        - generic: 0.9 km 圏内
+    - button "近隣のホテルをもっと見る":
+      - generic: 近隣のホテルをもっと見る
+    - region "ペンション風の詩 の情報":
+      - 'button "住所: 〒325-0303 栃木県那須郡那須町高久丙８０２"':
+        - generic: 
+        - generic: 〒325-0303 栃木県那須郡那須町高久丙８０２
+      - button "住所をコピーします":
+        - generic: 
+      - 'link "ウェブサイト: kazenouta.com"':
+        - /url: http://www.kazenouta.com/
+        - generic: 
+        - generic: kazenouta.com
+      - link "ウェブサイトを開きます":
+        - /url: http://www.kazenouta.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0287-76-1584"':
+        - generic: 
+        - generic: 0287-76-1584
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0287761584
+        - generic: 
+      - 'button "Plus Code: 3X8W+H7 那須町、栃木県"':
+        - generic: 
+        - generic: 3X8W+H7 那須町、栃木県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=12978685997218543660&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - generic: 
+      - generic: "チェックイン時間: 15:00"
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "立地情報" [level=2]
+    - generic: "4.1"
+    - generic: 非常に観光客向き
+    - button "立地のスコアに関する詳細情報":
+      - generic: 
+    - generic: 観光、レクリエーション、移動手段に基づき算出
+    - tablist "付近の場所":
+      - tab "アクティビティ":
+        - generic: 
+        - generic: アクティビティ
+      - tab "公共交通機関":
+        - generic: 
+        - generic: 公共交通機関
+      - tab "空港":
+        - generic: 
+        - generic: 空港
+    - heading "写真と動画" [level=2]
+    - region "「ペンション風の詩」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "客室"
+      - generic: 客室
+      - button "動画"
+      - generic: 動画
+      - button "外観"
+      - generic: 外観
+      - button "設備"
+      - generic: 設備
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "ゲスト提供"
+      - generic: ゲスト提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "Google でのクチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 9 件": "5"
+        - img "4 つ星、クチコミ 2 件": "4"
+        - img "3 つ星、クチコミ 3 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.4"
+    - img "4.4 つ星"
+    - button "14 件のクチコミ":
+      - generic: 14 件のクチコミ
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "すべてのクチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - generic: Tripadvisor
+    - generic: 4.3/5
+    - generic: ·
+    - generic: 4 件のクチコミ
+    - generic: ruruRUE、5 年前
+    - generic: 那須岳登山目的で、1人で気軽に泊まれる所を探していたら、1人旅プランがあったので利用しました。部屋はシングルベッド1つの1人用の部屋で、気軽に利用するにはちょうどいいな、と思いました。朝食のパンが美味しかったです。アメニティや寝間着はありませんので、自分で準備が必要です。那須サファリパークの近…
+    - link "Tripadvisor でもっと見る":
+      - /url: https://www.tripadvisor.jp/ShowUserReviews-g1121057-d1140626-r800980175?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=JP&supul=ja
+      - generic: Tripadvisor でもっと見る
+    - button "その他のクチコミ (11)":
+      - generic: その他のクチコミ (11)
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
