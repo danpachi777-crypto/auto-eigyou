@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 352,
+  "verified_sent_last_known": 353,
   "target": 450,
-  "remaining_unsent_target": 98,
+  "remaining_unsent_target": 97,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -74,7 +74,8 @@
     "pro-takagi",
     "cosmo-y",
     "kotoei",
-    "yamataro21"
+    "yamataro21",
+    "tanpopo-inn"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -142,7 +143,8 @@
     "pro-takagi",
     "cosmo-y",
     "kotoei",
-    "yamataro21"
+    "yamataro21",
+    "tanpopo-inn"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -231,8 +233,9 @@
     "cosmo-y",
     "kikumoto-ryokan",
     "kotoei",
-    "yamataro21"
+    "yamataro21",
+    "tanpopo-inn"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 64
+  "prepared_count": 65
 }

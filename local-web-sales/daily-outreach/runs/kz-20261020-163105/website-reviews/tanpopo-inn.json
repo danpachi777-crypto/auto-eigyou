@@ -1,0 +1,83 @@
+{
+  "company": "タンポポイン",
+  "industry": "ペンション宿泊",
+  "region": "山形県米沢市",
+  "email": "owa@tanpopo-inn.jp",
+  "email_source": "https://tanpopo-inn.jp/otoiawase",
+  "website_url": "https://tanpopo-inn.jp/",
+  "discovery_source": "https://www.yonezawa-ski.co.jp/kirakira.html",
+  "checked_at": "2026-11-01T16:36:26.103000+00:00",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 19,
+    "url": "https://www.google.com/maps/search/?api=1&query=タンポポイン+米沢",
+    "identity": "住所24156-82・電話0238282631・公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://tanpopo-inn.jp/",
+    "service": "https://tanpopo-inn.jp/ryouri-heya",
+    "contact": "https://tanpopo-inn.jp/otoiawase"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxではscrollWidth1000、問い合わせ本文と入力欄右側が画面外。1280pxでは表示。主要3ページ6枚目視済み。"
+    },
+    {
+      "item": 2,
+      "result": "トップの問い合わせリンクとフッター一般公開メールを確認。@画像を目視済み。"
+    },
+    {
+      "item": 3,
+      "result": "ペット同宿、客室・料理、住所電話を確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要ページ表示済み。別スマホ版リンク未検出。"
+    },
+    {
+      "item": 5,
+      "result": "電話・一般メール・既存フォームを維持。フォーム必須電話を維持。送信等の操作なし。"
+    },
+    {
+      "item": 6,
+      "result": "2026年ブログと料金改定案内あり。料金は提案に載せない。営業拒否は閲覧範囲に未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://tanpopo-inn.jp/otoiawase",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、お問い合わせページの案内文や入力欄が画面の右側にはみ出し、そのままでは全体を確認できない状態でした。",
+      "proposal": "問い合わせの案内文・連絡先・入力欄を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず確認できるようにする",
+      "evidence_path": "evidence/tanpopo-inn/contact-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "owa@tanpopo-inn.jp",
+      "tanpopo-inn.jp",
+      "タンポポイン"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.yamataro21.com/",
+      "note": "宿泊案内と問い合わせ導線の分類を参考。文言写真料金は転載しない。"
+    },
+    {
+      "url": "https://pension-noel.com/contact/",
+      "note": "電話と問い合わせの位置づけを参照。文言等は転載しない。"
+    }
+  ]
+}
