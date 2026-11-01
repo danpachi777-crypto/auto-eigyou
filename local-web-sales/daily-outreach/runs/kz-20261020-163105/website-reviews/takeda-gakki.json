@@ -1,0 +1,9 @@
+{
+  "company": "竹田楽器",
+  "website_url": "https://takeda-gakki.jp/",
+  "checked_at": "2026-11-01T19:16:10.183Z",
+  "priority": "hold",
+  "findings": [],
+  "reason": "390px問い合わせ上部・入力欄は画面内に収まり、公開メールp-technical@takeda-gakki.jpあり。具体的改善点未確認。Maps・全6画面レビュー未完了。",
+  "evidence_path": "website-evidence/takeda-gakki/contact-390.png"
+}

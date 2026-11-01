@@ -1,0 +1,320 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: フォトスタジオ きら美
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "フォトスタジオ きら美":
+    - 'button "写真: フォトスタジオ きら美" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "フォトスタジオ きら美" [level=1]: フォトスタジオ きら美
+    - text: "3.7"
+    - img "3.7 つ星"
+    - img "14 件のクチコミ": (14)
+    - button "写真館"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "フォトスタジオ きら美 の概要" [selected]:
+        - generic: 概要
+      - tab "フォトスタジオ きら美 のクチコミ":
+        - generic: クチコミ
+      - tab "「フォトスタジオ きら美」について":
+        - generic: 基本情報
+    - region "フォトスタジオ きら美 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "フォトスタジオ きら美 の情報":
+      - 'button "住所: 〒850-0832 長崎県長崎市油屋町１−１４"':
+        - generic: 
+        - generic: 〒850-0832 長崎県長崎市油屋町１−１４
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:30 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:30"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: kirabi.info"':
+        - /url: https://kirabi.info/
+        - generic: 
+        - generic: kirabi.info
+      - link "ウェブサイトを開きます":
+        - /url: https://kirabi.info/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 095-832-7555"':
+        - generic: 
+        - generic: 095-832-7555
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0958327555
+        - generic: 
+      - 'button "Plus Code: PVVJ+3C 長崎市、長崎県"':
+        - generic: 
+        - generic: PVVJ+3C 長崎市、長崎県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: LGBTQ フレンドリー
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「フォトスタジオ きら美」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "外観"
+      - generic: 外観
+      - button "式典"
+      - generic: 式典
+      - button "愛"
+      - generic: 愛
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 8 件": "5"
+        - img "4 つ星、クチコミ 2 件": "4"
+        - img "3 つ星、クチコミ 0 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 4 件": "1"
+    - generic: "3.7"
+    - img "3.7 つ星"
+    - button "14 件のクチコミ":
+      - generic: 14 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"写真の仕上がりにも満足です。\""':
+      - /url: https://www.google.com/maps/contrib/102234522868156220753?hl=ja-JP
+    - button "\"写真の仕上がりにも満足です。\"":
+      - generic: "\"写真の仕上がりにも満足です。\""
+    - 'link "次のクチコミ投稿者の写真: \"写真撮影も手抜き、プロにもかかわらず腕はないです。\""':
+      - /url: https://www.google.com/maps/contrib/102828292632113173889?hl=ja-JP
+    - button "\"写真撮影も手抜き、プロにもかかわらず腕はないです。\"":
+      - generic: "\"写真撮影も手抜き、プロにもかかわらず腕はないです。\""
+    - 'link "次のクチコミ投稿者の写真: \"七五三の衣装のレンタルで利用させていただきました。\""':
+      - /url: https://www.google.com/maps/contrib/107764174686902228876?hl=ja-JP
+    - button "\"七五三の衣装のレンタルで利用させていただきました。\"":
+      - generic: "\"七五三の衣装のレンタルで利用させていただきました。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "着付け: 2 件のクチコミで言及。"':
+        - generic: 着付け
+        - generic: "2"
+      - 'radio "七五三: 2 件のクチコミで言及。"':
+        - generic: 七五三
+        - generic: "2"
+    - generic "太真ママ":
+      - button "太真ママ の写真"
+      - button "太真ママ ローカルガイド · 6 件のクチコミ":
+        - generic: 太真ママ
+        - generic: ローカルガイド · 6 件のクチコミ
+      - button "太真ママ さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 3 年前
+      - text: 七五三の衣装のレンタルで利用させていただきました。 写真を撮らなくても衣装だけレンタルさせてもらえました😄 種類もたくさんあってどれも素敵なものばかりでした。 …
+      - button "もっと見る"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "太真ママ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "アップルアップル":
+      - button "アップルアップル の写真"
+      - button "アップルアップル 1 件のクチコミ":
+        - generic: アップルアップル
+        - generic: 1 件のクチコミ
+      - button "アップルアップル さんのクチコミへのアクション":
+        - generic: 
+      - img "1 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 年前
+      - text: こちらで、以前成人式の前撮りと成人式当日でお世話になりましたが、成人式当日の着付け、髪、化粧はとても納得がいきますが、 写真館にもかかわらず。前撮り災厄です。 せっかくの記念に高いお金を払ってまでこちらで前撮りは後悔しかありません。 …
+      - button "もっと見る"
+      - button "いいね 4 件":
+        - generic: 
+        - generic: "4"
+      - button "アップルアップル さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "MO MO":
+      - button "MO MO の写真"
+      - button "MO MO ローカルガイド · 87 件のクチコミ · 98 枚の写真":
+        - generic: MO MO
+        - generic: ローカルガイド · 87 件のクチコミ · 98 枚の写真
+      - button "MO MO さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: "最終編集: 2 年前"
+      - generic: 子供の七五三の撮影でお世話になりました。アットホームな雰囲気で、とても丁寧に対応して頂きました。写真の仕上がりにも満足です。また何か記念の機会があったらお願いします。
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "MO MO さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (11)":
+      - generic: その他のクチコミ (11)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "（有）月光スタジオ·4.5 つ星·クチコミ 44 件·写真館":
+      - generic: （有）月光スタジオ
+      - img "4.5 つ星 クチコミ 44 件":
+        - text: "4.5"
+        - text: (44)
+      - generic: 写真館
+    - link "コーロフィルム長崎店·4.4 つ星·クチコミ 7 件·写真館":
+      - generic: コーロフィルム長崎店
+      - img "4.4 つ星 クチコミ 7 件":
+        - text: "4.4"
+        - text: (7)
+      - generic: 写真館
+    - link "写真のIKEDA 中央橋店·3.6 つ星·クチコミ 27 件·写真館":
+      - generic: 写真のIKEDA 中央橋店
+      - img "3.6 つ星 クチコミ 27 件":
+        - text: "3.6"
+        - text: (27)
+      - generic: 写真館
+    - link "UKAWA PHOTO·4.7 つ星·クチコミ 7 件·写真館":
+      - generic: UKAWA PHOTO
+      - img "4.7 つ星 クチコミ 7 件":
+        - text: "4.7"
+        - text: (7)
+      - generic: 写真館
+    - link "さくらスタジオ·4.5 つ星·クチコミ 23 件·写真館":
+      - generic: さくらスタジオ
+      - img "4.5 つ星 クチコミ 23 件":
+        - text: "4.5"
+        - text: (23)
+      - generic: 写真館
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
