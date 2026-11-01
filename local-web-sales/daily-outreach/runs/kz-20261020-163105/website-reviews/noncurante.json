@@ -1,0 +1,76 @@
+{
+  "company": "ノンクランテ",
+  "industry": "自家焙煎珈琲・カフェ",
+  "region": "静岡県浜松市",
+  "email": "noncurante@nifty.com",
+  "email_source": "https://noncurante.la.coocan.jp/contactus.html",
+  "website_url": "https://noncurante.la.coocan.jp/",
+  "discovery_source": "https://www.at-s.com/gourmet/article/127182",
+  "checked_at": "2026-11-01T09:18:02.191681+00:00",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 101,
+    "url": "https://www.google.com/maps/search/ノンクランテ+浜松"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://noncurante.la.coocan.jp/",
+    "service": "https://noncurante.la.coocan.jp/02_cafe.html",
+    "contact": "https://noncurante.la.coocan.jp/contactus.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxに対し横幅760px。トップとカフェ紹介文は右側画面外。6画像保存。"
+    },
+    {
+      "item": 2,
+      "result": "サイトマップから一般問合せメール・電話FAX確認。"
+    },
+    {
+      "item": 3,
+      "result": "住所電話を公式、地図、静岡新聞掲載と照合。"
+    },
+    {
+      "item": 4,
+      "result": "3ページ表示。画像の部分表示は通信等もあり指摘しない。"
+    },
+    {
+      "item": 5,
+      "result": "電話・FAX・メールの問い合わせ方法を維持。"
+    },
+    {
+      "item": 6,
+      "result": "公式ブログ2026年11月1日更新で営業確認。営業時間はデモ省略。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://noncurante.la.coocan.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、トップ画面やカフェ紹介の文章が右側の画面外に隠れ、読むために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは写真と紹介文、ご案内を縦に並べ、文章を画面幅に合わせて折り返す配置に整える",
+      "evidence_path": "evidence/noncurante/top-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "comparisons": [
+    {
+      "url": "https://www.tonya.co.jp/shop/",
+      "note": "商品分類と注文案内の一般構成を参考。文章写真転用なし。"
+    },
+    {
+      "url": "https://coffeemeikan.jp/shop/hachioji/",
+      "note": "豆販売店の店舗案内構成を参考。"
+    }
+  ]
+}

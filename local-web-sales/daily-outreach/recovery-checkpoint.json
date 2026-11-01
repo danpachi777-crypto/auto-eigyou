@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 322,
+  "verified_sent_last_known": 323,
   "target": 450,
-  "remaining_unsent_target": 128,
+  "remaining_unsent_target": 127,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -46,7 +46,8 @@
     "sansui-nara",
     "vivimodel",
     "tomsouya",
-    "itamicoffee"
+    "itamicoffee",
+    "noncurante"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -86,24 +87,25 @@
     "sansui-nara",
     "vivimodel",
     "tomsouya",
-    "itamicoffee"
+    "itamicoffee",
+    "noncurante"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 36,
+  "prepared_count_in_recovery": 37,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "ec8804c",
-  "resume_note": "322/450 sent; itamicoffee verified SENT. 128 remaining including 2 held preparations. Next candidate studio-toumu needs Maps and full review; Gmail company/domain/both emails query zero.",
+  "last_pushed_commit": "ce80f25",
+  "resume_note": "323/450 sent; noncurante verified SENT. 127 remaining including 2 held preparations. Continue varied industry/region discovery. Recent mailer notification is other Plusgen campaign kunisakibussan temporary delay; no new campaign bounce.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 324,
-    "remaining_preparations": 126,
+    "completed_prepared_or_sent": 325,
+    "remaining_preparations": 125,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
-    "next_candidate": "studio-toumu",
-    "next_step": "Verify Maps for スタジオ陶夢; then official pages mobile and desktop. Gmail duplicate query zero.",
+    "next_candidate": null,
+    "next_step": "Find next eligible business; avoid repeats.",
     "candidate_official_url": "https://studio-toumu.life.coocan.jp/",
     "candidate_email": "toumu.studio@gmail.com",
     "candidate_maps_rating": null,
@@ -145,7 +147,8 @@
     "sansui-nara",
     "vivimodel",
     "tomsouya",
-    "itamicoffee"
+    "itamicoffee",
+    "noncurante"
   ],
   "remaining_prepared_unsent": 2
 }
