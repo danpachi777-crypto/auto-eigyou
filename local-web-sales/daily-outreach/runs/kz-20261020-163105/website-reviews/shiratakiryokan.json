@@ -1,0 +1,13 @@
+{
+  "slug": "shiratakiryokan",
+  "company": "白滝旅館",
+  "website_url": "https://shiratakiryokan.com/contact/",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxでトップ・問い合わせ本文とフォームが画面内に収まる。info@shiratakiryokan.com公開。改善未確認。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

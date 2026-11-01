@@ -1,0 +1,13 @@
+{
+  "slug": "okadaenoguten",
+  "company": "岡田絵具店",
+  "website_url": "https://okadaenoguten.o.oo7.jp/lostmail.html",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "営業メール拒否を複数箇所で明示。送信対象から除外。Gmail・CSV0。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "hiraigakaiso",
+  "company": "ひらいが海荘",
+  "website_url": "https://hiraigakaiso.com/index.html",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxでトップ本文とメニュー収まる。スマートフォン版リンクあり、表示改善未確認。メールhiraiga@viola.ocn.ne.jp公開。2025年11月のメール一時休止案内は過去。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

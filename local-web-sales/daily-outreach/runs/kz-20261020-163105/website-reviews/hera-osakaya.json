@@ -1,0 +1,13 @@
+{
+  "slug": "hera-osakaya",
+  "company": "へらぶな釣具専門店 大阪屋",
+  "website_url": "https://www.hera-osakaya.net/hp/sopping_guide.html",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxで案内・電話・メールとナビが画面内に収まる。幅390確認。改善未確認。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

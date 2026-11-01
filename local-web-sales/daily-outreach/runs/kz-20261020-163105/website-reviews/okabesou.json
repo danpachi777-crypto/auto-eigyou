@@ -1,0 +1,13 @@
+{
+  "slug": "okabesou",
+  "company": "岡部荘",
+  "website_url": "https://www.okabesou.jp/",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxでトップ本文とナビが画面内に収まる。info@okabesou.jp公式公開、Gmail0。改善未確認。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "fujiwaryokan",
+  "company": "藤和旅館",
+  "website_url": "https://www.fujiwaryokan.com/contact2/",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxで横はみ出しはあるが、公式home/contact/contact2で公開メール確認できず。info@fujiwaryokan.comは独立スポーツ団体掲載のみ。Gmail・CSV0。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}

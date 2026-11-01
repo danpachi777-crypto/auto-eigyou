@@ -1,0 +1,13 @@
+{
+  "slug": "kujiramoti",
+  "company": "佐藤菓子店",
+  "website_url": "https://kujiramoti.com/",
+  "checked_at": "2026-11-01T13:10:07.598Z",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxで本文とナビが画面内に折り返す。2026年価格改定案内あり。改善未確認。",
+  "findings": [],
+  "viewports_checked": [
+    390
+  ]
+}
