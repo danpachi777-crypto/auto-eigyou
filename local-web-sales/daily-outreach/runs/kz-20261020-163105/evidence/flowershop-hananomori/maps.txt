@@ -1,0 +1,306 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: フラワーショップ花の森
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "フラワーショップ花の森":
+      - generic: フラワーショップ花の森
+    - button "3 か所 信濃町":
+      - generic "3 か所": "3"
+      - generic: 信濃町
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "フラワーショップ花の森":
+    - 'button "写真: フラワーショップ花の森" [active]':
+    - heading "フラワーショップ花の森" [level=1]: フラワーショップ花の森
+    - text: "4.1"
+    - img "4.1 つ星"
+    - img "10 件のクチコミ": (10)
+    - button "花屋"
+    - tablist:
+      - tab "フラワーショップ花の森 の概要" [selected]:
+        - generic: 概要
+      - tab "フラワーショップ花の森 のクチコミ":
+        - generic: クチコミ
+      - tab "「フラワーショップ花の森」について":
+        - generic: 基本情報
+    - region "フラワーショップ花の森 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "フラワーショップ花の森 について":
+      - button "宅配可":
+        - group "宅配可":
+          - text: ·
+          - generic: 
+          - generic: 宅配
+        - generic: 
+    - region "フラワーショップ花の森 の情報":
+      - 'button "住所: 〒754-0073 山口県山口市小郡本町１０−３０３−９"':
+        - generic: 
+        - generic: 〒754-0073 山口県山口市小郡本町１０−３０３−９
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 9:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 9:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: flowershop-hananomori.com"':
+        - /url: http://flowershop-hananomori.com/
+        - generic: 
+        - generic: flowershop-hananomori.com
+      - link "ウェブサイトを開きます":
+        - /url: http://flowershop-hananomori.com/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 083-972-8287"':
+        - generic: 
+        - generic: 083-972-8287
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0839728287
+        - generic: 
+      - 'button "Plus Code: 4C32+FH 山口市、山口県"':
+        - generic: 
+        - generic: 4C32+FH 山口市、山口県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=10268203178225896997&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「フラワーショップ花の森」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 5 件": "5"
+        - img "4 つ星、クチコミ 3 件": "4"
+        - img "3 つ星、クチコミ 1 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 1 件": "1"
+    - generic: "4.1"
+    - img "4.1 つ星"
+    - button "10 件のクチコミ":
+      - generic: 10 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"惣菜の数はあまり多くないけど、オイシイ\""':
+      - /url: https://www.google.com/maps/contrib/114862869486747153278?hl=ja-JP
+    - button "\"惣菜の数はあまり多くないけど、オイシイ\"":
+      - generic: "\"惣菜の数はあまり多くないけど、オイシイ\""
+    - 'link "次のクチコミ投稿者の写真: \"電話でお聞きしたいことあったのでかけたら、対応が悪い。\""':
+      - /url: https://www.google.com/maps/contrib/113994147880670394088?hl=ja-JP
+    - button "\"電話でお聞きしたいことあったのでかけたら、対応が悪い。\"":
+      - generic: "\"電話でお聞きしたいことあったのでかけたら、対応が悪い。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - generic "マツモトマユゲ":
+      - button "マツモトマユゲ の写真"
+      - button "マツモトマユゲ 6 件のクチコミ":
+        - generic: マツモトマユゲ
+        - generic: 6 件のクチコミ
+      - button "マツモトマユゲ さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 4 年前
+      - generic: 無理なお願いを聞いてくれて、対応も良くかった
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "マツモトマユゲ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "yoshiko n.":
+      - button "yoshiko n. の写真"
+      - button "yoshiko n. ローカルガイド · 62 件のクチコミ · 163 枚の写真":
+        - generic: yoshiko n.
+        - generic: ローカルガイド · 62 件のクチコミ · 163 枚の写真
+      - button "yoshiko n. さんのクチコミへのアクション":
+        - generic: 
+      - img "1 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 年前
+      - generic: 電話でお聞きしたいことあったのでかけたら、対応が悪い。不快しかなかった。
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "yoshiko n. さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "野村恵":
+      - button "野村恵 の写真"
+      - button "野村恵 ローカルガイド · 28 件のクチコミ · 2 枚の写真":
+        - generic: 野村恵
+        - generic: ローカルガイド · 28 件のクチコミ · 2 枚の写真
+      - button "野村恵 さんのクチコミへのアクション":
+        - generic: 
+      - img "3 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 6 年前
+      - generic: 惣菜の数はあまり多くないけど、オイシイ
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "野村恵 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (7)":
+      - generic: その他のクチコミ (7)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "花のなかむら·4.1 つ星·クチコミ 21 件·花屋":
+      - generic: 花のなかむら
+      - img "4.1 つ星 クチコミ 21 件":
+        - text: "4.1"
+        - text: (21)
+      - generic: 花屋
+    - link "フラワーショップビアンコ小郡店·3.3 つ星·クチコミ 3 件·花屋":
+      - generic: フラワーショップビアンコ小郡店
+      - img "3.3 つ星 クチコミ 3 件":
+        - text: "3.3"
+        - text: (3)
+      - generic: 花屋
+    - link "フラワーショップ 花いちもんめ（hana ichimonme）·4.9 つ星·クチコミ 13 件·花屋":
+      - generic: フラワーショップ 花いちもんめ（hana ichimonme）
+      - img "4.9 つ星 クチコミ 13 件":
+        - text: "4.9"
+        - text: (13)
+      - generic: 花屋
+    - link "フラワーガーデン日の出·4.5 つ星·クチコミ 19 件·花屋":
+      - generic: フラワーガーデン日の出
+      - img "4.5 つ星 クチコミ 19 件":
+        - text: "4.5"
+        - text: (19)
+      - generic: 花屋
+    - link "Flower shop felice フラワーショップ フェリーチェ·4.9 つ星·クチコミ 7 件·花屋":
+      - generic: Flower shop felice フラワーショップ フェリーチェ
+      - img "4.9 つ星 クチコミ 7 件":
+        - text: "4.9"
+        - text: (7)
+      - generic: 花屋
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

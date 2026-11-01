@@ -1,0 +1,112 @@
+- link "コンテンツへスキップ":
+  - /url: "#content"
+- link "":
+  - /url: "#"
+  - generic: 
+- searchbox "ここに入力"
+- button "":
+  - generic: 
+- banner:
+  - link:
+    - /url: https://flowershop-hananomori.com/
+  - link "フラワーショップ 花の森":
+    - /url: https://flowershop-hananomori.com/
+    - img "フラワーショップ 花の森"
+  - list:
+    - link:
+      - /url: "#search"
+    - link " お問い合わせ TEL/FAX:083-972-8287 hananomori@blue.ocn.ne.jp":
+      - /url: mailto:hananomori@blue.ocn.ne.jp
+      - generic: 
+      - text: お問い合わせ
+      - generic: TEL/FAX:083-972-8287
+      - generic: hananomori@blue.ocn.ne.jp
+  - navigation:
+    - list:
+      - link "ホーム":
+        - /url: https://flowershop-hananomori.com
+      - link "各種お祝い・贈答用":
+        - /url: https://flowershop-hananomori.com/itemtype/%e5%90%84%e7%a8%ae%e3%81%8a%e7%a5%9d%e3%81%84%e3%83%bb%e8%b4%88%e7%ad%94%e7%94%a8/
+      - link "アニマルアレンジ":
+        - /url: https://flowershop-hananomori.com/itemtype/%e3%82%a2%e3%83%8b%e3%83%9e%e3%83%ab%e3%82%a2%e3%83%ac%e3%83%b3%e3%82%b8/
+      - link "胡蝶蘭":
+        - /url: https://flowershop-hananomori.com/itemtype/%e8%83%a1%e8%9d%b6%e8%98%ad/
+      - link "お悔やみ、お供え":
+        - /url: https://flowershop-hananomori.com/itemtype/%e3%81%8a%e6%82%94%e3%82%84%e3%81%bf%e3%80%81%e3%81%8a%e4%be%9b%e3%81%88/
+      - link "店舗案内":
+        - /url: https://flowershop-hananomori.com/about/
+      - link "お買い物ガイド":
+        - /url: https://flowershop-hananomori.com/guide/
+  - heading "店舗案内" [level=1]
+  - list:
+    - link "ホーム":
+      - /url: https://flowershop-hananomori.com
+    - listitem: 店舗案内
+  - heading "店舗案内" [level=4]
+  - table:
+    - rowgroup:
+      - row "名称 フラワーショップ 花の森":
+        - rowheader "名称"
+        - cell "フラワーショップ 花の森"
+      - row "代表者 西田 信夫":
+        - rowheader "代表者"
+        - cell "西田 信夫"
+      - row "所在地 山口県山口市小郡本町２丁目10番16号":
+        - rowheader "所在地"
+        - cell "山口県山口市小郡本町２丁目10番16号"
+      - row "電話・FAX番号 083-972-8287":
+        - rowheader "電話・FAX番号"
+        - cell "083-972-8287"
+      - row "E-mail hananomori@blue.ocn.ne.jp":
+        - rowheader "E-mail"
+        - cell "hananomori@blue.ocn.ne.jp"
+      - row "営業時間 AM9:00～PM6:30（平日） 但し、土曜・祝日はPM5:00まで":
+        - rowheader "営業時間"
+        - cell "AM9:00～PM6:30（平日） 但し、土曜・祝日はPM5:00まで":
+          - text: AM9:00～PM6:30（平日）
+          - text: 但し、土曜・祝日はPM5:00まで
+      - row "定休日 日曜":
+        - rowheader "定休日"
+        - cell "日曜"
+      - row "取扱商品 切花、鉢物、生花スタンド":
+        - rowheader "取扱商品"
+        - cell "切花、鉢物、生花スタンド"
+      - row "ご注文の方法 メール、電話、FAXにて受付":
+        - rowheader "ご注文の方法"
+        - cell "メール、電話、FAXにて受付"
+      - row "商品代金以外の必要料金 送料、箱代、振込み手数料などはお客様ご負担とさせていただきます。":
+        - rowheader "商品代金以外の必要料金"
+        - cell "送料、箱代、振込み手数料などはお客様ご負担とさせていただきます。"
+      - row "代金の支払い方法 銀行振込、郵便振替、店頭での直接支払い":
+        - rowheader "代金の支払い方法"
+        - cell "銀行振込、郵便振替、店頭での直接支払い"
+      - row "返品について 不良品の取り扱い：生花の場合返品は原則的にお受けできませんが、商品到着時にご不明な点がございましたら、直ちにご連絡下さい。 代品との交換等対応させていただきます。":
+        - rowheader "返品について"
+        - cell "不良品の取り扱い：生花の場合返品は原則的にお受けできませんが、商品到着時にご不明な点がございましたら、直ちにご連絡下さい。 代品との交換等対応させていただきます。":
+          - text: 不良品の取り扱い：生花の場合返品は原則的にお受けできませんが、商品到着時にご不明な点がございましたら、直ちにご連絡下さい。
+          - text: 代品との交換等対応させていただきます。
+      - row "商品受け渡し方法 店頭渡し、配達、運送会社による配送":
+        - rowheader "商品受け渡し方法"
+        - cell "店頭渡し、配達、運送会社による配送"
+      - row "お支払い期限 商品到着後10日以内":
+        - rowheader "お支払い期限"
+        - cell "商品到着後10日以内"
+  - paragraph
+  - heading "交通アクセス" [level=4]
+  - paragraph:
+    - iframe
+  - contentinfo:
+    - complementary:
+      - paragraph: フラワーショップ 花の森
+      - paragraph:
+        - text: 〒754-0073
+        - text: 山口県山口市小郡本町２丁目10番16号
+        - text: 電話番号 / FAX
+        - text: 083-972-8287
+        - text: メールアドレス
+        - text: hananomori@blue.ocn.ne.jp
+  - paragraph: Copyright © フラワーショップ花の森 All rights reserved.
+  - link "":
+    - /url: "#"
+    - generic: 
+  - list

@@ -1,0 +1,84 @@
+{
+  "company": "フラワーショップ 花の森",
+  "industry": "生花販売",
+  "region": "山口県山口市",
+  "email": "hananomori@blue.ocn.ne.jp",
+  "email_source": "https://flowershop-hananomori.com/about/",
+  "website_url": "https://flowershop-hananomori.com/",
+  "discovery_source": "https://www.city.yamaguchi.lg.jp/uploaded/attachment/118868.pdf",
+  "checked_at": "2026-11-01T18:33:53.743Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 10,
+    "url": "https://www.google.com/maps/search/?api=1&query=フラワーショップ花の森+山口市",
+    "identity": "名称・公式ドメイン・0839728287一致。Maps住所表記は小郡本町10-303-9と不整合。公式と市の住所新旧対照表で小郡本町2丁目10番16号を確認し案は公式を採用。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://flowershop-hananomori.com/",
+    "service": "https://flowershop-hananomori.com/itemtype/各種お祝い・贈答用/",
+    "contact": "https://flowershop-hananomori.com/about/",
+    "guide": "https://flowershop-hananomori.com/guide/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px店舗案内の表E-mail行でhananomori@blue.ocn...以降が画面外。1280px全体表示。ホームと商品一覧はレスポンシブで本文は収まる。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "ページ末尾メールは390pxでも全文が読めることを別スクリーンショットで確認。問い合わせ不能とは主張しない。PCヘッダmailto一致。"
+    },
+    {
+      "item": 3,
+      "result": "取扱商品・配送区域・店舗所在地・営業時間を確認。料金や配達条件は案に追加しない。"
+    },
+    {
+      "item": 4,
+      "result": "写真と主要リンクは表示。スマホ版あり、店舗案内表の一部分のみ改善対象。"
+    },
+    {
+      "item": 5,
+      "result": "電話・FAX・メールで受注、当日注文は電話指定。案にも保持。架空フォームなし。"
+    },
+    {
+      "item": 6,
+      "result": "ニュースの2023年表示を問題にしない。営業拒否は確認範囲で未検出。Maps住所差異はレビューに記録し一致と偽らない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://flowershop-hananomori.com/about/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「店舗案内」を拝見すると、案内表のE-mail欄にあるメールアドレスの右側が画面外に出ており、その欄では全文を確認できない状態でした。ページ末尾の連絡先では全文を確認できました。",
+      "proposal": "店舗案内の表をスマートフォンでは項目名と内容を縦に並べる形にし、案内表の中でもメールアドレスを全文確認できるようにする",
+      "evidence_path": "evidence/flowershop-hananomori/about-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "flowershop-hananomori.com",
+      "hananomori@blue.ocn.ne.jp",
+      "フラワーショップ 花の森"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.flowershop-stem.com/",
+      "note": "用途別カテゴリと連絡先案内の整理のみ参照。転載なし。"
+    },
+    {
+      "url": "https://aurora-flower.com/",
+      "note": "商品分類と店舗・問い合わせ情報の区分のみ参照。転載なし。"
+    }
+  ]
+}
