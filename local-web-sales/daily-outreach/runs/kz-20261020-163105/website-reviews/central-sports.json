@@ -1,0 +1,81 @@
+{
+  "company": "野球人セントラルスポーツ",
+  "industry": "野球用品・グラブ型付け修理",
+  "region": "大阪府堺市",
+  "email": "shopmaster@central-sports.jp",
+  "email_source": "https://www.central-sports.jp/hpgen/HPB/shop/business.html",
+  "website_url": "https://www.central-sports.jp/",
+  "discovery_source": "https://hatakeyama-jp.com/kinki.html",
+  "checked_at": "2026-11-01T09:35:00.172Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 17,
+    "url": "https://www.google.com/maps/search/?api=1&query=野球人セントラルスポーツ堺市"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.central-sports.jp/",
+    "service": "https://www.central-sports.jp/SHOP/59851/221738/list.html",
+    "contact": "https://www.central-sports.jp/_ga/FORM/contact.cgi"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップ幅1195px、修理一覧945px。商品説明が右側画面外。1280pxでは本文表示。6スクリーンショット保存。"
+    },
+    {
+      "item": 2,
+      "result": "公式特商法の一般連絡先shopmaster確認。infoは注文シート用として区別。"
+    },
+    {
+      "item": 3,
+      "result": "Maps4.4/17、住所電話一致。メーカー取扱店一覧にも電話・公式ドメイン掲載（住所は移転前）。"
+    },
+    {
+      "item": 4,
+      "result": "問い合わせリンクはNot Found。今回は表示幅の問題のみ提案。"
+    },
+    {
+      "item": 5,
+      "result": "電話FAXメールを維持。新規予約等の約束を追加しない。"
+    },
+    {
+      "item": 6,
+      "result": "2026年商品案内と10月24日入荷更新。地図リンク別サイトslugger55.jpも同一店で390px時1300px幅。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.central-sports.jp/",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、トップ画面や修理一覧の商品説明が右側の画面外に隠れ、読むために横方向の移動が必要でした。",
+      "proposal": "スマートフォンでは商品写真と説明、相談方法を縦に並べ、文章が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/central-sports/top-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "aliases_checked": [
+      "slugger55.jp",
+      "central-sports.jp"
+    ],
+    "csv_matches": 0
+  },
+  "comparisons": [
+    {
+      "url": "https://sportsact.co.jp/",
+      "note": "商品・メンテナンス・問い合わせの区分を参考。転用なし。"
+    },
+    {
+      "url": "https://www.zentan.co.jp/",
+      "note": "390pxで紹介文を折り返すスポーツ店の構成を確認。転用なし。"
+    }
+  ]
+}
