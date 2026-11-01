@@ -1,0 +1,86 @@
+{
+  "company": "蔵王猿倉レストハウス",
+  "industry": "レストハウス・屋外レジャー",
+  "region": "山形県上山市",
+  "email": "saru@zao-sarukura.co.jp",
+  "email_source": "https://www.zao-sarukura.co.jp/",
+  "website_url": "https://www.zao-sarukura.co.jp/",
+  "discovery_source": "https://www.tohokukanko.jp/sozaishu/detail_1003434.html",
+  "checked_at": "2026-11-01T11:39:22.251Z",
+  "maps": {
+    "rating": 4,
+    "review_count": 186,
+    "url": "https://www.google.com/maps/search/?api=1&query=蔵王猿倉レストハウス",
+    "identity": "山形県上山市蔵王字蔵王山2843-1、023-679-2211、公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.zao-sarukura.co.jp/",
+    "service": "https://www.zao-sarukura.co.jp/sumrest/index.html",
+    "contact": "https://www.zao-sarukura.co.jp/sumaccsess/index.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで全体幅930px。メインお知らせ本文がx362以降にあり右側が画面外。1280pxでは全体を読める。3ページ6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "全ページで一般メールと電話を公開。サイトについてでも一致。"
+    },
+    {
+      "item": 3,
+      "result": "食事・つり堀・所在地・営業日を確認。夏期一般営業は11月8日終了、感謝祭11月14/15日。"
+    },
+    {
+      "item": 4,
+      "result": "画像は表示。ライブ動画再生不可は改善指摘にしない。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話メール方式を保持。フォーム追加なし。"
+    },
+    {
+      "item": 6,
+      "result": "現行2026年更新を確認。メニュー内料金差異は今回指摘せず画像には価格掲載なし。画像無断使用禁止を尊重し提案画像はすべて新規生成。営業拒否は確認範囲になし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.zao-sarukura.co.jp/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、トップページが横幅930pxの配置で表示され、営業日などのお知らせ本文の大部分が画面の右側に隠れていました。",
+      "proposal": "狭い画面幅ではお知らせを縦に並べ、営業日や休業案内の文章が画面内で読める配置に整える",
+      "evidence_path": "evidence/zao-sarukura/home-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "zao-sarukura.co.jp",
+      "蔵王猿倉",
+      "日東商事"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.jingiss68.com/menu.html",
+      "note": "料理案内と問い合わせの区分を参照。転用なし。"
+    },
+    {
+      "url": "https://www.meitoya.com/restaurant/",
+      "note": "食事と予約案内の構成を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.tohokukanko.jp/sozaishu/detail_1003434.html"
+  ]
+}

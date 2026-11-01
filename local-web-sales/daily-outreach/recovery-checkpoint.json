@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 333,
+  "verified_sent_last_known": 334,
   "target": 450,
-  "remaining_unsent_target": 117,
+  "remaining_unsent_target": 116,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -57,7 +57,8 @@
     "m-yamato",
     "miyake-model",
     "vehicle-cyc",
-    "jingiss68"
+    "jingiss68",
+    "zao-sarukura"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -108,7 +109,8 @@
     "m-yamato",
     "miyake-model",
     "vehicle-cyc",
-    "jingiss68"
+    "jingiss68",
+    "zao-sarukura"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -178,7 +180,9 @@
     "m-yamato",
     "miyake-model",
     "vehicle-cyc",
-    "jingiss68"
+    "jingiss68",
+    "zao-sarukura"
   ],
-  "remaining_prepared_unsent": 2
+  "remaining_prepared_unsent": 2,
+  "prepared_count": 48
 }

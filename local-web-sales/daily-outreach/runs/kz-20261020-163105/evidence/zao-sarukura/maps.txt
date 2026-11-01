@@ -1,0 +1,418 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 蔵王猿倉(ザオウサルクラ)レストハウス
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "近くのレストラン":
+      - generic: 
+      - generic: 近くのレストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "バー":
+      - generic: 
+      - generic: バー
+    - button "コーヒー":
+      - generic: 
+      - generic: コーヒー
+    - button "テイクアウト":
+      - generic: 
+      - generic: テイクアウト
+    - button "食料品":
+      - generic: 
+      - generic: 食料品
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "蔵王猿倉(ザオウサルクラ)レストハウス":
+    - 'button "写真: 蔵王猿倉(ザオウサルクラ)レストハウス" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "蔵王猿倉(ザオウサルクラ)レストハウス" [level=1]: 蔵王猿倉(ザオウサルクラ)レストハウス
+    - text: "4.0"
+    - img "4.0 つ星"
+    - img "186 件のクチコミ": (186)
+    - text: ·
+    - img "￥1,000 から ￥2,000": ￥1,000～2,000
+    - button "マトン焼き肉店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "蔵王猿倉(ザオウサルクラ)レストハウス の概要" [selected]:
+        - generic: 概要
+      - tab "メニュー":
+        - generic: メニュー
+      - tab "蔵王猿倉(ザオウサルクラ)レストハウス のクチコミ":
+        - generic: クチコミ
+      - tab "「蔵王猿倉(ザオウサルクラ)レストハウス」について":
+        - generic: 基本情報
+    - region "蔵王猿倉(ザオウサルクラ)レストハウス の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "蔵王猿倉(ザオウサルクラ)レストハウス について":
+      - button "イートイン利用可 宅配非対応":
+        - group "イートイン利用可":
+          - text: ·
+          - generic: 
+          - generic: イートイン
+        - group "宅配非対応":
+          - text: ·
+          - generic: 
+          - generic: 宅配
+        - generic: 
+    - region "蔵王猿倉(ザオウサルクラ)レストハウス の情報":
+      - 'button "住所: 〒999-3113 山形県上山市蔵王２８４３−１"':
+        - generic: 
+        - generic: 〒999-3113 山形県上山市蔵王２８４３−１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 8:30（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 8:30（月）"
+        - img "1 週間の営業時間を表示": 
+      - button "価格帯、1 人あたり ￥1,000～2,000、21 人が報告":
+        - text: 1 人あたり ￥1,000～2,000
+        - generic: 21 人のユーザーが報告
+      - 'link "ウェブサイト: zao-sarukura.co.jp"':
+        - /url: http://www.zao-sarukura.co.jp/
+        - generic: 
+        - generic: zao-sarukura.co.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.zao-sarukura.co.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 023-679-2211"':
+        - generic: 
+        - generic: 023-679-2211
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0236792211
+        - generic: 
+      - 'button "Plus Code: 49HF+7W 上山市、山形県"':
+        - generic: 
+        - generic: 49HF+7W 上山市、山形県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=3792360343451162821&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - region "蔵王猿倉(ザオウサルクラ)レストハウス の混雑する時間帯":
+      - heading "混雑する時間帯" [level=2]
+      - button "日曜日":
+        - generic: 日曜日
+        - generic: 
+      - button "混雑する時間帯についての情報":
+        - generic: 
+      - button "前の日付に戻る":
+        - generic: 
+      - img "6時の混雑度は 0% です。":
+        - generic: 6時
+      - img "7時の混雑度は 0% です。"
+      - img "8時の混雑度は 20% です。"
+      - img "9時の混雑度は 41% です。":
+        - generic: 9時
+      - img "10時の混雑度は 65% です。"
+      - img "11時の混雑度は 93% です。"
+      - img "12時の混雑度は 100% です。":
+        - generic: 12時
+      - img "13時の混雑度は 89% です。"
+      - img "14時の混雑度は 68% です。"
+      - img "15時の混雑度は 48% です。":
+        - generic: 15時
+      - img "16時の混雑度は 28% です。"
+      - img "17時の混雑度は 0% です。"
+      - img "18時の混雑度は 0% です。":
+        - generic: 18時
+      - img "19時の混雑度は 0% です。"
+      - img "20時の混雑度は 0% です。"
+      - img "21時の混雑度は 0% です。":
+        - generic: 21時
+      - img "22時の混雑度は 0% です。"
+      - img "23時の混雑度は 0% です。"
+      - button "次の日付に進む":
+        - generic: 
+    - heading "メニューとハイライト" [level=2]:
+      - generic: メニューとハイライト
+    - button "メニュー·12 枚中 1 枚目の写真"
+    - generic: 
+    - text: メニュー
+    - button "生 ラム の ジンギスカン 定食·12 枚中 2 枚目の写真":
+      - generic: 人気
+    - generic: 生 ラム の ジンギスカン 定食
+    - button "ジンギスカン丼·12 枚中 3 枚目の写真":
+      - generic: 人気
+    - generic: ジンギスカン丼
+    - button "詳細":
+      - generic: 詳細
+    - heading "写真と動画" [level=2]
+    - region "「蔵王猿倉(ザオウサルクラ)レストハウス」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "最新·今日"
+      - generic: 最新
+      - generic: 今日
+      - button "動画"
+      - generic: 動画
+      - button "メニュー"
+      - generic: メニュー
+      - button "料理、飲み物"
+      - generic: 料理、飲み物
+      - button "雰囲気"
+      - generic: 雰囲気
+      - button "ラーメン"
+      - generic: ラーメン
+      - button "刺身"
+      - generic: 刺身
+      - button "牛肉"
+      - generic: 牛肉
+      - button "アイスクリーム"
+      - generic: アイスクリーム
+      - button "蕎麦"
+      - generic: 蕎麦
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 58 件": "5"
+        - img "4 つ星、クチコミ 82 件": "4"
+        - img "3 つ星、クチコミ 40 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 5 件": "1"
+    - generic: "4.0"
+    - img "4.0 つ星"
+    - button "186 件のクチコミ":
+      - generic: 186 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"付け合わせの味噌汁も山菜汁で、ジンギスカンのタレも良かった。\""':
+      - /url: https://www.google.com/maps/contrib/118410340105547788877?hl=ja-JP
+    - button "\"付け合わせの味噌汁も山菜汁で、ジンギスカンのタレも良かった。\"":
+      - generic: "\"付け合わせの味噌汁も山菜汁で、ジンギスカンのタレも良かった。\""
+    - 'link "次のクチコミ投稿者の写真: \"ジンギスカンをと思ったが、カレーとミニジンギスカンのセットがあり、そちらを注文。\""':
+      - /url: https://www.google.com/maps/contrib/111194747978742299319?hl=ja-JP
+    - button "\"ジンギスカンをと思ったが、カレーとミニジンギスカンのセットがあり、そちらを注文。\"":
+      - generic: "\"ジンギスカンをと思ったが、カレーとミニジンギスカンのセットがあり、そちらを注文。\""
+    - 'link "次のクチコミ投稿者の写真: \"その後席が埋まってきて、レジにも列ができたのでタイミングは良かったです。\""':
+      - /url: https://www.google.com/maps/contrib/106236543339048864875?hl=ja-JP
+    - button "\"その後席が埋まってきて、レジにも列ができたのでタイミングは良かったです。\"":
+      - generic: "\"その後席が埋まってきて、レジにも列ができたのでタイミングは良かったです。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "ジンギスカン: 57 件のクチコミで言及。"':
+        - generic: ジンギスカン
+        - generic: "57"
+      - 'radio "釣り堀: 18 件のクチコミで言及。"':
+        - generic: 釣り堀
+        - generic: "18"
+      - 'radio "虹鱒: 17 件のクチコミで言及。"':
+        - generic: 虹鱒
+        - generic: "17"
+      - 'radio "定食: 15 件のクチコミで言及。"':
+        - generic: 定食
+        - generic: "15"
+      - button "他 6 件のトピックを表示":
+        - generic: "+6"
+    - generic "花山大吉":
+      - button "花山大吉 の写真"
+      - button "花山大吉 ローカルガイド · 110 件のクチコミ · 198 枚の写真":
+        - generic: 花山大吉
+        - generic: ローカルガイド · 110 件のクチコミ · 198 枚の写真
+      - button "花山大吉 さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - text: 遅めのランチで利用しました。 ジンギスカン定食。 凄く美味しかった。厚めのラム肉で野菜を蒸し焼きにする食べ方が推奨されていた。 …
+      - button "もっと見る"
+      - button "花山大吉 さんのクチコミの写真 1"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "花山大吉 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "マネキCat":
+      - button "マネキCat の写真"
+      - button "マネキCat ローカルガイド · 482 件のクチコミ · 3,524 枚の写真":
+        - generic: マネキCat
+        - generic: ローカルガイド · 482 件のクチコミ · 3,524 枚の写真
+      - button "マネキCat さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: 夏の蔵王ドライブで立ち寄りましたが、想像以上に楽しめるスポットでした！ 建物の中ではジンギスカン串やおにぎりなどが売られていて、小腹を満たすのにぴったり。ジンギスカンは香ばしくてクセもなく、おにぎりと一緒に青空の下で食べると最高でした🍙 …
+      - button "もっと見る"
+      - button "マネキCat さんのクチコミの写真 1"
+      - button "マネキCat さんのクチコミの写真 2"
+      - button "マネキCat さんのクチコミの写真 3"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "マネキCat さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "Junko ITOH":
+      - button "Junko ITOH の写真"
+      - button "Junko ITOH ローカルガイド · 654 件のクチコミ · 4,019 枚の写真":
+        - generic: Junko ITOH
+        - generic: ローカルガイド · 654 件のクチコミ · 4,019 枚の写真
+      - button "Junko ITOH さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: お昼食べてから寄ったのでジンギスカン定食はまたの機会に すごい人で賑わっていました 釣り堀とレストランで２分しています …
+      - button "もっと見る"
+      - button "Junko ITOH さんのクチコミの写真 1"
+      - button "Junko ITOH さんのクチコミの写真 2"
+      - button "Junko ITOH さんのクチコミの写真 3"
+      - button "その他 6 枚の Junko ITOH さんのクチコミの写真":
+        - generic: "+6"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Junko ITOH さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (183)":
+      - generic: その他のクチコミ (183)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "ライザレストラン·3.9 つ星·クチコミ 14 件·洋食":
+      - generic: ライザレストラン
+      - img "3.9 つ星 クチコミ 14 件":
+        - text: "3.9"
+        - text: (14)
+      - generic: 洋食
+    - link "猿倉釣り堀·4.6 つ星·クチコミ 5 件·観光名所":
+      - generic: 猿倉釣り堀
+      - img "4.6 つ星 クチコミ 5 件":
+        - text: "4.6"
+        - text: (5)
+      - generic: 観光名所
+    - link "サンパル·0.0 つ星·レストラン":
+      - generic: サンパル
+      - generic: クチコミはありません
+      - generic: レストラン
+    - link "レストハウス パノラマ·4.2 つ星·クチコミ 34 件·定食屋":
+      - generic: レストハウス パノラマ
+      - img "4.2 つ星 クチコミ 34 件":
+        - text: "4.2"
+        - text: (34)
+      - generic: 定食屋
+    - link "食堂 雪ぐら·4.0 つ星·クチコミ 29 件·レストラン":
+      - generic: 食堂 雪ぐら
+      - img "4.0 つ星 クチコミ 29 件":
+        - text: "4.0"
+        - text: (29)
+      - generic: レストラン
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
