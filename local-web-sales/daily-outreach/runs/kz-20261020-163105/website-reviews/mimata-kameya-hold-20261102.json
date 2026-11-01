@@ -1,0 +1,9 @@
+{
+  "company": "かめや旅館",
+  "website_url": "https://mimata-kameya.com/",
+  "checked_at": "2026-11-01T16:02:18.377740+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "公式トップのヘッダー・フッターは電話と宿泊予約リンク。公開一般メールを確認できず送信保留。"
+}

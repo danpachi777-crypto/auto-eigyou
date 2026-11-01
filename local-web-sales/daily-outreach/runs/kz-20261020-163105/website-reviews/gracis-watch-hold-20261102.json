@@ -1,0 +1,9 @@
+{
+  "company": "GRACIS",
+  "website_url": "https://www.gracis-watch.com/contact/?item_id=22181",
+  "checked_at": "2026-11-01T16:02:18.377878+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "公式お問い合わせページに「※営業を目的としたお問い合わせはご遠慮ください」と明記。営業送信対象から除外。"
+}
