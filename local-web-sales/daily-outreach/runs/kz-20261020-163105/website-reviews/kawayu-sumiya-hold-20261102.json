@@ -1,0 +1,13 @@
+{
+  "slug": "kawayu-sumiya",
+  "company": "民宿すみ家",
+  "website_url": "https://kawayu-sumiya.com/",
+  "priority": "hold",
+  "reason": "予約案内・利用案内・問い合わせフォームを確認。メール予約への言及はあるが公開メールアドレス未確認。電話予約について案内が混在しているが詳細調査・送信は保留。",
+  "pages_checked": [
+    "https://kawayu-sumiya.com/free/reservation",
+    "https://kawayu-sumiya.com/free/notice",
+    "https://kawayu-sumiya.com/contact"
+  ],
+  "checked_at": "2026-11-01T15:43:29.135321+00:00"
+}

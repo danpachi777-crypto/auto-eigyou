@@ -1,0 +1,8 @@
+{
+  "slug": "yamabe-hotel",
+  "company": "ビジネス旅館やまべ",
+  "website_url": "https://yamabe-hotel.sakura.ne.jp/price/",
+  "priority": "hold",
+  "reason": "料金ページ390pxの表示は画面幅に収まり、区分別の案内あり。現段階で改善点未確認。公開メールも未確認。",
+  "checked_at": "2026-11-01T15:52:35.746024+00:00"
+}

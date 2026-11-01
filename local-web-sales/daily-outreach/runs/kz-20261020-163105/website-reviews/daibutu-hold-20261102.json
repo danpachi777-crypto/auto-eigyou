@@ -1,0 +1,8 @@
+{
+  "slug": "daibutu",
+  "company": "大仏館",
+  "website_url": "https://www.daibutu.com/",
+  "priority": "hold",
+  "reason": "掲載公式URLを開くと宿と無関係のBOBATOTOページ表示。営業実態と公式サイトを検証できず送信しない。外部リンクやフォーム操作なし。",
+  "checked_at": "2026-11-01T15:52:35.745796+00:00"
+}

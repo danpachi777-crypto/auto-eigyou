@@ -1,0 +1,9 @@
+{
+  "slug": "torayaryokan",
+  "company": "とらや旅館",
+  "website_url": "http://www.torayaryokan.com/",
+  "priority": "hold",
+  "reason": "専用スマートフォン版sp1/index.html、sp1/mail.htmlを確認。390pxに収まり、予約案内・連絡先あり。検証済み改善点なし。",
+  "email": "toraya@iwamicatv.jp",
+  "checked_at": "2026-11-01T15:52:35.746509+00:00"
+}

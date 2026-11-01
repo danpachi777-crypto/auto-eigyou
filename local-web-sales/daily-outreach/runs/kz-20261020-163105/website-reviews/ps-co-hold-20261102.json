@@ -1,0 +1,14 @@
+{
+  "slug": "ps-co",
+  "company": "シーサイドペンションプチ白浜",
+  "website_url": "https://ps-co.jp/",
+  "priority": "hold",
+  "reason": "PC版390pxでははみ出すが、別モバイル版https://ps-co.jp/sp/が390pxに収まる。モバイル利用者の不具合を断定できず送信保留。",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 104
+  },
+  "email": "ps@tvt-co.jp",
+  "duplicate_check": "Gmail/CSV該当なし",
+  "checked_at": "2026-11-01T15:52:35.744397+00:00"
+}

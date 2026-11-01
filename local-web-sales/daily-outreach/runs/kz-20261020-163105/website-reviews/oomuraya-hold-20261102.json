@@ -1,0 +1,13 @@
+{
+  "slug": "oomuraya",
+  "company": "温泉民宿 大村屋",
+  "website_url": "http://www.oomuraya.net/",
+  "priority": "hold",
+  "reason": "公式トップ・予約案内・問い合わせフォームを確認。一般公開メールアドレス未確認、フォームと電話のみ。メール推測やフォーム送信をしない。",
+  "pages_checked": [
+    "http://www.oomuraya.net/",
+    "http://www.oomuraya.net/yoyaku.html",
+    "https://ws.formzu.net/fgen/S75397219/"
+  ],
+  "checked_at": "2026-11-01T15:43:29.134602+00:00"
+}

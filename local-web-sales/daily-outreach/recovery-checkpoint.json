@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 349,
+  "verified_sent_last_known": 350,
   "target": 450,
-  "remaining_unsent_target": 101,
+  "remaining_unsent_target": 100,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -145,7 +145,7 @@
   "prepared_count_in_recovery": 47,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "4e176f2",
+  "last_pushed_commit": "caa8df5",
   "resume_note": "347件SENT確認済み。最新himawari-inn 1a197b04d6e44ea7。残り103件。今回6件保留。次候補goshima.co.jpはトップのみ読了、公開メールと改善点未確認。",
   "continuation": {
     "target_prepared_or_sent": 450,
@@ -224,8 +224,9 @@
     "p-stella",
     "himawari-inn",
     "pro-takagi",
-    "cosmo-y"
+    "cosmo-y",
+    "kikumoto-ryokan"
   ],
-  "remaining_prepared_unsent": 1,
+  "remaining_prepared_unsent": 0,
   "prepared_count": 62
 }
