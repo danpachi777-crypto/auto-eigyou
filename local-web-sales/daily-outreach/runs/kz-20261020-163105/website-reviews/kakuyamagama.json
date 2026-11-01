@@ -1,0 +1,9 @@
+{
+  "company": "角山製陶所",
+  "website_url": "https://kakuyamagama.com/",
+  "checked_at": "2026-11-01T12:29:11.107498+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "現行公式サイトの390px表示でナビゲーションと本文が画面内に収まる。確認した範囲で提案根拠なし。旧Jimdoではなく現行サイトを確認。",
+  "findings": []
+}
