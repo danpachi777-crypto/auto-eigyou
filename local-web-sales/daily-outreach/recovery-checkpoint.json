@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 338,
+  "verified_sent_last_known": 339,
   "target": 450,
-  "remaining_unsent_target": 112,
+  "remaining_unsent_target": 111,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -61,7 +61,8 @@
     "zao-sarukura",
     "huuhan",
     "karamatsu-shiojiri",
-    "embmop"
+    "embmop",
+    "hsmurata"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -116,7 +117,8 @@
     "zao-sarukura",
     "huuhan",
     "karamatsu-shiojiri",
-    "embmop"
+    "embmop",
+    "hsmurata"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -191,8 +193,9 @@
     "huuhan",
     "karamatsu-shiojiri",
     "embmop",
-    "ozeguchi"
+    "ozeguchi",
+    "hsmurata"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 51
+  "prepared_count": 52
 }

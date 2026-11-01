@@ -1,0 +1,87 @@
+{
+  "company": "ホビーショップ ムラタ",
+  "industry": "鉄道模型・プラモデル販売",
+  "region": "愛知県豊橋市",
+  "email": "hsmurata@hsmurata.net",
+  "email_source": "https://hsmurata.net/contact.html",
+  "website_url": "https://hsmurata.net/",
+  "discovery_source": "https://www.tomytec.co.jp/tomix/shop/index.cgi?name=all",
+  "checked_at": "2026-11-01T12:59:49.046Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 66,
+    "url": "https://www.google.com/maps/search/?api=1&query=ホビーショップムラタ+豊橋",
+    "identity": "大橋通3-152、電話0532-53-3334と公式URL一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://hsmurata.net/",
+    "service": "https://hsmurata.net/shopping.html",
+    "contact": "https://hsmurata.net/contact.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで固定幅の本文・見出しが右側に切れる。問い合わせページ幅922px。1280pxでは全体表示。3ページ6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "電話0532-53-3334と一般メールhsmurata@hsmurata.net、既存問い合わせフォームを確認。"
+    },
+    {
+      "item": 3,
+      "result": "Nゲージ・HO・プラモデル・工具塗料。豊橋市大橋通3-152、受付10〜20時、水曜定休。"
+    },
+    {
+      "item": 4,
+      "result": "画像・本文を確認。一時的な読み込みは指摘対象外。"
+    },
+    {
+      "item": 5,
+      "result": "既存フォームへの案内を維持。フォーム送信・注文は実行しない。"
+    },
+    {
+      "item": 6,
+      "result": "10/30入荷更新、2027年新商品案内。創業年数ページ間相違は提案に使用しない。営業拒否確認範囲なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://hsmurata.net/contact.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてお問い合わせページを拝見すると、案内文や入力欄の一部が画面の右側に隠れていました。",
+      "proposal": "狭い画面ではお問い合わせの案内と連絡手段を縦に並べ、文章や入力欄が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/hsmurata/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "hsmurata.net",
+      "ホビーショップムラタ",
+      "hsmurata@hsmurata.net"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.miyake-shouten.jp/",
+      "note": "入荷、店舗、問い合わせの分類を参照。転用なし。"
+    },
+    {
+      "url": "https://www.popondetta.com/",
+      "note": "販売、買取、店舗、問い合わせの分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.tomytec.co.jp/tomix/shop/index.cgi?name=all",
+    "https://www.hmrc2011.com/"
+  ]
+}
