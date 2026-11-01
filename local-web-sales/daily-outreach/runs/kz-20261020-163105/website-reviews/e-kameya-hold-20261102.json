@@ -1,0 +1,13 @@
+{
+  "company": "有限会社亀屋邦楽器",
+  "website_url": "https://e-kameya.com/",
+  "email": "info@e-kameya.com",
+  "email_source": "https://e-kameya.com/info/",
+  "status": "hold",
+  "reason": "390pxでトップ・修理・問い合わせの本文と連絡先が画面内に収まり、提案根拠となる明確な表示支障を確認できず。Maps評価・1280pxの完全調査は未実施。",
+  "gmail_matches": 0,
+  "csv_matches": 0,
+  "images_generated": 0,
+  "sent": false,
+  "checked_at": "2026-11-01T16:38:50.802012+00:00"
+}
