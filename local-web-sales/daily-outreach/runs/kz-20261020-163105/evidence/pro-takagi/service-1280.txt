@@ -1,0 +1,73 @@
+- banner:
+  - navigation
+  - link "時計技能士の店 タカギ時計店":
+    - /url: https://www.pro-takagi.jp/
+    - text: 時計技能士の店
+    - text: タカギ時計店
+  - figure:
+    - link "タカギ時計店・大垣 公式HP":
+      - /url: https://www.pro-takagi.jp/
+      - img "タカギ時計店・大垣 公式HP"
+  - navigation:
+    - list:
+      - link "HOME":
+        - /url: /
+      - link "修理＆メンテナンス":
+        - /url: /修理-メンテナンス/
+      - link "ショップ案内・CONTACT":
+        - /url: /ショップ案内-contact/
+      - link "お問い合せ":
+        - /url: /お問い合せ/
+      - link "修理見積り":
+        - /url: /修理見積り/
+      - link "修理例":
+        - /url: /修理例/
+      - link "ブログ":
+        - /url: https://ameblo.jp/pro-takagi
+      - link "LINE相談":
+        - /url: /line相談/
+- navigation:
+  - list
+- heading "◆料金表" [level=1]
+- figure:
+  - link:
+    - /url: javascript:;
+- figure:
+  - link:
+    - /url: javascript:;
+- heading "【修理について】" [level=3]
+- paragraph: オーバーホールの際、新しい電池に交換しております。
+- paragraph:
+  - text: 弊店のオーバーホールには、ムーブメントの分解・点検・洗浄・注油・組み立ての他、防水検査・バンド、ケースの超音波洗浄も含みます。
+  - text: 当店でお買い上げいただいた時計は、保証期間経過後、
+  - text: 上記料金表よりさらに２０％ＯＦＦにて修理いたします。
+  - generic: 上記料金表以外の特殊時計は別途見積もりさせていただきます。
+- paragraph
+- paragraph:
+  - text: その他ブランド品についても修理可能ですので、お気軽にお問い合わせ下さい。 →
+  - link "お問い合せ":
+    - /url: /お問い合せ/
+  - text: まずは修理料金がどれくらいかかりそうか試してみてください。
+- link "修理見積はこちら":
+  - /url: /修理見積り/
+- separator
+- complementary:
+  - paragraph: "E-mail : mune.kazut523@gmail.com"
+  - paragraph: 岐阜県大垣市藤江町３－１
+  - paragraph: TEL：０５８４－７８－６５４０
+  - paragraph: 営業時間 AM9:00～PM7:00 （水曜定休）
+- contentinfo:
+  - link "概要":
+    - /url: /about/
+  - text: "|"
+  - link "プライバシーポリシー":
+    - /url: //www.pro-takagi.jp/j/privacy
+  - text: "|"
+  - link "Cookie ポリシー":
+    - /url: javascript:window.CookieControl.showCookieSettings();
+  - text: "|"
+  - link "サイトマップ":
+    - /url: /sitemap/
+  - link "ログイン":
+    - /url: /login
+- text: 

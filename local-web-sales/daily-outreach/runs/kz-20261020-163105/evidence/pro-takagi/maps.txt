@@ -1,0 +1,337 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: タカギ時計店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "タカギ時計店":
+      - generic: タカギ時計店
+    - button "5 か所 上山市 & 山形市":
+      - generic "5 か所": "5"
+      - generic: 上山市 & 山形市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "タカギ時計店":
+    - 'button "写真: タカギ時計店" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "タカギ時計店" [level=1]: タカギ時計店
+    - text: "4.2"
+    - img "4.2 つ星"
+    - img "39 件のクチコミ": (39)
+    - button "腕時計専門店"
+    - tablist:
+      - tab "タカギ時計店 の概要" [selected]:
+        - generic: 概要
+      - tab "タカギ時計店 のクチコミ":
+        - generic: クチコミ
+      - tab "「タカギ時計店」について":
+        - generic: 基本情報
+    - region "タカギ時計店 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "タカギ時計店 について":
+      - button "店舗内ショッピングに対応 オンラインで注文した商品の店舗受け取り可":
+        - group "店舗内ショッピングに対応":
+          - text: ·
+          - generic: 
+          - generic: 店舗内ショッピング可
+        - group "オンラインで注文した商品の店舗受け取り可":
+          - text: ·
+          - generic: 
+          - generic: 店舗受け取り可
+        - generic: 
+    - region "タカギ時計店 の情報":
+      - 'button "住所: 〒503-0893 岐阜県大垣市藤江町３丁目１"':
+        - generic: 
+        - generic: 〒503-0893 岐阜県大垣市藤江町３丁目１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 9:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 9:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: pro-takagi.jp"':
+        - /url: http://www.pro-takagi.jp/
+        - generic: 
+        - generic: pro-takagi.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.pro-takagi.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 0584-78-6540"':
+        - generic: 
+        - generic: 0584-78-6540
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0584786540
+        - generic: 
+      - 'button "Plus Code: 9J7G+M3 大垣市、岐阜県"':
+        - generic: 
+        - generic: 9J7G+M3 大垣市、岐阜県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「タカギ時計店」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 25 件": "5"
+        - img "4 つ星、クチコミ 6 件": "4"
+        - img "3 つ星、クチコミ 2 件": "3"
+        - img "2 つ星、クチコミ 1 件": "2"
+        - img "1 つ星、クチコミ 5 件": "1"
+    - generic: "4.2"
+    - img "4.2 つ星"
+    - button "39 件のクチコミ":
+      - generic: 39 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"とっても親切で料金もお安く、また利用したいと思いました。\""':
+      - /url: https://www.google.com/maps/contrib/108622408881661209870?hl=ja-JP
+    - button "\"とっても親切で料金もお安く、また利用したいと思いました。\"":
+      - generic: "\"とっても親切で料金もお安く、また利用したいと思いました。\""
+    - 'link "次のクチコミ投稿者の写真: \"他の方のレビューは高い評価を受けていますが店主の仕事は雑でミスを隠します。\""':
+      - /url: https://www.google.com/maps/contrib/104897815472723479292?hl=ja-JP
+    - button "\"他の方のレビューは高い評価を受けていますが店主の仕事は雑でミスを隠します。\"":
+      - generic: "\"他の方のレビューは高い評価を受けていますが店主の仕事は雑でミスを隠します。\""
+    - 'link "次のクチコミ投稿者の写真: \"電池交換でお世話になってます。\""':
+      - /url: https://www.google.com/maps/contrib/114114427600384019121?hl=ja-JP
+    - button "\"電池交換でお世話になってます。\"":
+      - generic: "\"電池交換でお世話になってます。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "電池: 11 件のクチコミで言及。"':
+        - generic: 電池
+        - generic: "11"
+      - 'radio "値段: 5 件のクチコミで言及。"':
+        - generic: 値段
+        - generic: "5"
+      - 'radio "修理: 3 件のクチコミで言及。"':
+        - generic: 修理
+        - generic: "3"
+      - 'radio "蓋: 2 件のクチコミで言及。"':
+        - generic: 蓋
+        - generic: "2"
+      - 'radio "ガラス: 2 件のクチコミで言及。"':
+        - generic: ガラス
+        - generic: "2"
+    - generic "いあ":
+      - button "いあ の写真"
+      - button "いあ 1 件のクチコミ":
+        - generic: いあ
+        - generic: 1 件のクチコミ
+      - button "いあ さんのクチコミへのアクション":
+        - generic: 
+      - img "1 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 か月前
+      - generic: 「時計技能士がメーカー任せにせずに修理します。ネットや他店で購入したのも快く修理します。」って書いてあったので色々回ってもう無理かなって思ってたけど相談しに行きました。腕時計のカレンダーが不具合なので見てもらったらメーカーと番号を見て「メーカーに送って部品があれば直るけど無かったら送り返されて直らないよ」って他店でも聞いてたから知ってます。時計技能士が修理してくれるんじゃないの？中も見ないで時間かけて行ったけど、時計技能士ってなに？滞在時間は5分も無かったです。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "いあ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "Emit t":
+      - button "Emit t の写真"
+      - button "Emit t 2 件のクチコミ · 1 枚の写真":
+        - generic: Emit t
+        - generic: 2 件のクチコミ · 1 枚の写真
+      - button "Emit t さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - generic: SKAGENの電池交換をお願いしました。 ブランド公式サイトに交換の仕方動画がありましたが裏蓋が全く取れず、公式の案内する電池交換代金は送って4000円… 検索でたどり着いたこちらは5分ほどで完了して1300円の支払いで済みました。 また利用したいです
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Emit t さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "山光裕之":
+      - button "山光裕之 の写真"
+      - button "山光裕之 ローカルガイド · 21 件のクチコミ · 61 枚の写真":
+        - generic: 山光裕之
+        - generic: ローカルガイド · 21 件のクチコミ · 61 枚の写真
+      - button "山光裕之 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: ろくにメンテもせず、使いっぱなしにしていた母のロレックス。ベルトもガタガタ、竜頭も締め込め無くなっていたので、他店に持ち込んだら 「名古屋の正規店に持ち込まないと無理。費用も10万円はかかる」 と言われました。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "山光裕之 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (36)":
+      - generic: その他のクチコミ (36)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "（株）高木時計舗·4.6 つ星·クチコミ 40 件·腕時計専門店":
+      - generic: （株）高木時計舗
+      - img "4.6 つ星 クチコミ 40 件":
+        - text: "4.6"
+        - text: (40)
+      - generic: 腕時計専門店
+    - link "時報堂·4.8 つ星·クチコミ 8 件·メガネ店":
+      - generic: 時報堂
+      - img "4.8 つ星 クチコミ 8 件":
+        - text: "4.8"
+        - text: (8)
+      - generic: メガネ店
+    - link "タイムステーションＮＥＯ イオンモール大垣店·3.6 つ星·クチコミ 31 件·腕時計専門店":
+      - generic: タイムステーションＮＥＯ イオンモール大垣店
+      - img "3.6 つ星 クチコミ 31 件":
+        - text: "3.6"
+        - text: (31)
+      - generic: 腕時計専門店
+    - link "竹中時計店·4.9 つ星·クチコミ 32 件·腕時計修理業":
+      - generic: 竹中時計店
+      - img "4.9 つ星 クチコミ 32 件":
+        - text: "4.9"
+        - text: (32)
+      - generic: 腕時計修理業
+    - link "タカギ時計·3.8 つ星·クチコミ 5 件·腕時計専門店":
+      - generic: タカギ時計
+      - img "3.8 つ星 クチコミ 5 件":
+        - text: "3.8"
+        - text: (5)
+      - generic: 腕時計専門店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

@@ -1,0 +1,83 @@
+{
+  "company": "タカギ時計店",
+  "industry": "時計修理",
+  "region": "岐阜県大垣市",
+  "email": "mune.kazut523@gmail.com",
+  "email_source": "https://www.pro-takagi.jp/お問い合せ/",
+  "website_url": "https://www.pro-takagi.jp/",
+  "discovery_source": "https://hatsuratsu-ogaki.com/gakipay/",
+  "checked_at": "2026-11-01T15:26:07.514Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 39,
+    "url": "https://www.google.com/maps/search/タカギ時計店+大垣",
+    "identity": "大垣市藤江町3-1、0584-78-6540、pro-takagi.jp一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.pro-takagi.jp/",
+    "service": "https://www.pro-takagi.jp/修理-メンテナンス/",
+    "contact": "https://www.pro-takagi.jp/お問い合せ/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで料金表の画像が約340px幅に縮小され、多列のブランド名・金額が本文より著しく小さい。横はみ出しなし。1280pxでは表画像約620px幅。画像と本文の読みやすさの差を確認。"
+    },
+    {
+      "item": 2,
+      "result": "トップから料金・見積・問い合わせへリンク。電話、メール、フォーム、LINE案内あり。"
+    },
+    {
+      "item": 3,
+      "result": "時計修理、電池交換、所在地と連絡先確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップ、料金、問い合わせ表示済み。6枚スクリーンショット保存。"
+    },
+    {
+      "item": 5,
+      "result": "既存問い合わせ方法を維持。フォーム送信や電話発信は未実施。"
+    },
+    {
+      "item": 6,
+      "result": "2026年営業時間・電池交換料金の改定告知あり。古い料金を断定せず見積確認案内を維持。閲覧ページに営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.pro-takagi.jp/修理-メンテナンス/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして修理・メンテナンスのページを拝見すると、複数列の料金表が約340px幅の画像として表示され、ブランド名や金額の文字が本文に比べて小さくなっていました。",
+      "proposal": "料金案内を画像一枚から文字で読める項目別の表示へ整理し、スマートフォンでは時計の種類と修理内容を縦に並べて確認できるようにする",
+      "evidence_path": "evidence/pro-takagi/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "pro-takagi.jp",
+      "mune.kazut523@gmail.com",
+      "タカギ時計店"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://goshima.co.jp/",
+      "note": "修理分類・料金と問い合わせの配置を参照。転載なし。"
+    },
+    {
+      "url": "https://watch.repair-f.com/",
+      "note": "ブランド別と修理内容別の案内分類を参照。文言・写真・実績は転載しない。"
+    }
+  ]
+}

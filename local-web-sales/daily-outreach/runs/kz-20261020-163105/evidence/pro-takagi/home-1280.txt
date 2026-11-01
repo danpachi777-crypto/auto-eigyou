@@ -1,0 +1,170 @@
+- banner:
+  - navigation
+  - link "時計技能士の店 タカギ時計店":
+    - /url: https://www.pro-takagi.jp/
+    - text: 時計技能士の店
+    - text: タカギ時計店
+  - figure:
+    - link "タカギ時計店・大垣 公式HP":
+      - /url: https://www.pro-takagi.jp/
+      - img "タカギ時計店・大垣 公式HP"
+  - navigation:
+    - list:
+      - link "HOME":
+        - /url: /
+      - link "修理＆メンテナンス":
+        - /url: /修理-メンテナンス/
+      - link "ショップ案内・CONTACT":
+        - /url: /ショップ案内-contact/
+      - link "お問い合せ":
+        - /url: /お問い合せ/
+      - link "修理見積り":
+        - /url: /修理見積り/
+      - link "修理例":
+        - /url: /修理例/
+      - link "ブログ":
+        - /url: https://ameblo.jp/pro-takagi
+      - link "LINE相談":
+        - /url: /line相談/
+- navigation:
+  - list
+- heading "◆時計修理ならなんでもおまかせください◆" [level=3]
+- text: ・電池交換すぐできます！
+- text: ・ベルトバンドのサイズ調整承ります。
+- text: ・他店で購入された時計もお気軽にお持ちください。
+- text: ・他店で断られた修理など、なんでもご相談ください。
+- separator
+- figure:
+  - img "時計技能士が ロレックス・オメガ・カルティエ・ホイヤー・ブルガリなどどんな時計も修理 オーバーホール できます。"
+- paragraph
+- paragraph: 時計修理（オーバーホール）はメーカーのほぼ半額。弊店の若き！？時計技能士がメーカーまかせにせず、直接修理しますのでお値打ちに修理できます。
+- paragraph: ロレックス・オメガ・カルティエ・ホイヤー・ブルガリなどどんな時計もＯＫ！
+- paragraph: 内装部品もほとんどのブランドが入手可能です。
+- paragraph: まずは見積もり等お気軽にお問い合わせください。
+- separator
+- heading "時計の修理例" [level=2]
+- figure "時計の修理中の画像":
+  - img "時計技能士がブライトリングの時計をオーバーホールしています。"
+  - generic: 時計の修理中の画像
+- paragraph: ブライトリングの時計をオーバーホールしています。
+- paragraph: これは針の取付け作業です。
+- paragraph: 一本一本順番に取り付けます。
+- paragraph: まずは短針を乗せて針抑えという工具で
+- paragraph: しっかりと筒カナ車にはめ込んだところです。
+- paragraph
+- paragraph:
+  - text: その他の詳細な修理例は
+  - link "コチラ >>":
+    - /url: /修理例/
+- paragraph: ブログでは、タカギ時計店の最新情報を発信中です。
+- paragraph:
+  - text: アメブロ「
+  - link "タカギ時計店・時計技能士のブログ":
+    - /url: https://ameblo.jp/pro-takagi
+  - text: 」
+- separator
+- link "修理料金表はこちら":
+  - /url: /修理-メンテナンス/
+- paragraph:
+  - strong: ！新商品掲載！ コーヒー豆のピアス ご覧ください！
+- link:
+  - /url: "javascript:"
+- link "価格 2,800円（税抜）":
+  - /url: "javascript:"
+  - img "価格 2,800円（税抜）"
+- link:
+  - /url: "javascript:"
+- paragraph:
+  - strong: 価格：2,800円（税抜）
+- paragraph: これは珍しい！コーヒー豆でできたピアスです。
+- paragraph: 当店の完全オリジナル商品
+- paragraph: 全て手作りで一つ一つ丁寧に仕上がっています。
+- paragraph: クリスタル付きが綺麗でおススメです。
+- paragraph:
+  - strong:
+    - generic: ご注文は、郵送でも受け付けております。
+- paragraph:
+  - strong:
+    - text: メール、またはお
+    - link "問い合わせフォーム":
+      - /url: /お問い合せ/
+    - text: よりご連絡ください。
+- paragraph
+- figure
+- paragraph:
+  - text: ★ＰＲＯ－ＴＡＫＡＧＩ はタカギ時計店のウェブショップです。
+  - text: 時計修理のことならなんでもおまかせください。
+  - text: （電池交換なら店頭にてすぐできます！）
+  - text: 見積もり無料！駐車場完備！
+- figure
+- separator
+- paragraph:
+  - strong: 時計に関するご相談がLINEでできる新サービスをはじめました。
+- link "詳細はコチラ ＞":
+  - /url: /line相談/
+- link "友だち追加":
+  - /url: https://line.me/R/ti/p/%40kyt0002c
+  - img "友だち追加"
+- paragraph: ボタンから友達追加お願いします。
+- separator
+- heading "お知らせ" [level=2]
+- paragraph: 【営業時間変更のお知らせ】2026.6.20
+- paragraph: 弊店時間を夜７時までに変更いたします。
+- paragraph: AM9:00～PM7:00 （水曜定休日は変わりません）
+- paragraph
+- paragraph: 【料金改定のお知らせ】
+- paragraph: 最近の原材料費や物流費の高騰に伴い、現行価格の維持が困難になってまいりました。
+- paragraph: つきましては誠に心苦しい限りではございますが、通常電池交換のお値段を1,100円から1,300円税込に変更させていただきます。
+- paragraph: また、その他オーバーホールなど修理料金もその都度ご案内させていただきますのでご理解賜りますようお願いいたします。
+- paragraph: （2026年5月より）
+- paragraph
+- paragraph: 【令和8年の営業案内 2026】
+- paragraph: ・お正月休み 12/31～1/3
+- paragraph
+- paragraph
+- paragraph
+- paragraph
+- paragraph: 2020/12/22
+- paragraph: 大垣ケーブルTV 『里見まさとのご町内探訪』 にて弊店が紹介されました。
+- paragraph: 放送日 12/21～ 大垣市藤江町編 再放送あり
+- paragraph: 2020/11/15
+- paragraph: LINE友だち登録の不具合を修正しました。
+- paragraph: 登録してくださった方、ご迷惑をお掛けしました。
+- paragraph: 2020/3/25
+- paragraph: 店舗でのお支払いにメルペイ・ｄ払い・aupay各種決済が可能になりました。
+- paragraph: 2019/3/7
+- paragraph:
+  - text: 店舗でのお支払いにPayPay決済
+  - img "ペイペイ決済ロゴ"
+  - text: が可能になりました。
+- paragraph: 2018/11/14
+- paragraph:
+  - generic: 修理例を追加しました。
+- paragraph: 2018/9/19
+- paragraph:
+  - generic: ブログ始めました。（現在サボっています）
+- paragraph: 2018/6/8
+- paragraph:
+  - generic: 地元ケーブルテレビ（デイリーUP↑）にて弊店が紹介されました。
+- paragraph: 2018/5/17
+- paragraph: ホームページをリニューアルしました。
+- complementary:
+  - paragraph: "E-mail : mune.kazut523@gmail.com"
+  - paragraph: 岐阜県大垣市藤江町３－１
+  - paragraph: TEL：０５８４－７８－６５４０
+  - paragraph: 営業時間 AM9:00～PM7:00 （水曜定休）
+- contentinfo:
+  - link "概要":
+    - /url: /about/
+  - text: "|"
+  - link "プライバシーポリシー":
+    - /url: //www.pro-takagi.jp/j/privacy
+  - text: "|"
+  - link "Cookie ポリシー":
+    - /url: javascript:window.CookieControl.showCookieSettings();
+  - text: "|"
+  - link "サイトマップ":
+    - /url: /sitemap/
+  - link "ログイン":
+    - /url: /login
+- text: 

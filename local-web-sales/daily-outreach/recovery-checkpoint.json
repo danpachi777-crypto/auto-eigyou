@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 347,
+  "verified_sent_last_known": 348,
   "target": 450,
-  "remaining_unsent_target": 103,
+  "remaining_unsent_target": 102,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -70,7 +70,8 @@
     "hara-sports",
     "fishing-isoya",
     "p-stella",
-    "himawari-inn"
+    "himawari-inn",
+    "pro-takagi"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -134,7 +135,8 @@
     "hara-sports",
     "fishing-isoya",
     "p-stella",
-    "himawari-inn"
+    "himawari-inn",
+    "pro-takagi"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -218,8 +220,9 @@
     "hara-sports",
     "fishing-isoya",
     "p-stella",
-    "himawari-inn"
+    "himawari-inn",
+    "pro-takagi"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 60
+  "prepared_count": 61
 }

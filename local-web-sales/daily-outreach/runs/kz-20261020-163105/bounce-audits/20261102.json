@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-11-01T15:23:19.390966+00:00",
+  "campaign_matches": 0,
+  "verified_sent_unchanged": 347,
+  "messages": [
+    {
+      "email": "info@cyuuou01.com",
+      "message_id": "1a19749e6f898bfd",
+      "action": "failed",
+      "status": "5.1.1",
+      "campaign_match": false
+    },
+    {
+      "email": "info@santune.co.jp",
+      "message_id": "1a197220664044f1",
+      "action": "failed",
+      "status": "5.1.1",
+      "campaign_match": false
+    },
+    {
+      "email": "info@muratanet.jp",
+      "message_id": "1a1971da7ab27fe9",
+      "action": "failed",
+      "status": "5.1.1",
+      "campaign_match": false
+    },
+    {
+      "email": "info@kunisakibussan.com",
+      "message_id": "1a19345a3b45a756",
+      "action": "delayed",
+      "status": "4.3.5",
+      "campaign_match": false
+    },
+    {
+      "email": "info@i-karada.com",
+      "message_id": "1a19305b82f1e138",
+      "action": "failed",
+      "status": "4.3.0",
+      "campaign_match": false
+    },
+    {
+      "email": "info@nonomiya-sekkotuin.com",
+      "message_id": "1a192ffd82b86e8a",
+      "action": "failed",
+      "status": "4.3.0",
+      "campaign_match": false
+    }
+  ]
+}
