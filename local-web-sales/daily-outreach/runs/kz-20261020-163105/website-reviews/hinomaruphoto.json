@@ -1,0 +1,86 @@
+{
+  "company": "日の丸写真館",
+  "industry": "写真館",
+  "region": "滋賀県大津市",
+  "email": "info@hinomaruphoto.com",
+  "email_source": "https://www.hinomaruphoto.com/inquiry/",
+  "website_url": "https://www.hinomaruphoto.com/",
+  "discovery_source": "https://www.shashinkan.com/photo_studio/shiga/",
+  "checked_at": "2026-11-01T13:14:43.185Z",
+  "maps": {
+    "rating": 4.5,
+    "review_count": 19,
+    "url": "https://www.google.com/maps/search/?api=1&query=日の丸写真館+大津",
+    "identity": "中央1-6-10、電話077-522-4822、公式URL一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.hinomaruphoto.com/",
+    "service": "https://www.hinomaruphoto.com/753/",
+    "contact": "https://www.hinomaruphoto.com/inquiry/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで幅1200pxの問い合わせページ、入力欄が右側に隠れる。1280pxでは全体表示。3ページ6画面保存。フォーカスによる未入力警告は問題扱いしない。"
+    },
+    {
+      "item": 2,
+      "result": "公開一般メールinfo@hinomaruphoto.comを画像とリンクで確認。電話077-522-4822、既存フォーム。"
+    },
+    {
+      "item": 3,
+      "result": "七五三、初宮詣、成人式、ウェディング、家族記念写真。大津市中央1-6-10、10〜18時、火曜休。"
+    },
+    {
+      "item": 4,
+      "result": "画像・本文表示を確認。一時的読み込みは指摘しない。"
+    },
+    {
+      "item": 5,
+      "result": "既存撮影相談フォームの項目を維持。フォーム送信なし。"
+    },
+    {
+      "item": 6,
+      "result": "営業拒否は確認範囲なし。日ノ丸/日の丸の表記揺れは同一所在地とURLで同一店確認。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.hinomaruphoto.com/inquiry/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてお問い合わせページを拝見すると、フォームが画面幅を超えて表示され、お名前やメールなどの入力欄が右側の画面外に隠れていました。",
+      "proposal": "狭い画面ではお問い合わせの案内と入力欄を縦に並べ、画面幅に収まる配置に整える",
+      "evidence_path": "evidence/hinomaruphoto/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "hinomaruphoto.com",
+      "日の丸写真館",
+      "info@hinomaruphoto.com"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://photo-sugie.com/reserve/",
+      "note": "撮影分類と電話・メール・LINE案内の整理を参照。転用なし。"
+    },
+    {
+      "url": "https://www.hinomaru-studio.net/form",
+      "note": "別地域同名写真館の問い合わせ項目分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.shashinkan.com/photo_studio/shiga/"
+  ]
+}
