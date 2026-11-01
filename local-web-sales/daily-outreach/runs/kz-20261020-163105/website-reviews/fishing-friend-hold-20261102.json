@@ -1,0 +1,9 @@
+{
+  "company": "釣具のフレンド",
+  "website_url": "https://www.fishing-friend.com/info.html",
+  "checked_at": "2026-11-01T15:18:33.569397+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "390pxでショップ情報表・連絡先が幅内に収まる。改善点未確認。"
+}

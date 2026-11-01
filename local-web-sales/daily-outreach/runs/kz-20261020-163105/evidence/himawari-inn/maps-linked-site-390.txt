@@ -1,0 +1,192 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - img "ひ�まわりロゴ"
+  - navigation "サイト":
+    - list:
+      - link "TOP":
+        - /url: https://www.minsyuku-himawari.com
+        - paragraph: TOP
+      - link "宿泊プラン・料金":
+        - /url: https://www.minsyuku-himawari.com
+        - paragraph: 宿泊プラン・料金
+      - link "お食事":
+        - /url: https://www.minsyuku-himawari.com
+        - paragraph: お食事
+      - link "施設案内":
+        - /url: https://www.minsyuku-himawari.com
+        - paragraph: 施設案内
+      - link "アクセス":
+        - /url: https://www.minsyuku-himawari.com
+        - paragraph: アクセス
+- main:
+  - img "白神山地"
+  - paragraph:
+    - generic: 秋田県能代市の白神山地を一望できる宿泊施設
+  - heading "民宿ひまわり" [level=1]:
+    - generic: 民宿ひまわり
+  - paragraph:
+    - text: 民宿ひまわりは秋田県の北部を流れる米代川のほとりにある宿泊施設です。
+    - text: 建物の二階や裏手からは世界自然遺産の「白神山地」を一望できます。
+    - text: 部屋数28室で最大宿泊人数50人、朝食・夕食もご用意できます。
+    - text: 共同の大浴場・水洗トイレ・洗面所のほかにも、洗濯機や乾燥機も備えておりますので、長期の宿泊にも対応できます。
+  - img "能代駅"
+  - img "白神山地"
+  - img "民宿ひまわり"
+  - paragraph:
+    - generic: 観光に、ビジネスに。
+  - paragraph:
+    - generic: 団体様や長期滞在も大歓迎！
+  - paragraph:
+    - generic: アットホームな雰囲気のお宿で
+  - paragraph:
+    - generic: ゆったりとおくつろぎください♪
+  - img "ひまわり"
+  - list:
+    - img "お部屋"
+    - link "宿泊プラン・料金 ▶":
+      - /url: https://www.minsyuku-himawari.com
+      - generic: 宿泊プラン・料金 ▶
+    - img "お食事"
+    - link "お食事 ▶":
+      - /url: https://www.minsyuku-himawari.com
+      - generic: お食事 ▶
+    - img "共同浴場"
+    - link "施設案内 ▶":
+      - /url: https://www.minsyuku-himawari.com
+      - generic: 施設案内 ▶
+  - img "ひまわり"
+  - heading "宿泊プラン・料金" [level=2]:
+    - generic: 宿泊プラン・料金
+  - img "お部屋"
+  - paragraph: 一部屋につき2名様までとなります。
+  - paragraph:
+    - text: お部屋は南側と北側にあり、北側二階のお部屋からは米代川と白神山地が一望できます。
+    - text: テレビ・エアコンは、全室完備です。
+  - paragraph: 【部屋設備・備品】テレビ、エアコン、テーブル、ティッシュ
+  - paragraph:
+    - text: チェックインは15:00以降20:00まで、チェックアウトは10:00までにお願い致します。
+    - text: 連泊の場合は10:00以降もお部屋をご利用いただけます。
+  - img "ひまわり"
+  - heading "宿泊料金" [level=3]:
+    - generic: 宿泊料金
+  - paragraph: 電話・E-Mailでのご予約の場合は、宿泊料金はチェックアウト時に現金でお支払い下さい。
+  - paragraph:
+    - generic: ●
+    - generic: チェックイン／15:00～20:00
+  - paragraph:
+    - generic: ●
+    - generic: チェックアウト／～10:00
+  - list:
+    - paragraph: 素泊まり
+    - paragraph:
+      - text: 大人・大学生…5,000円
+      - text: 中学・高校生…4,000円
+      - text: 小学校高学年…3,500円
+      - text: 小学校低学年…3,000円
+      - text: 子ども(幼稚園・保育園)…1,000円
+    - paragraph: 朝食付き
+    - paragraph:
+      - text: 大人・大学生…5,700円
+      - text: 中学・高校生…4,700円
+      - text: 小学校高学年…4,100円
+      - text: 小学校低学年…3,500円
+      - text: 子ども(幼稚園・保育園)…2,500円
+    - paragraph: 2食付き
+    - paragraph:
+      - text: 大人・大学生…7,000円
+      - text: 中学・高校生…6,000円
+      - text: 小学校高学年…5,500円
+      - text: 小学校低学年…5,000円
+      - text: 子ども(幼稚園・保育園)…4,000円
+  - paragraph:
+    - generic: ※相部屋はすべて500円引き
+  - paragraph: 乳児無料（相部屋料金とはなりません）
+  - region "料金"
+  - img "ひまわり"
+  - heading "お食事について" [level=2]:
+    - generic: お食事について
+  - paragraph: お食事は食堂にて、朝食・夕食ともに手作りのバランスのとれた暖かいお食事をご用意致します。
+  - paragraph: ※日曜日のお食事はお休み（要相談）とさせていただきます。
+  - img "食堂食堂"
+  - paragraph: 食堂
+  - img "夕食例"
+  - paragraph: 夕食例
+  - region "食事"
+  - img "ひまわり"
+  - heading "施設案内" [level=2]:
+    - generic: 施設案内
+  - img "ひまわり"
+  - heading "共同施設･設備" [level=3]:
+    - generic: 共同施設･設備
+  - paragraph: 食堂、浴場、水洗トイレ、洗面所、乾燥室、洗濯機、乾燥機、自動販売機、冷蔵庫、製氷機、電子レンジ、FreeWi-Fi、新聞、漫画
+  - img "玄関"
+  - paragraph:
+    - generic: ●玄関・フロント
+  - paragraph: フロントの近くに新聞や漫画などをご用意しています。どうぞご自由にお読みください。
+  - img "洗面所"
+  - paragraph:
+    - generic: ●洗面所・ランドリールーム
+  - paragraph:
+    - text: 洗面所には洗濯機と乾燥機（有料）を設置しています。
+    - text: また洗面所付近に自由に利用可能な冷蔵庫と製氷機と電子レンジもあります。
+  - img "共同浴場"
+  - paragraph:
+    - generic: ●共同浴場
+  - paragraph:
+    - text: 男女別の共同浴場です。
+    - text: ★利用時間／17:00～22:00
+  - paragraph
+  - paragraph:
+    - text: 【浴場設備・備品】
+    - text: シャンプー、リンス、ボディーシャンプー、ドライヤー
+  - paragraph:
+    - generic: ●共同トイレ
+  - paragraph: 館内には、共同トイレ2ヵ所、車椅子用トイレ1ヵ所と共同浴場内にトイレがあります。
+  - region "施設"
+  - img "民宿ひまわり"
+  - img "ひまわりロゴ"
+  - paragraph: 〒016-0113 秋田県能代市字下悪戸120-6
+  - paragraph: TEL・FAX 0185-74-7717
+  - paragraph: 【受付時間 9:00～18:00】
+  - paragraph:
+    - text: ホームページ
+    - link "https://www.himawari-inn.com/":
+      - /url: https://www.himawari-inn.com/
+  - iframe
+  - paragraph: ＜アクセス＞
+  - paragraph
+  - paragraph
+  - paragraph: 鉄道▶
+  - paragraph: JR東能代駅から徒歩約20分
+  - paragraph: JR能代駅から徒歩約30分
+  - paragraph
+  - paragraph
+  - paragraph: 車▶
+  - paragraph: 秋田自動車道：能代東ICから約10分
+  - paragraph
+  - paragraph: ＜駐車場＞
+  - paragraph:
+    - generic: 敷地内に車100台分の無料駐車場をご用意してあります（大型バス･トラックの駐車も可能です）
+  - region "アクセス"
+  - paragraph:
+    - generic: ご予約・お問い合わせは
+  - paragraph:
+    - link "0185-74-7717":
+      - /url: tel:0185-74-7717
+      - generic: 0185-74-7717
+  - paragraph:
+    - generic: ＜お電話受付時間／9:00～18:00＞ E-mail
+    - link "info@himawari-inn.com":
+      - /url: mailto:info@himawari-inn.com
+  - link "510986_edited.png":
+    - /url: https://www.minsyuku-himawari.com
+    - img "510986_edited.png"
+  - paragraph:
+    - link "TOP":
+      - /url: https://www.minsyuku-himawari.com
+      - generic: TOP
+- contentinfo:
+  - paragraph:
+    - generic: 秋田県能代市／長期滞在OK！白神山地を一望できる、アットホームな宿泊施設／ホテル “民宿ひまわり”
+- region "bottom of page"

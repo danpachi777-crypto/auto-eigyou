@@ -1,0 +1,87 @@
+{
+  "company": "民宿ひまわり",
+  "industry": "民宿",
+  "region": "秋田県能代市",
+  "email": "info@himawari-inn.com",
+  "email_source": "https://himawari-inn.com/",
+  "website_url": "https://himawari-inn.com/",
+  "discovery_source": "https://akitasports.com/lodging_type-entry/民宿ひまわり-2/",
+  "checked_at": "2026-11-01T15:14:13.740Z",
+  "maps": {
+    "rating": 3.8,
+    "review_count": 26,
+    "url": "https://www.google.com/maps/search/?api=1&query=民宿ひまわり%20能代市",
+    "identity": "能代市下悪戸120-6、0185-74-7717一致。Maps掲載minsyuku-himawari.comからhimawari-inn.comへの公式リンク確認。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://himawari-inn.com/",
+    "service": "https://himawari-inn.com/room/",
+    "contact": "https://himawari-inn.com/reservation/",
+    "maps_linked_site": "https://www.minsyuku-himawari.com/"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで予約案内body640px。チェックイン・支払案内の右側が画面外。1280pxで読める。6枚＋Maps掲載サイト390px保存。"
+    },
+    {
+      "item": 2,
+      "result": "予約ページに電話・FAX・公開一般メールinfo@himawari-inn.comあり。"
+    },
+    {
+      "item": 3,
+      "result": "客室1～2名、所在地、共用設備、予約方法を確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップ・客室・予約案内を表示確認。一時的なトップ写真の未読み込みは指摘しない。"
+    },
+    {
+      "item": 5,
+      "result": "電話・メール予約の指定を維持。フォーム・予約・電話発信なし。"
+    },
+    {
+      "item": 6,
+      "result": "Maps、秋田県スポーツステーション、両公式サイトで名称住所電話一致。閲覧ページに営業拒否なし。料金非公開を問題にしない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://himawari-inn.com/reservation/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして宿泊予約ページを拝見すると、チェックインやお支払いについての説明文の右側が画面外に隠れていました。",
+      "proposal": "狭い画面では宿泊条件と予約連絡先を縦に並べ、説明文を画面幅に合わせて折り返すことで、横に移動せず予約前の案内を読める配置に整える",
+      "evidence_path": "evidence/himawari-inn/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "himawari-inn.com",
+      "minsyuku-himawari.com",
+      "民宿ひまわり"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://oyadougoden.com/price/",
+      "note": "宿泊条件と予約先の分類を参照。転載なし。"
+    },
+    {
+      "url": "https://hasegawatei.com/",
+      "note": "宿の紹介とメール連絡先の分類を参照。転載なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://akitasports.com/lodging_type-entry/民宿ひまわり-2/"
+  ]
+}

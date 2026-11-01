@@ -1,0 +1,9 @@
+{
+  "company": "新西釣具店",
+  "website_url": "https://www.shinnishi.com/original3.html",
+  "checked_at": "2026-11-01T15:18:33.568778+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "証明書警告ERR_CERT_COMMON_NAME_INVALIDにより公式画面確認不能。回避しない。"
+}

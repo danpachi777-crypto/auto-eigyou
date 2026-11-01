@@ -1,0 +1,9 @@
+{
+  "company": "ゆいの宿 古民家長谷川邸",
+  "website_url": "https://hasegawatei.com/",
+  "checked_at": "2026-11-01T15:18:33.568276+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "390pxでトップ表示幅内。提案根拠となる改善点未確認。"
+}

@@ -1,0 +1,43 @@
+- generic: 秋田県の北沿岸部 能代市にある宿泊施設、民宿ひまわりのホームページです。
+- link "民宿ひまわり":
+  - /url: /
+  - img "民宿ひまわり"
+- generic: お部屋
+- heading "お部屋について" [level=2]
+- paragraph:
+  - text: 一部屋の宿泊可能人数：１～２人
+  - text: お部屋は南側と北側にあり、北側二階のお部屋からは米代川と白神山地が一望できます。テレビ・エアコンは全室完備です。
+- paragraph
+- paragraph
+- link "お部屋":
+  - /url: /room/
+- link "お食事":
+  - /url: /meal/
+- link "施設案内":
+  - /url: /facility/
+- link "宿泊予約":
+  - /url: /reservation/
+- link "アクセス":
+  - /url: /access/
+- heading "周辺の観光情報" [level=3]
+- link "能代市観光協会":
+  - /url: http://welcomenoshiro.com/
+- text: /
+- link "二ツ井町観光協会":
+  - /url: http://futatsui.com/
+- link "三種町観光情報":
+  - /url: http://www.town.mitane.akita.jp/sightseeing/
+- text: /
+- link "八峰町観光協会":
+  - /url: http://www.happouta.jp/home/
+- link "藤里町観光情報":
+  - /url: https://www.town.fujisato.akita.jp/kanko/
+- link:
+  - /url: "#top"
+- link "copyright":
+  - /url: /
+  - img "copyright"
+- text: 〒016-0113 秋田県能代市字下悪戸120番6
+- text: TEL 0185-74-7717 FAX 0185-74-7741
+- text: E-Mail info@himawari-inn.com
+- text: Copyright ©2019 Himawari inn All Rights Reserved.

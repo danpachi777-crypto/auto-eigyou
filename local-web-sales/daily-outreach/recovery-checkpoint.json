@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 346,
+  "verified_sent_last_known": 347,
   "target": 450,
-  "remaining_unsent_target": 104,
+  "remaining_unsent_target": 103,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -69,7 +69,8 @@
     "waveinn",
     "hara-sports",
     "fishing-isoya",
-    "p-stella"
+    "p-stella",
+    "himawari-inn"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -132,19 +133,20 @@
     "waveinn",
     "hara-sports",
     "fishing-isoya",
-    "p-stella"
+    "p-stella",
+    "himawari-inn"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
   "prepared_count_in_recovery": 47,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "a71f23a",
-  "resume_note": "346件SENT確認済み。最新p-stella 1a1979fbecad1517。残り104件。営業拒否等11候補を保留記録。",
+  "last_pushed_commit": "ae2682e",
+  "resume_note": "347件SENT確認済み。最新himawari-inn 1a197b04d6e44ea7。残り103件。今回6件保留。次候補goshima.co.jpはトップのみ読了、公開メールと改善点未確認。",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 346,
-    "remaining_preparations": 104,
+    "completed_prepared_or_sent": 347,
+    "remaining_preparations": 103,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -215,8 +217,9 @@
     "waveinn",
     "hara-sports",
     "fishing-isoya",
-    "p-stella"
+    "p-stella",
+    "himawari-inn"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 59
+  "prepared_count": 60
 }
