@@ -1,0 +1,9 @@
+{
+  "company": "ペンションtooCotton",
+  "website_url": "https://toocotton.jp/",
+  "checked_at": "2026-11-01T16:26:27.874Z",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "公式トップ更新26年7月22日に7月以降閉館、事業継承による営業譲渡の説明あり。現名称・公開メール宛ての営業送信対象から除外。Gmail重複0、失敗記録0。"
+}

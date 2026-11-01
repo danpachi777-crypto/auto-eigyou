@@ -1,0 +1,173 @@
+- paragraph:
+  - iframe [name="I2"]: お使いのブラウザはインライン フレームをサポートしていないか、またはインライン フレームを表示しないように設定されています。:
+    - heading "ペンション＆コテージ 山太郎" [level=1]
+    - table:
+      - rowgroup:
+        - row "トップ｜コテージ｜プラン・料金・食事｜施設｜観光案内｜アクセス｜空室情報 ｜ご予約・お問い合わせ":
+          - cell "トップ｜コテージ｜プラン・料金・食事｜施設｜観光案内｜アクセス｜空室情報 ｜ご予約・お問い合わせ":
+            - heading "トップ｜コテージ｜プラン・料金・食事｜施設｜観光案内｜アクセス｜空室情報 ｜ご予約・お問い合わせ" [level=2]:
+              - link "トップ":
+                - /url: index.html
+              - text: ｜
+              - link "コテージ":
+                - /url: kote.htm
+              - text: ｜
+              - link "プラン・料金・食事":
+                - /url: puran-sudomari.htm
+              - text: ｜
+              - link "施設":
+                - /url: heya.htm
+              - text: ｜
+              - link "観光案内":
+                - /url: rjya-top.htm
+              - text: ｜
+              - link "アクセス":
+                - /url: acces1.htm
+              - text: ｜
+              - link "空室情報":
+                - /url: yoyaku.htm
+              - text: ｜
+              - link "ご予約・お問い合わ":
+                - /url: yoyakuforme.html
+              - link "せ":
+                - /url: yoyakuforme.html
+- paragraph:
+  - strong: ご予約・お問い合わせ
+  - text: ご予約・お問い合わせの方は下のフォームに御記入下さい。
+- paragraph:
+  - strong: 空き状況を最終確認した後、 お返事のメールを12時間以内にお送り致します。
+- paragraph:
+  - strong: ※ お急ぎの場合にはお電話でお問い合わせ下さいませ。
+- separator
+- paragraph: ★ ご希望の欄にチェックしてください。
+- paragraph:
+  - checkbox
+  - text: 取り合えず空室確認のお問い合わせのみ ( お見積もりもこちらにどうぞ ）
+- paragraph:
+  - checkbox
+  - text: 予約を申し込む
+- paragraph: ★ お泊りはいつでしょうか？
+- paragraph: 第一希望
+- blockquote:
+  - paragraph:
+    - text: 令和
+    - textbox
+    - text: 年
+    - textbox
+    - text: 月
+    - textbox
+    - text: 日から
+    - textbox
+    - text: 日まで
+    - textbox
+    - text: 泊
+  - paragraph: 第二希望
+  - paragraph:
+    - text: 令和
+    - textbox
+    - text: 年
+    - textbox
+    - text: 月
+    - textbox
+    - text: 日から
+    - textbox
+    - text: 日まで
+    - textbox
+    - text: 泊
+  - paragraph: ご到着予定時間（※午後3時以後）
+  - paragraph:
+    - text: 午後
+    - textbox
+    - text: 時ごろ
+- paragraph:
+  - text: ★
+  - strong: 人数の詳細をお願いいたします。
+- blockquote:
+  - paragraph:
+    - text: 大人
+    - textbox
+    - text: 人 小学生
+    - textbox
+    - text: 人
+  - paragraph:
+    - text: 幼児（幼稚園児～３才まで）
+    - textbox
+    - text: 人 乳児（２才以下）
+    - textbox
+    - text: 人
+  - paragraph:
+    - text: ★
+    - strong: お泊りの方の年代をお知らせください(複数可）
+  - checkbox
+  - text: 20代
+  - checkbox
+  - text: 30代
+  - checkbox
+  - text: 40代
+  - checkbox
+  - text: 50～60代
+  - paragraph: ★ ご希望の欄にチェックしてください。
+  - paragraph: ◆ ペンション ◆
+  - paragraph:
+    - checkbox
+    - text: ペンションすき焼きプラン
+  - paragraph:
+    - checkbox
+    - text: ペンション素泊まりプラン
+  - paragraph:
+    - checkbox
+    - text: ペンション素泊まり＋朝食付きプラン
+  - paragraph: ◆ コテージ ◆
+  - paragraph:
+    - checkbox
+    - text: コテージ素泊まり
+  - paragraph:
+    - checkbox
+    - text: コテージ朝食付きプラン
+  - paragraph
+  - paragraph:
+    - text: ★
+    - strong: 次の連絡先情報をお願いいたします。
+  - paragraph:
+    - strong
+    - text: 個人情報は当方からのご連絡以外には使用いたしません。
+  - blockquote:
+    - table:
+      - rowgroup:
+        - row "御名前":
+          - cell "御名前"
+          - cell:
+            - textbox
+        - row "御住所":
+          - cell "御住所"
+          - cell:
+            - textbox
+        - row "御住所 (続き)":
+          - cell "御住所 (続き)"
+          - cell:
+            - textbox
+        - row "郵便番号":
+          - cell "郵便番号"
+          - cell:
+            - textbox
+        - row "電話番号":
+          - cell "電話番号"
+          - cell:
+            - textbox
+        - row "メール(必須)":
+          - cell "メール(必須)":
+            - text: メール
+            - generic: (必須
+            - text: )
+          - cell:
+            - textbox
+  - paragraph: ※ 最近メールアドレスの間違いが多く、ご連絡できない事が有りますのですみませんがもう一度ご確認下さい。
+  - paragraph:
+    - strong:
+      - text: レンタル、その他ご連絡が御座いましたらこちらにどうぞ
+      - link "yamataro21@outlook.jp":
+        - /url: mailto:%22yamataro21@outlook.jp%22%20%3Cyamataro21@outlook.jp%3E
+  - paragraph:
+    - button "フォームの送信"
+    - button "フォームのリセット"
+- 'heading "最終変更 : 2026/05/14" [level=5]': "最終変更 : 2026/05/14"

@@ -1,0 +1,83 @@
+{
+  "company": "ペンション＆コテージ山太郎",
+  "industry": "ペンション・コテージ宿泊",
+  "region": "山形県米沢市",
+  "email": "yamataro21@outlook.jp",
+  "email_source": "https://www.yamataro21.com/",
+  "website_url": "https://www.yamataro21.com/",
+  "discovery_source": "https://yamagatakanko.com/attractions/detail_13164.html",
+  "checked_at": "2026-11-01T16:22:22.019Z",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 29,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンション+コテージ+山太郎+米沢",
+    "identity": "住所米沢市万世町刈安24156-119、電話0238282857、公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.yamataro21.com/",
+    "service": "https://www.yamataro21.com/kote.htm",
+    "contact": "https://www.yamataro21.com/yoyakuforme.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップscrollWidth1002。タイトル・案内・本文右側が画面外。予約画面でも注意書き右が欠ける。1280pxでは表示される。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "トップに予約リンクと公開一般メール。フォーム操作なし。"
+    },
+    {
+      "item": 3,
+      "result": "ペンション1棟コテージ2棟、宿泊、BBQ設備、住所電話を確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要3ページ表示済み。別スマホ版リンクは未検出。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話メールフォームを維持。予約は返答で確認する方式を保持。"
+    },
+    {
+      "item": 6,
+      "result": "問い合わせページ2026/05/14更新。割引等は今回提案に転載しない。閲覧範囲に営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.yamataro21.com/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、トップページの宿の紹介文や案内リンクが画面の右側にはみ出し、そのままでは全文を確認できない状態でした。",
+      "proposal": "宿の紹介文と宿泊・問い合わせの案内を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず読めるようにする",
+      "evidence_path": "evidence/yamataro21/home-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "yamataro21@outlook.jp",
+      "yamataro21.com",
+      "ペンション＆コテージ山太郎"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://tanpopo-inn.jp/",
+      "note": "施設概要と問い合わせの分類を参考に。文言写真料金は転載しない。"
+    },
+    {
+      "url": "https://pension-noel.com/contact/",
+      "note": "問い合わせ案内と電話の位置付けを参照。文言等は転載しない。"
+    }
+  ]
+}
