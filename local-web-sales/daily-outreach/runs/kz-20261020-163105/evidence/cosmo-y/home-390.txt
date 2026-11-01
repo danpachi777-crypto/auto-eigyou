@@ -1,0 +1,109 @@
+- region "top of page"
+- link "wix このウェブサイトは Wix で作成されました。あなたも作成してみませんか？ 今すぐはじめる":
+  - /url: https://ja.wix.com/lp-ja/website-builder?orig_msid=a719455f-2be0-46f0-857b-c584cb998986&adsVersion=banner_2024
+  - img "wix"
+  - text: このウェブサイトは Wix で作成されました。あなたも作成してみませんか？
+  - generic: 今すぐはじめる
+- banner:
+  - heading "お気軽にお電話下さい！" [level=6]:
+    - generic: お気軽にお電話下さい！
+  - 'heading "Tel : 096-385-4073" [level=6]':
+    - generic: "Tel : 096-385-4073"
+  - 'heading "Fax: 096-385-4086" [level=6]':
+    - generic: "Fax: 096-385-4086"
+  - heading "Hobby shop COSMO web site" [level=1]:
+    - text: Hobby shop
+    - generic: COSMO
+    - generic: web site
+  - navigation "サイト":
+    - list:
+      - link "HOME":
+        - /url: https://cosmo-y.wixsite.com/web-site
+        - paragraph: HOME
+      - link "プラモデル":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank
+        - paragraph: プラモデル
+      - link "鉄道模型":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-1
+        - paragraph: 鉄道模型
+      - link "エアガン":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-2
+        - paragraph: エアガン
+      - link "その他の商品":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-5
+        - paragraph: その他の商品
+      - link "新製品情報":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-3
+        - paragraph: 新製品情報
+      - link "お問合せ":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-4
+        - paragraph: お問合せ
+- main:
+  - region "Slide show gallery":
+    - img "IMG_2028"
+    - generic: IMG_2028
+    - paragraph
+    - generic: 1/1
+  - heading [level=5]
+  - paragraph
+  - paragraph:
+    - text: 当店はプラモデル・鉄道模型・エアーガン・の専門店です。
+    - text: 皆様のご来店を心からお待ちしております。
+    - text: 商品の全てを掲載する事が出来ませんので在庫などは、
+    - text: お電話又はメールにてご案内させて頂いております。
+    - text: お気軽にお問い合わせ下さい。
+    - text: ご希望の商品がございましたら、是非ともご確認の上
+    - text: ご来店下さいますよう宜しくお願いします。
+  - paragraph:
+    - generic: 営業時間
+  - paragraph:
+    - generic: 平日 11:00～20:00
+    - text: 定休日 毎週水曜日
+  - paragraph
+  - paragraph:
+    - generic: 日祭 11:00～19:00
+    - text: （水曜日が祝祭日の場合翌日の振り替えとなります )
+  - paragraph
+  - heading [level=6]
+  - heading "業務案内" [level=2]:
+    - generic: 業務案内
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph: プラモデル 販売
+  - paragraph
+  - paragraph: 鉄道模型 販売
+  - paragraph
+  - paragraph: エアガン・モデルガン 販売
+  - paragraph
+  - paragraph: エアガン・モデルガン 修理
+  - paragraph
+  - paragraph:
+    - generic: エアガン・モデルガン カスタム
+  - paragraph
+  - paragraph:
+    - generic: サバイバルゲームグッズ 販売
+  - paragraph
+  - paragraph:
+    - generic: 塗料・工具 販売
+  - region "Matrix gallery"
+  - heading "ようこそ！ ホビーショップ コスモ のウェブサイトへ" [level=6]:
+    - text: ようこそ！ ホビーショップ
+    - generic: コスモ
+    - text: のウェブサイトへ
+  - region "Slide show gallery":
+    - button "P22200741":
+      - img "P22200741"
+      - generic: P22200741
+      - paragraph
+    - generic: 1/16
+  - link "お問合せ":
+    - /url: https://cosmo-y.wixsite.com/web-site/blank-4
+    - generic: お問合せ
+- contentinfo:
+  - paragraph:
+    - link "特定商取引に関する法律に基づく表示":
+      - /url: https://a719455f-2be0-46f0-857b-c584cb998986.filesusr.com/ugd/4a5fb9_b6c3f17bc0184c54ab113dc47ccff73c.pdf
+      - generic: 特定商取引に関する法律に基づく表示
+- region "bottom of page"

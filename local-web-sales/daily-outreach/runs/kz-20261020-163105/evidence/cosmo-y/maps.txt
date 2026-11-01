@@ -1,0 +1,326 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: ホビーショップコスモ
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "3 か所 熊本市":
+      - generic "3 か所": "3"
+      - generic: 熊本市
+    - button "4 か所 上山市 & 山形市":
+      - generic "4 か所": "4"
+      - generic: 上山市 & 山形市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "ホビーショップコスモ":
+    - 'button "写真: ホビーショップコスモ" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ホビーショップコスモ" [level=1]: ホビーショップコスモ
+    - text: "4.2"
+    - img "4.2 つ星"
+    - img "160 件のクチコミ": (160)
+    - button "ホビーショップ"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "ホビーショップコスモ の概要" [selected]:
+        - generic: 概要
+      - tab "ホビーショップコスモ のクチコミ":
+        - generic: クチコミ
+      - tab "「ホビーショップコスモ」について":
+        - generic: 基本情報
+    - region "ホビーショップコスモ の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "ホビーショップコスモ の情報":
+      - 'button "住所: 〒862-0926 熊本県熊本市東区保田窪２丁目１−１ サンテラス保田窪"':
+        - generic: 
+        - generic: 〒862-0926 熊本県熊本市東区保田窪２丁目１−１ サンテラス保田窪
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 11:00 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 11:00"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: cosmo-y.wixsite.com"':
+        - /url: https://cosmo-y.wixsite.com/web-site
+        - generic: 
+        - generic: cosmo-y.wixsite.com
+      - link "ウェブサイトを開きます":
+        - /url: https://cosmo-y.wixsite.com/web-site
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 096-385-4073"':
+        - generic: 
+        - generic: 096-385-4073
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0963854073
+        - generic: 
+      - 'button "Plus Code: RP4V+VH 熊本市、熊本県"':
+        - generic: 
+        - generic: RP4V+VH 熊本市、熊本県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=16530822658602996893&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「ホビーショップコスモ」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 89 件": "5"
+        - img "4 つ星、クチコミ 41 件": "4"
+        - img "3 つ星、クチコミ 17 件": "3"
+        - img "2 つ星、クチコミ 4 件": "2"
+        - img "1 つ星、クチコミ 9 件": "1"
+    - generic: "4.2"
+    - img "4.2 つ星"
+    - button "160 件のクチコミ":
+      - generic: 160 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"息子用に懐かしいワイルドミニ四駆と自分用に値上げ前の東京マルイSAAを購入。\""':
+      - /url: https://www.google.com/maps/contrib/115164411693256065702?hl=ja-JP
+    - button "\"息子用に懐かしいワイルドミニ四駆と自分用に値上げ前の東京マルイSAAを購入。\"":
+      - generic: "\"息子用に懐かしいワイルドミニ四駆と自分用に値上げ前の東京マルイSAAを購入。\""
+    - 'link "次のクチコミ投稿者の写真: \"店長の方が熱心にモデルガンの修理をお客さんと雑談しながらされてました!\""':
+      - /url: https://www.google.com/maps/contrib/102206100782689521323?hl=ja-JP
+    - button "\"店長の方が熱心にモデルガンの修理をお客さんと雑談しながらされてました!\"":
+      - generic: "\"店長の方が熱心にモデルガンの修理をお客さんと雑談しながらされてました!\""
+    - 'link "次のクチコミ投稿者の写真: \"昭和の香りが色濃く残る店舗!\""':
+      - /url: https://www.google.com/maps/contrib/114088280994010927568?hl=ja-JP
+    - button "\"昭和の香りが色濃く残る店舗!\"":
+      - generic: "\"昭和の香りが色濃く残る店舗!\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "モデルガン: 9 件のクチコミで言及。"':
+        - generic: モデルガン
+        - generic: "9"
+      - 'radio "模型: 7 件のクチコミで言及。"':
+        - generic: 模型
+        - generic: "7"
+      - 'radio "電動ガン: 5 件のクチコミで言及。"':
+        - generic: 電動ガン
+        - generic: "5"
+      - 'radio "子供: 5 件のクチコミで言及。"':
+        - generic: 子供
+        - generic: "5"
+      - button "他 6 件のトピックを表示":
+        - generic: "+6"
+    - generic "Z-pro":
+      - button "Z-pro の写真"
+      - button "Z-pro ローカルガイド · 84 件のクチコミ · 161 枚の写真":
+        - generic: Z-pro
+        - generic: ローカルガイド · 84 件のクチコミ · 161 枚の写真
+      - button "Z-pro さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 知り合いに教えてもらい3歳の息子と共に初来訪。息子用に懐かしいワイルドミニ四駆と自分用に値上げ前の東京マルイSAAを購入。モデルガンやガスガンの修理もやってくれそうで頼りになるガンスミスの店長さんです。
+      - button "Z-pro さんのクチコミの写真 1"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Z-pro さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "bamdog":
+      - button "bamdog の写真"
+      - button "bamdog 1 件のクチコミ":
+        - generic: bamdog
+        - generic: 1 件のクチコミ
+      - button "bamdog さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 8 か月前
+      - generic: 私は基本的にAFVモデルを作るのですが、陸海空どれもかなりの品揃えです。 昔ながらのいい雰囲気のお店ですが、シンナー臭が少しきついので苦手な方はご注意を。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "bamdog さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "T U":
+      - button "T U の写真"
+      - button "T U ローカルガイド · 159 件のクチコミ · 12 枚の写真":
+        - generic: T U
+        - generic: ローカルガイド · 159 件のクチコミ · 12 枚の写真
+      - button "T U さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: "最終編集: 3 年前"
+      - text: 塗料が欲しく、お邪魔しました。 品揃え豊富で良かったです。 モデルガンの充実ぶりは圧巻 …
+      - button "もっと見る"
+      - button "T U さんのクチコミの写真 1"
+      - button "いいね 2 件":
+        - generic: 
+        - generic: "2"
+      - button "T U さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (157)":
+      - generic: その他のクチコミ (157)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "マルエス商事·3.9 つ星·クチコミ 171 件·模型店":
+      - generic: マルエス商事
+      - img "3.9 つ星 クチコミ 171 件":
+        - text: "3.9"
+        - text: (171)
+      - generic: 模型店
+    - link "服部模型店·2.9 つ星·クチコミ 27 件·模型店":
+      - generic: 服部模型店
+      - img "2.9 つ星 クチコミ 27 件":
+        - text: "2.9"
+        - text: (27)
+      - generic: 模型店
+    - link "ホビーショップBUILD LINKS·4.9 つ星·クチコミ 20 件·模型店":
+      - generic: ホビーショップBUILD LINKS
+      - img "4.9 つ星 クチコミ 20 件":
+        - text: "4.9"
+        - text: (20)
+      - generic: 模型店
+    - link "レオナルド7·4.4 つ星·クチコミ 62 件·模型店":
+      - generic: レオナルド7
+      - img "4.4 つ星 クチコミ 62 件":
+        - text: "4.4"
+        - text: (62)
+      - generic: 模型店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

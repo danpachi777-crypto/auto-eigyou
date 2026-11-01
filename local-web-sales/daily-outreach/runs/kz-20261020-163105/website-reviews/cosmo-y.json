@@ -1,0 +1,88 @@
+{
+  "company": "ホビーショップ コスモ",
+  "industry": "模型店",
+  "region": "熊本県熊本市",
+  "email": "cosmo-y@nifty.com",
+  "email_source": "https://cosmo-y.wixsite.com/web-site/blank-4",
+  "website_url": "https://cosmo-y.wixsite.com/web-site",
+  "discovery_source": "https://www.katomodels.com/shop?page=33",
+  "checked_at": "2026-11-01T15:34:26.955Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 160,
+    "url": "https://www.google.com/maps/search/ホビーショップコスモ+熊本",
+    "identity": "熊本市東区保田窪2丁目1-1、096-385-4073、cosmo-y.wixsite.com一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://cosmo-y.wixsite.com/web-site",
+    "service": "https://cosmo-y.wixsite.com/web-site/blank-1",
+    "contact": "https://cosmo-y.wixsite.com/web-site/blank-4"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでdocument幅988px。問い合わせ欄x516px〜948px、画面外。1280pxでは全体表示。一時的読み込み中の写真や欄の未表示は指摘対象外。"
+    },
+    {
+      "item": 2,
+      "result": "電話・メール・フォーム確認。390pxのフォーム欄は右側画面外。"
+    },
+    {
+      "item": 3,
+      "result": "プラモデル、鉄道模型、塗料工具販売、住所、連絡先確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップ・鉄道模型・問い合わせを390/1280で確認。遷移直後の未読み込みは撮り直し。"
+    },
+    {
+      "item": 5,
+      "result": "在庫は電話・メールで確認し来店との案内を維持。送信・購入なし。"
+    },
+    {
+      "item": 6,
+      "result": "営業拒否なし。特商法PDFも確認。PDFとサイトで郵便番号差異あるが指摘や提案表記に利用しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://cosmo-y.wixsite.com/web-site/blank-4",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにしてお問合せページを拝見すると、お名前・メールアドレス・メッセージの入力欄が画面の右側に隠れていました。",
+      "proposal": "スマートフォンでは連絡先と入力欄を画面幅に合わせて縦に並べ、横に移動せず問い合わせ内容を確認できる配置に整える",
+      "evidence_path": "evidence/cosmo-y/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "cosmo-y.wixsite.com",
+      "cosmo-y@nifty.com",
+      "ホビーショップ コスモ",
+      "ホビーショップコスモ"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.miyake-shouten.jp/contact",
+      "note": "入力項目の分類を参照、文言や写真の転載なし。"
+    },
+    {
+      "url": "https://ohm-mokei.ocnk.net/",
+      "note": "商品分類と電話・メール案内を参照。店舗固有の取引条件はコピーしない。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.katomodels.com/shop?page=33",
+    "https://www.godhandglobal.com/shops"
+  ]
+}

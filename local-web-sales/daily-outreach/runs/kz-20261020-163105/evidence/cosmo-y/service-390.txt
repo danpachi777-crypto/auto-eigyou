@@ -1,0 +1,68 @@
+- region "top of page"
+- link "wix このウェブサイトは Wix で作成されました。あなたも作成してみませんか？ 今すぐはじめる":
+  - /url: https://ja.wix.com/lp-ja/website-builder?orig_msid=a719455f-2be0-46f0-857b-c584cb998986&adsVersion=banner_2024
+  - img "wix"
+  - text: このウェブサイトは Wix で作成されました。あなたも作成してみませんか？
+  - generic: 今すぐはじめる
+- banner:
+  - heading "お気軽にお電話下さい！" [level=6]:
+    - generic: お気軽にお電話下さい！
+  - 'heading "Tel : 096-385-4073" [level=6]':
+    - generic: "Tel : 096-385-4073"
+  - 'heading "Fax: 096-385-4086" [level=6]':
+    - generic: "Fax: 096-385-4086"
+  - heading "Hobby shop COSMO web site" [level=1]:
+    - text: Hobby shop
+    - generic: COSMO
+    - generic: web site
+  - navigation "サイト":
+    - list:
+      - link "HOME":
+        - /url: https://cosmo-y.wixsite.com/web-site
+        - paragraph: HOME
+      - link "プラモデル":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank
+        - paragraph: プラモデル
+      - link "鉄道模型":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-1
+        - paragraph: 鉄道模型
+      - link "エアガン":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-2
+        - paragraph: エアガン
+      - link "その他の商品":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-5
+        - paragraph: その他の商品
+      - link "新製品情報":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-3
+        - paragraph: 新製品情報
+      - link "お問合せ":
+        - /url: https://cosmo-y.wixsite.com/web-site/blank-4
+        - paragraph: お問合せ
+- main:
+  - paragraph:
+    - generic: Nゲージを中心に多数取り揃えております
+  - paragraph
+  - paragraph:
+    - generic: 通信販売も致しますので お気軽にお問い合わせください
+  - heading "鉄道模型" [level=2]:
+    - generic: 鉄道模型
+  - link:
+    - /url: https://a719455f-2be0-46f0-857b-c584cb998986.filesusr.com/ugd/4a5fb9_c2439cd1fb984916b20e5b588c26c02d.pdf
+  - link:
+    - /url: https://a719455f-2be0-46f0-857b-c584cb998986.filesusr.com/ugd/4a5fb9_0d5d16831afc453e9a5772e34671b2fb.pdf
+  - link:
+    - /url: https://a719455f-2be0-46f0-857b-c584cb998986.filesusr.com/ugd/4a5fb9_dca512b9c2af49b28b710d68d61c32a7.pdf
+  - paragraph:
+    - generic: 各メーカーのロゴをクリックして頂くと製品の在庫リストの確認ができます
+  - link "お問合せ":
+    - /url: https://cosmo-y.wixsite.com/web-site/blank-4
+    - generic: お問合せ
+  - link "新製品情報":
+    - /url: https://cosmo-y.wixsite.com/web-site/blank-3
+    - generic: 新製品情報
+- contentinfo:
+  - paragraph:
+    - link "特定商取引に関する法律に基づく表示":
+      - /url: https://a719455f-2be0-46f0-857b-c584cb998986.filesusr.com/ugd/4a5fb9_b6c3f17bc0184c54ab113dc47ccff73c.pdf
+      - generic: 特定商取引に関する法律に基づく表示
+- region "bottom of page"
