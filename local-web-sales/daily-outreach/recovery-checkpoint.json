@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 368,
+  "verified_sent_last_known": 369,
   "target": 450,
-  "remaining_unsent_target": 82,
+  "remaining_unsent_target": 81,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -90,7 +90,8 @@
     "circle-kk",
     "p-grandeur",
     "leafkiyosato",
-    "stream"
+    "stream",
+    "u-tan"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -174,11 +175,12 @@
     "circle-kk",
     "p-grandeur",
     "leafkiyosato",
-    "stream"
+    "stream",
+    "u-tan"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 80,
+  "prepared_count_in_recovery": 81,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "e149006",
@@ -279,8 +281,9 @@
     "circle-kk",
     "p-grandeur",
     "leafkiyosato",
-    "stream"
+    "stream",
+    "u-tan"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 80
+  "prepared_count": 81
 }

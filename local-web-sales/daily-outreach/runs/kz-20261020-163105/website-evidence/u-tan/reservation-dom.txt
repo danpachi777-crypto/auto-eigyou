@@ -1,0 +1,640 @@
+- table:
+  - rowgroup:
+    - row "那須高原のペンション 森のうーたん 那須高原ペンション 森のうーたん はフルコース料理、焼きたてパン、貸切無料露天風呂が人気です。 空室情報・ご予約はこちら お気に入りに追加 ご予約・お問い合わせ tel.那須高原のペンション 森のうーたん":
+      - cell "那須高原のペンション 森のうーたん":
+        - link "那須高原のペンション 森のうーたん":
+          - /url: http://u-tan.org
+          - img "那須高原のペンション 森のうーたん"
+      - cell "那須高原ペンション 森のうーたん はフルコース料理、焼きたてパン、貸切無料露天風呂が人気です。 空室情報・ご予約はこちら お気に入りに追加 ご予約・お問い合わせ tel.那須高原のペンション 森のうーたん":
+        - table:
+          - rowgroup:
+            - row "那須高原ペンション 森のうーたん はフルコース料理、焼きたてパン、貸切無料露天風呂が人気です。":
+              - cell "那須高原ペンション 森のうーたん はフルコース料理、焼きたてパン、貸切無料露天風呂が人気です。":
+                - heading "那須高原ペンション 森のうーたん はフルコース料理、焼きたてパン、貸切無料露天風呂が人気です。" [level=1]
+            - row "空室情報・ご予約はこちら":
+              - cell
+              - cell "空室情報・ご予約はこちら":
+                - link "空室情報・ご予約はこちら":
+                  - /url: reservation.php
+                  - img "空室情報・ご予約はこちら"
+            - row:
+              - cell
+            - row "お気に入りに追加 ご予約・お問い合わせ tel.那須高原のペンション 森のうーたん":
+              - cell "お気に入りに追加 ご予約・お問い合わせ tel.那須高原のペンション 森のうーたん":
+                - button "お気に入りに追加"
+                - text: ご予約・お問い合わせ tel.
+                - img "那須高原のペンション 森のうーたん"
+- table:
+  - rowgroup:
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row "那須高原のペンション 森のうーたん 貸切無料露天風呂・ミネラル湯 ディナー・朝食 ご案内・お部屋・ダイニング 料金・宿泊プラン 空室状況・予約 お客様の宿泊感想記 交通アクセス・地図 オーナー日記":
+      - cell:
+      - cell "那須高原のペンション 森のうーたん":
+        - link "那須高原のペンション 森のうーたん":
+          - /url: index.php
+          - img "那須高原のペンション 森のうーたん"
+      - cell "貸切無料露天風呂・ミネラル湯":
+        - link "貸切無料露天風呂・ミネラル湯":
+          - /url: bath.php
+          - img "貸切無料露天風呂・ミネラル湯"
+      - cell "ディナー・朝食":
+        - link "ディナー・朝食":
+          - /url: dish.php
+          - img "ディナー・朝食"
+      - cell "ご案内・お部屋・ダイニング":
+        - link "ご案内・お部屋・ダイニング":
+          - /url: facilities.php
+          - img "ご案内・お部屋・ダイニング"
+      - cell "料金・宿泊プラン":
+        - link "料金・宿泊プラン":
+          - /url: charge.php
+          - img "料金・宿泊プラン"
+      - cell "空室状況・予約":
+        - img "空室状況・予約"
+      - cell "お客様の宿泊感想記":
+        - link "お客様の宿泊感想記":
+          - /url: graffiti.php
+          - img "お客様の宿泊感想記"
+      - cell "交通アクセス・地図":
+        - link "交通アクセス・地図":
+          - /url: access.php
+          - img "交通アクセス・地図"
+      - cell "オーナー日記":
+        - link "オーナー日記":
+          - /url: https://utan0832.seesaa.net/
+          - img "オーナー日記"
+      - cell:
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row:
+      - cell
+    - row "↓ 空室情報・宿泊のご予約はこちらから ↓":
+      - cell "↓ 空室情報・宿泊のご予約はこちらから ↓":
+        - generic: ↓
+        - text: 空室情報・宿泊のご予約はこちらから
+        - generic: ↓
+    - row:
+      - cell
+    - row "ご予約の日程がお決まりでしたら、カレンダーの○△より予約フォームへお進み下さい。":
+      - cell "ご予約の日程がお決まりでしたら、カレンダーの○△より予約フォームへお進み下さい。"
+    - row "お問い合わせの場合はページの右下のおらんうーたんメールをクリックして下さい":
+      - cell "お問い合わせの場合はページの右下のおらんうーたんメールをクリックして下さい"
+    - row "（注、○、△でもお部屋タイプ・人数等によりご予約できない場合がございます。）":
+      - cell "（注、○、△でもお部屋タイプ・人数等によりご予約できない場合がございます。）"
+    - row "○：空室あり △：多少の空室あり ℡：お電話にてお問合せ下さい ×：満室です 休：休館日です":
+      - cell "○：空室あり △：多少の空室あり ℡：お電話にてお問合せ下さい ×：満室です 休：休館日です":
+        - table:
+          - rowgroup:
+            - row "○：空室あり △：多少の空室あり ℡：お電話にてお問合せ下さい ×：満室です 休：休館日です":
+              - cell "○：空室あり"
+              - cell "△：多少の空室あり"
+              - cell "℡：お電話にてお問合せ下さい"
+              - cell "×：満室です"
+              - cell "休：休館日です"
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row "≪10月 2026年11月 12月≫ 日 月 火 水 木 金 土 1 -- 2 ℡ 3 ○ 4 ○ 5 △ 6 ○ 7 △ 8 ○ 9 ○ 10 ○ 11 ○ 12 ○ 13 ○ 14 ○ 15 △ 16 休 17 ○ 18 ○ 19 ○ 20 ○ 21 △ 22 △ 23 ○ 24 ○ 25 △ 26 ○ 27 △ 28 △ 29 ○ 30 ○ ≪11月 2026年12月 1月≫ 日 月 火 水 木 金 土 1 休 2 休 3 休 4 休 5 休 6 休 7 休 8 休 9 休 10 休 11 休 12 休 13 休 14 休 15 休 16 休 17 休 18 休 19 休 20 休 21 休 22 休 23 休 24 休 25 休 26 休 27 休 28 休 29 休 30 休 31 休 ≪12月 2027年1月 2月≫ 日 月 火 水 木 金 土 1 休 2 休 3 × 4 × 5 × 6 × 7 × 8 × 9 × 10 × 11 × 12 × 13 × 14 × 15 × 16 × 17 × 18 × 19 × 20 × 21 × 22 × 23 × 24 × 25 × 26 × 27 × 28 × 29 × 30 × 31 ×":
+      - cell "≪10月 2026年11月 12月≫ 日 月 火 水 木 金 土 1 -- 2 ℡ 3 ○ 4 ○ 5 △ 6 ○ 7 △ 8 ○ 9 ○ 10 ○ 11 ○ 12 ○ 13 ○ 14 ○ 15 △ 16 休 17 ○ 18 ○ 19 ○ 20 ○ 21 △ 22 △ 23 ○ 24 ○ 25 △ 26 ○ 27 △ 28 △ 29 ○ 30 ○":
+        - table:
+          - rowgroup:
+            - row "≪10月 2026年11月 12月≫":
+              - cell "≪10月 2026年11月 12月≫":
+                - link "≪10月":
+                  - /url: "?202610"
+                - text: 2026年11月
+                - link "12月≫":
+                  - /url: "?202612"
+            - row "日 月 火 水 木 金 土":
+              - cell "日"
+              - cell "月"
+              - cell "火"
+              - cell "水"
+              - cell "木"
+              - cell "金"
+              - cell "土"
+            - row "1 -- 2 ℡ 3 ○ 4 ○ 5 △ 6 ○ 7 △":
+              - cell "1 --":
+                - text: "1"
+                - text: "--"
+              - cell "2 ℡":
+                - text: "2"
+                - text: ℡
+              - cell "3 ○":
+                - text: "3"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261103
+              - cell "4 ○":
+                - text: "4"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261104
+              - cell "5 △":
+                - text: "5"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261105
+              - cell "6 ○":
+                - text: "6"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261106
+              - cell "7 △":
+                - text: "7"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261107
+            - row "8 ○ 9 ○ 10 ○ 11 ○ 12 ○ 13 ○ 14 ○":
+              - cell "8 ○":
+                - text: "8"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261108
+              - cell "9 ○":
+                - text: "9"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261109
+              - cell "10 ○":
+                - text: "10"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261110
+              - cell "11 ○":
+                - text: "11"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261111
+              - cell "12 ○":
+                - text: "12"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261112
+              - cell "13 ○":
+                - text: "13"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261113
+              - cell "14 ○":
+                - text: "14"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261114
+            - row "15 △ 16 休 17 ○ 18 ○ 19 ○ 20 ○ 21 △":
+              - cell "15 △":
+                - text: "15"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261115
+              - cell "16 休":
+                - text: "16"
+                - text: 休
+              - cell "17 ○":
+                - text: "17"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261117
+              - cell "18 ○":
+                - text: "18"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261118
+              - cell "19 ○":
+                - text: "19"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261119
+              - cell "20 ○":
+                - text: "20"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261120
+              - cell "21 △":
+                - text: "21"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261121
+            - row "22 △ 23 ○ 24 ○ 25 △ 26 ○ 27 △ 28 △":
+              - cell "22 △":
+                - text: "22"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261122
+              - cell "23 ○":
+                - text: "23"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261123
+              - cell "24 ○":
+                - text: "24"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261124
+              - cell "25 △":
+                - text: "25"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261125
+              - cell "26 ○":
+                - text: "26"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261126
+              - cell "27 △":
+                - text: "27"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261127
+              - cell "28 △":
+                - text: "28"
+                - link "△":
+                  - /url: res_reg.php?s_date=20261128
+            - row "29 ○ 30 ○":
+              - cell "29 ○":
+                - text: "29"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261129
+              - cell "30 ○":
+                - text: "30"
+                - link "○":
+                  - /url: res_reg.php?s_date=20261130
+              - cell
+              - cell
+              - cell
+              - cell
+              - cell
+      - cell "≪11月 2026年12月 1月≫ 日 月 火 水 木 金 土 1 休 2 休 3 休 4 休 5 休 6 休 7 休 8 休 9 休 10 休 11 休 12 休 13 休 14 休 15 休 16 休 17 休 18 休 19 休 20 休 21 休 22 休 23 休 24 休 25 休 26 休 27 休 28 休 29 休 30 休 31 休":
+        - table:
+          - rowgroup:
+            - row "≪11月 2026年12月 1月≫":
+              - cell "≪11月 2026年12月 1月≫":
+                - link "≪11月":
+                  - /url: "?202611"
+                - text: 2026年12月
+                - link "1月≫":
+                  - /url: "?202701"
+            - row "日 月 火 水 木 金 土":
+              - cell "日"
+              - cell "月"
+              - cell "火"
+              - cell "水"
+              - cell "木"
+              - cell "金"
+              - cell "土"
+            - row "1 休 2 休 3 休 4 休 5 休":
+              - cell
+              - cell
+              - cell "1 休":
+                - text: "1"
+                - text: 休
+              - cell "2 休":
+                - text: "2"
+                - text: 休
+              - cell "3 休":
+                - text: "3"
+                - text: 休
+              - cell "4 休":
+                - text: "4"
+                - text: 休
+              - cell "5 休":
+                - text: "5"
+                - text: 休
+            - row "6 休 7 休 8 休 9 休 10 休 11 休 12 休":
+              - cell "6 休":
+                - text: "6"
+                - text: 休
+              - cell "7 休":
+                - text: "7"
+                - text: 休
+              - cell "8 休":
+                - text: "8"
+                - text: 休
+              - cell "9 休":
+                - text: "9"
+                - text: 休
+              - cell "10 休":
+                - text: "10"
+                - text: 休
+              - cell "11 休":
+                - text: "11"
+                - text: 休
+              - cell "12 休":
+                - text: "12"
+                - text: 休
+            - row "13 休 14 休 15 休 16 休 17 休 18 休 19 休":
+              - cell "13 休":
+                - text: "13"
+                - text: 休
+              - cell "14 休":
+                - text: "14"
+                - text: 休
+              - cell "15 休":
+                - text: "15"
+                - text: 休
+              - cell "16 休":
+                - text: "16"
+                - text: 休
+              - cell "17 休":
+                - text: "17"
+                - text: 休
+              - cell "18 休":
+                - text: "18"
+                - text: 休
+              - cell "19 休":
+                - text: "19"
+                - text: 休
+            - row "20 休 21 休 22 休 23 休 24 休 25 休 26 休":
+              - cell "20 休":
+                - text: "20"
+                - text: 休
+              - cell "21 休":
+                - text: "21"
+                - text: 休
+              - cell "22 休":
+                - text: "22"
+                - text: 休
+              - cell "23 休":
+                - text: "23"
+                - text: 休
+              - cell "24 休":
+                - text: "24"
+                - text: 休
+              - cell "25 休":
+                - text: "25"
+                - text: 休
+              - cell "26 休":
+                - text: "26"
+                - text: 休
+            - row "27 休 28 休 29 休 30 休 31 休":
+              - cell "27 休":
+                - text: "27"
+                - text: 休
+              - cell "28 休":
+                - text: "28"
+                - text: 休
+              - cell "29 休":
+                - text: "29"
+                - text: 休
+              - cell "30 休":
+                - text: "30"
+                - text: 休
+              - cell "31 休":
+                - text: "31"
+                - text: 休
+              - cell
+              - cell
+      - cell "≪12月 2027年1月 2月≫ 日 月 火 水 木 金 土 1 休 2 休 3 × 4 × 5 × 6 × 7 × 8 × 9 × 10 × 11 × 12 × 13 × 14 × 15 × 16 × 17 × 18 × 19 × 20 × 21 × 22 × 23 × 24 × 25 × 26 × 27 × 28 × 29 × 30 × 31 ×":
+        - table:
+          - rowgroup:
+            - row "≪12月 2027年1月 2月≫":
+              - cell "≪12月 2027年1月 2月≫":
+                - link "≪12月":
+                  - /url: "?202612"
+                - text: 2027年1月
+                - link "2月≫":
+                  - /url: "?202702"
+            - row "日 月 火 水 木 金 土":
+              - cell "日"
+              - cell "月"
+              - cell "火"
+              - cell "水"
+              - cell "木"
+              - cell "金"
+              - cell "土"
+            - row "1 休 2 休":
+              - cell
+              - cell
+              - cell
+              - cell
+              - cell
+              - cell "1 休":
+                - text: "1"
+                - text: 休
+              - cell "2 休":
+                - text: "2"
+                - text: 休
+            - row "3 × 4 × 5 × 6 × 7 × 8 × 9 ×":
+              - cell "3 ×":
+                - text: "3"
+                - text: ×
+              - cell "4 ×":
+                - text: "4"
+                - text: ×
+              - cell "5 ×":
+                - text: "5"
+                - text: ×
+              - cell "6 ×":
+                - text: "6"
+                - text: ×
+              - cell "7 ×":
+                - text: "7"
+                - text: ×
+              - cell "8 ×":
+                - text: "8"
+                - text: ×
+              - cell "9 ×":
+                - text: "9"
+                - text: ×
+            - row "10 × 11 × 12 × 13 × 14 × 15 × 16 ×":
+              - cell "10 ×":
+                - text: "10"
+                - text: ×
+              - cell "11 ×":
+                - text: "11"
+                - text: ×
+              - cell "12 ×":
+                - text: "12"
+                - text: ×
+              - cell "13 ×":
+                - text: "13"
+                - text: ×
+              - cell "14 ×":
+                - text: "14"
+                - text: ×
+              - cell "15 ×":
+                - text: "15"
+                - text: ×
+              - cell "16 ×":
+                - text: "16"
+                - text: ×
+            - row "17 × 18 × 19 × 20 × 21 × 22 × 23 ×":
+              - cell "17 ×":
+                - text: "17"
+                - text: ×
+              - cell "18 ×":
+                - text: "18"
+                - text: ×
+              - cell "19 ×":
+                - text: "19"
+                - text: ×
+              - cell "20 ×":
+                - text: "20"
+                - text: ×
+              - cell "21 ×":
+                - text: "21"
+                - text: ×
+              - cell "22 ×":
+                - text: "22"
+                - text: ×
+              - cell "23 ×":
+                - text: "23"
+                - text: ×
+            - row "24 × 25 × 26 × 27 × 28 × 29 × 30 ×":
+              - cell "24 ×":
+                - text: "24"
+                - text: ×
+              - cell "25 ×":
+                - text: "25"
+                - text: ×
+              - cell "26 ×":
+                - text: "26"
+                - text: ×
+              - cell "27 ×":
+                - text: "27"
+                - text: ×
+              - cell "28 ×":
+                - text: "28"
+                - text: ×
+              - cell "29 ×":
+                - text: "29"
+                - text: ×
+              - cell "30 ×":
+                - text: "30"
+                - text: ×
+            - row "31 ×":
+              - cell "31 ×":
+                - text: "31"
+                - text: ×
+              - cell
+              - cell
+              - cell
+              - cell
+              - cell
+              - cell
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row:
+      - cell
+    - row:
+      - cell
+    - row "トップページ 貸切風呂 お料理 施 設 ご利用料金 空室情報・ご予約 らくがき帳 アクセス ブログ":
+      - cell
+      - cell "トップページ":
+        - table:
+          - rowgroup:
+            - row "トップページ":
+              - cell:
+              - cell "トップページ":
+                - link "トップページ":
+                  - /url: index.php
+            - row:
+              - cell
+              - cell
+      - cell "貸切風呂":
+        - table:
+          - rowgroup:
+            - row "貸切風呂":
+              - cell:
+              - cell "貸切風呂":
+                - link "貸切風呂":
+                  - /url: bath.php
+            - row:
+              - cell
+              - cell
+      - cell "お料理":
+        - table:
+          - rowgroup:
+            - row "お料理":
+              - cell:
+              - cell "お料理":
+                - link "お料理":
+                  - /url: dish.php
+            - row:
+              - cell
+              - cell
+      - cell "施 設":
+        - table:
+          - rowgroup:
+            - row "施 設":
+              - cell:
+              - cell "施 設":
+                - link "施 設":
+                  - /url: facilities.php
+            - row:
+              - cell
+              - cell
+      - cell "ご利用料金":
+        - table:
+          - rowgroup:
+            - row "ご利用料金":
+              - cell:
+              - cell "ご利用料金":
+                - link "ご利用料金":
+                  - /url: charge.php
+            - row:
+              - cell
+              - cell
+      - cell "空室情報・ご予約":
+        - table:
+          - rowgroup:
+            - row "空室情報・ご予約":
+              - cell:
+              - cell "空室情報・ご予約":
+                - link "空室情報・ご予約":
+                  - /url: reservation.php
+            - row:
+              - cell
+              - cell
+      - cell "らくがき帳":
+        - table:
+          - rowgroup:
+            - row "らくがき帳":
+              - cell:
+              - cell "らくがき帳":
+                - link "らくがき帳":
+                  - /url: graffiti.php
+            - row:
+              - cell
+              - cell
+      - cell "アクセス":
+        - table:
+          - rowgroup:
+            - row "アクセス":
+              - cell:
+              - cell "アクセス":
+                - link "アクセス":
+                  - /url: access.php
+            - row:
+              - cell
+              - cell
+      - cell "ブログ":
+        - table:
+          - rowgroup:
+            - row "ブログ":
+              - cell:
+              - cell "ブログ":
+                - link "ブログ":
+                  - /url: ""
+            - row:
+              - cell
+              - cell
+      - cell
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row:
+      - cell
+    - row "那須高原 ペンション 森のうーたん 〒325-0303 栃木県那須郡那須町高久乙3374-650 TEL：０２８７－７６－４１３３ FAX：０２８７－７６－４３０３":
+      - cell:
+      - cell "那須高原 ペンション 森のうーたん 〒325-0303 栃木県那須郡那須町高久乙3374-650 TEL：０２８７－７６－４１３３ FAX：０２８７－７６－４３０３":
+        - text: 那須高原 ペンション 森のうーたん
+        - text: 〒325-0303 栃木県那須郡那須町高久乙3374-650
+        - text: TEL：０２８７－７６－４１３３
+        - text: FAX：０２８７－７６－４３０３
+      - cell:
+        - link:
+          - /url: mailto:u-tan@muc.biglobe.ne.jp?Subject=◆お問い合わせ◆

@@ -1,0 +1,57 @@
+{
+  "company": "ペンション 森のうーたん",
+  "industry": "宿泊施設",
+  "region": "栃木県那須町",
+  "email": "u-tan@muc.biglobe.ne.jp",
+  "email_source": "http://u-tan.org/reservation.php",
+  "website_url": "http://u-tan.org/",
+  "discovery_source": "https://www.tochigiji.or.jp/spot/s13694",
+  "checked_at": "2026-11-01T19:33:52.345Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 19,
+    "url": "https://www.google.com/maps/search/ペンション+森のうーたん",
+    "identity": "施設名・電話0287-76-4133・公式URL一致。住所はMaps高久丙、公式/県観光高久乙3374-650と差があるため画像では使用しない。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "http://u-tan.org/",
+    "http://u-tan.org/facilities.php",
+    "http://u-tan.org/reservation.php"
+  ],
+  "review_checks": [
+    "390px予約案内の文章が右側に切れる。1280pxでは全文表示。",
+    "トップ・施設・予約に予約導線と一般メールを確認。",
+    "施設・所在地・電話を確認。住所表記差は画像から除外。",
+    "主な写真・ナビゲーション表示確認。",
+    "カレンダー○△から予約フォーム、一般問い合わせは右下メールという案内。フォーム送信せず。携帯アイコン隣QRを保存画像から解読した結果は同じhttp://u-tan.org/で、別の携帯版リンクは確認されず。",
+    "2026年11月の受付状況を確認。12月休館等の実際の状況をサンプル画像で固定表示しない。古い見た目は指摘しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://u-tan.org/reservation.php",
+      "viewport_width": 390,
+      "observation": "「空室情報・ご予約」を幅390pxで表示すると、予約フォームへの進み方やお問い合わせ方法の説明文が画面右側で切れ、全文確認に横スクロールが必要な状態",
+      "proposal": "予約方法の説明をスマートフォンの画面幅に合わせて折り返し、空室確認と一般お問い合わせの案内を縦に並べて読めるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/u-tan/reservation-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・社名0件。台帳・失敗宛先0件。確認した公式案内に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "施設紹介とお知らせの分類のみ参考。文章・写真・固有意匠コピーなし。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "予約方法とお問い合わせの分類のみ参考。文章等コピーなし。"
+    }
+  ]
+}
