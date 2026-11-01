@@ -1,0 +1,86 @@
+{
+  "company": "ペンション ステラ",
+  "industry": "ペンション",
+  "region": "山形県上山市",
+  "email": "info@p-stella.com",
+  "email_source": "https://p-stella.com/booking.html",
+  "website_url": "https://p-stella.com/",
+  "discovery_source": "https://zaopensionvillage.com/pensions/",
+  "checked_at": "2026-11-01T14:56:00.255Z",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 42,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションステラ%20上山市",
+    "identity": "上山市小倉大森1968-54、023-679-2320、公式サイト一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://p-stella.com/",
+    "service": "https://p-stella.com/facilities.html",
+    "contact": "https://p-stella.com/booking.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでbody幅1010px、料金表はx160から幅650pxで金額欄と説明文右側が画面外。1280pxで全体表示。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "料金・ご予約リンク、一般のお問い合わせメールinfo@p-stella.com確認。"
+    },
+    {
+      "item": 3,
+      "result": "貸切展望露天風呂、客室、料金、アクセスと連絡先を確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップ、施設、予約案内表示を確認。読み込み途中の画像欠けは指摘しない。"
+    },
+    {
+      "item": 5,
+      "result": "緊急時以外はメールの方針を維持。予約やフォーム送信は行わない。"
+    },
+    {
+      "item": 6,
+      "result": "Mapsとペンション村一覧で営業情報一致。閲覧した公式ページに営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://p-stella.com/booking.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして料金・ご予約ページを拝見すると、料金表の金額欄と説明文の右側が画面外に隠れていました。",
+      "proposal": "狭い画面では宿泊プランと予約案内を縦に並べ、金額と説明を画面幅に収めることで、横に移動せず料金や予約方法を読める配置に整える",
+      "evidence_path": "evidence/p-stella/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "p-stella.com",
+      "ペンションステラ",
+      "ペンション ステラ"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.pension-swiss.com/",
+      "note": "施設・料金・予約の分類を参照。転用なし。"
+    },
+    {
+      "url": "https://www.apple-bgl.com/",
+      "note": "宿の紹介と問い合わせ導線の分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://zaopensionvillage.com/pensions/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "company": "民宿土佐",
+  "website_url": "https://tosa40010.net/doc/05-contact.html",
+  "checked_at": "2026-11-01T15:00:11.261787+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "問い合わせページに「営業目的でのご連絡はご遠慮ください」と明示。送信対象から除外。",
+  "findings": []
+}

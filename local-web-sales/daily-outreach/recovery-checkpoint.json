@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 345,
+  "verified_sent_last_known": 346,
   "target": 450,
-  "remaining_unsent_target": 105,
+  "remaining_unsent_target": 104,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -68,7 +68,8 @@
     "asakusa-tsurigu",
     "waveinn",
     "hara-sports",
-    "fishing-isoya"
+    "fishing-isoya",
+    "p-stella"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -130,7 +131,8 @@
     "asakusa-tsurigu",
     "waveinn",
     "hara-sports",
-    "fishing-isoya"
+    "fishing-isoya",
+    "p-stella"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -138,11 +140,11 @@
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "a71f23a",
-  "resume_note": "345件SENT確認済み。最新fishing-isoya 1a1978d990e3bf88。残り105件。今回8件保留、sambu-kyuguはGmail返信不可の公式指定のため保留。次は別候補を通常の実画面・Maps・メール重複確認で進める。",
+  "resume_note": "346件SENT確認済み。最新p-stella 1a1979fbecad1517。残り104件。営業拒否等11候補を保留記録。",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 335,
-    "remaining_preparations": 115,
+    "completed_prepared_or_sent": 346,
+    "remaining_preparations": 104,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -212,8 +214,9 @@
     "asakusa-tsurigu",
     "waveinn",
     "hara-sports",
-    "fishing-isoya"
+    "fishing-isoya",
+    "p-stella"
   ],
   "remaining_prepared_unsent": 1,
-  "prepared_count": 58
+  "prepared_count": 59
 }

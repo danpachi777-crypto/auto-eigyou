@@ -1,0 +1,104 @@
+- paragraph:
+  - text: ★蔵王ロープウェイまでお車で約１０分貸切制展望露天風呂とアットホームなおもてなし
+  - generic: の洋風民宿です★
+  - text: 展望露天風呂からの山の景色や夕焼け、星空をカップル、ファミリーで貸切でお楽しみいただけます
+- link:
+  - /url: index.html
+- link:
+  - /url: https://zaopensionvillage.com/
+- link:
+  - /url: introduction.html
+- link "施設の概要 Facilities":
+  - /url: facilities.html
+  - img "施設の概要 Facilities"
+- link "料金・ご予約":
+  - /url: booking.html
+  - img "料金・ご予約"
+- link:
+  - /url: access.html
+- link "観光情報 Sightseeing":
+  - /url: sight.html
+  - img "観光情報 Sightseeing"
+- link "トップページ Top page":
+  - /url: https://zaostella.fc2.net/
+  - img "トップページ Top page"
+- generic: ペンション ステラから最新のお知らせ
+- text: ★グリーンシーズン
+- generic: のご予約受付中です
+- text: ・直接ご予約はメールで、３か月先までのご宿泊を受付けております。
+- text: Yahoo!メール宛にお送りしたメールが迷惑メールフォルダーに
+- text: 振り分けられることがあるようですのでご注意をお願いします。
+- text: ・４組限定で営業しています。お風呂はお部屋ごとの貸切制です。
+- text: ごゆっくりご宿泊ください。
+- text: ・大好評！ご希望の方に蔵王大露天風呂の入浴券を進呈！
+- text: ペンションステラの露天風呂とあわせて２つの露天風呂を
+- text: お楽しみください。（大人の方のみ、４月下旬～１１月上旬）
+- text: ・東北中央道、福島JCT～山形上山ICが開通し関東方面からの
+- text: アクセスが好くなりました。福島大笹生IC～米沢北ICは無料
+- text: で通行できます。また、西蔵王高原ラインも無料で通行できる
+- text: ようになりました。
+- text: ★
+- link "割引き制度":
+  - /url: http://p-stella.com/booking.html
+- text: を充実しました
+- text: ・早期予約割引（通年、土曜休前日・GW・お盆・お正月期間を
+- text: 除く）、連泊割引（通年）、旧車・スポーツカー・２輪割引き
+- text: （通年）是非、ご利用ください。
+- text: ・ＪＡＦ会員様優待施設となりました。お電話・メール予約にて
+- text: ご宿泊料金を１０％ＯＦＦさせていただきます。
+- text: ・日本ペンション協会の保養所制度もご利用いただけます。
+- text: ★
+- text: 山形県産米
+- link:
+  - /url: http://www.nmai.org/haenuki_yado/
+- link "「はえぬき」の宿":
+  - /url: http://www.nmai.org/haenuki_yado/
+- text: に認定されています
+- text: ・食味ランキング特Ａランクを連続受賞した美味しい
+- text: 山形県産「はえぬき」を蔵王の伏流水で炊いています。
+- text: ★ペンションステラは全室禁煙、無線LAN対応です
+- text: ・食堂も禁煙、喫煙室のみ喫煙可です。
+- text: 無線LANは、ＷｉＦｉ対応。無料でご利用いただけます。
+- text: 東北・山形の観光にご活用ください。
+- text: ★
+- link "全館貸切":
+  - /url: http://p-stella.com/booking.html
+- text: できます
+- text: ・好評の貸し切りも忘年会、送別会、歓迎会、合宿、同窓会などに
+- text: 是非ご利用ください。平日はさらにお得な割引き料金です。
+- text: ★展望露天風呂からの夕焼けや
+- generic: 星空、
+- text: 四季の景色をお楽しみください
+- generic: ★
+- link:
+  - /url: recent.html
+- link:
+  - /url: http://www.shoepress.com
+- link "お食事 Dinner":
+  - /url: dinner.html
+  - img "お食事 Dinner"
+- separator
+- text: 〒９９９－３１１２ 山形県上山市小倉字大森１９６８-５４
+- text: 蔵王温泉 蔵王ペンション村
+- text: ペンション ステラ
+- separator
+- paragraph:
+  - text: 文字サイズは
+  - generic: 中以下
+  - text: でご覧ください
+- paragraph:
+  - link "日本ペンション協会加盟":
+    - /url: http://www.jpa.org
+    - generic: 日本ペンション協会加盟
+- paragraph:
+  - link "蔵王温泉観光協会会員":
+    - /url: http://www.zao-spa.or.jp/
+    - generic: 蔵王温泉観光協会会員
+- paragraph: 蔵王ペンション村
+- paragraph:
+  - generic: ペンションステラの展望露天風呂
+- generic: 蔵王のお釜
+- generic: ↑
+- text: 山形蔵王情報
+- generic: 満載の
+- text: ブログもご覧ください♪

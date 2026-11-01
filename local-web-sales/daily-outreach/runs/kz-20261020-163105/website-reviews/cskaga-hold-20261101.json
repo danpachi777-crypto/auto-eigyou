@@ -1,0 +1,9 @@
+{
+  "company": "サイクルショップカガ",
+  "website_url": "https://cskaga.jp/お問い合わせ/",
+  "checked_at": "2026-11-01T15:00:11.262475+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxで本文とフォームが幅内に収まり、改善点未確認。",
+  "findings": []
+}

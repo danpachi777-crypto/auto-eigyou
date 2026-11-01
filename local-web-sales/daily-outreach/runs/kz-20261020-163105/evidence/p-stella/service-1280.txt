@@ -1,0 +1,100 @@
+- link:
+  - /url: index.html
+- link:
+  - /url: https://zaopensionvillage.com/
+- paragraph:
+  - generic: 蔵王温泉観光協会会員
+- paragraph:
+  - link "日本ペンション協会加盟":
+    - /url: http://www.jpa.org
+    - generic: 日本ペンション協会加盟
+- link:
+  - /url: introduction.html
+- link "料金・ご予約":
+  - /url: booking.html
+  - img "料金・ご予約"
+- link:
+  - /url: access.html
+- link "観光情報 Sightseeing":
+  - /url: sight.html
+  - img "観光情報 Sightseeing"
+- link "トップページ Top page":
+  - /url: index.html
+  - img "トップページ Top page"
+- link:
+  - /url: recent.html
+- link "お食事 Dinner":
+  - /url: dinner.html
+  - img "お食事 Dinner"
+- generic: 施設の概要 -Facilities-
+- link "施設の概要 Facilities":
+  - /url: facilities.html
+  - img "施設の概要 Facilities"
+- separator
+- generic: 浴室／眺望抜群！展望露天風呂／内風呂
+- generic: カップル、ファミリーで
+- generic: 新緑
+- generic: 、
+- generic: 紅葉
+- generic: 、
+- generic: 雪景色
+- generic: など
+- generic: 四季の景色
+- generic: や
+- generic: 星空
+- generic: を
+- generic: 貸切
+- generic: でお楽しみいただけます
+- generic: ★展望露天岩風呂（８人用）と内風呂
+- text: 谷を見下ろす眺望抜群のロケーション。夕焼けや星空、新緑や
+- text: 紅葉、雪景色など蔵王の四季の景色をお楽しみください。
+- text: 天井の高いログの東屋付きなので悪天候でも安心です。
+- text: ご家族、カップル、お友達と貸切でご利用頂けます。
+- text: （４０分以上。男女分けはございません）
+- text: 蔵王の湧き水を使用し、加温・循環濾過・殺菌しております。
+- text: 多くのお客様からお褒めのお言葉を頂戴しております
+- text: 夜１１時までのご利用料金はご宿泊料金に含まれています
+- text: （朝風呂はご１室に付き１１００円頂戴しております）
+- separator
+- generic: 客室／７室（全室禁煙）／定員１５名
+- text: 標高約８００ｍ。校倉造りの建物と床暖房で１年を通して快適にお過ごしいただけます
+- text: 山小屋風のお部屋でゆったりとした時間をお過ごしください
+- text: ★ツインルーム
+- text: （1～３名）６室
+- text: ★
+- generic: ファミリールーム
+- text: （３～４名）１室
+- text: 全洋室・全室床暖房
+- text: 無料テレビ・扇風機付き
+- text: 無線LAN対応
+- text: ★
+- text: ２種類のマットレスを組み合わせて寝心地を追及しました。リニューアルしたカーペットと合わせてごゆっくり
+- text: お休みください。
+- text: （ツインルーム３名、ファミリールーム４名の場合はエクストラベッドになります）
+- separator
+- generic: 食 堂
+- generic: 蔵王の景色を一望！自動演奏ピアノを聞きながらゆったりとお召し上がりいただけます。（禁煙）
+- separator
+- generic: プレイルーム
+- paragraph:
+  - text: こちらは、お客様の共有スペースです。
+  - generic: ★
+  - generic: 大型テレビ
+  - generic: ★
+  - generic: お客様用冷蔵庫
+  - generic: ★
+  - generic: 自動車雑誌
+- separator
+- generic: その他
+- text: ★歯ブラシ・タオル・パジャマはできるだけご持参ください。（お持ちになれない方には、実費にてご用意できます）
+- text: ★ボディーソープ、シャンプー、リンス、ドライヤーは備え付けがございます。
+- text: ★蔵王ペンション村共同駐車場（約５０ｍ）を無料でご利用いただけます。二輪の方は駐輪用テントを設置可能です。
+- text: ★お風呂脱衣場に洗濯機を設置しており無料でご使用いただけます。（乾燥機はございません）
+- text: ★スキー・スノボは、スキー乾燥室にてお預かりいたします。
+- text: ★ペットはお泊りいただけません。
+- link "こちらからパンフレットダウンロードできます(IEの方は右クリックでファイルに保存の上ご覧ください)":
+  - /url: http://p-stella.com/facilities/stellapanf.pdf
+- separator
+- text: 〒９９９－３１１２ 山形県上山市小倉字大森１９６８-５４
+- text: 蔵王温泉 蔵王ペンション村
+- text: ペンション ステラ
