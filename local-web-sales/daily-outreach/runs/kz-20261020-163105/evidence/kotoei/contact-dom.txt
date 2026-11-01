@@ -1,0 +1,505 @@
+- 'img "琴栄楽器店 〒500-8076 岐阜県岐阜市司町9番地 TEL : 058-263-1826 FAX : 058-263-1066 メールアドレス kotoei@kind.ocn.ne.jp URL http://www.kotoei.com/ よろしくお願い致します。"'
+- text: 「お客様から厚く信頼して頂ける、
+- text: そんなお店を目指して日々頑張っております」
+- img "お店の紹介"
+- img "琴栄楽器店"
+- img "代表：増田 康壽"
+- img "（ことえいがっきてん）"
+- img "http://www.kotoei.com/"
+- table:
+  - rowgroup:
+    - row:
+      - cell:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - generic: ○ お店の概要
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - generic: ○ お店の紹介
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote: Copyright © kotoei.com , All rights reserved.
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "清影車からくり保存会 情報ページです":
+                            - /url: sseieisha.html
+                            - img "清影車からくり保存会 情報ページです"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "トップ":
+                            - /url: index.html
+                            - img "トップ"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "＞"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "交通案内":
+                            - /url: stizu.html
+                            - img "交通案内"
+        - link:
+          - /url: soshirase.html
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "お知らせ"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "商品紹介":
+                            - /url: sokoto.html
+                            - img "商品紹介"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "お店の紹介":
+                            - /url: somise.html
+                            - img "お店の紹介"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "トップページ":
+                            - /url: index.html
+                            - img "トップページ"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "ホームページ"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "全国邦楽器商工業組合連合会 中部和楽器商組合 中部和楽器商組合青年会【絃箏】"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "kotoei@kind.ocn.ne.jp"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "TEL.０５８－２６３－１８２６ FAX.０５８－２６３－１０６６"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "〒５００－８０７６"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "岐阜県岐阜市司町９番地"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "増田 康壽"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "所属組合"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "Eメール"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "営業"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "住所"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "代表"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "創業"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "屋号"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "創業８３年（昭和８年開業）"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - link "清影車":
+                            - /url: sseieisha.html
+                            - img "清影車"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "琴栄楽器店"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "御琴・三味線専門"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "代表：増田 康壽"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "〒500-8076 岐阜県岐阜市司町9番地"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "kotoei@kind.ocn.ne.jp"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+                            - img "058-263-1826"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+                          - img "琴栄楽器店"
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:
+        - blockquote:
+          - blockquote:
+            - blockquote:
+              - blockquote:
+                - blockquote:
+                  - blockquote:
+                    - blockquote:
+                      - blockquote:
+                        - blockquote:

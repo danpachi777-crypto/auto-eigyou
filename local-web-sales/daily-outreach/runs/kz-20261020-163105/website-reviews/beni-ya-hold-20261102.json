@@ -1,0 +1,9 @@
+{
+  "company": "紅屋",
+  "website_url": "https://www.beni-ya.jp/",
+  "checked_at": "2026-11-01T16:08:49.187666+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "公式トップに「只今メール工事中です お電話にてお待ちしております」と表示。メール受付状況を確定できないため送信保留。"
+}

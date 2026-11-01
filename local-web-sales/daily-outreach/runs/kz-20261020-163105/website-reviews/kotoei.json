@@ -1,0 +1,83 @@
+{
+  "company": "琴栄楽器店",
+  "industry": "琴・三味線販売修理",
+  "region": "岐阜県岐阜市",
+  "email": "kotoei@kind.ocn.ne.jp",
+  "email_source": "http://kotoei.com/somise.html",
+  "website_url": "http://kotoei.com/",
+  "discovery_source": "https://next.zenhouren.jp/wp-content/uploads/2024/01/members_list.pdf",
+  "checked_at": "2026-11-01T16:06:10.088Z",
+  "maps": {
+    "rating": 4.1,
+    "review_count": 11,
+    "url": "https://www.google.com/maps/search/?api=1&query=琴栄楽器店+岐阜市司町9",
+    "identity": "岐阜市司町9、0582631826、kotoei.com一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "http://kotoei.com/",
+    "service": "http://kotoei.com/sokoto.html",
+    "contact": "http://kotoei.com/somise.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px時scrollWidth1668px。店舗名x545、電話x1099、メールx1092。商品紹介も画面外。1280pxでは店舗名連絡先表示。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "PCでは店舗情報と電話メール公開。スマホでは右外。別スマホ版リンクなし。"
+    },
+    {
+      "item": 3,
+      "result": "琴三味線販売修理、岐阜市司町9、連絡先確認。"
+    },
+    {
+      "item": 4,
+      "result": "ホームFlash終了表示もあるが今回提案は横はみ出し一点。"
+    },
+    {
+      "item": 5,
+      "result": "既存電話メールへの導線を保持。フォーム送信電話発信なし。"
+    },
+    {
+      "item": 6,
+      "result": "古いイベントは履歴と扱う。閲覧範囲に営業拒否なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://kotoei.com/",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、店舗名や商品案内、電話番号が画面の右側にはみ出し、そのままでは確認できない状態でした。",
+      "proposal": "店舗名・商品案内・電話とメールの連絡先を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず確認できるようにする",
+      "evidence_path": "evidence/kotoei/home-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "kotoei@kind.ocn.ne.jp",
+      "kotoei.com",
+      "琴栄楽器店"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://kanazen.com/maintenance/",
+      "note": "楽器別修理案内から連絡先へ進む構成を参照。文言画像転載なし。"
+    },
+    {
+      "url": "https://fukushima-sangenten.com/",
+      "note": "販売修理を分けたナビゲーションと問い合わせ導線を参照。固有の特徴は転載なし。"
+    }
+  ]
+}

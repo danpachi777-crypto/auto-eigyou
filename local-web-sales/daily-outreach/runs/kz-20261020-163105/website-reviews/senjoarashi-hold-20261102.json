@@ -1,0 +1,9 @@
+{
+  "company": "千畳嵐",
+  "website_url": "https://www.senjoarashi.com/",
+  "checked_at": "2026-11-01T16:08:49.187047+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "設備紹介と問い合わせページの390px表示を確認。本文とフォーム欄は幅に収まり、この確認範囲では提案に足る表示問題なし。その他の項目は未確認につき保留。"
+}
