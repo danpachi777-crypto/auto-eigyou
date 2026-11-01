@@ -1,0 +1,9 @@
+{
+  "company": "アキタアルペンスポーツ",
+  "website_url": "http://alpinesp.s70.xrea.com/shop/form.php",
+  "checked_at": "2026-11-01T14:25:10.896354+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "問い合わせフォームは390pxに収まり表示上の改善根拠なし。Gmail・CSV0。",
+  "findings": []
+}

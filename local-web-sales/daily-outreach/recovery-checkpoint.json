@@ -135,8 +135,8 @@
   "prepared_count_in_recovery": 47,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "e090ef6",
-  "resume_note": "337/450 verified SENT. embmop Gmail 1a19710b09f35307. 113 remain. Four pottery candidates held; continue new prospects.",
+  "last_pushed_commit": "c318c2f",
+  "resume_note": "Verified sent 344 of 450. Latest Hara Sports SENT 1a1977a966ffffe7. Remaining 106. Continue new qualified prospects; no followups, no scheduler. Latest send commit c318c2f. Public email/maps/review/duplicate/failed recipients/shared daily and rolling limits required.",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 335,
