@@ -1,0 +1,47 @@
+- paragraph:
+  - link "＜トップページ":
+    - /url: index.html
+- table:
+  - rowgroup:
+    - row "御電話・ＦＡＸ・e-mailによる予約・お問い合わせ":
+      - cell "御電話・ＦＡＸ・e-mailによる予約・お問い合わせ":
+        - generic: 御電話・ＦＡＸ・e-mailによる予約・お問い合わせ
+    - row "住所 〒519-0609 三重県伊勢市二見町茶屋９－７":
+      - cell "住所":
+        - paragraph:
+          - generic: 住所
+      - cell "〒519-0609 三重県伊勢市二見町茶屋９－７":
+        - paragraph:
+          - text: 〒519-0609
+          - text: 三重県伊勢市二見町茶屋９－７
+    - row "ＴＥＬ ０５９６－４３－２２１５":
+      - cell "ＴＥＬ":
+        - paragraph:
+          - generic: ＴＥＬ
+      - cell "０５９６－４３－２２１５":
+        - generic: ０５９６－４３－２２１５
+    - row "フリーダイヤル ０１２０－４７－２２１５（御予約専用）":
+      - cell "フリーダイヤル":
+        - paragraph:
+          - generic: フリーダイヤル
+      - cell "０１２０－４７－２２１５（御予約専用）":
+        - paragraph:
+          - generic: ０１２０－４７－２２１５（御予約専用）
+    - row "ＦＡＸ ０５９６－４３－４５１５":
+      - cell "ＦＡＸ":
+        - paragraph:
+          - generic: ＦＡＸ
+      - cell "０５９６－４３－４５１５":
+        - paragraph:
+          - generic: ０５９６－４３－４５１５
+    - row "ｅ－ｍａｉｌ m-yamato@k5.dion.ne.jp e-mailによる問い合わせ <--クリック （お名前、お電話番号を明記下さい）":
+      - cell "ｅ－ｍａｉｌ":
+        - paragraph:
+          - generic: ｅ－ｍａｉｌ
+      - cell "m-yamato@k5.dion.ne.jp e-mailによる問い合わせ <--クリック （お名前、お電話番号を明記下さい）":
+        - paragraph:
+          - generic: m-yamato@k5.dion.ne.jp
+          - link "e-mailによる問い合わせ":
+            - /url: mailto:m-yamato@k5.dion.ne.jp?subject=ヤマト宿泊予約
+          - text: <--クリック
+          - text: （お名前、お電話番号を明記下さい）

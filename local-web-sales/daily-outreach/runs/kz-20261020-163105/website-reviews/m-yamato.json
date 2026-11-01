@@ -1,0 +1,87 @@
+{
+  "company": "民宿ヤマト",
+  "industry": "民宿",
+  "region": "三重県伊勢市",
+  "email": "m-yamato@k5.dion.ne.jp",
+  "email_source": "https://m-yamato.com/toiawase2021.html",
+  "website_url": "https://m-yamato.com/",
+  "discovery_source": "https://ise.gr.jp/syukuhakuannai/yamato/",
+  "checked_at": "2026-11-01T10:42:10.715Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 126,
+    "url": "https://www.google.com/maps/search/?api=1&query=民宿ヤマト 伊勢 二見",
+    "name": "民宿ヤマト",
+    "identity": "公式URL・二見町茶屋9-7・0596-43-2215一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://m-yamato.com/",
+    "service": "https://m-yamato.com/kannai2021.html",
+    "contact": "https://m-yamato.com/toiawase2021.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップ1066px・館内471px・問い合わせ890px。問い合わせ表の電話・メール右側が切れる。1280pxでは表の全体表示。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "問い合わせページに電話・メール掲載。画面幅問題に絞り手段は変えない。"
+    },
+    {
+      "item": 3,
+      "result": "館内案内・宿泊案内・アクセスあり。組合とMapsで同一施設確認。"
+    },
+    {
+      "item": 4,
+      "result": "トップの画像ナビゲーションと館内リンクを実際に確認。動く文字の一時的な端切れは指摘対象にしない。"
+    },
+    {
+      "item": 5,
+      "result": "メールと電話受付。新規フォームは提案しない。"
+    },
+    {
+      "item": 6,
+      "result": "2026年1月更新あり。看板犬の訃報を確認し、画像に犬やお出迎えを入れない。価格や施設の追加創作をしない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://m-yamato.com/toiawase2021.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、お問い合わせページの表が横幅890pxまで広がり、電話番号やメールアドレスの右側が画面外に隠れていました。",
+      "proposal": "スマートフォンでは問い合わせ先の表を縦並びの案内に整え、電話番号やメールへのリンクが画面幅に収まるようにする",
+      "evidence_path": "evidence/m-yamato/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "民宿ヤマト",
+      "m-yamato.com",
+      "m-yamato@k5.dion.ne.jp"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://kihoku-azuma.com/",
+      "note": "施設と料理を分けて案内し電話と宿泊プランへ誘導。文章写真転用なし。"
+    },
+    {
+      "url": "https://ryori-minshuku-sasaki.com/",
+      "note": "宿泊・料理・アクセスを順番に案内し電話予約へ誘導。内容転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://ise.gr.jp/syukuhakuannai/yamato/"
+  ]
+}
