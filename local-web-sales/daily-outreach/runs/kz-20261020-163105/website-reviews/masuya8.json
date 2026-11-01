@@ -1,0 +1,9 @@
+{
+  "company": "ますや旅館（只見）",
+  "website_url": "http://masuya8.com/",
+  "checked_at": "2026-11-01T12:37:20.919297+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "ブラウザーで現行サイト確認。お問い合わせフォームはhref#。一般メールhot@masuya8.comは外部県ポータル掲載のみ、公式画面では確認できず保留。",
+  "findings": []
+}

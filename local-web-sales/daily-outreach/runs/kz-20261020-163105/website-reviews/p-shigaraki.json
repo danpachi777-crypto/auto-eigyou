@@ -1,0 +1,9 @@
+{
+  "company": "ペンション紫香楽",
+  "website_url": "http://www.p-shigaraki.com/index2.htm",
+  "checked_at": "2026-11-01T12:37:20.918776+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "ブラウザーの本文を取得できず表示レビュー不能。Webツールもアクセス不可。サイト障害とは断定しない。",
+  "findings": []
+}

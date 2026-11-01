@@ -1,0 +1,9 @@
+{
+  "company": "ペンションPaPa",
+  "website_url": "http://www.p-papa.net/",
+  "checked_at": "2026-11-01T12:37:20.918182+00:00",
+  "status": "hold",
+  "priority": "hold",
+  "reason": "390pxで本文と案内が画面内に収まる。改善根拠なし。公式一般メールpapa@almond.ocn.ne.jpは観光協会の表記と異なる。",
+  "findings": []
+}
