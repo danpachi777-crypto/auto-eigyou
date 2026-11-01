@@ -1,0 +1,9 @@
+{
+  "company": "斎藤畳内装株式会社",
+  "website_url": "https://s-tatami.net/content3.html",
+  "checked_at": "2026-11-01T14:42:22.079Z",
+  "status": "hold",
+  "priority": "hold",
+  "findings": [],
+  "reason": "問い合わせ390px幅で980px横はみ出しはあるが、問い合わせ・会社案内とも電話/FAX/フォームのみで公開メールを確認できず。domain @検索も0件。送信保留。"
+}

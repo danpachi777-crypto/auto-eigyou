@@ -137,7 +137,7 @@
   "prepared_count_in_recovery": 47,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "c318c2f",
+  "last_pushed_commit": "a71f23a",
   "resume_note": "345件SENT確認済み。最新fishing-isoya 1a1978d990e3bf88。残り105件。今回8件保留、sambu-kyuguはGmail返信不可の公式指定のため保留。次は別候補を通常の実画面・Maps・メール重複確認で進める。",
   "continuation": {
     "target_prepared_or_sent": 450,
