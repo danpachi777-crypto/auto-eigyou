@@ -1,0 +1,8 @@
+{
+  "company": "ハーベストガーデン",
+  "website_url": "https://harvest-garden.jp/",
+  "checked_at": "2026-11-02T03:39:00+09:00",
+  "priority": "hold",
+  "findings": [],
+  "reason": "公式トップと /sub/contact.html をブラウザーで確認。メール案内はフォームで、公開一般メールアドレスは確認できず。フォームは電話番号必須。画面不具合は未確認で送信対象外。"
+}
