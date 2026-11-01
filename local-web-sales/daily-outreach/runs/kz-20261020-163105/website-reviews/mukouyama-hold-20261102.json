@@ -1,0 +1,9 @@
+{
+  "company": "向山楽器店",
+  "website_url": "https://www.mukouyama.jp/",
+  "checked_at": "2026-11-01T16:16:15.235496+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "390pxトップは本文・電話・問い合わせが幅内表示。問い合わせはフォームで一般メール未確認。提案に足る問題未確定につき保留。"
+}

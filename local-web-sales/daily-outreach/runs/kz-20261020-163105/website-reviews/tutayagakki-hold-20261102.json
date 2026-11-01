@@ -1,0 +1,9 @@
+{
+  "company": "ツタヤ楽器",
+  "website_url": "https://tutayagakki.com/",
+  "checked_at": "2026-11-01T16:16:15.235313+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "公開案内でメールには必ず電話番号を入れるよう指定。現行営業署名に使用する確認済み電話番号がないため保留。"
+}

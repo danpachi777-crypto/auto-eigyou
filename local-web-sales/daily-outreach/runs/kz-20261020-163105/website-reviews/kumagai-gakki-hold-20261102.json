@@ -1,0 +1,9 @@
+{
+  "company": "熊谷楽器店",
+  "website_url": "https://kumagai-gakki.sakura.ne.jp/sendai/",
+  "checked_at": "2026-11-01T16:16:15.235412+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "トップ・問い合わせ・店舗アクセスを閲覧。info@themeansar.comは店舗所有の連絡先と確認できず、他はフォーム電話のみ。公開一般メール未確認につき送信保留。"
+}

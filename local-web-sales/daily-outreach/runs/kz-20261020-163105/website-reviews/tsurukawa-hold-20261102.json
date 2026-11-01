@@ -1,0 +1,9 @@
+{
+  "company": "鶴川楽器本店",
+  "website_url": "https://home.b07.itscom.net/tsuru/index.html",
+  "checked_at": "2026-11-01T16:16:15.235569+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "組合掲載公式URLへのナビゲーションがタイムアウト。その後も前ページのままで公式内容未確認。サイト故障とは断定せず保留。"
+}

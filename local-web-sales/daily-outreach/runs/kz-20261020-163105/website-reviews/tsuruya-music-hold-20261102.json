@@ -1,0 +1,9 @@
+{
+  "company": "つるや楽器",
+  "website_url": "https://tsuruya-music.com/",
+  "checked_at": "2026-11-01T16:16:15.234842+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "旧hp4uサイトはページなし。堺観光協会の最新公式URLを確認し390pxトップを閲覧。本文・電話・問い合わせ導線は幅に収まり、具体的な改善点は未確定。旧URL不達を提案理由にはしない。"
+}

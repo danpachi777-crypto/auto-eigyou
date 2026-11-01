@@ -1,0 +1,9 @@
+{
+  "company": "なかしま館",
+  "website_url": "https://okuhida1.sakura.ne.jp/",
+  "checked_at": "2026-11-01T16:16:15.236315+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "390pxトップは本文が画面幅内に収まる。お問い合わせは氏名・住所・電話番号の明記を要求。現行署名情報では要件を満たせず、表示改善も未確定につき保留。"
+}

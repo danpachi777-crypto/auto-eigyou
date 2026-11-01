@@ -1,0 +1,9 @@
+{
+  "company": "こころ旅館",
+  "website_url": "https://cocoro-ryokan.com/",
+  "checked_at": "2026-11-01T16:16:15.236413+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "findings": [],
+  "reason": "公式トップの問い合わせ案内はフォーム・電話・LINE。一般メールアドレスは確認できず送信保留。"
+}
