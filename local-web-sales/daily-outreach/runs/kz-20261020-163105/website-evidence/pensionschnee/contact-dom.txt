@@ -1,0 +1,354 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- link "wix このウェブサイトは Wix で作成されました。あなたも作成してみませんか？ 今すぐはじめる":
+  - /url: https://ja.wix.com/lp-ja/website-builder?orig_msid=fcd67fc0-c9de-4de4-bc04-b8e49aa4aeef&adsVersion=banner_2024
+  - img "wix"
+  - text: このウェブサイトは Wix で作成されました。あなたも作成してみませんか？
+  - generic: 今すぐはじめる
+- banner:
+  - link:
+    - /url: https://pensionschnee.wixsite.com/mysite
+  - paragraph:
+    - link "TEL:0269-85-2012":
+      - /url: tel:0269-85-2012
+      - generic: TEL:0269-85-2012
+  - 'heading "mail : pensionschnee@yahoo.co.jp" [level=1]':
+    - 'link "mail : pensionschnee@yahoo.co.jp"':
+      - /url: mailto:pensionschnee@yahoo.co.jp
+  - navigation "サイト":
+    - list:
+      - link "HOME":
+        - /url: https://pensionschnee.wixsite.com/mysite
+        - paragraph: HOME
+      - link "Reserve":
+        - /url: https://pensionschnee.wixsite.com/mysite/ご予約はこちら
+        - paragraph: Reserve
+      - link "Restaurant・Bar":
+        - /url: https://pensionschnee.wixsite.com/mysite/restaurant-bar
+        - paragraph: Restaurant・Bar
+      - link "The Room":
+        - /url: https://pensionschnee.wixsite.com/mysite/the-room
+        - paragraph: The Room
+      - link "Vin Nature":
+        - /url: https://pensionschnee.wixsite.com/mysite/vin-nature
+        - paragraph: Vin Nature
+      - link "山葡萄ハウスワイン":
+        - /url: https://pensionschnee.wixsite.com/mysite/homemadewine
+        - paragraph: 山葡萄ハウスワイン
+      - link "自然農法":
+        - /url: https://pensionschnee.wixsite.com/mysite/natural
+        - paragraph: 自然農法
+- main:
+  - heading "ご予約について" [level=2]:
+    - generic: ご予約について
+  - paragraph:
+    - generic: シュネーでは、ご予約をメールでお受けするように致しました
+    - generic: 。
+  - paragraph:
+    - generic: 本来は、お電話での会話をしたいのですが、
+    - generic: 農作業、料理の仕込み等で電話での受付が難しくなってきました。
+  - paragraph:
+    - generic: 農作業や料理の仕込みなどでメールも
+    - generic: 気付くのが遅くなってしまうことが多々あります。
+  - paragraph:
+    - generic: 必ずいただいたご連絡の順番通りに、ご返信、ご予約させていただきます。
+  - paragraph:
+    - generic: すみませんが、ご了承よろしくお願いいたします。
+  - paragraph
+  - paragraph:
+    - generic: ご予約を前振り込みとさせていただきます。
+  - paragraph:
+    - generic: お部屋代を前払いにてお振込いただき次第、本予約完了となります。
+  - paragraph:
+    - generic: 金額や振込先、詳細をメールにてご連絡いたします。
+  - paragraph:
+    - generic: 振り込みを確
+    - generic: 認次第、予約を完了させていただきます。
+  - paragraph:
+    - generic: （いただいたお部屋代はキャンセルしても、ご返金いたしませんので、ご承知の上ご予約をお願いいたします。）
+  - paragraph:
+    - generic: ＊12月〜5月のスキーシーズンの繁忙期は、
+  - paragraph:
+    - generic: ご予約の日にちの変更でもご返金できませんので、よろしくお願いします。
+  - paragraph
+  - paragraph:
+    - generic: メールが難しい方は、お電話ください。詳細などお伝えいたします。
+  - paragraph:
+    - generic: （最近迷惑電話が増えてきておりますので、名乗らずに『もしもし』と出ることをご了承ください。）
+  - paragraph
+  - paragraph:
+    - generic: ご予約いただく前に、このページの下にあります、注意点や説明を必ずご覧ください。
+  - paragraph
+  - paragraph:
+    - generic: 予約完了時点で、すべての注意事項にご了承いただいたこととします。
+  - paragraph
+  - paragraph:
+    - generic: "Tel :"
+    - link "0269-85-2012":
+      - /url: tel:0269-85-2012
+  - paragraph:
+    - text: "E-mail :"
+    - link "pensionschnee@yahoo.co.jp":
+      - /url: mailto:pensionschnee@yahoo.co.jp
+  - paragraph:
+    - generic: About reservation
+  - paragraph:
+    - text: The reservation will be completed as soon as the room charge is paid in advance.
+    - text: We will contact you by email with the amount, transfer method, and other details.
+    - text: We will complete the reservation after confirming the payment of the room fee from the customer.
+    - text: (Please be aware that even if you cancel or date change the room charge you have paid, it will not be refunded.)
+  - paragraph
+  - paragraph:
+    - generic: Please read the notes and explanations at the bottom of this page before making a reservation.
+  - paragraph:
+    - generic: You are deemed to have agreed to all details when completing your reservation.
+    - generic: Thank you.
+  - paragraph:
+    - generic: 2026ー2027 冬シーズンご予約について
+    - text: 私たちのペンションは．．．
+    - text: 野沢温泉スキー場の真ん中に位置します。
+    - text: もちろん，スキーイン／スキーアウトという絶好のロケーションです。
+    - text: その為，お客様に停めていただく駐車場やバス停から離れたところにあります。
+    - text: チェックイン／アウトの際、バスやタクシーでお越しのお客様は遊ロード（動く歩道/無料）をご利用ください。
+    - text: 遊ロードの降り場からペンションまでは歩いて5分ほどですが、降り場からの道のりは圧雪した雪上を歩きます。
+    - text: ご都合の悪い場合は遊ロードに乗る前にお電話をいただければ、遊ロードの降り場までお迎えにあがります。
+    - text: 悪天候や沢山のお荷物があったり、御高齢又は小さなお子様など徒歩の移動が困難な方は送迎致しますので事前にご相談ください。
+    - text: お車でお越しのお客様は村内の「柄沢第二駐車場」にお車をお停め下さい。
+    - text: お電話をいただければお迎えにあがります。
+    - generic: （電話受け付け開始；7時30分から20時まで 時間外はご相談ください）
+    - text: （ご到着時間が予めわかる様でしたら事前にお知らせいただくとお迎えがスムーズの場合があります。）
+    - text: お車にお忘れ物等された場合の再送迎ができません。ペンションの送迎車へのお乗り換えの際はご注意ください。
+    - generic: チェックアウト送迎可能時間（7時30分から15時まで）
+    - text: ※万が一、病気や怪我など緊急での送迎要請については片道別途1回6000円となります。
+    - text: （2027年12月からチェックイン／アウトの雪上送迎が有料になります。）
+    - text: 野沢温泉スキー場の方針により雪上走行車の利用を自粛するよう言われています。
+    - text: 滞在中に温泉街に出掛ける際は遊ロード（動く歩道/日中のみ運行／無料）、夕方以降は徒歩（行きは下り約１５分／帰りは上り約２０分）となりますがご理解ご協力をお願いいたします。
+    - text: 送迎は最善を尽くしますが、少なくとも往復30分はかかりますのでお待たせする事があります。
+    - text: 特殊な立地の為お客様にはご不便をお掛けいたしますが、どうぞ宜しくお願いいたします。
+    - text: ご予約時期について；
+    - text: 5泊以上ご宿泊希望の場合6月中旬から受け付け開始
+    - text: 4泊のご宿泊希望の場合ご希望宿泊日より4ヶ月前から受け付け開始
+    - text: 3泊のご宿泊希望の場合ご希望宿泊日より3ヶ月前から受け付け開始
+    - text: 2泊のご宿泊希望の場合ご希望宿泊日より2ヶ月前から受け付け開始
+    - text: 1泊のご宿泊希望の場合ご希望宿泊日より1ヶ月前から受け付け開始
+    - generic: 宿泊料金について；
+    - generic: 基本的に素泊まり朝食プランです、宿泊費の全額前払いにてご予約確定となります。
+    - text: お支払い方法は弊社口座へのお振り込みで承ります。
+    - text: (近年、かなり早い段階での国内外からのお客様のご予約が沢山増えて事前の保証としてこのような対応が必要となってきてしまいました、ご常連のお客様にはご迷惑をおかけいたしますが、ご理解頂きますようお願いいたします。）
+    - text: ふるさと納税などの宿泊補助券をご利用希望の方は、その旨を御予約の際に必ずお知らせください。
+    - text: その後、御予約金を全額お振り込み頂きます。
+    - text: 補助券は弊社へお越しになる際ご持参ください。チェックアウト当日に精算致します。
+    - text: ご宿泊5日目から連泊割引があります、お一人様（4歳以上対象）1泊につき500円引き。
+    - text: 夕食をご希望の場合はご希望数を事前にご予約ください。
+    - text: ※令和8年6月1日より野沢温泉では宿泊税が3.5％かかるようになりました。
+    - generic: 詳しくは村HPをご覧ください。
+    - generic: 夕食について；
+    - text: 木曜〜月曜までの毎週5日間、事前予約制にて承ります。
+    - text: お食事はご宿泊者様のみとさせていただいております。
+    - text: 火曜水曜はディナー休業（12月29、30を除く）
+    - text: フルサイズお一人様税込6000円（特別価格）
+    - text: キッズのシンプルワンプレートお一人様税込3500円
+    - text: 食事無しの場合お席料1500円、0~3歳無料
+    - text: 夕食は日替わり料理、内容はお選びいただけません。
+    - text: 前菜の盛り合わせ、スープ、メイン肉料理、デザートの4皿です。
+    - text: （アレルギー、ベジタリアン、ビーガン、その他食材のご要望等は追加料金＋1500円／１名様につき、
+    - text: 夕食予約の際お知らせください。）
+    - text: 夕食ご予約希望の場合はチェックイン当日より14日前までにご注文ください。
+    - text: 14日前以内になるとお受けできないことがあります。
+    - text: ※レストラン、バーフロアへのお飲み物、食べ物（軽食、スナック、菓子類含む）終日お持ち込み不可、アレルギーの為のお持ち込みに関しては事前にお知らせください。
+    - text: 近所での夕食ご予約オススメ；ロッジでんべえ 0269−85ー3838
+    - text: ロッジハーネンカム 0269−85ー3504
+    - text: ※近所での夕食ご予約は直接お問合せください。
+    - text: 火曜、水曜どうしても外出が困難な場合はお弁当（時価）予約を承りますので、
+    - text: 食べたい日の前日までにフロントへお申し付けください。
+    - text: （尚、お弁当ご予約は火曜水曜に限る）
+    - text: その他徒歩15分で村内のメイン通り周辺にも沢山飲食店があります。
+    - generic: キャンセルについて；
+    - generic: ご宿泊が12月〜5月までの期間のご予約は一度お支払い頂いた宿泊費は全額返金不可
+    - generic: お支払い後の御予約日の変更、お日にちのずらし（宿泊日をずらした場合は新たに料金がかかります。）や宿泊数を減らす場合でも、お支払い頂いた御宿泊代の全額は如何なる理由でもお支払い頂いた直後でも100％戻りません。必ずご承知の上お支払いください。
+    - text: 旅のご予定が確定してからのご予約や旅行保険加入等をお勧め致します。
+    - text: 夕食を事前にご予約後、夕食をキャンセルする場合はチェックイン当日より14日以前にご連絡頂けたら、
+    - text: 夕食代金をご返金いたします。チェックイン当日より14日以内のキャンセルは全額返金不可となりますのでご承知おきください。
+    - text: ※キャンセルをする場合は必ずメールからもご連絡をお願い致します。
+    - generic: 時間について；
+    - generic: チェックイン 15：00〜20：00まで（時間外はご相談ください。）
+  - paragraph:
+    - text: チェックアウト 10：00
+    - text: 朝食 7：30〜8：30（提供終了時間）まで 9：00クローズ
+    - text: 夕食 事前予約制、木曜〜月曜18：00スタート（開始時間変更不可）
+    - text: （火曜、水曜ディナー休み、火水曜バー19：30クローズ）
+    - text: 男女別共同風呂 15：00〜22：00まで（時間外の利用不可）
+    - text: 消灯 22:00
+    - text: ＊火曜、水曜のキッチンクローズ日は19：30にレストラン、バーフロアを閉めさせていただきます。
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph
+  - paragraph:
+    - generic: 2026-2027 Reservation
+    - text: Please confirm all info, then If you would like to make a reservation, please let us know again.
+    - text: Our pension is. ．． ．．
+    - text: Located in the middle of Nozawa Onsen ski resort.
+    - text: Of course, it's a perfect ski-in/ski-out location.
+    - text: Therefore, it is located far away from the parking lot and bus stop where customers park.
+    - text: When checking in/out,
+    - text: If you are arriving by bus or taxi, please use the Yu Road (moving walkway/free of charge).
+    - text: It takes about 5 minutes to walk from the Yu Road drop off point to the pension, but the path from the drop off point involves walking on compacted snow.
+    - text: If it is inconvenient, please call us before riding the Yu Road.
+    - text: We will pick you up at the Yu Road drop off point.
+    - text: Please contact us if you have difficulty walking due to bad weather, a lot of luggage, elderly people, or small children.
+    - text: If you are coming by car, please park your car at Karasawa 2nd Parking Lot in the village.
+    - text: After that, please call us and we will come to pick you up.
+    - text: ( Phone call acceptance start time 7:30 to 20:00, please contact us if you would like to check in for out of hours)
+    - text: (If you know your arrival time in advance, we may be able to pick you up more smoothly if you let us know in advance.)
+    - text: If you leave something behind in your car, we will not be able to pick you up again. Please be careful when transferring to the pension shuttle car.
+    - text: Check-out transfer time (7:30 to 15:00)
+    - text: In accordance with Nozawa Onsen Ski Resort's policy, we have to refrain from using snow vehicles as much as possible.
+    - text: We apologize for the inconvenience, but if you wish to go to the hot spring town during your stay, you will have to use the walking path (moving walkway/operates only during the day/free of charge), and walk after evening (about 15 minutes downhill/about 20 minutes uphill on the way back). Thank you for your understanding and cooperation.
+    - text: "*If you request emergency transportation due to injury or illness, a one-way fee of 6,000 yen will be charged."
+    - text: (From Dec 2027, there will be a charge for snow transportation at check-in/check-out.)
+    - text: We will do our best to provide transportation, but it takes at least 30 minutes round trip, so you may have to wait.
+    - text: We apologize for any inconvenience this may cause due to our unique location, and appreciate your understanding.
+    - text: Regarding reservation timing;
+    - text: Reservations for 5 nights or more will begin in middle of June.
+    - text: Reservation for 4 nights, reservations are accepted from 4 months prior to the date of your checkin.
+    - text: Reservation for 3 nights, reservations are accepted from 3 months prior to the date of your checkin.
+    - text: Reservation for 2 nights, reservations are accepted from 2 months prior to the date of your checkin.
+    - text: Reservation for 1 night, reservations are accepted from 1 month prior to the date of your checkin.
+    - generic: Regarding accommodation fees;
+    - text: Our plan is B&B plan, Reservations are confirmed upon full payment of accommodation fees in
+    - text: advance. If you would like to have dinner, please make a reservation in advance.
+    - text: Only customers who can pay by Wise or PayPal are accepted.
+    - text: There is a discount for consecutive stays from the 5th day of your stay, with a discount of 500 yen per person (4 years old and above) per night.
+    - text: For accommodations at Nozawa Onsen, an accommodation tax of 3.5% will be charged from June 1, 2026.
+    - generic: Regarding our dinner;
+    - text: Available five days a week from Thursday to Monday by prior reservation only.
+    - text: (Our dinner is all homemade so, we need time to prepare in advance.)
+    - text: Available to our hotel guests only.
+    - text: Closed for dinner on Tuesdays and Wednesdays .
+    - text: (Except December 29th and 30th)
+    - text: Full size dinner 6000yen(special price) per person.
+    - text: (Additional charge of 1,500 yen per person for allergies, vegetarians, vegans, and other requests for ingredient changes, please let us know at your dinner reservation timing.)
+    - text: Child simple one plate 3500yen per person.
+    - text: No meals only seat charge 1500yen, 0~3 yo for fee seat charge.
+    - text: Dinner is a daily course meal which includes an entrée, a soup, a main dish and dessert. The dinner changes daily, is decided by the chef and is the same for all guests staying at the pension. Though the guests cannot choose the menu, we accommodate requests for allergies, vegetarians and begans or If you would like to change ingredients, please tell us when you make a dinner reservation. (+1500yen=irregular)
+    - text: If you wish to make a dinner reservation, please make the reservation at least 14 days prior to the day of check-in. We may not be able to accept your reservation if it is less than 14 days prior.
+    - text: "*Drinks and food (including light meals, snacks, and sweets) cannot be brought into the restaurant or bar floor throughout the day. Please let us know in advance if you have allergies."
+    - text: Recommendations for making dinner reservations nearby
+    - text: Lodge Denbey(Local); Tel 0269-85-3838 or
+    - link "https://nozawa-denbey.com/en/":
+      - /url: https://nozawa-denbey.com/en/
+    - text: Lodge Hahnenkamm(Local); Tel 0269-85-3504 or
+    - link "https://www.hahnenkamm.jp/":
+      - /url: https://www.hahnenkamm.jp/
+    - text: "* For dinner reservations, please contact the restaurants directly."
+    - text: If you are unable to go out on Tuesdays and Wednesdays when the kitchen is closed, we will accept reservations for bento boxes (at current prices), so please contact the front desk at least one day in advance of the day you would like to eat. (Reservations for bento boxes are limited to Tuesdays and Wednesdays)
+    - text: There are also many other restaurants within a 15-minute walk of the main street in the village.
+    - generic: Regarding cancellation;
+    - text: Your reservation period from December to May, all accommodation fees once paid are non-refundable.
+    - text: Even if you change your reservation date, move the date(If you change your stay date or check in date, the new room rate will be charged.), or reduce the number of nights you stay after payment, the full amount of your accommodation fee will not be refunded for any reason, even immediately after payment.
+    - text: If you wish to change the date of your reservation after payment,
+    - text: you will have to pay again for the new date as a new reservation.
+    - text: Please be aware of this before making your payment.
+    - text: "*If you wish to cancel, please be sure to contact us by email."
+    - text: Please make your reservation only after your travel plans are confirmed. Advance booking fees are non-refundable, so we recommend you take out travel insurance.
+    - text: If you have made a reservation for dinner in advance and wish to cancel, please contact us 14 days prior to your check-in date. In that case, we will refund the dinner fee. Please note that if you cancel within 14 days of your check-in date, the full amount will not be refunded.
+    - text: Regarding our timetable;
+    - text: Check in; 15:00~20:00(please contact us if it is out of hours)
+    - text: Check out; 10:00
+    - text: Breakfast; 7:30~8:30(Food service fin) 9:00 closed
+    - text: Dinner(It needs reservation in advance ); Thursday to Monday
+    - text: Dinner starts at 18:00 (start time cannot be changed)
+    - text: Tuesday and Wednesday dinner closes and bar 19:30 close
+    - text: Separate shared baths(It is not Onsen) for men and women; 15:00~22:00(Not available after hours)
+    - text: Lights out 22:00
+    - text: "*Restaurant and bar floor will lights out at 19:30 on Tuesday and Wednesday (kitchen close day)"
+  - paragraph
+  - heading "アクセス ACCESS" [level=2]:
+    - generic: アクセス ACCESS
+  - paragraph:
+    - generic: お車でお越しのお客様
+  - paragraph
+  - paragraph:
+    - generic: 夏季
+    - text: ・・・お車でシュネーまでお越しいただけます。駐車場無料。
+  - paragraph
+  - paragraph:
+    - generic: 冬季
+    - text: ・・・スキー場の中に位置するため、スキー場の柄沢第二駐車場にお停め下さい。(料金別途 ¥1500/泊、２泊目よりプラス¥500 2024年)
+  - paragraph:
+    - generic: こちらより、キャタピラの車かスノーモービルでお迎えにあがります。
+  - paragraph:
+    - generic: 駐車場にご到着する約15分前にお電話いただくとスムーズです。
+  - paragraph:
+    - generic: お電話いただいた際に、どのように送迎するか。混み具合、待ち時間などお伝えいたします。
+  - paragraph:
+    - generic: スキー場を通るため、お時間掛かりますのでご了承ください。
+  - paragraph
+  - paragraph
+  - paragraph:
+    - generic: 新幹線でお越しのお客様
+  - paragraph
+  - paragraph:
+    - generic: 飯山駅より「野沢温泉ライナー」をお使い下さい。
+  - paragraph
+  - paragraph:
+    - generic: 夏季
+    - text: ・・・バス停終点野沢温泉までお越しください。
+  - paragraph:
+    - generic: 夏季でも、遊ろーど（動く歩道）が動いている場合がございます。
+  - paragraph:
+    - generic: お荷物少ない場合、温泉街散策を兼ねて歩いて来られる場合15分〜20分ほどで着きます。
+  - paragraph:
+    - generic: お電話いただきましたら、お迎えにあがります。
+  - paragraph
+  - paragraph:
+    - generic: 冬季
+    - text: ・・・
+    - generic: バス停終点野沢温泉に着きましたら、温泉街を散策しながら、遊ろーどという動く歩道をお使い下さい。
+  - paragraph:
+    - generic: 遊ろーどを使う場合、ちょうど温泉街の中心を歩いて来れます。
+  - paragraph:
+    - generic: お身体が不自由な方、高齢者の方などはお迎えに上がりますので、お電話ください。
+  - paragraph:
+    - generic: その際、野沢温泉ライナーに乗る前にお電話ください。
+  - paragraph:
+    - generic: その場合は、バス停はN2の「新田」（しんでん）というバス停でお降りください。
+  - paragraph
+  - paragraph:
+    - generic: ＊冬の送迎は、チェックイン・アウトの際しかできませんので、ご了承ください。
+  - paragraph
+  - paragraph:
+    - generic: ＊冬季、宅急便をお使いの方は、1日1回のみの集荷となるため、最低でも、前の日には着くようにお送りください。
+  - paragraph
+  - paragraph:
+    - generic: ご不明な点などありましたら、ご連絡ください。
+  - paragraph:
+    - generic: ADDRESS
+  - paragraph
+  - paragraph: 〒389-2502 長野県下高井郡野沢温泉村豊郷8276
+  - paragraph: 8276 Nozawaonsen Simotakai-gun Nagano
+  - paragraph:
+    - link "pensionschnee@yahoo.co.jp":
+      - /url: mailto:pensionschnee@yahoo.co.jp
+  - paragraph: "Tel: 0269-85-2012, Fax: 0269-85-3281"
+  - paragraph: お車でお越しの場合
+  - paragraph:
+    - generic: 冬の駐車場 Winter season Parking
+  - paragraph:
+    - generic: 柄沢第二駐車場 Karasawa 2nd Parking
+  - paragraph:
+    - generic: すみませんが、スキー場の駐車場のため別途料金かかります。
+  - paragraph:
+    - generic: (料金別途 ¥1500/泊、２泊目よりプラス¥500 2024
+    - generic: 年)
+- contentinfo:
+  - paragraph:
+    - 'link "TEL: 0269-85-2012"':
+      - /url: tel:0269852012
+      - generic: "TEL: 0269-85-2012"
+  - paragraph:
+    - 'link "E-MAIL: pensionschnee@yahoo.co.jp"':
+      - /url: mailto:pensionschnee@yahoo.co.jp
+      - generic: "E-MAIL: pensionschnee@yahoo.co.jp"
+- region "bottom of page"

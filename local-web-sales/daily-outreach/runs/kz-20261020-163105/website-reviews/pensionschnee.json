@@ -1,0 +1,57 @@
+{
+  "company": "ペンション シュネー",
+  "industry": "ペンション",
+  "region": "長野県野沢温泉村",
+  "email": "pensionschnee@yahoo.co.jp",
+  "email_source": "https://pensionschnee.wixsite.com/mysite 全ページヘッダー・フッター一般メール、客室ページで詳細・質問受付",
+  "website_url": "https://pensionschnee.wixsite.com/mysite",
+  "discovery_source": "https://nozawakanko.jp/spot/spot-0-194/",
+  "checked_at": "2026-11-01T20:04:12.543Z",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 34,
+    "url": "https://www.google.com/maps/search/ペンションシュネー+野沢温泉",
+    "identity": "公式URL・名称・野沢温泉村豊郷8276・0269-85-2012一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://pensionschnee.wixsite.com/mysite",
+    "https://pensionschnee.wixsite.com/mysite/the-room",
+    "https://pensionschnee.wixsite.com/mysite/ご予約はこちら"
+  ],
+  "review_checks": [
+    "390pxで予約案内が右側に大幅に切れ、1280pxで全文表示。",
+    "Reserveのリンクと一般メール・電話を確認。",
+    "客室・施設の特徴、所在地と連絡先を確認。",
+    "写真と内部ナビが表示。別モバイル版の案内なし。",
+    "予約はメールを優先。メールが難しい方のみ電話。予約方法自体を問題にしない。",
+    "2026-27冬の案内あり。前払い入金確認後予約確定、返金不可などの条件を変えない。外部紹介の決済方法等より公式現行案内優先。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://pensionschnee.wixsite.com/mysite/ご予約はこちら",
+      "viewport_width": 390,
+      "observation": "ご予約ページを幅390pxで表示すると、メールでの予約方法や前払いに関する説明文が画面の右側で切れ、全文を一度に読めない状態",
+      "proposal": "メール予約の方法と予約前の注意書きをスマートフォンの幅に合わせて折り返し、縦に読み進められる構成にする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/pensionschnee/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・社名・固有ホスト0件。台帳・失敗宛先一致なし。公開一般メール確認。営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "施設紹介と宿泊案内の情報分類のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "予約連絡手段と利用注意の分類のみ参考。他施設の条件を転用しない。"
+    }
+  ]
+}
