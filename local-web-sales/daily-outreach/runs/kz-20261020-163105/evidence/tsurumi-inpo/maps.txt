@@ -1,0 +1,336 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 金沢のはんこ屋－ツルミ印舗
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "金沢のはんこ屋－ツルミ印舗":
+      - generic: 金沢のはんこ屋－ツルミ印舗
+    - button "10 か所 東京 & さいたま市":
+      - generic "10 か所": "10"
+      - generic: 東京 & さいたま市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "金沢のはんこ屋－ツルミ印舗":
+    - 'button "写真: 金沢のはんこ屋－ツルミ印舗" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "金沢のはんこ屋－ツルミ印舗" [level=1]: 金沢のはんこ屋－ツルミ印舗
+    - text: "5.0"
+    - img "5.0 つ星"
+    - img "28 件のクチコミ": (28)
+    - button "印鑑・はんこ販売店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "金沢のはんこ屋－ツルミ印舗 の概要" [selected]:
+        - generic: 概要
+      - tab "金沢のはんこ屋－ツルミ印舗 のクチコミ":
+        - generic: クチコミ
+      - tab "「金沢のはんこ屋－ツルミ印舗」について":
+        - generic: 基本情報
+    - region "金沢のはんこ屋－ツルミ印舗 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "金沢のはんこ屋－ツルミ印舗 の情報":
+      - 'button "住所: 〒920-0864 石川県金沢市高岡町２３−２１"':
+        - generic: 
+        - generic: 〒920-0864 石川県金沢市高岡町２３−２１
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 9:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 9:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: i-hankoya.co.jp"':
+        - /url: https://www.i-hankoya.co.jp/
+        - generic: 
+        - generic: i-hankoya.co.jp
+      - link "ウェブサイトを開きます":
+        - /url: https://www.i-hankoya.co.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 076-221-3451"':
+        - generic: 
+        - generic: 076-221-3451
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0762213451
+        - generic: 
+      - 'button "Plus Code: HMC2+3W 金沢市、石川県"':
+        - generic: 
+        - generic: HMC2+3W 金沢市、石川県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - generic: LGBTQ フレンドリー
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「金沢のはんこ屋－ツルミ印舗」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 27 件": "5"
+        - img "4 つ星、クチコミ 1 件": "4"
+        - img "3 つ星、クチコミ 0 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "5.0"
+    - img "5.0 つ星"
+    - button "28 件のクチコミ":
+      - generic: 28 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"オンラインショップもありますが、数が少ないので相談すれば無い物も作ってくれます。\""':
+      - /url: https://www.google.com/maps/contrib/117798047839792578598?hl=ja-JP
+    - button "\"オンラインショップもありますが、数が少ないので相談すれば無い物も作ってくれます。\"":
+      - generic: "\"オンラインショップもありますが、数が少ないので相談すれば無い物も作ってくれます。\""
+    - 'link "次のクチコミ投稿者の写真: \"20年ぶりぐらいに行きましたが、先代のおじいちゃん同様とても気さくな方でした。\""':
+      - /url: https://www.google.com/maps/contrib/104138175932012229058?hl=ja-JP
+    - button "\"20年ぶりぐらいに行きましたが、先代のおじいちゃん同様とても気さくな方でした。\"":
+      - generic: "\"20年ぶりぐらいに行きましたが、先代のおじいちゃん同様とても気さくな方でした。\""
+    - 'link "次のクチコミ投稿者の写真: \"誠実、実直な人柄に好感が持てます❗️ 今後も宜しく願います。\""':
+      - /url: https://www.google.com/maps/contrib/101729372776984660091?hl=ja-JP
+    - button "\"誠実、実直な人柄に好感が持てます❗️ 今後も宜しく願います。\"":
+      - generic: "\"誠実、実直な人柄に好感が持てます❗️ 今後も宜しく願います。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "選択: 3 件のクチコミで言及。"':
+        - generic: 選択
+        - generic: "3"
+      - 'radio "名前: 3 件のクチコミで言及。"':
+        - generic: 名前
+        - generic: "3"
+      - 'radio "お土産: 2 件のクチコミで言及。"':
+        - generic: お土産
+        - generic: "2"
+      - 'radio "経験: 2 件のクチコミで言及。"':
+        - generic: 経験
+        - generic: "2"
+      - 'radio "日本における漢字: 2 件のクチコミで言及。"':
+        - generic: 日本における漢字
+        - generic: "2"
+    - generic "よし坊":
+      - button "よし坊 の写真"
+      - button "よし坊 3 件のクチコミ":
+        - generic: よし坊
+        - generic: 3 件のクチコミ
+      - button "よし坊 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - text: ネットショップで息子(次男)の実印を購入しました。 長男の実印をこちらで購入した時の印象・商品がすごく良かったので次男の分もこちらでお願いしました。 今回の印鑑もとても良い印鑑でした。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "よし坊 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: 本日はコメントをいただいてありがとうございます。 以前よりご依頼いただいてまして重ねて御礼申し上げます。今回もお気に召していただけて嬉しいです。 ハガキの有効期限について教えていただき失礼しました。更新が先月で切れていました、申し訳ありません。即更新手続きを行います。
+    - generic "阿羅美奈子":
+      - button "阿羅美奈子 の写真"
+      - button "阿羅美奈子 1 件のクチコミ":
+        - generic: 阿羅美奈子
+        - generic: 1 件のクチコミ
+      - button "阿羅美奈子 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 年前
+      - generic: 大変丁寧て優しく対応して頂きました。実印のことを相談させて頂いたところ、亡くなった父の実印はそのまま使えると教えてくださり、利益第一主義ではなく、私達の立場に立って接客して下さる姿勢が嬉しかったです。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "阿羅美奈子 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 1 年前
+      - generic: この度は当店のご利用いただきまして誠にありがとうございます。実印は即必要になるケースが多いためいろいろご提案させていただきましたが、説明が長くなってしまい失礼しました。今後ともはんこの事なら何なりとご相談くださいませ。メッセージいただいて嬉しいです。
+    - generic "小島昭人":
+      - button "小島昭人 の写真"
+      - button "小島昭人 ローカルガイド · 34 件のクチコミ · 26 枚の写真":
+        - generic: 小島昭人
+        - generic: ローカルガイド · 34 件のクチコミ · 26 枚の写真
+      - button "小島昭人 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - text: 印鑑登録する際での一コマ。 「ほんの少しだけ欠けているので、このハンコでは登録出来ませんね。」と職員説明。ムッとしましたが、決まり事ですから仕方のないこと。 ツルミ印舗店主にお尋ねしたところ、「この名前は既製品ではありませんが、600円で40分頂ければお作りしますよ。」と神対応！ …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "小島昭人 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+      - generic: オーナーからの返信 2 年前
+      - generic: この度は当店をご利用いただきましてありがとうございます。また、ご対応させていただいた内容をお気に召していただいて私共も嬉しいです。彫る職人がタイミング良く手すきの時で良かったです。出来るだけの事をさせていただいた限りです。印鑑でお困りあればご連絡くださいませ。
+    - button "その他のクチコミ (25)":
+      - generic: その他のクチコミ (25)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "はんこ屋はんず·5.0 つ星·クチコミ 5 件·印鑑・はんこ販売店":
+      - generic: はんこ屋はんず
+      - img "5.0 つ星 クチコミ 5 件":
+        - text: "5.0"
+        - text: (5)
+      - generic: 印鑑・はんこ販売店
+    - link "白鶴堂 細字印判店·4.6 つ星·クチコミ 10 件·印鑑・はんこ販売店":
+      - generic: 白鶴堂 細字印判店
+      - img "4.6 つ星 クチコミ 10 件":
+        - text: "4.6"
+        - text: (10)
+      - generic: 印鑑・はんこ販売店
+    - link "はんこ屋さん21 金沢店·4.6 つ星·クチコミ 11 件·印鑑・はんこ販売店":
+      - generic: はんこ屋さん21 金沢店
+      - img "4.6 つ星 クチコミ 11 件":
+        - text: "4.6"
+        - text: (11)
+      - generic: 印鑑・はんこ販売店
+    - link "塩屋印房·5.0 つ星·クチコミ 95 件·印鑑・はんこ販売店":
+      - generic: 塩屋印房
+      - img "5.0 つ星 クチコミ 95 件":
+        - text: "5.0"
+        - text: (95)
+      - generic: 印鑑・はんこ販売店
+    - link "水井印判店·5.0 つ星·クチコミ 1 件·印鑑・はんこ販売店":
+      - generic: 水井印判店
+      - img "5.0 つ星 クチコミ 1 件":
+        - text: "5.0"
+        - text: (1)
+      - generic: 印鑑・はんこ販売店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

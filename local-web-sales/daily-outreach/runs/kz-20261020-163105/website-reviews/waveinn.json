@@ -1,0 +1,86 @@
+{
+  "company": "ペンション ウェーブイン",
+  "industry": "宿泊・ペンション",
+  "region": "静岡県伊東市",
+  "email": "info@waveinn.jp",
+  "email_source": "https://waveinn.jp/",
+  "website_url": "https://waveinn.jp/",
+  "discovery_source": "https://itospa.com/stay/detail_54097.html",
+  "checked_at": "2026-11-01T14:08:38.844Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 35,
+    "url": "https://www.google.com/maps/search/?api=1&query=ウェーブイン+伊東市",
+    "identity": "伊東市八幡野1276-66、0557-54-3999、公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://waveinn.jp/",
+    "service": "https://waveinn.jp/cooking.html",
+    "contact": "https://waveinn.jp/reserve.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで本文912px、予約案内の右側が画面外。1280pxでは収まる。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "一般問い合わせのメール・電話をトップで確認。予約ページにも同じ連絡先。"
+    },
+    {
+      "item": 3,
+      "result": "夕朝食付・朝食付・素泊まり、住所、電話確認。"
+    },
+    {
+      "item": 4,
+      "result": "3ページと画像の読込完了を確認。初期未読込画像は問題扱いせず。"
+    },
+    {
+      "item": 5,
+      "result": "電話・メール・オンライン予約を維持。予約は返信まで未確定の案内あり。"
+    },
+    {
+      "item": 6,
+      "result": "Maps営業・観光協会掲載一致。ページの自動更新時刻は更新実績扱いしない。営業拒否表記なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://waveinn.jp/reserve.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして料金・ご予約ページを拝見すると、案内の本文が画面幅を超え、宿泊料金や利用案内の右側が画面外に隠れていました。",
+      "proposal": "狭い画面では宿泊プランと予約案内を縦に並べ、電話・メールの連絡先まで横に移動せず読める配置に整える",
+      "evidence_path": "evidence/waveinn/reserve-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "waveinn.jp",
+      "ウェーブイン"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://marinemates.co.jp/",
+      "note": "料理・客室・予約の項目整理を参照。表現や画像は転用しない。"
+    },
+    {
+      "url": "https://www.amagiji.com/",
+      "note": "施設紹介・宿泊プラン・アクセス・予約の情報分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://itospa.com/stay/detail_54097.html",
+    "https://b-izu.com/spot/post-11045/"
+  ]
+}

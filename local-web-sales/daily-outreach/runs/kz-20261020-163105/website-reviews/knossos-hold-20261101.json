@@ -1,0 +1,9 @@
+{
+  "company": "ペンション クノッソス",
+  "website_url": "https://www.knossos.jp/",
+  "checked_at": "2026-11-01T14:11:40.340935+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "ブラウザDNS解決不能。表示未確認のため保留。",
+  "findings": []
+}
