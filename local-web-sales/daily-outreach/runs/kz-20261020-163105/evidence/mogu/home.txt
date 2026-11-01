@@ -1,0 +1,188 @@
+- paragraph:
+  - link "welcome to moguhome":
+    - /url: index.html
+    - img "welcome to moguhome"
+  - img "もぐ"
+  - strong: ペンション
+  - strong: もぐ
+- paragraph:
+  - paragraph:
+    - link "Google":
+      - /url: https://www.google.co.jp/
+      - img "Google"
+    - textbox
+    - button "検索"
+  - iframe:
+    - link "このエントリーをはてなブックマークに追加 (1 user)":
+      - /url: https://b.hatena.ne.jp/entry/panel/?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+    - link "1":
+      - /url: https://b.hatena.ne.jp/entry?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+  - iframe
+  - iframe [id="I0_1793557014397"] [name="I0_1793557014397"]
+- paragraph:
+  - img "kurohime.delightful place"
+- paragraph:
+  - emphasis: HOME
+- heading "happa.png黒姫高原 ペンションもぐ で素敵な休日を・・" [level=2]:
+  - img "happa.png"
+  - text: 黒姫高原 ペンションもぐ で素敵な休日を・・
+- paragraph
+- paragraph:
+  - link "黒姫高原ペンションもぐのご案内":
+    - /url: mogu.html
+    - img "黒姫高原ペンションもぐのご案内"
+  - text: 信州・黒姫高原の宿 ペンションもぐは、黒姫童話館やコスモス園近くの高台に建つアットホームなペンションです。 ゆったりとくつろいだ休日を過ごしていただける様、さりげなくきめ細かなおもてなしを心がけています。
+  - text: 四季折々に美しい黒姫の自然を、さわやかな高原の風を、もぐでぜひ味わってみて下さい。
+- table:
+  - rowgroup:
+    - row "ペンションもぐのお食事 地元の食材を生かした料理はボリューム満点。四季折々の味を洋風コース料理でお楽しみ下さい。 ペンションもぐ周辺の観光 黒姫童話館やコスモス園は、もぐからのお散歩コース。冬はゲレンデ間近の便利さも魅力！ ペンションもぐのブログ もぐと黒姫高原の出来事やお役立ち情報を、気ままに書きつづっています。":
+      - cell "ペンションもぐのお食事 地元の食材を生かした料理はボリューム満点。四季折々の味を洋風コース料理でお楽しみ下さい。":
+        - paragraph:
+          - link "ペンションもぐのお食事":
+            - /url: dinner.html
+            - img "ペンションもぐのお食事"
+        - paragraph: 地元の食材を生かした料理はボリューム満点。四季折々の味を洋風コース料理でお楽しみ下さい。
+      - cell "ペンションもぐ周辺の観光 黒姫童話館やコスモス園は、もぐからのお散歩コース。冬はゲレンデ間近の便利さも魅力！":
+        - paragraph:
+          - link "ペンションもぐ周辺の観光":
+            - /url: location.html
+            - img "ペンションもぐ周辺の観光"
+        - paragraph: 黒姫童話館やコスモス園は、もぐからのお散歩コース。冬はゲレンデ間近の便利さも魅力！
+      - cell "ペンションもぐのブログ もぐと黒姫高原の出来事やお役立ち情報を、気ままに書きつづっています。":
+        - paragraph:
+          - link "ペンションもぐのブログ":
+            - /url: blog.html
+            - img "ペンションもぐのブログ"
+        - paragraph: もぐと黒姫高原の出来事やお役立ち情報を、気ままに書きつづっています。
+- paragraph:
+  - link:
+    - /url: calendar.html
+- paragraph:
+  - link:
+    - /url: https://smoothcontact.jp/front/output/7f00000171e658ed42d2e217e6ea7bf
+- paragraph:
+  - link:
+    - /url: mailto:mogu@a1.mbn.or.jp
+- paragraph:
+  - img "もぐ"
+  - text: TM
+- paragraph
+- list:
+  - link "2026.03.26 2026年6月1日より長野県宿泊税が導入されます。":
+    - /url: pg604.html#2026年3月26日宿泊税
+  - generic: NEW!
+  - link "2026.03.26 2026年4月1日より宿泊料金が改定になります。":
+    - /url: pg604.html#2025年3月26日料金
+  - generic: NEW!
+  - link "2023.03.23 ブログ更新しました。":
+    - /url: blog.html
+  - link "2011.07.24 「いいね!」ボタン付けました。ポチッとお願いします。(^_^)σ":
+    - /url: index.html
+  - listitem: 2011.06.01 ホームページ、リニューアルしました。
+- list:
+  - generic: ▶ HOME
+  - link "▶ ペンションもぐ のご案内":
+    - /url: mogu.html
+  - list:
+    - link "ご宿泊料金":
+      - /url: mogu.html#宿泊料金
+    - link "ご予約状況":
+      - /url: calendar.html
+    - link "ご予約・お問い合わせ":
+      - /url: reservation.html
+  - link "▶ もぐのお食事":
+    - /url: dinner.html
+  - link "▶ もぐ周辺の観光":
+    - /url: location.html
+  - link "▶ もぐのブログ":
+    - /url: blog.html
+  - link "▶ 交通のご案内":
+    - /url: access.html
+  - link "▶ Q & A":
+    - /url: faq.html
+  - link "▶ ペンションもぐからのお知らせ":
+    - /url: pg604.html
+- paragraph:
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+- paragraph:
+  - link:
+    - /url: pg608.html
+- paragraph:
+  - link "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています":
+    - /url: blog.html
+    - img "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています"
+- paragraph:
+  - link:
+    - /url: https://www.facebook.com/pages/ペンションもぐ/168117979921112
+  - link "result のコピー.png":
+    - /url: https://www.facebook.com/mogu.kurohime/timeline
+    - img "result のコピー.png"
+- paragraph
+- paragraph:
+  - link "黒姫童話館":
+    - /url: http://douwakan.com
+    - img "黒姫童話館"
+- paragraph:
+  - link "旬花咲く黒姫高原":
+    - /url: http://kurohime-kogen.co.jp/green/
+    - img "旬花咲く黒姫高原"
+- paragraph:
+  - link "信濃町 癒しの森":
+    - /url: http://iyashinomori.main.jp/
+    - img "信濃町 癒しの森"
+- paragraph:
+  - link "黒姫高原スノーパーク":
+    - /url: http://kurohime-kogen.co.jp/snow/
+    - img "黒姫高原スノーパーク"
+- paragraph:
+  - link "信濃町 癒しの森":
+    - /url: https://afanhorseproject.jp/
+    - img "信濃町 癒しの森"
+- paragraph:
+  - link "紅玉屋 やなぎさわ農園":
+    - /url: http://www.kougyokuya.jp/
+    - img "紅玉屋 やなぎさわ農園"
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - link:
+    - /url: mogu.html
+  - link:
+    - /url: calendar.html
+  - link:
+    - /url: reservation.html
+  - link:
+    - /url: dinner.html
+  - link:
+    - /url: location.html
+  - link:
+    - /url: access.html
+  - link:
+    - /url: blog.html
+  - link:
+    - /url: faq.html
+  - link:
+    - /url: pg604.html
+  - link:
+    - /url: pg608.html
+- paragraph
+- list:
+  - link "HOME":
+    - /url: index.html
+  - link "お問い合わせ":
+    - /url: mailto:mogu@a1.mbn.or.jp
+  - link "privacy pollicy":
+    - /url: privacy-pollicy/index.html
+  - link "宿泊約款":
+    - /url: privacy-pollicy/pg607.html
+- paragraph: Copyright (C) 2010 Atelier Mole. All Rights Reserved.
+- img "Bindicon_gry.gif"
+- iframe [id="oauth2relay346186939"] [name="oauth2relay346186939"]

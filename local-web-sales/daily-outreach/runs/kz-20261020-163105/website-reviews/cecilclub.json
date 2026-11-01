@@ -1,0 +1,17 @@
+{
+  "company": "ログペンションセシルクラブ",
+  "website_url": "https://cecilclub.com/",
+  "email": "cecilclub@gmail.com",
+  "checked_at": "2026-11-01T18:20:54.897Z",
+  "viewports_checked": [
+    390
+  ],
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxホームと末尾連絡先は画面内表示。検索抽出に出る編集テンプレート文はブラウザー可視DOMでは表示されず指摘にしない。埋込フォームはLoading表示で原因未確認のため不具合と断定しない。PC・予約ページの全確認は未実施。検証済み改善なしのため保留。",
+  "findings": [],
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0
+  }
+}

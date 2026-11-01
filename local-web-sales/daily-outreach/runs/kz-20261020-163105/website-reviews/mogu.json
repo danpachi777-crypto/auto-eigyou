@@ -1,0 +1,83 @@
+{
+  "company": "ペンションもぐ",
+  "industry": "宿泊施設",
+  "region": "長野県信濃町",
+  "email": "mogu@a1.mbn.or.jp",
+  "email_source": "http://mogu.p1.bindsite.jp/reservation.html",
+  "website_url": "http://mogu.p1.bindsite.jp/",
+  "discovery_source": "https://kurohime-kogen.jp/stayguide/index.html",
+  "checked_at": "2026-11-01T18:20:17.783Z",
+  "maps": {
+    "rating": 4.9,
+    "review_count": 16,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションもぐ+黒姫",
+    "identity": "公式ドメイン・0262555424一致。野尻3884-695は観光施設一覧とも一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "http://mogu.p1.bindsite.jp/",
+    "service": "http://mogu.p1.bindsite.jp/mogu.html",
+    "contact": "http://mogu.p1.bindsite.jp/reservation.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxご予約・お問い合わせの予約5日前まで/直前予約不可の案内文右端が画面外。1280px全文表示。ホーム・宿泊案内も横切れ。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "問い合わせmailto:mogu@a1.mbn.or.jp、電話0262555424。宿泊予約フォームと問い合わせメールを区別。返信1〜2営業日。"
+    },
+    {
+      "item": 3,
+      "result": "客室・料理・所在地・料金と2026年改定告知を確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要画像は表示。390px固定幅で別スマホ版リンクは閲覧範囲未検出。"
+    },
+    {
+      "item": 5,
+      "result": "5日前までの予約受付、直前不可という方針自体を不具合にしない。全文を読めるレイアウトのみ提案。フォーム送信なし。"
+    },
+    {
+      "item": 6,
+      "result": "2026年の更新を確認。年数や好みを問題にしない。営業拒否は閲覧範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://mogu.p1.bindsite.jp/reservation.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「ご予約・お問い合わせ」を拝見すると、予約受付の期限と直前の予約についての案内文が右側で画面外に出ており、そのままでは全文を確認できない状態でした。",
+      "proposal": "予約受付の条件と問い合わせ案内を画面幅に合わせて折り返し、スマートフォンでも横へ移動せず全文を読んで連絡方法を選べるようにする",
+      "evidence_path": "evidence/mogu/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "mogu.p1.bindsite.jp",
+      "mogu@a1.mbn.or.jp",
+      "ペンションもぐ"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://cecilclub.com/",
+      "note": "施設説明と予約・連絡先の分類のみ参考。現行ブラウザ確認。転載なし。"
+    },
+    {
+      "url": "https://pension-bernese.com/contact/",
+      "note": "問い合わせと宿泊案内の構造のみ参考。直前調査済み。転載なし。"
+    }
+  ]
+}

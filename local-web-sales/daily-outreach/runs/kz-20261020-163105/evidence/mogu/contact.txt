@@ -1,0 +1,161 @@
+- paragraph:
+  - link "welcome to moguhome":
+    - /url: index.html
+    - img "welcome to moguhome"
+  - img "もぐ"
+  - strong: ペンション
+  - strong: もぐ
+- paragraph:
+  - paragraph:
+    - link "Google":
+      - /url: https://www.google.co.jp/
+      - img "Google"
+    - textbox
+    - button "検索"
+  - iframe:
+    - link "このエントリーをはてなブックマークに追加 (1 user)":
+      - /url: https://b.hatena.ne.jp/entry/panel/?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+    - link "1":
+      - /url: https://b.hatena.ne.jp/entry?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+  - iframe
+  - iframe [id="I0_1793556939006"] [name="I0_1793556939006"]
+- paragraph:
+  - link "HOME":
+    - /url: index.html
+  - text: ">"
+  - emphasis: ご予約・お問い合わせ
+- paragraph:
+  - img "黒姫高原ペンションもぐのご予約・お問い合わせ"
+- paragraph: ペンションもぐのご宿泊をご検討いただきまして、ありがとうございます。ご不明な点やご宿泊に関してのご要望などございましたら、お気兼ねなくお問い合わせください。
+- paragraph:
+  - img "もぐ"
+  - link "▶ 空き室状況の確認はこちら":
+    - /url: calendar.html
+  - img "もぐ"
+- paragraph:
+  - text: ご予約の受付は
+  - strong: ５
+  - strong: 日前まで
+  - text: とさせていただいております。
+  - text: 直前のご予約はお受けしておりません。ご了承下さい。
+- heading "ご予約 & お問い合わせ" [level=3]
+- heading "ご予約はこちら" [level=4]
+- paragraph:
+  - link:
+    - /url: https://smoothcontact.jp/front/output/7f00000171e658ed42d2e217e6ea7bf
+- heading "お問い合わせはこちら" [level=4]
+- paragraph:
+  - link:
+    - /url: mailto:mogu@a1.mbn.or.jp
+  - text: ※ 返信までには１〜２営業日いただいております。あらかじめご了承ください。
+- heading "お電話はこちら" [level=4]
+- paragraph:
+  - strong: 026-255-5424
+  - text: お電話でのお問い合わせ・ご予約も受け付けております。
+  - text: お気軽にご利用ください。
+- heading "キャンセル規定" [level=3]
+- paragraph: お客様のご都合によりキャンセルされる場合には、キャンセル料を頂戴いたします。
+- list:
+  - listitem: ７日前〜２日前 ： ２０％
+  - listitem: 前 日 ： ５０％
+  - listitem: 当 日 ： １００％ （無連絡の不泊を含む）
+- heading "お支払い" [level=3]
+- paragraph: 宿泊料金のお支払いには「現金」「クレジットカード」がご利用いただけます。
+- paragraph:
+  - text: ＜取り扱いカード＞
+  - img "Screenshot_2019-11-24 クレジットカード 決済代行会社のJMS.png"
+  - img "Screenshot_2019-11-24 クレジットカード 決済代行会社のJMS(1).png"
+- paragraph:
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+- list:
+  - link "▶ HOME":
+    - /url: index.html
+  - link "▶ ペンションもぐ のご案内":
+    - /url: mogu.html
+  - list:
+    - link "ご宿泊料金":
+      - /url: mogu.html#宿泊料金
+    - link "ご予約状況":
+      - /url: calendar.html
+    - generic: ご予約・お問い合わせ
+  - link "▶ もぐのお食事":
+    - /url: dinner.html
+  - link "▶ もぐ周辺の観光":
+    - /url: location.html
+  - link "▶ もぐのブログ":
+    - /url: blog.html
+  - link "▶ 交通のご案内":
+    - /url: access.html
+  - link "▶ Q & A":
+    - /url: faq.html
+- paragraph:
+  - link "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています":
+    - /url: blog.html
+    - img "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています"
+- paragraph:
+  - link:
+    - /url: https://www.facebook.com/pages/ペンションもぐ/168117979921112
+  - link "result のコピー.png":
+    - /url: https://www.facebook.com/mogu.kurohime/timeline
+    - img "result のコピー.png"
+- paragraph
+- paragraph:
+  - link "黒姫童話館":
+    - /url: http://douwakan.com
+    - img "黒姫童話館"
+- paragraph:
+  - link "旬花咲く黒姫高原":
+    - /url: http://kurohime-kogen.co.jp/green/
+    - img "旬花咲く黒姫高原"
+- paragraph:
+  - link "信濃町 癒しの森":
+    - /url: http://iyashinomori.main.jp/
+    - img "信濃町 癒しの森"
+- paragraph:
+  - link "紅玉屋 やなぎさわ農園":
+    - /url: http://www.kougyokuya.jp/
+    - img "紅玉屋 やなぎさわ農園"
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - link:
+    - /url: index.html
+  - link:
+    - /url: mogu.html
+  - link:
+    - /url: calendar.html
+  - link:
+    - /url: dinner.html
+  - link:
+    - /url: location.html
+  - link:
+    - /url: access.html
+  - link:
+    - /url: blog.html
+  - link:
+    - /url: faq.html
+  - link:
+    - /url: pg604.html
+  - link:
+    - /url: pg608.html
+- paragraph
+- list:
+  - link "HOME":
+    - /url: index.html
+  - link "お問い合わせ":
+    - /url: mailto:mogu@a1.mbn.or.jp
+  - link "privacy pollicy":
+    - /url: privacy-pollicy/index.html
+  - link "宿泊約款":
+    - /url: privacy-pollicy/pg607.html
+- paragraph: Copyright (C) 2010 Atelier Mole. All Rights Reserved.
+- img "Bindicon_gry.gif"
+- iframe [id="oauth2relay368694596"] [name="oauth2relay368694596"]

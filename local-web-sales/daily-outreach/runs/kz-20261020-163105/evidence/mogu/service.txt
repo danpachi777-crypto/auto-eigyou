@@ -1,0 +1,278 @@
+- paragraph:
+  - link "welcome to moguhome":
+    - /url: index.html
+    - img "welcome to moguhome"
+  - img "もぐ"
+  - strong: ペンション
+  - strong: もぐ
+- paragraph:
+  - paragraph:
+    - link "Google":
+      - /url: https://www.google.co.jp/
+      - img "Google"
+    - textbox
+    - button "検索"
+  - iframe:
+    - link "このエントリーをはてなブックマークに追加 (1 user)":
+      - /url: https://b.hatena.ne.jp/entry/panel/?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+    - link "1":
+      - /url: https://b.hatena.ne.jp/entry?url=http%3A%2F%2Fmogu.p1.bindsite.jp#bbutton
+  - iframe
+  - iframe [id="I0_1793556986494"] [name="I0_1793556986494"]
+- paragraph:
+  - img "黒姫高原ペンションもぐのご案内"
+- paragraph:
+  - link "HOME":
+    - /url: index.html
+  - text: ">"
+  - emphasis: ご案内
+- heading "happa.png 小鳥のさえずりで目覚める、さわやかな高原の朝・・・" [level=2]:
+  - img "happa.png"
+  - text: 小鳥のさえずりで目覚める、さわやかな高原の朝・・・
+- heading "定員16名のアットホームな宿" [level=3]
+- heading "家庭的なおもてなし" [level=4]
+- paragraph:
+  - text: 客室数は５部屋。館内は白と茶を基調にした落ち着いた雰囲気です。
+  - text: ご家族でもお一人でもそれぞれに楽しんでいただけるよう、ゲームや絵本、コミックの他、黒姫ゆかりの著者の作品や庭の草花のアルバムなどもご用意しています。ダイニングルーム、プレイルーム、テレビルーム、ゲストルーム、お好きな場所でお楽しみ下さい。
+  - img "ペンションもぐの客室"
+  - generic: 写真は４人部屋です。
+- paragraph:
+  - img "ペンションもぐの食堂"
+- heading "豊かな自然に囲まれた静かな高原の宿" [level=4]
+- paragraph:
+  - text: さわやかな朝のひとときは、季節の草花に彩られた庭を眺めるもよし•••木もれ陽の下で深呼吸するもよし•••
+  - text: 緑のトンネルを抜ければ黒姫高原を一望するすばらしい景色にも出会えます。
+  - text: しばし都会の喧騒を忘れ、くつろぎと憩いの時間をお過ごし下さい。
+- heading "ご宿泊料金" [level=3]
+- heading "お一人様1泊2食付き（税込み）" [level=4]
+- paragraph
+- table:
+  - rowgroup:
+    - row "大人 ※1 小学生 幼児 ※2.※3":
+      - cell:
+        - strong
+      - cell "大人 ※1":
+        - strong: 大人 ※1
+        - strong
+      - cell "小学生":
+        - strong: 小学生
+      - cell "幼児 ※2.※3":
+        - strong: 幼児 ※2.
+        - text: ※
+        - strong: "3"
+    - row "4月1日〜11月30日 9,800 円 8,000 円 6,000 円":
+      - cell "4月1日〜11月30日":
+        - strong: 4月1日〜11月30日
+      - cell "9,800 円":
+        - strong:
+          - generic: 9,800 円
+      - cell "8,000 円":
+        - strong: 8,000 円
+      - cell "6,000 円":
+        - strong: 6,000 円
+    - row "12月1日〜3月31日 10,300 円 8,500 円 6,500 円":
+      - cell "12月1日〜3月31日":
+        - strong: 12月1日〜3月31日
+      - cell "10,300 円":
+        - strong: 10,300 円
+      - cell "8,500 円":
+        - strong: 8,500 円
+      - cell "6,500 円":
+        - strong: 6,500 円
+    - row "12月31日 11,800 円 10,000 円 8,000 円":
+      - cell "12月31日":
+        - strong:
+          - strong: 12月31日
+      - cell "11,800 円":
+        - strong: 11,800 円
+      - cell "10,000 円":
+        - strong: 10,000 円
+      - cell "8,000 円":
+        - strong: 8,000 円
+- paragraph: ２０２６年４月１日改定
+- paragraph
+- paragraph:
+  - text: ※1. １名様で１室ご利用の場合、2,000円増となります。
+  - text: （尚、12月31日は１名様で１室ご利用のご宿泊はお受けしておりません。）
+  - text: ※2. ベッド・お食事共に必要無い場合は無料です。
+  - text: ※3. お食事のみ必要な場合は3,300円(12月31日は4,000円)でご用意いたします。
+- paragraph
+- paragraph:
+  - img "ライン（黄花）.GIF"
+  - text: ペンションもぐは「信州信濃町 癒しの森の宿」として、
+  - text: 癒しの森を訪れるお客様のご宿泊にもご利用いただけます。
+  - text: 【癒しの森の宿ご宿泊料金】
+  - text: お一人様1泊2食付き（税込み）
+  - text: ４月１日〜１１月３０日 １１，５００円（２名様以上１室）
+  - text: １３，８００円（１名様１室）
+  - text: １２月１日〜３月３１日 １２，０００円（２名様以上１室）
+  - text: １４，３００円（１名様１室）
+  - text: （但し、１２月２４日〜１月４日は癒しの森の宿のご宿泊はお受けしておりません。）
+  - link "信州信濃町「癒しの森」ホームページ内「癒しの森の宿」はこちらLinkIcon":
+    - /url: http://iyashinomori.main.jp/yado/
+    - text: 信州信濃町「癒しの森」ホームページ内「癒しの森の宿」はこちら
+    - img "LinkIcon"
+  - text: お申し込みの際には「癒しの森の宿希望」とお知らせください。
+  - text: 尚、癒しの森の宿としてご利用いただけない日もございます。
+  - text: 詳しくはお問い合わせください。
+  - img "ライン（黄花）.GIF"
+- paragraph
+- heading "キャンセル規定" [level=3]
+- paragraph: お客様のご都合によりキャンセルされる場合には、キャンセル料を頂戴いたします。
+- list:
+  - listitem: ７日前〜２日前 ： ２０％
+  - listitem: 前 日 ： ５０％
+  - listitem: 当 日 ： １００％ （無連絡の不泊を含む）
+- heading "お支払い" [level=3]
+- heading "宿泊料金のお支払いには、「現金」「クレジットカード」がご利用いただけます。" [level=4]
+- paragraph:
+  - strong: ＜取り扱いカード＞
+  - img "Screenshot_2019-11-24 クレジットカード 決済代行会社のJMS.png"
+  - img "Screenshot_2019-11-24 クレジットカード 決済代行会社のJMS(1).png"
+- heading "施設のご紹介" [level=3]
+- table:
+  - rowgroup:
+    - row "ペンションもぐ外観 緑に囲まれた高原の高台に位置するペンションもぐ ペンションもぐキッズルーム お子様向けビデオやコミックをそろえたテレビルーム ペンションもぐゲストルーム 白と茶を基調にした落ち着いた雰囲気のゲストルーム ペンションもぐバスルーム 家族でご入浴できる大きめのお風呂 ペンションもぐダイニングルーム 広くゆったりとした明るいダイニングルーム ペンションもぐ洗面所 清潔な洗面所 ペンションもぐプレイルーム 薪ストーブの炎がゆれるプレイルーム":
+      - cell "ペンションもぐ外観 緑に囲まれた高原の高台に位置するペンションもぐ ペンションもぐキッズルーム お子様向けビデオやコミックをそろえたテレビルーム":
+        - paragraph:
+          - link "ペンションもぐ外観":
+            - /url: _src/sc1295/DCP_0362-2.jpg
+            - img "ペンションもぐ外観"
+          - generic: 緑に囲まれた高原の高台に位置するペンションもぐ
+          - link "ペンションもぐキッズルーム":
+            - /url: _src/sc1326/P1000439.JPG
+            - img "ペンションもぐキッズルーム"
+          - generic: お子様向けビデオやコミックをそろえたテレビルーム
+      - cell "ペンションもぐゲストルーム 白と茶を基調にした落ち着いた雰囲気のゲストルーム ペンションもぐバスルーム 家族でご入浴できる大きめのお風呂":
+        - paragraph:
+          - link "ペンションもぐゲストルーム":
+            - /url: _src/sc1328/P1000464.JPG
+            - img "ペンションもぐゲストルーム"
+          - generic: 白と茶を基調にした落ち着いた雰囲気のゲストルーム
+          - link "ペンションもぐバスルーム":
+            - /url: _src/sc1330/DSC00538.JPG
+            - img "ペンションもぐバスルーム"
+          - generic: 家族でご入浴できる大きめのお風呂
+      - cell "ペンションもぐダイニングルーム 広くゆったりとした明るいダイニングルーム ペンションもぐ洗面所 清潔な洗面所":
+        - paragraph:
+          - link "ペンションもぐダイニングルーム":
+            - /url: _src/sc1332/DSC00488.JPG
+            - img "ペンションもぐダイニングルーム"
+          - generic: 広くゆったりとした明るいダイニングルーム
+          - link "ペンションもぐ洗面所":
+            - /url: _src/sc1334/DSC00600.JPG
+            - img "ペンションもぐ洗面所"
+          - generic: 清潔な洗面所
+      - cell "ペンションもぐプレイルーム 薪ストーブの炎がゆれるプレイルーム":
+        - paragraph:
+          - link "ペンションもぐプレイルーム":
+            - /url: _src/sc1336/P1000372.JPG
+            - img "ペンションもぐプレイルーム"
+          - generic: 薪ストーブの炎がゆれるプレイルーム
+- paragraph: 写真をクリックすると拡大表示されます。
+- heading "ご利用案内" [level=3]
+- paragraph:
+  - text: 駐車場／乗用車４台
+  - text: 部屋数／洋室５部屋・定員１６名
+  - text: チェックイン ／１５：００
+  - text: チェックアウト／１０：００
+  - text: ※ 上記以外のお時間でもダイニングやプレイルームでおくつろぎください。
+  - text: TVルーム／テレビ・ビデオ
+  - text: プレイルーム／ピアノ・ギター
+  - text: アメニティー
+  - text: ・ バスルーム／ボディーソープ・シャンプー・リンス
+  - text: ・ 洗面所／歯ブラシ・ハンドソープ・ドライヤー
+  - text: ・ 他（有料）／貸寝間着（３００円）・貸バスタオル（１００円）
+- paragraph:
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+  - link:
+    - /url: "#"
+- list:
+  - link "▶ HOME":
+    - /url: index.html
+  - generic: ▼ ペンションもぐ のご案内
+  - list:
+    - generic: ご宿泊料金
+    - link "ご予約状況":
+      - /url: calendar.html
+    - link "ご予約・お問い合わせ":
+      - /url: reservation.html
+  - link "▶ もぐのお食事":
+    - /url: dinner.html
+  - link "▶ もぐ周辺の観光":
+    - /url: location.html
+  - link "▶ もぐのブログ":
+    - /url: blog.html
+  - link "▶ 交通のご案内":
+    - /url: access.html
+  - link "▶ Q & A":
+    - /url: faq.html
+- paragraph:
+  - link "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています":
+    - /url: blog.html
+    - img "“ペンションもぐ”と黒姫高原の出来事を気ままにUpしています"
+- paragraph:
+  - link:
+    - /url: https://www.facebook.com/pages/ペンションもぐ/168117979921112
+  - link "result のコピー.png":
+    - /url: https://www.facebook.com/mogu.kurohime/timeline
+    - img "result のコピー.png"
+- paragraph
+- paragraph:
+  - link "黒姫童話館":
+    - /url: http://douwakan.com
+    - img "黒姫童話館"
+- paragraph:
+  - link "旬花咲く黒姫高原":
+    - /url: http://kurohime-kogen.co.jp/green/
+    - img "旬花咲く黒姫高原"
+- paragraph:
+  - link "信濃町 癒しの森":
+    - /url: http://iyashinomori.main.jp/
+    - img "信濃町 癒しの森"
+- paragraph:
+  - link "紅玉屋 やなぎさわ農園":
+    - /url: http://www.kougyokuya.jp/
+    - img "紅玉屋 やなぎさわ農園"
+- paragraph:
+  - link:
+    - /url: "#page"
+- paragraph:
+  - link:
+    - /url: index.html
+  - link:
+    - /url: calendar.html
+  - link:
+    - /url: reservation.html
+  - link:
+    - /url: dinner.html
+  - link:
+    - /url: location.html
+  - link:
+    - /url: access.html
+  - link:
+    - /url: blog.html
+  - link:
+    - /url: faq.html
+  - link:
+    - /url: pg604.html
+  - link:
+    - /url: pg608.html
+- paragraph
+- list:
+  - link "HOME":
+    - /url: index.html
+  - link "お問い合わせ":
+    - /url: mailto:mogu@a1.mbn.or.jp
+  - link "privacy pollicy":
+    - /url: privacy-pollicy/index.html
+  - link "宿泊約款":
+    - /url: privacy-pollicy/pg607.html
+- paragraph: Copyright (C) 2010 Atelier Mole. All Rights Reserved.
+- img "Bindicon_gry.gif"
+- iframe [id="oauth2relay1856472253"] [name="oauth2relay1856472253"]
