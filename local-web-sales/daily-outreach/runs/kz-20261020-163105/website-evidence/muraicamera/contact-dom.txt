@@ -1,0 +1,107 @@
+- banner:
+  - link "ムライカメラ | JR宇和島駅から徒歩5分の写真屋":
+    - /url: /
+    - img "ムライカメラ | JR宇和島駅から徒歩5分の写真屋"
+  - term:
+    - generic: 
+  - definition:
+    - paragraph: 営業時間：AM9:00 ～ PM6:30
+    - paragraph: 0895-22-1678
+    - paragraph: 定休日：日曜日
+- navigation:
+  - link "Menu":
+    - /url: "#"
+  - text:                     
+- text: ">"
+- heading "店舗情報・アクセス" [level=1]
+- heading "店舗情報" [level=2]
+- paragraph
+- table:
+  - rowgroup:
+    - row "店舗名称 ムライカメラ":
+      - rowheader "店舗名称"
+      - cell "ムライカメラ"
+    - row "代表者氏名 村井 宝史":
+      - rowheader "代表者氏名"
+      - cell "村井 宝史"
+    - row "住所 〒798-0015 愛媛県宇和島市和霊元町1丁目3-16":
+      - rowheader "住所"
+      - cell "〒798-0015 愛媛県宇和島市和霊元町1丁目3-16":
+        - text: 〒798-0015
+        - text: 愛媛県宇和島市和霊元町1丁目3-16
+    - row "TEL 0895-22-1678":
+      - rowheader "TEL"
+      - cell "0895-22-1678"
+    - row "FAX 0895-22-5122":
+      - rowheader "FAX"
+      - cell "0895-22-5122"
+    - row "E-Mail murai-2525@ceres.ocn.ne.jp":
+      - rowheader "E-Mail"
+      - cell "murai-2525@ceres.ocn.ne.jp":
+        - link "murai-2525@ceres.ocn.ne.jp":
+          - /url: mailto:murai-2525@ceres.ocn.ne.jp
+    - row "営業時間 営業時間：10:00 ～ 18:30 ※祝日 17:00まで":
+      - rowheader "営業時間"
+      - cell "営業時間：10:00 ～ 18:30 ※祝日 17:00まで":
+        - paragraph:
+          - text: 営業時間：10:00 ～ 18:30
+          - text: ※祝日 17:00まで
+    - row "定休日 日曜日":
+      - rowheader "定休日"
+      - cell "日曜日"
+- paragraph
+- heading "アクセス" [level=2]
+- paragraph:
+  - strong: ◆電車でお越しの場合
+  - text: JR四国 予讃線「宇和島」駅から徒歩5分
+  - text: ※かどや駅前本店から和霊公園に向かう通りの四国ろうきん付近
+  - strong: ◆バスでお越しの場合
+  - text: 和霊神苑前バス停にて下車 徒歩2分
+  - text: 鶴島町バス停にて下車 徒歩2分
+- paragraph:
+  - strong: ◆お車でお越しの場合
+  - text: 駐車場あり（5台）
+- paragraph:
+  - iframe
+- paragraph
+- heading "路線検索" [level=2]
+- text: 出発地
+- textbox
+- text: 目的地
+- textbox: 宇和島駅
+- button "路線検索"
+- paragraph: （Yahoo!ロコ - 路線情報）
+- generic: メニュー
+- list:
+  - link "スマホから注文する":
+    - /url: /spc/for_smartphone
+  - link "イベント写真販売":
+    - /url: /minsya
+  - link "証明写真撮影":
+    - /url: /shoot_menu/id_photo
+  - link "フォトギャラリー":
+    - /url: /photogallery
+- list:
+  - link:
+    - /url: http://www.noritsu.info/spc/
+  - link:
+    - /url: https://minsya.com/
+  - link:
+    - /url: https://www.cao.go.jp/bangouseido/
+  - link:
+    - /url: https://www.kojinbango-card.go.jp/
+  - link:
+    - /url: https://muraicamera.com/files/img/map02.png
+- contentinfo:
+  - link "Tweet":
+    - /url: https://twitter.com/share
+  - list:
+    - link "店舗情報・アクセス":
+      - /url: /access
+    - link "プライバシーポリシー":
+      - /url: /privacy_policy
+    - link "特商法に基づく表記":
+      - /url: /tokushouhou
+    - link "利用規約":
+      - /url: /terms
+  - paragraph: © 2019 muraicamera

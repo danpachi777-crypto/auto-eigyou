@@ -1,0 +1,9 @@
+{
+  "company": "プチホテルゆばらリゾート",
+  "website_url": "https://mail.yubara.com/index.html",
+  "checked_at": "2026-11-01T21:24:00.374243+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "検索結果の公式URLは証明書名不一致で閲覧不可。警告を回避せず保留。",
+  "findings": []
+}

@@ -1,0 +1,9 @@
+{
+  "company": "ペンションみきのや",
+  "website_url": "https://www.hiruzen-p-mikinoya.jp/",
+  "checked_at": "2026-11-01T21:24:00.373408+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "証明書名不一致で閲覧不可。警告を回避せず保留。",
+  "findings": []
+}

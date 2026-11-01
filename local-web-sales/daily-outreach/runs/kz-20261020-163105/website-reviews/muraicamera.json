@@ -1,0 +1,57 @@
+{
+  "company": "ムライカメラ",
+  "industry": "写真店・写真プリント・証明写真",
+  "region": "愛媛県宇和島市",
+  "email": "murai-2525@ceres.ocn.ne.jp",
+  "email_source": "https://muraicamera.com/access/ 公開一般メール",
+  "website_url": "https://muraicamera.com/",
+  "discovery_source": "https://www.city.uwajima.ehime.jp/uploaded/attachment/62493.pdf",
+  "checked_at": "2026-11-01T21:19:38.356Z",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 12,
+    "url": "https://www.google.com/maps/search/?api=1&query=ムライカメラ 宇和島",
+    "identity": "和霊元町1-3-16・0895221678・公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://muraicamera.com/",
+    "https://muraicamera.com/shoot_menu/id_photo/",
+    "https://muraicamera.com/access/"
+  ],
+  "review_checks": [
+    "トップ・証明写真・店舗情報を390/1280pxで確認。モバイル表示は幅に対応。",
+    "店舗情報の電話・公開一般メールへ到達できる。",
+    "住所・撮影/プリントサービス・交通案内を確認。",
+    "主要画像は表示。フォーム送信・電話発信は行わない。",
+    "サービスから店舗情報への案内あり。",
+    "同じ店舗情報ページ上部はAM9:00、本文営業時間は10:00。どちらが正しいかは未確認。"
+  ],
+  "findings": [
+    {
+      "category": "business_information",
+      "url": "https://muraicamera.com/access/",
+      "viewport_width": 390,
+      "observation": "店舗情報ページの上部に「AM9:00 ～ PM6:30」、本文の営業時間欄に「10:00 ～ 18:30」と記載されており、営業開始時刻が異なる状態",
+      "proposal": "正しい営業時間を確認したうえでページ上部と店舗情報の表記を統一し、トップ画面と問い合わせ画面に共通の来店案内を置く",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/muraicamera/contact-dom.txt"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・名称0件。台帳・失敗・既存レビュー一致なし。市の一覧と住所電話一致。閲覧範囲に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://union-color.com/",
+      "note": "サービス別説明から店舗情報へ案内する構成のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://www.sekophotography.co.jp/contact",
+      "note": "電話・問い合わせ情報の読みやすい整理のみ参考。固有素材コピーなし。"
+    }
+  ]
+}

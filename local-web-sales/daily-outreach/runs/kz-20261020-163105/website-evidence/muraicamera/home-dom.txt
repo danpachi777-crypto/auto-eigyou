@@ -1,0 +1,110 @@
+- banner:
+  - link "ムライカメラ | JR宇和島駅から徒歩5分の写真屋":
+    - /url: /
+    - img "ムライカメラ | JR宇和島駅から徒歩5分の写真屋"
+  - term:
+    - generic: 
+  - definition:
+    - paragraph: 営業時間：AM9:00 ～ PM6:30
+    - paragraph: 0895-22-1678
+    - paragraph: 定休日：日曜日
+- navigation:
+  - link "Menu":
+    - /url: "#"
+  - text:                     
+- link:
+  - /url: https://muraicamera.com/spc/for_smartphone/
+- link:
+  - /url: https://muraicamera.com/minsya/
+- heading "いつでもプリント注文できる「どこでもプリント」" [level=2]:
+  - strong: いつでもプリント注文できる「どこでもプリント」
+- paragraph:
+  - link:
+    - /url: https://muraicamera.com/spc/about/
+  - text: 自宅のパソコンで、外出先のスマホで、
+  - text: どこにいても写真プリントができる「どこでもプリント」です。
+  - text: スマホやデジカメに眠っている思い出の写真たちを、
+  - text: 改めてプリントすることでいつでもあの時の気持ちに！
+- paragraph:
+  - text: 「
+  - strong:
+    - link "どこでもプリント":
+      - /url: https://muraicamera.com/spc/about/
+  - text: 」は操作や設定も簡単なので、お気軽にお楽しみいただけます。
+- heading "イベント写真をゆっくり選んで簡単に購入" [level=2]:
+  - strong: イベント写真をゆっくり選んで簡単に購入
+- paragraph:
+  - link:
+    - /url: https://minsya.com/
+- paragraph:
+  - link:
+    - /url: https://muraicamera.com/minsya/
+- paragraph: 「みんなの写真屋さん」は、写真を見る為だけに学校などの展示場所に行かなくても、インターネット環境があれば、24時間、いつでもどこでも閲覧・注文ができるとても便利なイベント写真展示・販売システムです。
+- paragraph:
+  - text: 当店が撮影したイベント写真はもちろん、先生方が撮影した写真も掲載可能です。
+  - text: ※詳しくは店頭にてご確認ください。
+- heading "あなたらしさを映す証明写真" [level=2]:
+  - strong: あなたらしさを映す証明写真
+- paragraph:
+  - link:
+    - /url: https://muraicamera.com/shoot_menu/id_photo/
+- paragraph:
+  - text: 受験や就職活動で差をつけたいなら、当店におまかせください。
+  - text: プロの撮影で、あなたの魅力を最大限に引き出します。
+- img "WHAT'S NEW 新着情報"
+- term: 2026.08.26
+- definition:
+  - link "ダビング料金改定のお知らせ":
+    - /url: /news/detail/8491
+- term: 2026.08.07
+- definition:
+  - link "夏季休業（お盆）のお知らせ 8/14～8/16":
+    - /url: /news/detail/8448
+- term: 2026.08.06
+- definition:
+  - link "中古カメラ買取フェア8/29（土）開催10時～17時":
+    - /url: /news/detail/8440
+- term: 2026.07.27
+- definition:
+  - link "臨時休業のお知らせ 8/4(火)":
+    - /url: /news/detail/8434
+- term: 2026.04.27
+- definition:
+  - link "GW休業日のお知らせ":
+    - /url: /news/detail/8256
+- link:
+  - /url: /news/
+- generic: メニュー
+- list:
+  - link "スマホから注文する":
+    - /url: /spc/for_smartphone
+  - link "イベント写真販売":
+    - /url: /minsya
+  - link "証明写真撮影":
+    - /url: /shoot_menu/id_photo
+  - link "フォトギャラリー":
+    - /url: /photogallery
+- list:
+  - link:
+    - /url: http://www.noritsu.info/spc/
+  - link:
+    - /url: https://minsya.com/
+  - link:
+    - /url: https://www.cao.go.jp/bangouseido/
+  - link:
+    - /url: https://www.kojinbango-card.go.jp/
+  - link:
+    - /url: https://muraicamera.com/files/img/map02.png
+- contentinfo:
+  - link "Tweet":
+    - /url: https://twitter.com/share
+  - list:
+    - link "店舗情報・アクセス":
+      - /url: /access
+    - link "プライバシーポリシー":
+      - /url: /privacy_policy
+    - link "特商法に基づく表記":
+      - /url: /tokushouhou
+    - link "利用規約":
+      - /url: /terms
+  - paragraph: © 2019 muraicamera

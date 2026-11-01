@@ -1,0 +1,9 @@
+{
+  "company": "foosha",
+  "website_url": "https://foo-sha.com/contact/",
+  "checked_at": "2026-11-01T21:24:00.375399+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "公式問い合わせ検索結果に営業メールお断りと明記。送信対象外。",
+  "findings": []
+}
