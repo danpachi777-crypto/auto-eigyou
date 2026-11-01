@@ -1,0 +1,89 @@
+{
+  "company": "有限会社 浅草釣具",
+  "industry": "釣具販売",
+  "region": "東京都台東区",
+  "email": "shop@turiguyasan.com",
+  "email_source": "https://www.turiguyasan.net/?mode=sk",
+  "website_url": "https://www.turiguyasan.net/",
+  "discovery_source": "https://www.daiwa.com/jp/partner/fishingmap/shop/list/detail?shop=1191051_4203",
+  "checked_at": "2026-11-01T13:41:39.131Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 588,
+    "url": "https://www.google.com/maps/search/?api=1&query=浅草釣具+入谷",
+    "identity": "入谷1-2-2、03-3874-7855、公式ブログ一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.turiguyasan.net/",
+    "service": "https://www.turiguyasan.net/?mode=f1",
+    "contact": "https://www.turiguyasan.net/?mode=sk",
+    "form": "https://turiguyasan.shop-pro.jp/customer/inquiries/new"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxで本文910px、店舗案内右側が切れる。1280pxでは全体確認。8画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "公開メールと電話およびフォーム確認。フォーム自体は390pxに収まる。"
+    },
+    {
+      "item": 3,
+      "result": "釣竿・リール・仕掛け販売、入谷1-2-2、電話、営業案内確認。"
+    },
+    {
+      "item": 4,
+      "result": "画像・ページ表示確認。商品売切れ表示は不具合扱いしない。"
+    },
+    {
+      "item": 5,
+      "result": "来店前電話・メールで在庫確認案内あり。方針維持。"
+    },
+    {
+      "item": 6,
+      "result": "Maps営業情報とメーカー取扱店掲載一致。営業拒否は確認範囲なし。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.turiguyasan.net/?mode=f1",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして店舗案内ページを拝見すると、本文が画面幅を超え、来店前の確認事項や営業時間などの案内が右側の画面外に隠れていました。",
+      "proposal": "狭い画面では店舗案内と電話・メールの連絡先を縦に並べ、横に移動せず読める配置に整える",
+      "evidence_path": "evidence/asakusa-tsurigu/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "turiguyasan.com",
+      "turiguyasan.net",
+      "浅草釣具",
+      "まちのつり具屋さん"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://www.tsuripit.net/",
+      "note": "商品分類と相談窓口の整理を参照。転用なし。"
+    },
+    {
+      "url": "https://fishingmax.co.jp/shoplist/asakusa",
+      "note": "別事業者の店舗情報分類を参照。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.daiwa.com/jp/partner/fishingmap/shop/list/detail?shop=1191051_4203",
+    "https://www.bluebluefishing.com/shop/"
+  ]
+}

@@ -1,0 +1,364 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: 浅草釣具店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "13 か所 東京 & 八王子市":
+      - generic "13 か所": "13"
+      - generic: 東京 & 八王子市
+    - button "3 か所 桜井市 & 堺市":
+      - generic "3 か所": "3"
+      - generic: 桜井市 & 堺市
+    - button "もっと見る":
+      - generic: 
+      - generic: もっと見る
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "浅草釣具店":
+    - 'button "写真: 浅草釣具店" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "浅草釣具店" [level=1]: 浅草釣具店
+    - text: "4.4"
+    - img "4.4 つ星"
+    - img "588 件のクチコミ": (588)
+    - button "釣具店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "浅草釣具店 の概要" [selected]:
+        - generic: 概要
+      - tab "浅草釣具店 のクチコミ":
+        - generic: クチコミ
+      - tab "「浅草釣具店」について":
+        - generic: 基本情報
+    - region "浅草釣具店 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "浅草釣具店 の情報":
+      - 'button "住所: 〒110-0013 東京都台東区入谷１丁目２−２"':
+        - generic: 
+        - generic: 〒110-0013 東京都台東区入谷１丁目２−２
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: asakusablog.seesaa.net"':
+        - /url: https://asakusablog.seesaa.net/
+        - generic: 
+        - generic: asakusablog.seesaa.net
+      - link "ウェブサイトを開きます":
+        - /url: https://asakusablog.seesaa.net/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 03-3874-7855"':
+        - generic: 
+        - generic: 03-3874-7855
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0338747855
+        - generic: 
+      - 'button "Plus Code: PQ9P+JR 台東区、東京都"':
+        - generic: 
+        - generic: PQ9P+JR 台東区、東京都
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - region "浅草釣具店 の混雑する時間帯":
+      - heading "混雑する時間帯" [level=2]
+      - button "日曜日":
+        - generic: 日曜日
+        - generic: 
+      - button "混雑する時間帯についての情報":
+        - generic: 
+      - button "前の日付に戻る":
+        - generic: 
+      - img "6時の混雑度は 0% です。":
+        - generic: 6時
+      - img "7時の混雑度は 0% です。"
+      - img "8時の混雑度は 0% です。"
+      - img "9時の混雑度は 0% です。":
+        - generic: 9時
+      - img "10時の混雑度は 44% です。"
+      - img "11時の混雑度は 54% です。"
+      - img "12時の混雑度は 58% です。":
+        - generic: 12時
+      - img "13時の混雑度は 64% です。"
+      - img "14時の混雑度は 72% です。"
+      - img "15時の混雑度は 81% です。":
+        - generic: 15時
+      - img "16時の混雑度は 75% です。"
+      - img "17時の混雑度は 48% です。"
+      - img "18時の混雑度は 0% です。":
+        - generic: 18時
+      - img "19時の混雑度は 0% です。"
+      - img "20時の混雑度は 0% です。"
+      - img "21時の混雑度は 0% です。":
+        - generic: 21時
+      - img "22時の混雑度は 0% です。"
+      - img "23時の混雑度は 0% です。"
+      - button "次の日付に進む":
+        - generic: 
+    - heading "写真と動画" [level=2]
+    - region "「浅草釣具店」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "動画"
+      - generic: 動画
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 330 件": "5"
+        - img "4 つ星、クチコミ 175 件": "4"
+        - img "3 つ星、クチコミ 60 件": "3"
+        - img "2 つ星、クチコミ 6 件": "2"
+        - img "1 つ星、クチコミ 17 件": "1"
+    - generic: "4.4"
+    - img "4.4 つ星"
+    - button "588 件のクチコミ":
+      - generic: 588 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"商品知識が豊富なので相談しながらの買い物がいいと思います。\""':
+      - /url: https://www.google.com/maps/contrib/117352470639857301400?hl=ja-JP
+    - button "\"商品知識が豊富なので相談しながらの買い物がいいと思います。\"":
+      - generic: "\"商品知識が豊富なので相談しながらの買い物がいいと思います。\""
+    - 'link "次のクチコミ投稿者の写真: \"所狭しと商品が並んでおり、都心の釣具店としてはなかなかの品揃えです\""':
+      - /url: https://www.google.com/maps/contrib/108541053827253966192?hl=ja-JP
+    - button "\"所狭しと商品が並んでおり、都心の釣具店としてはなかなかの品揃えです\"":
+      - generic: "\"所狭しと商品が並んでおり、都心の釣具店としてはなかなかの品揃えです\""
+    - 'link "次のクチコミ投稿者の写真: \"餌釣り、とくに船釣りするなら行って損はない。\""':
+      - /url: https://www.google.com/maps/contrib/110202349210478880279?hl=ja-JP
+    - button "\"餌釣り、とくに船釣りするなら行って損はない。\"":
+      - generic: "\"餌釣り、とくに船釣りするなら行って損はない。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "価格: 40 件のクチコミで言及。"':
+        - generic: 価格
+        - generic: "40"
+      - 'radio "知識: 22 件のクチコミで言及。"':
+        - generic: 知識
+        - generic: "22"
+      - 'radio "オモリ: 16 件のクチコミで言及。"':
+        - generic: オモリ
+        - generic: "16"
+      - 'radio "船: 14 件のクチコミで言及。"':
+        - generic: 船
+        - generic: "14"
+      - button "他 6 件のトピックを表示":
+        - generic: "+6"
+    - generic "浅田耕二":
+      - button "浅田耕二 の写真"
+      - button "浅田耕二 ローカルガイド · 14 件のクチコミ · 70 枚の写真":
+        - generic: 浅田耕二
+        - generic: ローカルガイド · 14 件のクチコミ · 70 枚の写真
+      - button "浅田耕二 さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - generic: グーグル先生に教えていただき入谷駅から徒歩５分くらいでしぶすぎる釣り具店が見えてきました。品揃えはそこそこあるようなので、また困りましたら伺います。
+      - button "浅田耕二 さんのクチコミの写真 1"
+      - button "浅田耕二 さんのクチコミの写真 2"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "浅田耕二 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "hulk gonza":
+      - button "hulk gonza の写真"
+      - button "hulk gonza ローカルガイド · 45 件のクチコミ · 48 枚の写真":
+        - generic: hulk gonza
+        - generic: ローカルガイド · 45 件のクチコミ · 48 枚の写真
+      - button "hulk gonza さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 か月前
+      - generic: 店員さんが気さくで色々お話ししてくれる。お値段もお安くて助かります！
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "hulk gonza さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "ふくはらかずき":
+      - button "ふくはらかずき の写真"
+      - button "ふくはらかずき 8 件のクチコミ":
+        - generic: ふくはらかずき
+        - generic: 8 件のクチコミ
+      - button "ふくはらかずき さんのクチコミへのアクション":
+        - generic: 
+      - img "3 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 6 か月前
+      - generic: ガマカツ仕掛け三割引きは驚嘆！ SHIMANOがベースのようですが、オリジナル釣具あり、新品の破損品をうまくアウトレットにしてくれてるので、釣具自作する人御用達かな？
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "ふくはらかずき さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (585)":
+      - generic: その他のクチコミ (585)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "つるや釣具店·4.7 つ星·クチコミ 55 件·釣具店":
+      - generic: つるや釣具店
+      - img "4.7 つ星 クチコミ 55 件":
+        - text: "4.7"
+        - text: (55)
+      - generic: 釣具店
+    - link "サンスイ 上野店·4.0 つ星·クチコミ 195 件·釣具店":
+      - generic: サンスイ 上野店
+      - img "4.0 つ星 クチコミ 195 件":
+        - text: "4.0"
+        - text: (195)
+      - generic: 釣具店
+    - link "つり具の上州屋 新宿店·3.8 つ星·クチコミ 566 件·釣具店":
+      - generic: つり具の上州屋 新宿店
+      - img "3.8 つ星 クチコミ 566 件":
+        - text: "3.8"
+        - text: (566)
+      - generic: 釣具店
+    - link "フィッシングマックス東京浅草店·4.9 つ星·クチコミ 68 件·釣具店":
+      - generic: フィッシングマックス東京浅草店
+      - img "4.9 つ星 クチコミ 68 件":
+        - text: "4.9"
+        - text: (68)
+      - generic: 釣具店
+    - link "Line Slack ラインスラック·4.3 つ星·クチコミ 38 件·釣具店":
+      - generic: Line Slack ラインスラック
+      - img "4.3 つ星 クチコミ 38 件":
+        - text: "4.3"
+        - text: (38)
+      - generic: 釣具店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
