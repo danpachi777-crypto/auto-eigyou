@@ -1,0 +1,371 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: アートアーツ 神戸 画材
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - button "このエリアを検索":
+    - generic: 
+    - generic: このエリアを検索
+  - region "この検索で利用可能なフィルタ":
+    - button "評価":
+      - generic: 
+      - generic: 評価
+      - generic: 
+    - button "時間":
+      - generic: 
+      - generic: 時間
+      - generic: 
+    - button "すべてのフィルタ":
+      - generic: 
+      - generic: すべてのフィルタ
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "51 か所 本州 & 九州":
+      - generic "51 か所": "51"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main:
+    - feed "「アートアーツ 神戸 画材」の検索結果":
+      - heading "結果" [level=1]
+      - button "Google マップの公開のクチコミに関する法的開示の詳細":
+        - generic: 
+      - button "共有":
+        - generic: 
+        - generic: 共有
+      - article:
+        - link "ルナ·アクセスしたリンク":
+          - /url: https://www.google.com/maps/place/%E3%83%AB%E3%83%8A/data=!4m7!3m6!1s0x60008ef0ae51f519:0xab4c29a2f7341478!8m2!3d34.6903203!4d135.1966993!16s%2Fg%2F1tfbsrqn!19sChIJGfVRrvCOAGAReBQ096IpTKs?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: ルナ·アクセスしたリンク
+        - generic: ルナ
+        - img "4.5 つ星 クチコミ 43 件":
+          - text: "4.5"
+          - text: (43)
+        - generic: 美術用品店
+        - text: ·
+        - img "車椅子対応の入り口なし":
+          - generic: 
+        - generic: · 八幡通４丁目１−１６
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - generic: · 078-251-0803
+        - generic: "\"小さいけど個展に丁度良く、人通りも良くてちょい見客が入りやすいのがGood 。\""
+      - article:
+        - link "アートステーション":
+          - /url: https://www.google.com/maps/place/%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/data=!4m7!3m6!1s0x60008efc682a5429:0x3eca1a2a9c9e83f!8m2!3d34.6886234!4d135.1901235!16s%2Fg%2F12cnqgxvm!19sChIJKVQqaPyOAGARP-jJqaKh7AM?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: アートステーション
+        - generic: アートステーション
+        - img "3.0 つ星 クチコミ 1 件":
+          - text: "3.0"
+          - text: (1)
+        - generic: ポスター店
+        - generic: · 明石町４０
+        - generic: "まもなく営業終了: 20:00 · 営業開始: 10:00（月）"
+      - article:
+        - link "ARTWORKSTUDIO KOBE":
+          - /url: https://www.google.com/maps/place/ARTWORKSTUDIO+KOBE/data=!4m7!3m6!1s0x60008ee5570bd399:0x15ba3973d672e3e1!8m2!3d34.6943951!4d135.1962583!16s%2Fg%2F1trcg8_0!19sChIJmdMLV-WOAGAR4eNy1nM5uhU?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: ARTWORKSTUDIO KOBE
+        - generic: ARTWORKSTUDIO KOBE
+        - img "4.7 つ星 クチコミ 117 件":
+          - text: "4.7"
+          - text: (117)
+        - generic: インテリア用品店
+        - generic: · 雲井通７丁目１−１ ミント神戸 ５F
+        - generic: "まもなく営業終了: 20:00 · 営業開始: 11:00（月）"
+        - generic: · 078-230-4650
+        - generic: "\"ミント神戸5階の新しくなったアートワークスタジオさんの神戸ショールーム。\""
+      - article:
+        - link "（株）甲南画材":
+          - /url: https://www.google.com/maps/place/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%94%B2%E5%8D%97%E7%94%BB%E6%9D%90/data=!4m7!3m6!1s0x60008eefebb589bf:0x297b91b57c5d7da6!8m2!3d34.7196523!4d135.2657967!16s%2Fg%2F1tg6kdyt!19sChIJv4m16--OAGARpn1dfLWReyk?authuser=0&hl=ja&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+          - generic: （株）甲南画材
+        - generic: （株）甲南画材
+        - img "4.2 つ星 クチコミ 21 件":
+          - text: "4.2"
+          - text: (21)
+        - generic: 美術用品店
+        - generic: · 住吉東町２丁目３−3番20号 フォルザ住吉 M11
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - generic: · 078-855-8550
+        - generic: "\"歴史のあるこれぞ画材店って感じの素敵な画材店\""
+      - paragraph:
+        - generic: リストの最後に到達しました。
+    - checkbox "地図の移動後に結果を更新":
+      - generic: 
+      - text: 地図の移動後に結果を更新
+  - main "ルナ":
+    - button "閉じる" [active]:
+    - 'button "写真: ルナ"':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "ルナ" [level=1]: ルナ
+    - text: "4.5"
+    - img "4.5 つ星"
+    - img "43 件のクチコミ": (43)
+    - button "美術用品店"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "ルナ の概要" [selected]:
+        - generic: 概要
+      - tab "ルナ のクチコミ":
+        - generic: クチコミ
+      - tab "「ルナ」について":
+        - generic: 基本情報
+    - region "ルナ の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "ルナ の情報":
+      - 'button "住所: 〒651-0085 兵庫県神戸市中央区八幡通４丁目１−１６"':
+        - generic: 
+        - generic: 〒651-0085 兵庫県神戸市中央区八幡通４丁目１−１６
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: runa-gazai.co.jp"':
+        - /url: http://www.runa-gazai.co.jp/
+        - generic: 
+        - generic: runa-gazai.co.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.runa-gazai.co.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 078-251-0803"':
+        - generic: 
+        - generic: 078-251-0803
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0782510803
+        - generic: 
+      - 'button "Plus Code: M5RW+4M 神戸市、兵庫県"':
+        - generic: 
+        - generic: M5RW+4M 神戸市、兵庫県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - link "ビジネス オーナーですか？":
+        - /url: https://business.google.com/create?fp=12343286458624513144&hl=ja&authuser=0&gmbsrc=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&ppsrc=GMBMI&utm_campaign=jp-ja-et-ip-z-gmb-s-z-l~mrc%7Cclaimbz%7Cu&utm_source=gmb_mrc81&utm_medium=et&getstarted&lis=1
+        - generic: 
+        - generic: ビジネス オーナーですか？
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「ルナ」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 25 件": "5"
+        - img "4 つ星、クチコミ 13 件": "4"
+        - img "3 つ星、クチコミ 5 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.5"
+    - img "4.5 つ星"
+    - button "43 件のクチコミ":
+      - generic: 43 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"いつも額縁を注文するが丁寧な対応をしてくれます\""':
+      - /url: https://www.google.com/maps/contrib/108253318564927083767?hl=ja-JP
+    - button "\"いつも額縁を注文するが丁寧な対応をしてくれます\"":
+      - generic: "\"いつも額縁を注文するが丁寧な対応をしてくれます\""
+    - 'link "次のクチコミ投稿者の写真: \"とても、良いお店で、商品も、 とても安価で、絵画の趣味の 方にお薦めです、\""':
+      - /url: https://www.google.com/maps/contrib/100759817345005484966?hl=ja-JP
+    - button "\"とても、良いお店で、商品も、 とても安価で、絵画の趣味の 方にお薦めです、\"":
+      - generic: "\"とても、良いお店で、商品も、 とても安価で、絵画の趣味の 方にお薦めです、\""
+    - 'link "次のクチコミ投稿者の写真: \"安いし品揃えも充実しているのでいつもここでお世話になっております\""':
+      - /url: https://www.google.com/maps/contrib/114804687866846324517?hl=ja-JP
+    - button "\"安いし品揃えも充実しているのでいつもここでお世話になっております\"":
+      - generic: "\"安いし品揃えも充実しているのでいつもここでお世話になっております\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "画材: 4 件のクチコミで言及。"':
+        - generic: 画材
+        - generic: "4"
+      - 'radio "親切: 2 件のクチコミで言及。"':
+        - generic: 親切
+        - generic: "2"
+    - generic "ポーラ":
+      - button "ポーラ の写真"
+      - button "ポーラ ローカルガイド · 78 件のクチコミ · 146 枚の写真":
+        - generic: ポーラ
+        - generic: ローカルガイド · 78 件のクチコミ · 146 枚の写真
+      - button "ポーラ さんのクチコミへのアクション":
+        - generic: 
+      - img "4 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 年前
+      - generic: 中に、額縁がいっぱいあります。自分の持っている絵に合わせて、お兄さんがとっても親切にいろいろ教えてくれます。絵画が趣味でもない素人の私でも、とっても入りやすい感じの良いお店です♪
+      - button "ポーラ さんのクチコミの写真 1"
+      - button "ポーラ さんのクチコミの写真 2"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "ポーラ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "ぷにょすけぷにょ":
+      - button "ぷにょすけぷにょ の写真"
+      - button "ぷにょすけぷにょ 5 件のクチコミ · 4 枚の写真":
+        - generic: ぷにょすけぷにょ
+        - generic: 5 件のクチコミ · 4 枚の写真
+      - button "ぷにょすけぷにょ さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 7 か月前
+      - generic: とても対応が親切かつ丁寧で、色々教えてくださり、用紙の梱包も丁寧でした。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "ぷにょすけぷにょ さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "田村茂":
+      - button "田村茂 の写真"
+      - button "田村茂 ローカルガイド · 61 件のクチコミ · 91 枚の写真":
+        - generic: 田村茂
+        - generic: ローカルガイド · 61 件のクチコミ · 91 枚の写真
+      - button "田村茂 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - generic: 初めて絵を描こうと、絵の具や筆のことをいろいろ聞きましたが、説明が具体的で親切に対応してくださいました。絵を描くことを続けようと思ってきますが、淡路島にはお店がないので ルナさんには、今後もお世話になります。 よろしくお願いします。
+      - button "いいね 2 件":
+        - generic: 
+        - generic: "2"
+      - button "田村茂 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (40)":
+      - generic: その他のクチコミ (40)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "（株）甲南画材·4.2 つ星·クチコミ 21 件·美術用品店":
+      - generic: （株）甲南画材
+      - img "4.2 つ星 クチコミ 21 件":
+        - text: "4.2"
+        - text: (21)
+      - generic: 美術用品店
+    - link "末積製額（株）·4.1 つ星·クチコミ 28 件·額縁専門店":
+      - generic: 末積製額（株）
+      - img "4.1 つ星 クチコミ 28 件":
+        - text: "4.1"
+        - text: (28)
+      - generic: 額縁専門店
+    - link "FLYINGFRAMES・フライングフレーム·5.0 つ星·クチコミ 2 件·額縁専門店":
+      - generic: FLYINGFRAMES・フライングフレーム
+      - img "5.0 つ星 クチコミ 2 件":
+        - text: "5.0"
+        - text: (2)
+      - generic: 額縁専門店
+    - link "ナガサワ文具センター 本店·4.1 つ星·クチコミ 896 件·文房具店":
+      - generic: ナガサワ文具センター 本店
+      - img "4.1 つ星 クチコミ 896 件":
+        - text: "4.1"
+        - text: (896)
+      - generic: 文房具店
+    - link "マルミヤ絵画額縁店·0.0 つ星·額縁専門店":
+      - generic: マルミヤ絵画額縁店
+      - generic: クチコミはありません
+      - generic: 額縁専門店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - contentinfo:
+    - text: 地図データ ©2026 Google
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "500 m": 500 m

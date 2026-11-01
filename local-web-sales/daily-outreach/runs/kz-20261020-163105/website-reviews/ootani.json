@@ -1,0 +1,91 @@
+{
+  "company": "大谷民宿",
+  "industry": "民宿",
+  "region": "三重県紀北町",
+  "email": "ootani@za.ztv.ne.jp",
+  "email_source": "https://www.za.ztv.ne.jp/ootani/access/index.html",
+  "website_url": "https://www.za.ztv.ne.jp/ootani/index.html",
+  "discovery_source": "https://miekodo.or.jp/sightseeing/season/all_season/hotel.html",
+  "checked_at": "2026-11-01T10:36:04.764Z",
+  "maps": {
+    "rating": 4.2,
+    "review_count": 36,
+    "url": "https://www.google.com/maps/search/?api=1&query=民宿おおたに 紀北町 道瀬147-2",
+    "name": "おおたに",
+    "identity": "住所道瀬147-2と電話0597-49-3433一致。旧公式の表記05974-9-3433は同じ数字列。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.za.ztv.ne.jp/ootani/index.html",
+    "service": "https://www.za.ztv.ne.jp/ootani/minsyuku/index.html",
+    "contact": "https://www.za.ztv.ne.jp/ootani/access/index.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "3ページとも390pxで722px幅の固定配置。右側の宿紹介やナビゲーションが画面外。1280pxでは表示。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "アクセスページに公開メールと電話あり。宿泊・宴会問い合わせは電話指定。電話中心の案内を維持する。"
+    },
+    {
+      "item": 3,
+      "result": "宿泊・料理・釣り船の案内と住所連絡先を確認。観光三重・商工会と照合。"
+    },
+    {
+      "item": 4,
+      "result": "読み込み直後の画像空白は解消。恒久的な画像不具合としない。"
+    },
+    {
+      "item": 5,
+      "result": "宿泊案内から料金・アクセスへのリンクがあり到達できる。フォームを新設する提案にしない。"
+    },
+    {
+      "item": 6,
+      "result": "古い市町村名や価格情報だけで需要を推測しない。地図の現行空室案内と観光情報で営業確認。提案画像に価格・チェックイン時刻は掲載しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.za.ztv.ne.jp/ootani/minsyuku/index.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、「民宿より」のページが横幅722pxのまま表示され、宿の紹介文や料理の説明が右側の画面外に隠れていました。",
+      "proposal": "スマートフォンでは宿と料理の案内を縦に並べ、写真・本文と電話での問い合わせ案内が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/ootani/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "大谷民宿",
+      "民宿おおたに",
+      "民宿おうたに",
+      "ootani@za.ztv.ne.jp"
+    ],
+    "note": "共有ホスティングza.ztv.ne.jp全体ではなく対象アドレスと屋号で確認。"
+  },
+  "comparisons": [
+    {
+      "url": "https://kihoku-azuma.com/",
+      "note": "施設と料理を分けて案内し電話と宿泊プランへ誘導。文章写真転用なし。"
+    },
+    {
+      "url": "https://ryori-minshuku-sasaki.com/",
+      "note": "宿泊・料理・アクセスを順番に案内し電話予約へ誘導。内容転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.kankomie.or.jp/spot/23884",
+    "https://miekodo.or.jp/sightseeing/season/all_season/hotel.html",
+    "https://www.city.shijonawate.lg.jp/page/14-2555.html"
+  ]
+}

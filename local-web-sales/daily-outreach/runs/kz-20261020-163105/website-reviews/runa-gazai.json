@@ -1,0 +1,9 @@
+{
+  "company": "ルナ画材",
+  "website_url": "https://www.runa-gazai.co.jp/",
+  "checked_at": "2026-11-01T10:39:12.129734+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "PC版固定幅だが別スマートフォン版sp/runa/index.htmlは390pxで適切表示。モバイル支障として提案しない。",
+  "findings": []
+}
