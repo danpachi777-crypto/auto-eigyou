@@ -1,0 +1,182 @@
+- region "top of page"
+- button "メインコンテンツにスキップ"
+- banner:
+  - link "dwXTDNUoakdoTIt1548580843_1548580847.png":
+    - /url: https://www.innocent-age.com
+    - img "dwXTDNUoakdoTIt1548580843_1548580847.png"
+  - navigation "サイト":
+    - list:
+      - link "Top":
+        - /url: https://www.innocent-age.com
+        - paragraph: Top
+      - link "About":
+        - /url: https://www.innocent-age.com/about
+        - paragraph: About
+      - link "Studio":
+        - /url: https://www.innocent-age.com/studio-1
+        - paragraph: Studio
+      - link "Room & Facility":
+        - /url: https://www.innocent-age.com/room-facility
+        - paragraph: Room & Facility
+      - link "Music Camp":
+        - /url: https://www.innocent-age.com/reserve
+        - paragraph: Music Camp
+      - link "Charge":
+        - /url: https://www.innocent-age.com/price
+        - paragraph: Charge
+      - link "Booking":
+        - /url: https://www.innocent-age.com/contact
+        - paragraph: Booking
+      - link "Access":
+        - /url: https://www.innocent-age.com/access
+        - paragraph: Access
+  - heading "トップ" [level=6]:
+    - generic: トップ
+  - heading "アバウト" [level=6]:
+    - generic: アバウト
+  - heading "スタジオ" [level=6]
+  - heading "お部屋&設備" [level=6]
+  - heading "音楽合宿" [level=6]
+  - heading "料金" [level=6]
+  - heading "ご予約" [level=6]
+  - heading "アクセス" [level=6]
+  - link "予約する":
+    - /url: https://www.innocent-age.com/contact
+    - generic: 予約する
+  - list "SNS バー":
+    - link "Facebook":
+      - /url: https://www.facebook.com/音楽スタジオ-ペンション-イノセントエイジ-510009689032181/
+      - img "Facebook"
+    - link "Instagram":
+      - /url: https://www.instagram.com/innocent_age/
+      - img "Instagram"
+  - link:
+    - /url: mailto:info@innocent-age.com?subject=イノセントエイジに問い合わせ
+- main:
+  - button "BOOKING":
+    - generic "BOOKING":
+      - generic: BOOKING
+  - heading "ご予約" [level=6]
+  - heading "BEFORE BOOKING" [level=5]
+  - heading "— ご予約の前に —" [level=6]:
+    - generic: — ご予約の前に —
+  - list:
+    - paragraph: ご予約の際は、直接お電話頂くか下記のオーダーフォームより、ご希望の宿泊日、宿泊人数、希望スタジオをご記入ください。
+    - paragraph: ご予約名は必ず姓名フリガナまでご入力ください。
+    - paragraph:
+      - generic: 電話番号、E-Mailアドレスの入力に間違いがないようご注意下さい。
+    - paragraph: チェックインはスタジオは12時から、お部屋は15時から18時までとなっております。19時以降のチェックインは受け付けておりません。
+    - paragraph: チェックアウトはお部屋は10時になりますが、スタジオは12時までご利用頂けます。
+    - paragraph:
+      - generic: 1室2名以下でのご利用は7,400円(税込)になります。
+    - paragraph: お子様料金は大人の70%。幼児は無料になります。
+    - paragraph: 音楽合宿料金は3泊以上で自動的に適応になります。10名様以上の音楽合宿については直接お問い合わせ下さい。
+    - heading "お食事はセルフサービスになります。夕食は18時。朝食は8時。それぞれ配膳、片付けはご自身でお願いします。" [level=6]:
+      - generic: お食事はセルフサービスになります。夕食は18時。朝食は8時。それぞれ配膳、片付けはご自身でお願いします。
+    - heading "お部屋にはタオル、ゆかたなどのご用意がありませんのでお持ちください。" [level=6]:
+      - generic: お部屋にはタオル、ゆかたなどのご用意がありませんのでお持ちください。
+    - heading "お風呂にはシャンプー、ボディーソープ、洗面所には歯ブラシのご用意があります。（お風呂、洗面所、トイレは供用になります）" [level=6]:
+      - generic: お風呂にはシャンプー、ボディーソープ、洗面所には歯ブラシのご用意があります。（お風呂、洗面所、トイレは供用になります）
+    - heading "10名様以上でご予約頂く場合は、宿泊料金の10%を予約金としてご予約日より1週間以内にお振込頂くようになります。メール又は電話にて直接お問い合わせ下さい。" [level=6]:
+      - generic: 10名様以上でご予約頂く場合は、宿泊料金の10%を予約金としてご予約日より1週間以内にお振込頂くようになります。メール又は電話にて直接お問い合わせ下さい。
+    - heading "スタジオのみの御利用は出来ません。（ご宿泊者限定のサービスになります。）" [level=6]:
+      - generic: スタジオのみの御利用は出来ません。（ご宿泊者限定のサービスになります。）
+    - heading "ペット等の同伴は屋内外共にお断りしております。ご了承ください。" [level=6]:
+      - generic: ペット等の同伴は屋内外共にお断りしております。ご了承ください。
+  - heading [level=6]
+  - heading "（※２月/３月と８月/９月は大学生の音楽サークルのみの受け入れとなりご予約いただけません。空室状況にて空きが出ている場合は予約可能です。）" [level=6]:
+    - generic: （※２月/３月と８月/９月は大学生の音楽サークルのみの受け入れとなりご予約いただけません。空室状況にて空きが出ている場合は予約可能です。）
+  - link "空室状況":
+    - /url: https://www.innocent-age.com/blank-1
+    - generic: 空室状況
+  - link "空室状況はこちらからご確認下さい":
+    - /url: https://www.innocent-age.com/blank-1
+    - generic: 空室状況はこちらからご確認下さい
+  - heading "オーダーフォーム" [level=6]:
+    - generic: オーダーフォーム
+  - list:
+    - heading "※フォームからの予約申し込みを送信して頂いただけでは、正式な予約とはなりません。" [level=6]:
+      - generic: ※フォームからの予約申し込みを送信して頂いただけでは、正式な予約とはなりません。
+    - heading "オーダーフォーム送信後、宿泊希望日に宿泊可能かどうかのメールを、お客様のアドレス宛にお送りします。この連絡によって正式な予約の確定となりますのでご注意下さい。" [level=6]:
+      - generic: オーダーフォーム送信後、宿泊希望日に宿泊可能かどうかのメールを、お客様のアドレス宛にお送りします。この連絡によって正式な予約の確定となりますのでご注意下さい。
+    - heading "２日経っても、こちらから予約確認のメールが届かない場合には、回線異常かまたはこちらの端末不調等が考えられますので、ご面倒ですが電話でのご予約申し込みをお願い致します。" [level=6]:
+      - text: ２日経っても、こちらから予約確認のメールが届かない場合には、回線異常かまたはこちらの端末不調等が考えられますので、ご面倒ですが
+      - link "電話でのご予約申し込み":
+        - /url: http://www.noahhouse.com/pia/jform.php#tel
+      - text: をお願い致します。
+    - heading "ご予約前に当館のご利用規約を必ずお読みください。ご予約いただいた時点で規約に了承いただいたものとします。" [level=6]:
+      - text: ご予約前に当館の
+      - link "ご利用規約":
+        - /url: https://www.innocent-age.com/policy
+      - text: を必ずお読みください。ご予約いただいた時点で規約に了承いただいたものとします。
+  - textbox "お名前（例 鈴木 太郎/スズキ タロウ） *"
+  - textbox "Email(間違いのないようにご入力下さい) *" [active]
+  - textbox "携帯電話番号 *"
+  - textbox "住所(郵便番号/都道府県から�ご入力下さい) *"
+  - textbox "宿泊日（例 2020/10/01-1泊） *"
+  - textbox "宿泊人数（例 男2人/女2人） *"
+  - text: "*"
+  - combobox "夕食の選択":
+    - option "夕食あり"
+    - option "夕食なし"
+  - textbox "スタジオ選択（例 Aスタジオ）"
+  - textbox "到着予定時間（例 13時）"
+  - textbox:
+    - /placeholder: メッセージ
+  - button "送信":
+    - generic: 送信
+  - paragraph:
+    - generic: お電話での問い合わせは
+    - generic: AM9時〜PM17時までになります。
+  - paragraph:
+    - generic: TEL 0243-24-2549
+  - paragraph:
+    - generic: 宿泊中の方の急用連絡こちらにご連絡ください。
+  - paragraph:
+    - generic: ↓
+  - paragraph:
+    - generic: 携帯 090-6622-6111
+  - paragraph:
+    - generic: ※電話が繋がらない場合、ペンションがお休みの時があります。
+  - paragraph:
+    - generic: メールにてお問い合わせください。
+- contentinfo:
+  - paragraph:
+    - generic: 〒964-0074
+  - paragraph:
+    - generic: 福島県二本松市岳温泉4-514-5
+  - paragraph:
+    - generic: TEL.0243-24-2549
+  - paragraph:
+    - text: Email：
+    - link "info@innocent-age.com":
+      - /url: mailto:info@innocent-age.com
+  - link "Access Map":
+    - /url: https://www.innocent-age.com/access
+    - generic: Access Map
+  - link "ご利用規約":
+    - /url: https://www.innocent-age.com/policy
+    - generic: ご利用規約
+  - list "SNS バー":
+    - link "Facebook":
+      - /url: https://m.facebook.com/音楽スタジオ-ペンション-イノセントエイジ-510009689032181/
+      - img "Facebook"
+    - link "Instagram":
+      - /url: https://www.instagram.com/innocent_age/
+      - img "Instagram"
+  - link "プライバシーポリシー":
+    - /url: https://www.innocent-age.com/policy
+    - generic: プライバシーポリシー
+  - link:
+    - /url: https://www.innocent-age.com/access
+  - iframe
+  - textbox "名前"
+  - textbox "メールアドレス"
+  - textbox:
+    - /placeholder: メッセージを入力してください
+  - button "送信する":
+    - generic: 送信する
+  - heading "Copyright© Pension Innocent Age All rights reserved." [level=6]:
+    - generic: Copyright©
+    - generic: Pension Innocent Age All rights reserved.
+- region "bottom of page"

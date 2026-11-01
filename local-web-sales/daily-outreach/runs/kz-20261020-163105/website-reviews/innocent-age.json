@@ -1,0 +1,57 @@
+{
+  "company": "ペンションイノセントエイジ",
+  "industry": "音楽スタジオ併設ペンション",
+  "region": "福島県二本松市",
+  "email": "info@innocent-age.com",
+  "email_source": "https://www.innocent-age.com/ 一般問い合わせメールと福島県観光物産交流協会施設紹介で一致",
+  "website_url": "https://www.innocent-age.com/",
+  "discovery_source": "https://www.tif.ne.jp/kyoiku/sisetu/disp.html?id=1305",
+  "checked_at": "2026-11-01T20:00:05.924Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 35,
+    "url": "https://www.google.com/maps/search/ペンションイノセントエイジ",
+    "identity": "公式URL・名称・福島県二本松市岳温泉4-514-5・電話0243-24-2549一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.innocent-age.com/",
+    "https://www.innocent-age.com/studio-1",
+    "https://www.innocent-age.com/contact"
+  ],
+  "review_checks": [
+    "390pxで予約フォームの577px幅入力欄が右にはみ出す。1280pxでは入力欄全体表示。",
+    "トップからBookingへ移動可能。電話・メールも公開されている。",
+    "音楽スタジオと宿泊・所在地・一般電話を確認。スタジオのみ利用不可。",
+    "主要写真とナビ・フォームを表示確認。",
+    "予約フォーム送信のみでは確定しない方針を尊重。別モバイルサイトの案内は確認なし。",
+    "季節の合宿優先条件あり。空室や一般利用を保証しない。古い記載を不具合にしない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.innocent-age.com/contact",
+      "viewport_width": 390,
+      "observation": "予約ページを幅390pxで表示すると、お名前やメールアドレスなどの入力欄が画面幅を超え、右側が切れて表示される状態",
+      "proposal": "予約フォームの入力欄をスマートフォンの画面幅に収め、予約確定までの注意書きと各項目を縦に並べて確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/innocent-age/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・社名0件。台帳・失敗宛先一致なし。公開一般問い合わせメールを独立した観光協会掲載でも照合。閲覧範囲に営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://pension-bernese.com/",
+      "note": "施設紹介と宿泊案内の情報分類のみ参考。固有素材コピーなし。"
+    },
+    {
+      "url": "https://fuwari-tei.com/",
+      "note": "予約連絡手段と利用注意の分類のみ参考。他施設の条件を転用しない。"
+    }
+  ]
+}
