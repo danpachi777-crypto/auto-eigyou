@@ -1,0 +1,9 @@
+{
+  "company": "民宿オサキ",
+  "website_url": "https://www.katch.ne.jp/~onsen-o/",
+  "checked_at": "2026-11-01T13:53:12.239899+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "旧サイトは横はみ出しあり。ただし現行公式トップでメール未確認。観光組合が案内するonsen-o.on.omisenomikata.jpはブラウザー取得できず。検索キャッシュのみの旧メールは使用しない。Gmail0、CSV0。",
+  "findings": []
+}

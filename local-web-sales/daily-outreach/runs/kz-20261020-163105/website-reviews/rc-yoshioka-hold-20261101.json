@@ -1,0 +1,9 @@
+{
+  "company": "モデルショップヨシオカ",
+  "website_url": "https://rc-yoshioka.com/company.html",
+  "checked_at": "2026-11-01T13:58:34.426046+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "読み込み完了後390pxで会社案内が収まる。初期白画面は不具合扱いしない。Gmail0。",
+  "findings": []
+}

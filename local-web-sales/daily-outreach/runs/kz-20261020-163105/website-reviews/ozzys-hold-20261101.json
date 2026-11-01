@@ -1,0 +1,9 @@
+{
+  "company": "有限会社 オジーズ",
+  "website_url": "https://ozzys.jp/inquiry.php",
+  "checked_at": "2026-11-01T13:53:12.239350+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxで問い合わせフォームが縦に収まる。実質的な問い合わせ支障未確認。",
+  "findings": []
+}

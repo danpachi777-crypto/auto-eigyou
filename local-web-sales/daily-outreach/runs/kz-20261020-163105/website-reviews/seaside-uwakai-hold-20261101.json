@@ -1,0 +1,9 @@
+{
+  "company": "Seasideうわかい",
+  "website_url": "https://www.seaside-uwakai.net/",
+  "checked_at": "2026-11-01T13:53:12.239625+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxで本文幅390px、主要案内が収まる。公開メールseaside@me.pikara.ne.jpだが改善点未確認。",
+  "findings": []
+}

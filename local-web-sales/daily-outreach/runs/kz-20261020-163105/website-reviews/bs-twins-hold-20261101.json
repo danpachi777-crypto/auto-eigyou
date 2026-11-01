@@ -1,0 +1,9 @@
+{
+  "company": "BICYCLE SHOP ついんず",
+  "website_url": "https://bs-twins.com/",
+  "checked_at": "2026-11-01T13:58:34.424980+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "証明書不一致ERR_CERT_COMMON_NAME_INVALID。閲覧不能、警告回避しない。",
+  "findings": []
+}

@@ -1,0 +1,9 @@
+{
+  "company": "ゲストハウス とこのま",
+  "website_url": "https://tokonoma.org/",
+  "checked_at": "2026-11-01T13:53:12.239809+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "390pxで施設概要表315px、本文が収まる。ページscrollWidth1200だけで支障としない。Gmail0、CSV0。",
+  "findings": []
+}
