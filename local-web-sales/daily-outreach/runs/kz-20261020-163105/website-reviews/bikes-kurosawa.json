@@ -1,0 +1,10 @@
+{
+  "company": "BIKES KUROSAWA",
+  "website_url": "https://www.bikes-kurosawa.com/",
+  "email": "bikes@eagle.ocn.ne.jp",
+  "checked_at": "2026-11-01T18:43:08.493Z",
+  "priority": "hold",
+  "findings": [],
+  "reason": "トップ・Contact us・List of brands を390pxで閲覧。問い合わせフォームとブランド画像は縦並び、トップ本文も折り返す。具体的な改善点を未確認。PC比較とMaps条件は未完了のため送信対象外。メールは公式共通欄に公開。",
+  "evidence_path": "evidence/bikes-kurosawa/home-390.png"
+}
