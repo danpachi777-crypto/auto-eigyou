@@ -1,0 +1,513 @@
+- button "戻る"
+- paragraph:
+  - link "「読み物」ページの一時公開停止について":
+    - /url: https://shop.maehara.co.jp/view/news/20261022162005
+- button "次へ"
+- banner:
+  - navigation:
+    - link "トンボ洋傘前原光榮商店オンラインショップ":
+      - /url: /
+      - img "トンボ洋傘前原光榮商店オンラインショップ"
+    - textbox "キーワードを検索"
+    - link "検索":
+      - /url: "#makeshop-common-search-url"
+      - img "検索"
+    - list:
+      - link "初めての方へ":
+        - /url: /view/page/introduction
+        - generic: 初めての方へ
+      - link "傘の取り扱い":
+        - /url: /view/page/attention
+        - generic: 傘の取り扱い
+      - link "お問い合わせ":
+        - /url: https://shop.maehara.co.jp/shop/enq202407180
+        - generic: お問い合わせ
+    - list:
+      - link "ログイン ログイン":
+        - /url: /view/member/login
+        - img "ログイン"
+        - generic: ログイン
+      - link "カート カート":
+        - /url: /view/cart
+        - img "カート"
+        - generic: カート
+  - list:
+    - paragraph:
+      - link "シリーズ一覧":
+        - /url: /view/page/series
+    - paragraph: 商品を探す
+    - paragraph: 前原光榮商店について
+    - paragraph: 傘のギフト
+    - paragraph:
+      - link "読みもの":
+        - /url: /blog
+- list:
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/impersonation-warning20260330
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/umbrella-repair-life
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/ikkyu-shakou
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/tonari-no-totoro
+  - link:
+    - /url: https://shop.maehara.co.jp/view/news/20241112133823
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/impersonation-warning20260330
+  - link:
+    - /url: https://shop.maehara.co.jp/view/page/umbrella-repair-life
+- link "Prev":
+  - /url: ""
+- link "Next":
+  - /url: ""
+- link "1":
+  - /url: ""
+- link "2":
+  - /url: ""
+- link "3":
+  - /url: ""
+- link "4":
+  - /url: ""
+- link "5":
+  - /url: ""
+- main:
+  - heading "おしゃれな日本製高級傘の通販なら前原光榮商店" [level=1]
+  - iframe:
+    - generic "YouTube 動画プレーヤー"
+    - button "プレーヤー コントロールを非表示にする"
+    - link "織る、仕立てる、纏う。─日本製の麻日傘ができるまで｜トンボ洋傘前原光榮商店":
+      - /url: https://www.youtube.com/watch?v=_M4-Y9DHRAA
+    - link "トンボ洋傘 前原光榮商店":
+      - /url: /channel/UClaycYTs_l6-jmhjuJq_ckw
+      - generic: トンボ洋傘 前原光榮商店
+    - button
+    - generic: トンボ洋傘 前原光榮商店
+    - generic: チャンネル登録者数 191人
+    - button "前の動画"
+    - button "10 秒巻き戻し"
+    - button "動画を再生":
+    - button "10 秒早送り"
+    - button "次の動画" [disabled]
+    - button "共有":
+    - link "後で見る":
+      - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Dja%26next%3D%252Fpost_login&hl=ja
+    - link "YouTube で見る":
+      - /url: https://www.youtube.com/watch?v=_M4-Y9DHRAA
+  - heading "お知らせ" [level=2]
+  - list:
+    - link "2026.10.22 「読み物」ページの一時公開停止について":
+      - /url: /view/news/20261022162005
+      - paragraph: 2026.10.22
+      - paragraph: 「読み物」ページの一時公開停止について
+    - link "2026.10.05 【メディア情報】NHK「あさイチ」にて前原光榮商店が紹介されます（10月7日放送予定）":
+      - /url: /view/news/20261005074849
+      - paragraph: 2026.10.05
+      - paragraph: 【メディア情報】NHK「あさイチ」にて前原光榮商店が紹介されます（10月7日放送予定）
+    - link "2026.09.16 シルバーウィーク期間中の営業について":
+      - /url: /view/news/20260916184903
+      - paragraph: 2026.09.16
+      - paragraph: シルバーウィーク期間中の営業について
+  - link "more":
+    - /url: /view/news/list
+  - heading "ランキング" [level=2]
+  - list:
+    - listitem: メンズ雨傘
+    - listitem: レディース雨傘
+  - list:
+    - listitem: メンズ日傘・晴雨兼用傘
+    - listitem: レディース日傘・晴雨兼用傘
+    - listitem: 一級遮光傘
+  - link "【メンズ雨傘】グレイン-ネイビー×イエローライン":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000054/
+    - img "【メンズ雨傘】グレイン-ネイビー×イエローライン"
+  - link "【メンズ雨傘】グレイン-ネイビー×イエローライン":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000054/
+  - generic: 28,600円
+  - link "【メンズ雨傘】シャドウ-アイビーグリーン×オレンジ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000709/
+    - img "【メンズ雨傘】シャドウ-アイビーグリーン×オレンジ"
+  - link "【メンズ雨傘】シャドウ-アイビーグリーン×オレンジ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000709/
+  - generic: 38,500円
+  - link "【メンズ雨傘】トラッド-16-チャコールグレー":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000899/
+    - img "【メンズ雨傘】トラッド-16-チャコールグレー"
+  - link "【メンズ雨傘】トラッド-16-チャコールグレー":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000899/
+  - generic: 26,400円
+  - link "【メンズ雨傘】リベリオラ-カーボン-オリーブ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000001111/
+    - img "【メンズ雨傘】リベリオラ-カーボン-オリーブ"
+  - link "【メンズ雨傘】リベリオラ-カーボン-オリーブ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000001111/
+  - generic: 41,800円
+  - link "【メンズ雨傘】シャドウ-ブラック×ターコイズ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000707/
+    - img "【メンズ雨傘】シャドウ-ブラック×ターコイズ"
+  - link "【メンズ雨傘】シャドウ-ブラック×ターコイズ":
+    - /url: https://shop.maehara.co.jp/shopdetail/000000000707/
+  - generic: 38,500円
+  - heading "おすすめカテゴリー" [level=2]
+  - list:
+    - link "メンズ雨傘":
+      - /url: /view/category/mens
+    - link "レディース雨傘":
+      - /url: /view/category/ladys
+    - link "日傘・晴雨兼用傘":
+      - /url: /view/category/parasol
+    - link "メンズ 日傘":
+      - /url: /view/category/ct440
+    - link "レディース 日傘":
+      - /url: /view/category/ct441
+    - link "折りたたみ傘":
+      - /url: /view/category/ct428
+  - list:
+    - link "お誕生日のお祝い":
+      - /url: /view/category/ct79
+    - link "傘寿のお祝い":
+      - /url: /view/category/ct76
+    - link "還暦のお祝い":
+      - /url: /view/category/ct77
+    - link "定番シリーズから探す":
+      - /url: /view/page/series
+  - link "初めての方へ":
+    - /url: /view/page/introduction
+  - link "傘のギフト":
+    - /url: /view/page/gift
+  - heading "トピック" [level=2]
+  - list:
+    - button "Previous" [disabled]
+    - link "前原の高級傘は何年使える？／長年ご使用いただいた傘から考察する「永く使える傘」とは":
+      - /url: /view/page/umbrella-repair-life
+      - img "前原の高級傘は何年使える？／長年ご使用いただいた傘から考察する「永く使える傘」とは"
+    - link "大人の魅力引き立つ、おしゃれなボルドーの傘":
+      - /url: /view/page/bordeaux-umbrella
+      - img "大人の魅力引き立つ、おしゃれなボルドーの傘"
+    - link "前原光榮商店の傘ギフト":
+      - /url: /view/page/umbrella-gift
+      - img "前原光榮商店の傘ギフト"
+    - link:
+      - /url: /view/page/sanju-gift
+    - link:
+      - /url: /view/page/pickup-inscription
+    - link:
+      - /url: /view/page/kanreki-gift
+    - button "Next"
+  - link "more":
+    - /url: /view/page/feature_list
+  - heading "読みもの" [level=2]
+  - link "more":
+    - /url: /blog/
+  - heading "ギャラリー" [level=2]
+  - link "more":
+    - /url: /view/page/leeep-style
+  - heading "User’s Photo" [level=2]
+  - link "dalang77の投稿(1564807047805943808) dalang77のアイコン dalang77":
+    - /url: javascript:void(0);
+    - img "dalang77の投稿(1564807047805943808)"
+    - img "dalang77のアイコン"
+    - generic: dalang77
+  - link "hana.s.logの投稿(1565247358608896000) hana.s.logのアイコン hana.s.log":
+    - /url: javascript:void(0);
+    - img "hana.s.logの投稿(1565247358608896000)"
+    - img "hana.s.logのアイコン"
+    - generic: hana.s.log
+  - link "hutagonopapaの投稿(1564800113224728576) hutagonopapaのアイコン hutagonopapa":
+    - /url: javascript:void(0);
+    - img "hutagonopapaの投稿(1564800113224728576)"
+    - img "hutagonopapaのアイコン"
+    - generic: hutagonopapa
+  - link "from_instagramの投稿(1555551126860894208) from_instagramのアイコン from_instagram":
+    - /url: javascript:void(0);
+    - img "from_instagramの投稿(1555551126860894208)"
+    - img "from_instagramのアイコン"
+    - generic: from_instagram
+  - link "from_instagramの投稿(1555549371385270272) from_instagramのアイコン from_instagram":
+    - /url: javascript:void(0);
+    - img "from_instagramの投稿(1555549371385270272)"
+    - img "from_instagramのアイコン"
+    - generic: from_instagram
+  - link "from_instagramの投稿(1555714640112029696) from_instagramのアイコン from_instagram":
+    - /url: javascript:void(0);
+    - img "from_instagramの投稿(1555714640112029696)"
+    - img "from_instagramのアイコン"
+    - generic: from_instagram
+  - link "hillokawaの投稿(1534466843740221440) hillokawaのアイコン hillokawa":
+    - /url: javascript:void(0);
+    - img "hillokawaの投稿(1534466843740221440)"
+    - img "hillokawaのアイコン"
+    - generic: hillokawa
+  - link "navycircleの投稿(1535075401959747584) navycircleのアイコン navycircle":
+    - /url: javascript:void(0);
+    - img "navycircleの投稿(1535075401959747584)"
+    - img "navycircleのアイコン"
+    - generic: navycircle
+  - link "more":
+    - /url: /view/page/leeep_user
+  - heading "Instagram" [level=2]
+  - link "maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1562029782764380160) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1562029782764380160)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1557681299869700096) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1557681299869700096)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1555189916839743488) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1555189916839743488)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1550433538724089856) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1550433538724089856)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1547942096348954624) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1547942096348954624)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "maeharakoueishoutenの投稿(1544635354009604096) maeharakoueishoutenのアイコン maeharakoueishouten":
+    - /url: javascript:void(0);
+    - img "maeharakoueishoutenの投稿(1544635354009604096)"
+    - img "maeharakoueishoutenのアイコン"
+    - generic: maeharakoueishouten
+  - link "more":
+    - /url: /view/page/leeep
+  - heading "よくあるご質問" [level=2]
+  - list:
+    - paragraph: Q.名入れの納期はどのくらいですか？
+    - text: A.
+    - paragraph: Q.ラッピングはできますか？
+    - text: A.
+    - paragraph: Q.在庫を確認したい
+    - text: A.
+    - paragraph: Q.生地の張替えはできますか？
+    - text: A.
+  - link "more":
+    - /url: /view/page/faq
+- contentinfo:
+  - list:
+    - link "傘の取り扱い":
+      - /url: /view/page/attention
+      - paragraph: 傘の取り扱い
+    - link "修理について":
+      - /url: /view/page/repair
+      - paragraph: 修理について
+    - link "手元について":
+      - /url: /view/page/handle
+      - paragraph: 手元について
+    - link "初めての方へ":
+      - /url: /view/page/introduction
+      - paragraph: 初めての方へ
+  - list:
+    - term: お支払いについて
+    - definition:
+      - definition: 前原光榮商店では下記のお支払方法をご利用いただけます。
+      - definition:
+        - list:
+          - listitem: クレジットカード
+          - listitem: Amazon Pay
+          - listitem: PayPay（ペイペイ）
+          - listitem: 代金引換
+      - definition:
+        - list:
+          - img "visa"
+          - img "master"
+          - img "jcb"
+          - img "amex"
+          - img "diners"
+          - img "amazonpay"
+          - img "paypay"
+          - img "代引き"
+    - term: 配送について
+    - definition:
+      - term: 定休日について
+      - definition: 土・日・祝日は定休日につき発送作業はお休みをいただきます。
+      - term: 到着日時について
+      - definition: 配達事情によって前後する場合がございますので、ご了承ください。
+      - term: 配送指定日について
+      - definition: 「配達指定日」は注文日の5営業日後から指定できます。
+      - term: 配達会社について
+      - definition: ヤマト運輸の宅急便でのお届けとなります。
+    - term: 返品・交換について
+    - definition:
+      - definition:
+        - text: お客様都合による返品・交換・キャンセルはお受けいたしかねますので、
+        - text: あらかじめご了承ください。
+      - definition: 初期不良、発送商品間違いの場合は、当店着払いにて対応いたします。
+      - definition:
+        - text: 商品到着より7日以内に
+        - link "お問い合わせフォーム":
+          - /url: https://shop.maehara.co.jp/shop/enq202407190
+        - text: 、またはお電話にてご連絡いただきますようお願いいたします。
+      - definition:
+        - text: 詳細は
+        - link "キャンセル・返品・交換について":
+          - /url: /view/page/cancel
+        - text: をご確認ください。
+    - term: オンラインショップ営業日・発送について
+    - definition:
+      - paragraph: 発送・お問い合わせ対応日をご案内しています。
+      - heading "2026年11月" [level=3]
+      - table:
+        - rowgroup:
+          - row "日 月 火 水 木 金 土":
+            - columnheader "日"
+            - columnheader "月"
+            - columnheader "火"
+            - columnheader "水"
+            - columnheader "木"
+            - columnheader "金"
+            - columnheader "土"
+        - rowgroup:
+          - row "1 2 3 4 5 6 7":
+            - cell "1"
+            - cell "2"
+            - cell "3"
+            - cell "4"
+            - cell "5"
+            - cell "6"
+            - cell "7"
+          - row "8 9 10 11 12 13 14":
+            - cell "8"
+            - cell "9"
+            - cell "10"
+            - cell "11"
+            - cell "12"
+            - cell "13"
+            - cell "14"
+          - row "15 16 17 18 19 20 21":
+            - cell "15"
+            - cell "16"
+            - cell "17"
+            - cell "18"
+            - cell "19"
+            - cell "20"
+            - cell "21"
+          - row "22 23 24 25 26 27 28":
+            - cell "22"
+            - cell "23"
+            - cell "24"
+            - cell "25"
+            - cell "26"
+            - cell "27"
+            - cell "28"
+          - row "29 30":
+            - cell "29"
+            - cell "30"
+            - cell
+            - cell
+            - cell
+            - cell
+            - cell
+      - heading "2026年12月" [level=3]
+      - table:
+        - rowgroup:
+          - row "日 月 火 水 木 金 土":
+            - columnheader "日"
+            - columnheader "月"
+            - columnheader "火"
+            - columnheader "水"
+            - columnheader "木"
+            - columnheader "金"
+            - columnheader "土"
+        - rowgroup:
+          - row "1 2 3 4 5":
+            - cell
+            - cell
+            - cell "1"
+            - cell "2"
+            - cell "3"
+            - cell "4"
+            - cell "5"
+          - row "6 7 8 9 10 11 12":
+            - cell "6"
+            - cell "7"
+            - cell "8"
+            - cell "9"
+            - cell "10"
+            - cell "11"
+            - cell "12"
+          - row "13 14 15 16 17 18 19":
+            - cell "13"
+            - cell "14"
+            - cell "15"
+            - cell "16"
+            - cell "17"
+            - cell "18"
+            - cell "19"
+          - row "20 21 22 23 24 25 26":
+            - cell "20"
+            - cell "21"
+            - cell "22"
+            - cell "23"
+            - cell "24"
+            - cell "25"
+            - cell "26"
+          - row "27 28 29 30 31":
+            - cell "27"
+            - cell "28"
+            - cell "29"
+            - cell "30"
+            - cell "31"
+            - cell
+            - cell
+      - generic: 営業日
+      - generic: 休業日
+      - generic: 今日
+      - paragraph: 休業日は、オンラインショップの発送・お問い合わせ対応をお休みしています。
+      - paragraph: 配送指定日は、ご注文日の5営業日後から指定できます。
+      - paragraph: ※オンラインショップと直営店では営業日が異なります。
+      - paragraph:
+        - link "直営店「浅草三筋町店」の営業日はこちら":
+          - /url: /view/page/storeintroduction#store-calendar
+  - list:
+    - link "x":
+      - /url: https://twitter.com/maehara_kouei
+      - img "x"
+    - link "Instagram":
+      - /url: https://www.instagram.com/maeharakoueishouten/
+      - img "Instagram"
+    - link "facebook":
+      - /url: https://www.facebook.com/Maehara.Kouei.Shouten/
+      - img "facebook"
+  - list:
+    - link "ブランドサイト":
+      - /url: https://maehara.co.jp/
+    - link "直営店「浅草三筋町店」":
+      - /url: /view/page/storeintroduction
+    - link "International Shipping 海外発送について":
+      - /url: /view/page/worldshopping_guide
+    - link "ご利用ガイド":
+      - /url: /view/guide
+    - link "返品・交換の詳細":
+      - /url: /view/page/cancel
+  - list:
+    - link "会社概要":
+      - /url: /view/company
+    - link "採用情報":
+      - /url: /view/page/recruitment
+    - link "プライバシーポリシー":
+      - /url: /view/policy
+    - link "特定商取引法に基づく表示":
+      - /url: /view/contract
+  - paragraph: 株式会社前原光榮商店
+  - paragraph: 〒111-0055 東京都台東区三筋2-14-5
+  - paragraph: TEL：03-3863-4617
+  - text: © 2025
+  - link "おしゃれな日本製高級傘の通販ならトンボ洋傘前原光榮商店オンラインショップ":
+    - /url: /
+  - text: All Rights Reserved.
+- text: ×

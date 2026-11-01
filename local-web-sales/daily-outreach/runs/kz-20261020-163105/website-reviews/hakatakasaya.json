@@ -1,0 +1,89 @@
+{
+  "company": "株式会社しばた洋傘店",
+  "industry": "洋傘専門店",
+  "region": "福岡県福岡市",
+  "email": "shibata@hakatakasaya.jp",
+  "email_source": "https://hakatakasaya.cart.fc2.com/laws",
+  "website_url": "http://hakatakasaya.jp/",
+  "discovery_source": "https://www.shintencho.or.jp/s025/",
+  "checked_at": "2026-11-01T10:20:40.434Z",
+  "maps": {
+    "rating": 4.6,
+    "review_count": 81,
+    "url": "https://www.google.com/maps/search/?api=1&query=しばた洋傘店 天神",
+    "name": "（株）しばた洋傘店",
+    "identity": "住所天神2-8-132・電話092-741-1771・公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "http://hakatakasaya.jp/",
+    "service": "http://hakatakasaya.jp/page4.html",
+    "contact": "https://form1ssl.fc2.com/form/?id=f174fc1f72919367"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxでトップ942px、商品案内898pxとなり右側の本文が隠れる。1280pxでは表示。6画面保存。"
+    },
+    {
+      "item": 2,
+      "result": "トップからFC2問い合わせフォーム、電話あり。フォーム自体は390pxで縦配置になり読める。"
+    },
+    {
+      "item": 3,
+      "result": "洋傘・日傘等の種類と所在地電話掲載。商店街公式と地図で確認。"
+    },
+    {
+      "item": 4,
+      "result": "公式はHTTPで表示。WebツールHTTPS503を不具合扱いしない。ブラウザーで画像・リンク表示。"
+    },
+    {
+      "item": 5,
+      "result": "既存フォームの入力項目を維持した提案。フォームは送信せず。"
+    },
+    {
+      "item": 6,
+      "result": "2027年3月閉店・仮店舗継続予定は将来の移転。現在の閉業と誤認しない。Maps直近1か月口コミと2026年4月TV記録、創業120周年で現状確認。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://hakatakasaya.jp/page4.html",
+      "viewport_width": 390,
+      "observation": "スマートフォン相当の幅390pxで拝見すると、商品案内ページが横幅898pxのまま表示され、傘の種類やお店の説明が右側の画面外に隠れていました。",
+      "proposal": "スマートフォンでは傘の種類と説明、問い合わせへの案内を縦に並べ、文章と画像が画面幅に収まる配置に整える",
+      "evidence_path": "evidence/hakatakasaya/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "hakatakasaya.jp",
+      "しばた洋傘",
+      "博多傘屋"
+    ],
+    "email_note": "送信先は公式トップからリンクされる通販サイトの特商法に平文掲載のshibata@。トップinfo@と商品ページshiata@は使用しない。ドメイン全体で重複確認。"
+  },
+  "comparisons": [
+    {
+      "url": "https://www.komiyakasa.jp/",
+      "note": "傘の種類と店舗・問い合わせを分類。転用なし。"
+    },
+    {
+      "url": "https://shop.maehara.co.jp/",
+      "note": "商品分類と問い合わせ導線を確認。転用なし。"
+    }
+  ],
+  "independent_sources": [
+    "https://www.shintencho.or.jp/s025/",
+    "https://www.fbs.co.jp/mentai/onair/3299.html"
+  ]
+}

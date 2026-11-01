@@ -1,0 +1,930 @@
+- link "コンテンツにスキップする":
+  - /url: "#MainContent"
+- banner:
+  - heading "傘専門店 小宮商店 傘専門店 小宮商店" [level=1]:
+    - link "傘専門店 小宮商店 傘専門店 小宮商店":
+      - /url: /
+      - img "傘専門店 小宮商店"
+      - img "傘専門店 小宮商店"
+  - navigation:
+    - list:
+      - link "メンズ":
+        - /url: /collections/men
+        - generic: メンズ
+      - link "レディース":
+        - /url: /collections/women
+        - generic: レディース
+      - link "ギフト":
+        - /url: /pages/gift
+        - generic: ギフト
+      - link "ジャーナル":
+        - /url: "#"
+        - generic: ジャーナル
+      - link "小宮商店のこと":
+        - /url: "#"
+        - generic: 小宮商店のこと
+      - link "ショップ":
+        - /url: /pages/shop
+        - generic: ショップ
+  - generic: 言語
+  - button "日本語":
+    - generic: 日本語
+  - generic: 国/地域
+  - button "日本 (JPY ¥)":
+    - generic: 日本 (JPY ¥)
+  - button "サイト内で検索する":
+  - link "ログイン":
+    - /url: /account/login
+    - generic: ログイン
+  - generic "カート":
+    - generic: カート
+- main:
+  - paragraph: Recommend
+  - heading "描き絵フェア" [level=2]
+  - generic: 日本橋浜町アトリエショップにて「描き絵」のイベント開催中
+  - link "詳細を見る":
+    - /url: /blogs/news/kakie202610
+  - paragraph: NEW SHOP
+  - heading [level=2]: Nihonbashi Hamacho Atelier Shop
+  - generic: 日本橋浜町アトリエショップ NEWOPEN
+  - link:
+    - /url: /blogs/news/hamachoshop2607
+    - text: 詳細を見る
+  - paragraph: New Product
+  - heading [level=2]: 伊砂文様 結
+  - generic: 人気の伊砂文様シリーズに新デザイン「結」が登場しました。
+  - link:
+    - /url: /blogs/news/isamonyou2026-4
+    - text: 記事を読む
+  - paragraph: New Product
+  - heading [level=2]: 洋傘を読む。
+  - generic: 洋傘のことを丁寧にまとめた、初めての専門書『楽しく 詳しく 学べる 洋傘の教科書 1％以下の日本製洋傘のこと』が発売しました
+  - link:
+    - /url: /blogs/column/a-complete-guide-to-umbrellas-column
+    - text: 詳細を見る
+  - heading [level=2]: TwoPly
+  - generic: メンズ傘人気No.1 の新定番シリーズ「TwoPly」はギフトにもおすすめです
+  - link:
+    - /url: /products/twoply608
+    - text: 記事を読む
+  - heading [level=2]: Image slide
+  - generic: Give customers details about the slide image or content on the template.
+  - link [disabled]: Button label
+  - button "View slide 1"
+  - button "View slide 2"
+  - button "View slide 3"
+  - button "View slide 4"
+  - button "View slide 5"
+  - button "View slide 6"
+  - link:
+    - /url: /blogs/news/kakie202610
+  - link:
+    - /url: /blogs/news/hamachoshop2607
+  - link:
+    - /url: /blogs/news/isamonyou2026-4
+  - link:
+    - /url: /blogs/column/a-complete-guide-to-umbrellas-column
+  - link:
+    - /url: /products/twoply608
+  - heading "JOURNAL − 今おすすめの記事" [level=2]
+  - list:
+    - article "日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！":
+      - link "日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！ 日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！ もっとみる日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！":
+        - /url: /blogs/news/kakie202610
+        - img "日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！"
+        - heading "日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！" [level=3]
+        - generic: 続きを読む
+    - article "職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！":
+      - link "職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！ 職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！ もっとみる職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！":
+        - /url: /blogs/news/hamachoshop2607
+        - img "職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！"
+        - heading "職人のものづくりを間近に感じられる工房一体型の実店舗「日本橋浜町アトリエショップ」を10月2日(金)オープン！" [level=3]
+        - generic: 続きを読む
+    - article "10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました":
+      - link "10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました 10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました もっとみる10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました":
+        - /url: /blogs/news/nhk-asaichi
+        - img "10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました"
+        - heading "10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました" [level=3]
+        - generic: 続きを読む
+    - article "伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」":
+      - link "伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」 伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」 もっとみる伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」":
+        - /url: /blogs/news/borderflower2606
+        - img "伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」"
+        - heading "伝統の技が織りなす、大人のための晴雨兼用傘「ボーダーフラワー」" [level=3]
+        - generic: 続きを読む
+    - article "洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介":
+      - link "洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介 洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介 もっとみる洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介":
+        - /url: /blogs/column/a-complete-guide-to-umbrellas-column
+        - img "洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介"
+        - heading "洋傘の書籍『楽しく詳しく学べる 洋傘の教科書 1％以下の洋傘のこと』のご紹介" [level=3]
+        - generic: 続きを読む
+    - article "東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します":
+      - link "東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します 東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します もっとみる東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します":
+        - /url: /blogs/news/meetup-event
+        - img "東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します"
+        - heading "東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します" [level=3]
+        - generic: 続きを読む
+  - list:
+    - link "MEN":
+      - /url: /collections/men
+      - generic: MEN
+    - img "長傘 メンズ 雨傘 小幅の甲州織生地ならではの、2色の組み合わせ"
+    - paragraph: MEN
+    - link "WOMEN":
+      - /url: /collections/women
+      - generic: WOMEN
+    - img "長傘 レディース 雨傘 小幅の甲州織生地ならではの、2色の組み合わせ"
+    - paragraph: WOMEN
+  - heading "NEW ARRIVALS - 新着商品" [level=2]
+  - list:
+    - link "ボーダー フラワー 長傘 50cm 8本骨":
+      - /url: /products/borderflower508
+      - img "ボーダー フラワー 長傘 50cm 8本骨"
+    - link "ボーダー フラワー 長傘 50cm 8本骨":
+      - /url: /products/borderflower508
+      - generic: ボーダー フラワー 長傘 50cm 8本骨
+    - link "Border Flower 50cm 8本骨 長傘 ／ 甲州織 ／ 木製シャフト":
+      - /url: /products/borderflower508
+      - text: Border Flower 50cm 8本骨
+      - paragraph: 長傘 ／ 甲州織 ／ 木製シャフト
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥16,500
+    - generic "パープル":
+      - link "パープル":
+        - /url: /products/borderflower508?variant=43547549991118
+        - generic: パープル
+    - generic "ライトブルー":
+      - link "ライトブルー":
+        - /url: /products/borderflower508?variant=43547550023886
+        - generic: ライトブルー
+    - link "商品を見る":
+      - /url: /products/borderflower508
+    - link "ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨":
+      - /url: /products/miratorayshade608
+      - img "ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨"
+    - link "ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨":
+      - /url: /products/miratorayshade608
+      - generic: ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨
+    - link "Miratoray Shade 60cm 8本骨 折りたたみ傘 ／ 超撥水 ／ 大きい ／ 2段折り ／ 2way":
+      - /url: /products/miratorayshade608
+      - text: Miratoray Shade 60cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 超撥水 ／ 大きい ／ 2段折り ／ 2way
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥22,000
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/miratorayshade608?variant=43495816528078
+        - generic: ネイビー
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/miratorayshade608?variant=43495816560846
+        - generic: ブラック
+    - generic "オレンジブラウン":
+      - link "オレンジブラウン":
+        - /url: /products/miratorayshade608?variant=43495816593614
+        - generic: オレンジブラウン
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/miratorayshade608?variant=43495816626382
+        - generic: グレージュ
+    - generic "セージグリーン":
+      - link "セージグリーン":
+        - /url: /products/miratorayshade608?variant=43495816659150
+        - generic: セージグリーン
+    - link "商品を見る":
+      - /url: /products/miratorayshade608
+    - link "晴雨兼用 風に強い 60cm":
+      - /url: /products/duuw6008m3
+      - img "晴雨兼用 風に強い 60cm"
+    - link "晴雨兼用 風に強い 60cm":
+      - /url: /products/duuw6008m3
+      - generic: 晴雨兼用 風に強い 60cm
+    - link "晴雨兼用 風に強い 60cm 折りたたみ傘 ／ 遮光・遮熱 ／ 軽量 ／ 風に強い ／ ラクラク開閉 ／ 大きい":
+      - /url: /products/duuw6008m3
+      - generic: 晴雨兼用 風に強い 60cm
+      - paragraph: 折りたたみ傘 ／ 遮光・遮熱 ／ 軽量 ／ 風に強い ／ ラクラク開閉 ／ 大きい
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥4,950
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/duuw6008m3?variant=43360587088078
+        - generic: ブラック
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/duuw6008m3?variant=43360587120846
+        - generic: ネイビー
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/duuw6008m3?variant=43360587153614
+        - generic: グレージュ
+    - generic "グレー":
+      - link "グレー":
+        - /url: /products/duuw6008m3?variant=43360587186382
+        - generic: グレー
+    - link "商品を見る":
+      - /url: /products/duuw6008m3
+    - link "晴雨兼用 自動開閉傘 65cm":
+      - /url: /products/duua6508m3
+      - img "晴雨兼用 自動開閉傘 65cm"
+    - link "晴雨兼用 自動開閉傘 65cm":
+      - /url: /products/duua6508m3
+      - generic: 晴雨兼用 自動開閉傘 65cm
+    - link "晴雨兼用 自動開閉傘 65cm 折りたたみ傘 ／ 遮光・遮熱 ／ ワンタッチ":
+      - /url: /products/duua6508m3
+      - generic: 晴雨兼用 自動開閉傘 65cm
+      - paragraph: 折りたたみ傘 ／ 遮光・遮熱 ／ ワンタッチ
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥5,500
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/duua6508m3?variant=43360518439118
+        - generic: ブラック
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/duua6508m3?variant=43360518471886
+        - generic: ネイビー
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/duua6508m3?variant=43360518504654
+        - generic: グレージュ
+    - generic "グレー":
+      - link "グレー":
+        - /url: /products/duua6508m3?variant=43360518537422
+        - generic: グレー
+    - link "商品を見る":
+      - /url: /products/duua6508m3
+  - heading "SERIES − 今シーズンのおすすめシリーズ" [level=2]
+  - list:
+    - link "Chambray Shade Chambray Shade シャンブレーシェード 涼しげなオーガニックコットン生地の裏にブラックコーティングを施した一級遮光の晴雨兼用シリーズです。":
+      - /url: /collections/series-chambrayshade
+      - img "Chambray Shade"
+      - heading "Chambray Shade シャンブレーシェード 涼しげなオーガニックコットン生地の裏にブラックコーティングを施した一級遮光の晴雨兼用シリーズです。" [level=3]:
+        - text: Chambray Shade シャンブレーシェード
+        - paragraph: 涼しげなオーガニックコットン生地の裏にブラックコーティングを施した一級遮光の晴雨兼用シリーズです。
+    - link "Fringe Dot Shade Fringe Dot Shade フリンジドットシェード カットドビーで表現する、立体感のあるドット柄の生地の裏にブラックコーティングを施した一級遮光の晴雨兼用傘です。":
+      - /url: /collections/series-fringedotshade
+      - img "Fringe Dot Shade"
+      - heading "Fringe Dot Shade フリンジドットシェード カットドビーで表現する、立体感のあるドット柄の生地の裏にブラックコーティングを施した一級遮光の晴雨兼用傘です。" [level=3]:
+        - text: Fringe Dot Shade フリンジドットシェード
+        - paragraph: カットドビーで表現する、立体感のあるドット柄の生地の裏にブラックコーティングを施した一級遮光の晴雨兼用傘です。
+    - link "Cotton Lawn Shade Cotton Lawn Shade コットンローンシェード 遮光率100％・ＵＶカット率99.9％以上、遮熱率50％以上のコットン生地を使用した、シンプルで上品な晴雨兼用シリーズです。":
+      - /url: /collections/series-cottonshade
+      - img "Cotton Lawn Shade"
+      - heading "Cotton Lawn Shade コットンローンシェード 遮光率100％・ＵＶカット率99.9％以上、遮熱率50％以上のコットン生地を使用した、シンプルで上品な晴雨兼用シリーズです。" [level=3]:
+        - text: Cotton Lawn Shade コットンローンシェード
+        - paragraph: 遮光率100％・ＵＶカット率99.9％以上、遮熱率50％以上のコットン生地を使用した、シンプルで上品な晴雨兼用シリーズです。
+    - link "TwoPly TwoPly トゥープライ 2色の組み合わせが美しい、シンプルで上質な甲州織の新定番シリーズ":
+      - /url: /collections/series-twoply
+      - img "TwoPly"
+      - heading "TwoPly トゥープライ 2色の組み合わせが美しい、シンプルで上質な甲州織の新定番シリーズ" [level=3]:
+        - text: TwoPly トゥープライ
+        - paragraph: 2色の組み合わせが美しい、シンプルで上質な甲州織の新定番シリーズ
+    - link "Miratoray Miratoray ミラトーレ 東レ社の「ミラトーレ」という高撥水生地を使用した水弾きが抜群の、機能に特化した雨傘シリーズです。":
+      - /url: /collections/series-miratoray
+      - img "Miratoray"
+      - heading "Miratoray ミラトーレ 東レ社の「ミラトーレ」という高撥水生地を使用した水弾きが抜群の、機能に特化した雨傘シリーズです。" [level=3]:
+        - text: Miratoray ミラトーレ
+        - paragraph: 東レ社の「ミラトーレ」という高撥水生地を使用した水弾きが抜群の、機能に特化した雨傘シリーズです。
+    - link "Bloom Bloom ブルーム 先染めの発色を活かしつつもマットな質感を表現する花柄ジャカード織の雨晴兼用傘":
+      - /url: /collections/series-bloom-1
+      - img "Bloom"
+      - heading "Bloom ブルーム 先染めの発色を活かしつつもマットな質感を表現する花柄ジャカード織の雨晴兼用傘" [level=3]:
+        - text: Bloom ブルーム
+        - paragraph: 先染めの発色を活かしつつもマットな質感を表現する花柄ジャカード織の雨晴兼用傘
+    - link "いろしずく いろしずく 手染めの風合いを「ほぐし織」で表現した雨晴兼用シリーズです。":
+      - /url: /collections/series-iroshizuku
+      - img "いろしずく"
+      - heading "いろしずく 手染めの風合いを「ほぐし織」で表現した雨晴兼用シリーズです。" [level=3]:
+        - text: いろしずく
+        - paragraph: 手染めの風合いを「ほぐし織」で表現した雨晴兼用シリーズです。
+  - button "左へ" [disabled]:
+  - button "右へ":
+  - heading "MEN − 今シーズンのおすすめメンズ傘" [level=2]
+  - list:
+    - link:
+      - /url: /products/miratorayshade608
+    - link "ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨":
+      - /url: /products/miratorayshade608
+      - generic: ミラトーレシェード(遮光・遮熱・UVカット) 折りたたみ傘 60cm 8本骨
+    - link "Miratoray Shade 60cm 8本骨 折りたたみ傘 ／ 超撥水 ／ 大きい ／ 2段折り ／ 2way":
+      - /url: /products/miratorayshade608
+      - text: Miratoray Shade 60cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 超撥水 ／ 大きい ／ 2段折り ／ 2way
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥22,000
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/miratorayshade608?variant=43495816528078
+        - generic: ネイビー
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/miratorayshade608?variant=43495816560846
+        - generic: ブラック
+    - generic "オレンジブラウン":
+      - link "オレンジブラウン":
+        - /url: /products/miratorayshade608?variant=43495816593614
+        - generic: オレンジブラウン
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/miratorayshade608?variant=43495816626382
+        - generic: グレージュ
+    - generic "セージグリーン":
+      - link "セージグリーン":
+        - /url: /products/miratorayshade608?variant=43495816659150
+        - generic: セージグリーン
+    - link:
+      - /url: /products/chambrayshade558ori
+    - link "シャンブレーシェード 折りたたみ傘 55cm 8本骨":
+      - /url: /products/chambrayshade558ori
+      - generic: シャンブレーシェード 折りたたみ傘 55cm 8本骨
+    - link "Chambray Shade 55cm 8本骨 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り":
+      - /url: /products/chambrayshade558ori
+      - text: Chambray Shade 55cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥24,200
+    - generic "ネイビーグレー":
+      - link "ネイビーグレー":
+        - /url: /products/chambrayshade558ori?variant=43045163630798
+        - generic: ネイビーグレー
+    - generic "グレーブラウン":
+      - link "グレーブラウン":
+        - /url: /products/chambrayshade558ori?variant=43045163663566
+        - generic: グレーブラウン
+    - generic "スカイブルー":
+      - link "スカイブルー":
+        - /url: /products/chambrayshade558ori?variant=43045163696334
+        - generic: スカイブルー
+    - generic "ベージュ":
+      - link "ベージュ":
+        - /url: /products/chambrayshade558ori?variant=43045202591950
+        - generic: ベージュ
+    - generic "ライトグレー":
+      - link "ライトグレー":
+        - /url: /products/chambrayshade558ori?variant=43045202690254
+        - generic: ライトグレー
+    - link:
+      - /url: /products/twoply608
+    - link "TwoPly 折りたたみ傘 60cm 8本骨":
+      - /url: /products/twoply608
+      - generic: TwoPly 折りたたみ傘 60cm 8本骨
+    - link "TwoPly 60cm 8本骨 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り ／ 大きい":
+      - /url: /products/twoply608
+      - text: TwoPly 60cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り ／ 大きい
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥26,400
+    - generic "グレー":
+      - link "グレー":
+        - /url: /products/twoply608?variant=42346912055502
+        - generic: グレー
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/twoply608?variant=42346912088270
+        - generic: ネイビー
+    - generic "オレンジブラウン":
+      - link "オレンジブラウン":
+        - /url: /products/twoply608?variant=42346912121038
+        - generic: オレンジブラウン
+    - generic "グリーングレー":
+      - link "グリーングレー":
+        - /url: /products/twoply608?variant=42346912153806
+        - generic: グリーングレー
+    - link:
+      - /url: /products/urashima6010
+    - link "裏縞 折りたたみ傘 60cm 10本骨":
+      - /url: /products/urashima6010
+      - generic: 裏縞 折りたたみ傘 60cm 10本骨
+    - link "裏縞 60cm 10本骨 折りたたみ傘 ／ 甲州織 ／ 骨が多い ／ 大きい ／ 2段折り":
+      - /url: /products/urashima6010
+      - text: 裏縞 60cm 10本骨
+      - paragraph: 折りたたみ傘 ／ 甲州織 ／ 骨が多い ／ 大きい ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥29,700
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/urashima6010?variant=40747401969870
+        - generic: ブラック
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/urashima6010?variant=40747402002638
+        - generic: ネイビー
+    - generic "グレイッシュブラウン":
+      - link "グレイッシュブラウン":
+        - /url: /products/urashima6010?variant=40747402035406
+        - generic: グレイッシュブラウン
+  - heading "WOMEN − 今シーズンのおすすめレディース傘" [level=2]
+  - list:
+    - link:
+      - /url: /products/fringedotshade508ori
+    - link "フリンジドットシェード 折りたたみ傘 50cm 8本骨":
+      - /url: /products/fringedotshade508ori
+      - generic: フリンジドットシェード 折りたたみ傘 50cm 8本骨
+    - link "Fringe Dot Shade 50cm 8本骨 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り":
+      - /url: /products/fringedotshade508ori
+      - text: Fringe Dot Shade 50cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥24,200
+      - text: –
+      - generic: ¥27,500
+    - text: –
+    - generic "ベージュ（竹コンパクトタイプ）":
+      - link "ベージュ（竹コンパクトタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026391826638
+        - generic: ベージュ（竹コンパクトタイプ）
+    - generic "ライトグレー（竹コンパクトタイプ）":
+      - link "ライトグレー（竹コンパクトタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026391859406
+        - generic: ライトグレー（竹コンパクトタイプ）
+    - generic "オフホワイト（竹コンパクトタイプ）":
+      - link "オフホワイト（竹コンパクトタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026391892174
+        - generic: オフホワイト（竹コンパクトタイプ）
+    - generic "ベージュ（竹まがりタイプ）":
+      - link "ベージュ（竹まがりタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026391924942
+        - generic: ベージュ（竹まがりタイプ）
+    - generic "ライトグレー（竹まがりタイプ）":
+      - link "ライトグレー（竹まがりタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026405195982
+        - generic: ライトグレー（竹まがりタイプ）
+    - generic "オフホワイト（竹まがりタイプ）":
+      - link "オフホワイト（竹まがりタイプ）":
+        - /url: /products/fringedotshade508ori?variant=43026405228750
+        - generic: オフホワイト（竹まがりタイプ）
+    - link:
+      - /url: /products/bouquet608
+    - link "ブーケ 長傘 60cm 8本骨":
+      - /url: /products/bouquet608
+      - generic: ブーケ 長傘 60cm 8本骨
+    - link "Bouquet 60cm 8本骨 長傘 ／ 甲州織 ／ カーボン骨":
+      - /url: /products/bouquet608
+      - text: Bouquet 60cm 8本骨
+      - paragraph: 長傘 ／ 甲州織 ／ カーボン骨
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥36,300
+    - generic "スモーキーグリーン":
+      - link "スモーキーグリーン":
+        - /url: /products/bouquet608?variant=42346921427150
+        - generic: スモーキーグリーン
+    - generic "コーラルベージュ":
+      - link "コーラルベージュ":
+        - /url: /products/bouquet608?variant=42346921459918
+        - generic: コーラルベージュ
+    - generic "ラベンダーグレー":
+      - link "ラベンダーグレー":
+        - /url: /products/bouquet608?variant=42346921492686
+        - generic: ラベンダーグレー
+    - link:
+      - /url: /products/cottonshade508ori
+    - link "コットンローンシェードwomen 折りたたみ傘 50cm 8本骨":
+      - /url: /products/cottonshade508ori
+      - generic: コットンローンシェードwomen 折りたたみ傘 50cm 8本骨
+    - link "Cotton Lawn Shade 50cm 8本骨 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り ／ 2way":
+      - /url: /products/cottonshade508ori
+      - text: Cotton Lawn Shade 50cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 遮光・遮熱 ／ 2段折り ／ 2way
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥20,900
+    - term:
+      - generic: ＳＡＬＥ
+    - definition:
+      - generic: ¥15,400
+    - generic "テラコッタ":
+      - link "テラコッタ":
+        - /url: /products/cottonshade508ori?variant=42346877485262
+        - generic: テラコッタ
+    - generic "ピンクグレー":
+      - link "ピンクグレー":
+        - /url: /products/cottonshade508ori?variant=42346877518030
+        - generic: ピンクグレー
+    - generic "オフホワイト":
+      - link "オフホワイト":
+        - /url: /products/cottonshade508ori?variant=42346877550798
+        - generic: オフホワイト
+    - generic "ミントグリーン":
+      - link "ミントグリーン":
+        - /url: /products/cottonshade508ori?variant=42346877583566
+        - generic: ミントグリーン
+    - generic: ＳＡＬＥ
+    - link:
+      - /url: /products/twoply558ori
+    - link "TwoPly 折りたたみ傘 55cm 8本骨":
+      - /url: /products/twoply558ori
+      - generic: TwoPly 折りたたみ傘 55cm 8本骨
+    - link "TwoPly 55cm 8本骨 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り":
+      - /url: /products/twoply558ori
+      - text: TwoPly 55cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥24,200
+    - generic "アイボリー":
+      - link "アイボリー":
+        - /url: /products/twoply558ori?variant=42804285735118
+        - generic: アイボリー
+    - generic "アプリコットベージュ":
+      - link "アプリコットベージュ":
+        - /url: /products/twoply558ori?variant=42804285767886
+        - generic: アプリコットベージュ
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/twoply558ori?variant=42804285800654
+        - generic: グレージュ
+    - generic "スモーキーブルー":
+      - link "スモーキーブルー":
+        - /url: /products/twoply558ori?variant=42804285833422
+        - generic: スモーキーブルー
+    - generic "コーラルピンク":
+      - link "コーラルピンク":
+        - /url: /products/twoply558ori?variant=42804285866190
+        - generic: コーラルピンク
+  - heading "RANKING − ランキング" [level=2]
+  - list:
+    - link "長傘 レディース 雨傘 UV 甲州織 骨が多い カーボン骨 小宮商店 かさね":
+      - /url: /products/kasane5516
+      - img "長傘 レディース 雨傘 UV 甲州織 骨が多い カーボン骨 小宮商店 かさね"
+    - link "かさね 長傘 55cm 16本骨":
+      - /url: /products/kasane5516
+      - generic: かさね 長傘 55cm 16本骨
+    - link "かさね 55cm 16本骨 長傘 ／ 甲州織 ／ 骨が多い ／ カーボン骨":
+      - /url: /products/kasane5516
+      - text: かさね 55cm 16本骨
+      - paragraph: 長傘 ／ 甲州織 ／ 骨が多い ／ カーボン骨
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥35,200
+    - generic "ベージュ／ピンク":
+      - link "ベージュ／ピンク":
+        - /url: /products/kasane5516?variant=40747414651086
+        - generic: ベージュ／ピンク
+    - generic "ブラウン／ブルー":
+      - link "ブラウン／ブルー":
+        - /url: /products/kasane5516?variant=40747414683854
+        - generic: ブラウン／ブルー
+    - generic "ネイビー／パープル":
+      - link "ネイビー／パープル":
+        - /url: /products/kasane5516?variant=40747414749390
+        - generic: ネイビー／パープル
+    - generic "セルリアン／ラベンダー":
+      - link "セルリアン／ラベンダー":
+        - /url: /products/kasane5516?variant=40747414782158
+        - generic: セルリアン／ラベンダー
+    - generic "コーラルレッド／アイボリ―":
+      - link "コーラルレッド／アイボリ―":
+        - /url: /products/kasane5516?variant=40747414814926
+        - generic: コーラルレッド／アイボリ―
+    - generic "グレー／ローズピンク":
+      - link "グレー／ローズピンク":
+        - /url: /products/kasane5516?variant=40747414847694
+        - generic: グレー／ローズピンク
+    - link "+3":
+      - /url: /products/kasane5516
+    - link "商品を見る":
+      - /url: /products/kasane5516
+    - link "折りたたみ傘 メンズ 雨傘 超撥水 骨が多い 大きい 2段折り 2way 小宮商店 Miratoray":
+      - /url: /products/miratoray6510ori
+      - img "折りたたみ傘 メンズ 雨傘 超撥水 骨が多い 大きい 2段折り 2way 小宮商店 Miratoray"
+    - link "ミラトーレ 折りたたみ傘 65cm 10本骨":
+      - /url: /products/miratoray6510ori
+      - generic: ミラトーレ 折りたたみ傘 65cm 10本骨
+    - link "Miratoray 65cm 10本骨 折りたたみ傘 ／ 超撥水 ／ 骨が多い ／ 大きい ／ 2段折り ／ 2way":
+      - /url: /products/miratoray6510ori
+      - text: Miratoray 65cm 10本骨
+      - paragraph: 折りたたみ傘 ／ 超撥水 ／ 骨が多い ／ 大きい ／ 2段折り ／ 2way
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥18,700
+    - generic "ネイビー":
+      - link "ネイビー":
+        - /url: /products/miratoray6510ori?variant=43032306909390
+        - generic: ネイビー
+    - generic "ブラック":
+      - link "ブラック":
+        - /url: /products/miratoray6510ori?variant=43032306942158
+        - generic: ブラック
+    - link "商品を見る":
+      - /url: /products/miratoray6510ori
+    - link "折りたたみ傘 レディース 雨傘 捺染した仮糸と無地の糸を合わせて 二重に織り上げる「裏ほぐし織」":
+      - /url: /products/bouquet558ori
+      - img "折りたたみ傘 レディース 雨傘 捺染した仮糸と無地の糸を合わせて 二重に織り上げる「裏ほぐし織」"
+    - link "ブーケ 折りたたみ傘 55cm 8本骨":
+      - /url: /products/bouquet558ori
+      - generic: ブーケ 折りたたみ傘 55cm 8本骨
+    - link "Bouquet 55cm 8本骨 折りたたみ傘 ／ 甲州織 ／ 2段折り":
+      - /url: /products/bouquet558ori
+      - text: Bouquet 55cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 甲州織 ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥30,800
+    - generic "スモーキーグリーン":
+      - link "スモーキーグリーン":
+        - /url: /products/bouquet558ori?variant=42346924310734
+        - generic: スモーキーグリーン
+    - generic "コーラルベージュ":
+      - link "コーラルベージュ":
+        - /url: /products/bouquet558ori?variant=42346924343502
+        - generic: コーラルベージュ
+    - generic "ラベンダーグレー":
+      - link "ラベンダーグレー":
+        - /url: /products/bouquet558ori?variant=42346924376270
+        - generic: ラベンダーグレー
+    - link "商品を見る":
+      - /url: /products/bouquet558ori
+    - link "折りたたみ傘 レディース 雨傘 UV 甲州織 2way 小宮商店 TwoPly":
+      - /url: /products/twoply558ori
+      - img "折りたたみ傘 レディース 雨傘 UV 甲州織 2way 小宮商店 TwoPly"
+    - link "TwoPly 折りたたみ傘 55cm 8本骨":
+      - /url: /products/twoply558ori
+      - generic: TwoPly 折りたたみ傘 55cm 8本骨
+    - link "TwoPly 55cm 8本骨 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り":
+      - /url: /products/twoply558ori
+      - text: TwoPly 55cm 8本骨
+      - paragraph: 折りたたみ傘 ／ 甲州織 ／ 2way ／ 2段折り
+    - term:
+      - generic: 定価
+    - definition:
+      - generic: ¥24,200
+    - generic "アイボリー":
+      - link "アイボリー":
+        - /url: /products/twoply558ori?variant=42804285735118
+        - generic: アイボリー
+    - generic "アプリコットベージュ":
+      - link "アプリコットベージュ":
+        - /url: /products/twoply558ori?variant=42804285767886
+        - generic: アプリコットベージュ
+    - generic "グレージュ":
+      - link "グレージュ":
+        - /url: /products/twoply558ori?variant=42804285800654
+        - generic: グレージュ
+    - generic "スモーキーブルー":
+      - link "スモーキーブルー":
+        - /url: /products/twoply558ori?variant=42804285833422
+        - generic: スモーキーブルー
+    - generic "コーラルピンク":
+      - link "コーラルピンク":
+        - /url: /products/twoply558ori?variant=42804285866190
+        - generic: コーラルピンク
+    - link "商品を見る":
+      - /url: /products/twoply558ori
+  - img "長傘 メンズ 雨傘 希少な小幅のシャトル織機で織り上げた織物"
+  - paragraph: 傘の選び方
+  - heading "使い分けて楽しむ 「雨晴兼用」と「晴雨兼用」の傘" [level=2]:
+    - text: 使い分けて楽しむ
+    - text: 「雨晴兼用」と「晴雨兼用」の傘
+  - paragraph: 小宮商店の傘は、雨傘、雨晴兼用傘、晴雨兼用傘、日傘の4種類に分かれます。それぞれの違いについて、詳しくご紹介いたします。
+  - link "もっと読む":
+    - /url: /blogs/column/kenyou
+  - heading "FABRIC" [level=2]
+  - paragraph:
+    - text: 小宮商店の代表的な４種類の生地タイプ。
+    - text: 用途に合わせて傘をお選びいただけます。
+  - list:
+    - img "折りたたみ傘 メンズ 雨傘 おしゃれで持ちやすくい、ブナの曲がりハンドル"
+    - link:
+      - /url: /collections/koshu-ori
+    - link "甲州織":
+      - /url: /collections/koshu-ori
+    - img "折りたたみ傘 メンズ 雨傘 抜群の撥水性で雨に負けない「ミラトーレ」"
+    - link:
+      - /url: /collections/water-repellent
+    - link "超撥水":
+      - /url: /collections/water-repellent
+    - link:
+      - /url: /collections/fullshade
+    - link "遮光・遮熱":
+      - /url: /collections/fullshade
+    - img "長傘 レディース 日傘 山梨で織る、リネンのほぐし織"
+    - link:
+      - /url: /collections/organic-fabric-parasol
+    - link "天然繊維の日傘":
+      - /url: /collections/organic-fabric-parasol
+  - heading "ABOUT US" [level=2]
+  - list:
+    - link:
+      - /url: /pages/our-umbrellas
+    - paragraph: 小宮商店の洋傘づくり
+    - paragraph: 小宮商店は1930年の創業当初から、傘をファッションの一部として、末永くお使いいただきたいという想いを込めて、今日も傘づくりを続けています。
+    - link "続きを読む":
+      - /url: /pages/our-umbrellas
+    - link:
+      - /url: /pages/umbrella-made-in-japan
+    - paragraph: 日本製洋傘
+    - paragraph: 幕末に日本に伝わった洋傘は、日本の職人技術と独自の美意識によって磨き上げられました。その伝統を受け継ぎ、現代に息づく日本製洋傘の魅力をご紹介します。
+    - link "続きを読む":
+      - /url: /pages/umbrella-made-in-japan
+    - link:
+      - /url: /pages/about-us
+    - paragraph: 私たちのこと
+    - paragraph:
+      - text: 創業からまもなく百年、今日も傘を作っています。
+      - text: 私たちの歴史と時代に合わせた働き方への取り組みをご紹介します。
+    - link "続きを読む":
+      - /url: /pages/about-us
+  - img "機能的な傘専門店 小宮商店 Daily Use Umbrella"
+  - heading "まいにちを、もっと快適にする 小宮商店企画の海外製の傘" [level=2]:
+    - text: まいにちを、もっと快適にする
+    - text: 小宮商店企画の海外製の傘
+  - paragraph: 「軽い」「風に強い」「自動開閉」など機能にこだわり、時代、ファッション、ライフスタイル 、ジェンダーをボーダレスに使える。まいにち、そっと寄り添ってくれる傘です。
+  - link "ブランドトップへ":
+    - /url: /collections/daily-use-umbrella
+  - heading "NEWS" [level=2]
+  - list:
+    - paragraph:
+      - text: 2026-10-27
+      - link "日本橋浜町アトリエショップにて10月30日(金)より、世界に一つの表情を描いた”手描きの傘”を集めた「描き絵フェア」開催！":
+        - /url: /blogs/news/kakie202610
+    - paragraph:
+      - text: 2026-10-20
+      - link "MonoMax 2026年11月号にて小宮商店の「裏縞」が紹介されました":
+        - /url: /blogs/news/monomax202611
+    - paragraph:
+      - text: 2026-10-07
+      - link "10月7日放送のNHK「あさイチ」にて小宮商店が紹介されました":
+        - /url: /blogs/news/nhk-asaichi
+    - paragraph:
+      - text: 2026-10-06
+      - link "東京都が開催する「働き方改革 Meetup event」に専務取締役の伊藤が先進企業のファシリテーターとして参加します":
+        - /url: /blogs/news/meetup-event
+    - paragraph:
+      - text: 2026-09-04
+      - link "TBS番組『私のサントラ』に小宮商店の職人の雨宮が出演しました":
+        - /url: /blogs/news/tbs-watashinosantora
+    - paragraph:
+      - text: 2026-08-20
+      - link "移転に伴う休業のご案内":
+        - /url: /blogs/news/temporarilyclosed
+  - paragraph:
+    - link "すべて見る":
+      - /url: /blogs/news
+  - heading "EVENT 開催中のイベント" [level=2]
+  - list
+  - paragraph:
+    - link "すべて見る":
+      - /url: /blogs/event
+  - link "お取り扱い店舗":
+    - /url: /pages/where-to-buy
+  - heading "傘は、末広がりの縁起物" [level=2]
+  - paragraph:
+    - text: もらってうれしい、縁起もいい。
+    - text: そんな傘を大切な方への贈り物にいかがですか？
+    - text: プレゼント用に小宮商店の傘をお求めいただきましたら、
+    - text: 専用のギフトボックスにて、丁寧にお包みいたします。
+  - link "ギフトにおすすめの傘":
+    - /url: /pages/gift
+  - heading "いまでは日本にごくわずかとなった洋傘の専門店" [level=2]
+  - paragraph:
+    - text: 創業の地の浜町に実店舗を構えています。
+    - text: お客様のライフスタイルに合わせて様々な洋傘をご用意しております。お似合いの１本を必ず見つけていただけるはずです。
+    - text: お近くにお越しの際は是非お立ち寄りください。
+  - link "ショップ情報はこちら":
+    - /url: /pages/shop
+  - heading "小宮商店 日本橋浜町アトリエショップ" [level=2]
+  - paragraph: 〒103-0007 中央区日本橋浜町3-19-3ムゲン日本橋ビル1F
+  - paragraph:
+    - strong: 営業時間
+    - text: 月～金 10:00～19:00
+    - text: 土・日 10:00～18:00
+    - text: （日曜日は第1日曜日のみ営業）
+    - strong: 定休日
+    - text: 第2～第5日曜日、祝日
+  - link "Googleマップで表示":
+    - /url: https://maps.app.goo.gl/ZpAX6ri6RK27NACJ8
+- contentinfo:
+  - generic "MAIN MENU":
+    - paragraph: MAIN MENU
+  - list:
+    - link "メンズ":
+      - /url: /collections/men
+    - link "レディース":
+      - /url: /collections/women
+    - link "ギフト":
+      - /url: /pages/gift
+    - link "ショップ":
+      - /url: /pages/shop
+    - link "小宮商店の洋傘づくり":
+      - /url: /pages/our-umbrellas
+    - link "日本製洋傘":
+      - /url: /pages/umbrella-made-in-japan
+    - link "私たちのこと":
+      - /url: /pages/about-us
+  - generic "JOURNAL":
+    - paragraph: JOURNAL
+  - list:
+    - link "製品特集":
+      - /url: /blogs/product
+    - link "読みもの":
+      - /url: /blogs/column
+    - link "お知らせ":
+      - /url: /blogs/news
+    - link "イベント":
+      - /url: /blogs/event
+  - generic "CARE GUIDE":
+    - paragraph: CARE GUIDE
+  - list:
+    - link "お問い合わせ":
+      - /url: /pages/contact
+    - link "よくあるご質問":
+      - /url: /pages/faq
+    - link "ご利用ガイド":
+      - /url: /pages/user-guide
+    - link "ご使用上の注意":
+      - /url: /pages/product-notice
+    - link "傘のお手入れ方法":
+      - /url: /pages/care
+    - link "傘の修理":
+      - /url: /pages/repair
+    - link "傘辞典":
+      - /url: /pages/encyclopedia
+  - generic "More":
+    - paragraph: More
+  - list:
+    - link "名入れ":
+      - /url: /products/engraving
+    - link "ノベルティ・ギフト":
+      - /url: /pages/novelty-gift
+    - link "ふるさと納税":
+      - /url: /pages/furusato
+    - link "プライバシーポリシー":
+      - /url: /pages/privacy
+    - link "求人情報":
+      - /url: /pages/recruit
+  - generic "Mail Magazine":
+    - paragraph: Mail Magazine
+  - textbox "ここにメールアドレスを入力してください"
+  - generic: ここにメールアドレスを入力してください
+  - button "登録":
+  - paragraph: 新商品のお知らせやお得な情報をお届けしています。
+  - paragraph: FOLLOW US
+  - list:
+    - link "Facebook":
+      - /url: https://www.facebook.com/p/%E5%B0%8F%E5%AE%AE%E5%95%86%E5%BA%97-100086605424751/
+      - generic: Facebook
+    - link "Instagram":
+      - /url: https://www.instagram.com/komiya_kasa1930_official/
+      - generic: Instagram
+    - link "YouTube":
+      - /url: https://www.youtube.com/@komiyashoten
+      - generic: YouTube
+  - text: © 2026,
+  - link "傘専門店 小宮商店":
+    - /url: /
+  - text: . All rights reserved.
+  - list:
+    - generic: Powered by Shopify
+  - generic: 言語
+  - button "日本語":
+    - generic: 日本語
+  - generic: 国/地域
+  - button "日本 (JPY ¥)":
+    - generic: 日本 (JPY ¥)
+  - generic: 支払い方法
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Bancontact"
+    - img "Google Pay"
+    - img "iDEAL Wero"
+    - img "JCB"
+    - img "Mastercard"
+    - img "Shop Pay"
+    - img "Visa"
+- list:
+  - link "Facebook":
+    - /url: https://www.facebook.com/p/%E5%B0%8F%E5%AE%AE%E5%95%86%E5%BA%97-100086605424751/
+    - generic: Facebook
+  - link "Instagram":
+    - /url: https://www.instagram.com/komiya_kasa1930_official/
+    - generic: Instagram
+  - link "YouTube":
+    - /url: https://www.youtube.com/@komiyashoten
+    - generic: YouTube
+- paragraph: MAIL MAGAZINE

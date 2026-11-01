@@ -1,0 +1,69 @@
+- table:
+  - rowgroup:
+    - row "しばた洋傘店へのご連絡、ご質問 下記フォームへ入力し [ 確 認 ] ボタンを押してください。 お名前 ※ メールアドレス ※ ＴＥＬ 例）123-456-7890 お問い合せ内容 ※ 確 認":
+      - cell "しばた洋傘店へのご連絡、ご質問 下記フォームへ入力し [ 確 認 ] ボタンを押してください。 お名前 ※ メールアドレス ※ ＴＥＬ 例）123-456-7890 お問い合せ内容 ※ 確 認":
+        - table:
+          - rowgroup:
+            - row "しばた洋傘店へのご連絡、ご質問":
+              - cell "しばた洋傘店へのご連絡、ご質問"
+        - table:
+          - rowgroup:
+            - row "下記フォームへ入力し [ 確 認 ] ボタンを押してください。":
+              - cell "下記フォームへ入力し [ 確 認 ] ボタンを押してください。"
+        - table:
+          - rowgroup:
+            - row "お名前 ※":
+              - cell "お名前"
+              - cell "※":
+                - textbox
+                - generic: ※
+            - row "メールアドレス ※":
+              - cell "メールアドレス"
+              - cell "※":
+                - textbox
+                - generic: ※
+            - row "ＴＥＬ 例）123-456-7890":
+              - cell "ＴＥＬ"
+              - cell "例）123-456-7890":
+                - textbox
+                - text: 例）123-456-7890
+            - row "お問い合せ内容 ※":
+              - cell "お問い合せ内容"
+              - cell "※":
+                - textbox
+                - generic: ※
+        - table:
+          - rowgroup:
+            - row "確 認":
+              - cell "確 認":
+                - button "確 認"
+- table:
+  - rowgroup:
+    - row "メールフォーム -無料掲示板 - ブログ(blog) - ホームページ - アクセス解析 - 小説 - 花":
+      - cell "メールフォーム -無料掲示板 - ブログ(blog) - ホームページ - アクセス解析 - 小説 - 花":
+        - link "メールフォーム":
+          - /url: http://form.fc2.com/
+          - strong: メールフォーム
+        - text: "-"
+        - link "無料":
+          - /url: http://fc2.com/
+        - link "掲示板":
+          - /url: http://bbs.fc2.com/
+        - text: "-"
+        - link "ブログ":
+          - /url: http://blog.fc2.com/
+        - text: (
+        - link "blog":
+          - /url: http://blog.fc2.com/
+        - text: ) -
+        - link "ホームページ":
+          - /url: http://web.fc2.com/
+        - text: "-"
+        - link "アクセス解析":
+          - /url: http://analysis.fc2.com/
+        - text: "-"
+        - link "小説":
+          - /url: http://novel.fc2.com/
+        - text: "-"
+        - link "花":
+          - /url: http://flowerfan.com/

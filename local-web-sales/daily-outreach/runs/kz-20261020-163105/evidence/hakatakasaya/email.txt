@@ -1,0 +1,110 @@
+- heading "博多傘屋" [level=1]:
+  - link "博多傘屋":
+    - /url: /
+    - img "博多傘屋"
+- paragraph:
+  - link "カートを見る":
+    - /url: /check
+- generic: 新天町の傘屋さん
+- link "H O M E":
+  - /url: /
+- link "お知らせ":
+  - /url: /news
+- link "特定商取引法":
+  - /url: /laws
+- generic: なんでもどうぞ。
+- link "全件表示 (14)":
+  - /url: /?ca=all
+- link "モードパラソル (3)":
+  - /url: /?ca=6
+- link "お祝い、記念の傘":
+  - /url: /?ca=7
+- link "オリジナル晴雨兼用傘 (5)":
+  - /url: /?ca=8
+- link "博多傘屋オリジナル (3)":
+  - /url: /?ca=9
+- link "レデイス雨傘 (2)":
+  - /url: /?ca=15
+- link "軽い丈夫な傘":
+  - /url: /?ca=19
+- link "純パラソル (1)":
+  - /url: /?ca=22
+- link "未分類 (4)":
+  - /url: /?ca=0
+- list:
+  - link "ホーム":
+    - /url: /
+  - listitem: ">特定商取引法"
+- heading "特定商取引に関する法律にもとづく表示" [level=2]
+- table:
+  - rowgroup:
+    - row "販売業者 株式会社しばた洋傘店":
+      - rowheader "販売業者"
+      - cell "株式会社しばた洋傘店"
+    - row "販売責任者 柴田嘉和":
+      - rowheader "販売責任者"
+      - cell "柴田嘉和"
+    - row "所在地 福岡県福岡市中央区天神2-8-132":
+      - rowheader "所在地"
+      - cell "福岡県福岡市中央区天神2-8-132"
+    - row "申込の有効期限 お申し込み後メールで申し込みの確認をいたします。":
+      - rowheader "申込の有効期限"
+      - cell "お申し込み後メールで申し込みの確認をいたします。"
+    - row "引き渡し時期 入金確認後2日以内":
+      - rowheader "引き渡し時期"
+      - cell "入金確認後2日以内"
+    - row "お支払い方法 銀行振込 代金引換":
+      - rowheader "お支払い方法"
+      - cell "銀行振込 代金引換":
+        - text: 銀行振込
+        - text: 代金引換
+    - row "お支払い時期 お申し込み時 商品到着日":
+      - rowheader "お支払い時期"
+      - cell "お申し込み時 商品到着日":
+        - text: お申し込み時
+        - text: 商品到着日
+    - row "返品期限 商品不良の場合商品到着日より7日以内 名いれ商品は返品不可":
+      - rowheader "返品期限"
+      - cell "商品不良の場合商品到着日より7日以内 名いれ商品は返品不可":
+        - text: 商品不良の場合商品到着日より7日以内
+        - text: 名いれ商品は返品不可
+    - row "返品送料 返品送料は不良の場合当店が負担 着払いまたは後日返金時にお返しします。":
+      - rowheader "返品送料"
+      - cell "返品送料は不良の場合当店が負担 着払いまたは後日返金時にお返しします。":
+        - text: 返品送料は不良の場合当店が負担
+        - text: 着払いまたは後日返金時にお返しします。
+    - row "屋号又はサービス名 株式会社しばた洋傘店":
+      - rowheader "屋号又はサービス名"
+      - cell "株式会社しばた洋傘店"
+    - row "電話番号 092-741-1771":
+      - rowheader "電話番号"
+      - cell "092-741-1771"
+    - row "メールアドレス shibata@hakatakasaya.jp":
+      - rowheader "メールアドレス"
+      - cell "shibata@hakatakasaya.jp"
+    - row "ホームページURL http://hakatakasaya.JP":
+      - rowheader "ホームページURL"
+      - cell "http://hakatakasaya.JP"
+- heading "メニュー" [level=2]
+- link "H O M E":
+  - /url: /
+- link "お知らせ":
+  - /url: /news
+- link "博多の傘屋の通信販売":
+  - /url: /userpage?id=97229
+- link "特定商取引法":
+  - /url: /laws
+- heading "カートの中身" [level=2]
+- generic: カートに商品は入っていません
+- heading "商品検索" [level=2]
+- paragraph:
+  - textbox
+  - checkbox
+  - text: カテゴリー内を検索
+  - button "検索"
+  - button "リセット"
+- paragraph: Copyright (c) 博多傘屋 All Rights Reserved
+- paragraph
+- paragraph:
+  - link "PAGE TOP":
+    - /url: "#"

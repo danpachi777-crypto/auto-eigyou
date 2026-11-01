@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 327,
+  "verified_sent_last_known": 328,
   "target": 450,
-  "remaining_unsent_target": 123,
+  "remaining_unsent_target": 122,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -51,7 +51,8 @@
     "central-sports",
     "sakashita",
     "ed-couture",
-    "aoisha"
+    "aoisha",
+    "hakatakasaya"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -96,19 +97,20 @@
     "central-sports",
     "sakashita",
     "ed-couture",
-    "aoisha"
+    "aoisha",
+    "hakatakasaya"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 41,
+  "prepared_count_in_recovery": 42,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "95486ee",
-  "resume_note": "327/450 verified sent. aoisha Gmail SENT 1a1969a22476ecee. Continue discovery; artarts.jp unreviewed, duplicate check empty.",
+  "last_pushed_commit": "7319935",
+  "resume_note": "328/450 verified sent. hakatakasaya Gmail SENT 1a196a14575588ec. Continue new discovery; artarts.jp Gmail duplicate empty but Maps/review not done.",
   "continuation": {
     "target_prepared_or_sent": 450,
-    "completed_prepared_or_sent": 329,
-    "remaining_preparations": 121,
+    "completed_prepared_or_sent": 330,
+    "remaining_preparations": 120,
     "goal_last_observed_status": "active",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
@@ -160,7 +162,8 @@
     "central-sports",
     "sakashita",
     "ed-couture",
-    "aoisha"
+    "aoisha",
+    "hakatakasaya"
   ],
   "remaining_prepared_unsent": 2
 }

@@ -1,0 +1,283 @@
+- table:
+  - rowgroup:
+    - row:
+      - cell
+    - row:
+      - cell:
+        - table:
+          - rowgroup:
+            - row:
+              - 'cell "博多傘屋 博多の傘屋トップ 傘物語 ショップ情報・商品情報 うちの商店街にもどうぞ Weather Company 洋傘の歴史 傘の話 傘を買うときのチェックポイント 傘の上手な取り扱い パラソル（日傘）の話 WEBショッピング お店にもどうぞ 当店までの道順 地下鉄天神駅より1分 西鉄福岡駅より2分 お問合せ先: しばた洋傘店 福岡・天神・新天町 phone:092(741)1771 fax : 092 (712) 6604 発行責任者 柴田嘉和 アクセントファッション accent fashion ■ マフラー ストール スカーフ 手袋 帽子 バッグ ハンカチ ■ 毛皮 furs コート ジャケット ストール マフラー BRAND BELGANI (MILANO) BASILE しばたはのコンセプトは WeatherCompany 「お天気専門店」 Shibata"':
+                - heading "博多傘屋 博多の傘屋トップ 傘物語 ショップ情報・商品情報 うちの商店街にもどうぞ Weather Company 洋傘の歴史 傘の話 傘を買うときのチェックポイント 傘の上手な取り扱い パラソル（日傘）の話" [level=5]:
+                  - link "博多傘屋":
+                    - /url: http://www.hakata-kasaya.co.jp/index.htm
+                    - img "博多傘屋"
+                  - link "博多の傘屋トップ":
+                    - /url: http://www.hakata-kasaya.co.jp/index.html
+                    - img "博多の傘屋トップ"
+                  - link "傘物語":
+                    - /url: http://www.hakata-kasaya.co.jp/page2.html
+                    - img "傘物語"
+                  - link:
+                    - /url: /page3.html
+                  - link "ショップ情報・商品情報":
+                    - /url: http://www.hakata-kasaya.co.jp/page4.html
+                    - img "ショップ情報・商品情報"
+                  - link "うちの商店街にもどうぞ":
+                    - /url: http://www.hakata-kasaya.co.jp/shintencho/index.html
+                    - img "うちの商店街にもどうぞ"
+                  - generic: Weather Company
+                  - link:
+                    - /url: umbrella.html
+                  - link:
+                    - /url: umbrella.html
+                  - link "洋傘の歴史":
+                    - /url: torai.html
+                  - link "傘の話":
+                    - /url: umbrella.html
+                  - link "傘を買うときのチェックポイント":
+                    - /url: umbrella.html
+                  - link "傘の上手な取り扱い":
+                    - /url: umbrella.html
+                  - link:
+                    - /url: palasol.html
+                  - link:
+                    - /url: umbrella.html
+                  - link "パラソル（日傘）の話":
+                    - /url: palasol.html
+                - paragraph:
+                  - link "WEBショッピング":
+                    - /url: http://hakatakasaya.cart.fc2.com/
+                  - generic: お店にもどうぞ
+                  - text: 当店までの道順
+                  - text: 地下鉄天神駅より1分
+                  - text: 西鉄福岡駅より2分
+                  - text: "お問合せ先:"
+                  - strong: しばた洋傘店
+                  - text: 福岡・天神・新天町
+                  - text: phone:092(741)1771
+                  - text: "fax : 092 (712) 6604"
+                  - text: 発行責任者
+                  - text: 柴田嘉和
+                  - link:
+                    - /url: mailto:shiata@hakatakasaya.jp
+                - text: アクセントファッション
+                - text: accent fashion
+                - generic: ■
+                - text: マフラー
+                - text: ストール
+                - text: スカーフ
+                - text: 手袋
+                - text: 帽子
+                - text: バッグ
+                - text: ハンカチ
+                - separator
+                - generic: ■
+                - generic: 毛皮 furs
+                - text: コート
+                - text: ジャケット
+                - text: ストール
+                - text: マフラー
+                - separator
+                - generic: BRAND
+                - text: BELGANI (MILANO)
+                - text: BASILE
+                - separator
+                - paragraph:
+                  - generic: しばたはのコンセプトは
+                  - generic: WeatherCompany
+                  - generic: 「お天気専門店」
+                - paragraph: Shibata
+              - cell "Weather Company ウェザーカンパニー 博多の傘屋「しばた洋傘店」は 傘が専門ですが、 コンセプトは「お天気専門店」 WeatherCompany（ウェザーカンパニー）です ■レインコート ■アクセントファッション（マフラー、毛皮） ■ウェア（ジャケット・コート・毛皮） 雨の日、暑い日、寒い日のアウトドアライフを おしゃれで気持ちよくします。 商品情報・ファッション情報（パラソル）をお届けします。 Shibata Select 晴雨兼用パラソル レイン＆スプリングコート ストール 大判ストール・レースストール・カシミヤ 「洋傘店」について 当店が、傘をわざわざ「洋傘」というのには訳がある。 西洋文化が押し寄せた明治時代。洋服―和服洋傘―和傘などと、従来のものと区別する呼び名ができた．そして明治、大正時代は舶来の傘や、パラソル（日傘）がモダンなおしゃれの最先端であった。 先々代が博多で一旗あげようと博多に開業した時代の名残りである。 雨傘の話 傘を買うときのチェックポイント 傘の上手な取り扱い 傘の歴史 コラム 日本のメーカーは独自のブランド戦略を 最近は傘業界に限らずアパレルなどの業界でもでも海外ブランドメーカーが日本のメーカーとのライセンス契約を終結して、自社商品の直営店販売に切り替えている。 これまで海外ブランドは日本のメーカーにライセンスを供与することで利益をあげていた。また、百貨店や専門店で販売させることでブランドの知名度と高イメージコストをかけずに定着させてきた。これからは自社販売で希少性を高め高収益をあげる戦略だ。 日本の多くのメーカーは百貨店と消費者の要望で、多くの海外ブランドとライセンス契約を交わし商品を作ってきたが、今後は直営店を計画しているブランドライセンス商品の再契約が難しくなるだろう。 すぐれた生産技術をもつ日本のメーカーは自社のブランド戦略と製品政策をたてなおす時期にきている。":
+                - generic: Weather Company
+                - generic: ウェザーカンパニー
+                - text: 博多の傘屋「しばた洋傘店」は
+                - generic: 傘が専門ですが、
+                - paragraph:
+                  - text: コンセプトは「お天気専門店」
+                  - text: WeatherCompany（ウェザーカンパニー）です
+                  - text: ■レインコート
+                  - text: ■アクセントファッション（マフラー、毛皮）
+                  - text: ■ウェア（ジャケット・コート・毛皮）
+                  - text: 雨の日、暑い日、寒い日のアウトドアライフを
+                  - text: おしゃれで気持ちよくします。
+                - separator
+                - table:
+                  - rowgroup:
+                    - row "商品情報・ファッション情報（パラソル）をお届けします。 Shibata Select 晴雨兼用パラソル レイン＆スプリングコート ストール 大判ストール・レースストール・カシミヤ 「洋傘店」について 当店が、傘をわざわざ「洋傘」というのには訳がある。 西洋文化が押し寄せた明治時代。洋服―和服洋傘―和傘などと、従来のものと区別する呼び名ができた．そして明治、大正時代は舶来の傘や、パラソル（日傘）がモダンなおしゃれの最先端であった。 先々代が博多で一旗あげようと博多に開業した時代の名残りである。":
+                      - cell "商品情報・ファッション情報（パラソル）をお届けします。 Shibata Select 晴雨兼用パラソル レイン＆スプリングコート ストール 大判ストール・レースストール・カシミヤ 「洋傘店」について 当店が、傘をわざわざ「洋傘」というのには訳がある。 西洋文化が押し寄せた明治時代。洋服―和服洋傘―和傘などと、従来のものと区別する呼び名ができた．そして明治、大正時代は舶来の傘や、パラソル（日傘）がモダンなおしゃれの最先端であった。 先々代が博多で一旗あげようと博多に開業した時代の名残りである。":
+                        - paragraph:
+                          - link "商品情報・ファッション情報（パラソル）をお届けします":
+                            - /url: weather/index.html
+                          - link "。":
+                            - /url: weather/shop1.htm
+                          - generic: Shibata Select
+                        - table:
+                          - rowgroup:
+                            - row "晴雨兼用パラソル レイン＆スプリングコート ストール 大判ストール・レースストール・カシミヤ":
+                              - cell "晴雨兼用パラソル レイン＆スプリングコート ストール 大判ストール・レースストール・カシミヤ":
+                                - paragraph
+                                - paragraph
+                                - paragraph:
+                                  - generic: 晴雨兼用パラソル
+                                  - generic: レイン＆スプリングコート
+                                  - generic: ストール
+                                  - text: 大判ストール・レースストール・カシミヤ
+                                - paragraph
+                                - paragraph
+                        - paragraph:
+                          - generic: 「洋傘店」について
+                        - paragraph
+                        - paragraph:
+                          - generic: 当店が、傘をわざわざ「
+                          - text: 洋傘」というのには訳がある。
+                          - text: 西洋文化が押し寄せた明治時代。洋服―
+                          - generic: 和服洋傘―和傘などと、従来のものと区別する呼び名ができた．そして明治、大正時代は
+                          - text: 舶来の傘や、パラソル（日傘）がモダンなおしゃれの最先端であった。
+                          - text: 先々代が博多で一旗あげようと博多に開業した時代の名残りである。
+                        - paragraph
+                - link:
+                  - /url: umbrella.html
+                - link "雨傘の話":
+                  - /url: umbrella.html
+                  - generic: 雨傘の話
+                - link "傘を買うときのチェックポイント":
+                  - /url: umbrella.html
+                - link "傘の上手な取り扱い":
+                  - /url: umbrella.html
+                - link "傘の歴史":
+                  - /url: torai.html
+                - link:
+                  - /url: torai.html
+                - separator
+                - table:
+                  - rowgroup:
+                    - row "コラム 日本のメーカーは独自のブランド戦略を":
+                      - cell "コラム 日本のメーカーは独自のブランド戦略を":
+                        - paragraph:
+                          - generic: コラム
+                        - paragraph:
+                          - generic: 日本のメーカーは独自のブランド戦略を
+                - paragraph:
+                  - text: 最近は傘業界に限らずアパレルなどの業界でもでも海外ブランドメーカーが日本のメーカーとのライセンス契約を終結して、自社商品の直営店販売に切り替えている。
+                  - text: これまで海外ブランドは日本のメーカーにライセンスを供与することで利益をあげていた。また、百貨店や専門店で販売させることでブランドの知名度と高イメージコストをかけずに定着させてきた。これからは自社販売で希少性を高め高収益をあげる戦略だ。
+                  - text: 日本の多くのメーカーは百貨店と消費者の要望で、多くの海外ブランドとライセンス契約を交わし商品を作ってきたが、今後は直営店を計画しているブランドライセンス商品の再契約が難しくなるだろう。
+                  - text: すぐれた生産技術をもつ日本のメーカーは自社のブランド戦略と製品政策をたてなおす時期にきている。
+              - cell "Shibata しばたのコンセプトは WeatherCompany 「お天気専門店」 We produce joyful rainy & pleasant outdoor life! 「しばた」の 取扱商品と 営業種目 ■ かさUMBRELLA 小売・卸・製造・企画 雨傘 日傘 晴雨兼用傘 子供学童傘 ビニール傘 和傘 野点 傘の取り扱いブランド ANNA SUI アナ・スイ Aqcascutum アクアスキュータム JILL STUART ジルスチュアート GHERARDINI ゲラルディーニ MICHEL KLEN ミシェルクラン HANAE MORI ハナエモリ NINARICH ニナリッチ CHARLE JOURDAN ジョルダン paul stuart 前原光榮 モンブラン 小宮商店 わかお しばたのオリジナルブランド Weather Compamy try again galee TABASA オリジナル ハンドメイドの日傘 シルクのリボヤーン ￥５８０００ 和傘 蛇の目 羽二重・紙張り 番傘 野点（のだて） 2尺・2.5尺.3尺・3.5尺 ■ コート レインコート スプリングダスター オーバーコート レザーコート・ジャケット コートブランド ソレイユSOLEIL アレグリallegri サンヨーSANYO ＥＶＥＸ しばたのオリジナルブランド Weather Compamy(R) アー、マフラー、ストール 男女雨傘、日傘、晴雨兼用傘、レインコ－ト、レインハット Weather Company 男女雨傘、日傘、晴雨兼用傘、レインコート":
+                - text: Shibata
+                - generic: しばたのコンセプトは
+                - generic: WeatherCompany
+                - generic: 「お天気専門店」
+                - generic: We produce joyful rainy & pleasant outdoor life!
+                - separator
+                - generic: 「しばた」の
+                - generic: 取扱商品と
+                - generic: 営業種目
+                - separator
+                - generic: ■
+                - generic: かさ
+                - text: UMBRELLA
+                - generic: 小売・卸・
+                - link "製造":
+                  - /url: page3.html
+                - generic: ・企画
+                - text: 雨傘 日傘 晴雨兼用傘
+                - text: 子供学童傘 ビニール傘
+                - text: 和傘 野点
+                - table:
+                  - rowgroup:
+                    - row "傘の取り扱いブランド":
+                      - cell "傘の取り扱いブランド":
+                        - generic: 傘の取り扱いブランド
+                    - row "ANNA SUI アナ・スイ Aqcascutum アクアスキュータム JILL STUART ジルスチュアート GHERARDINI ゲラルディーニ MICHEL KLEN ミシェルクラン HANAE MORI ハナエモリ NINARICH ニナリッチ CHARLE JOURDAN ジョルダン paul stuart 前原光榮 モンブラン 小宮商店 わかお しばたのオリジナルブランド Weather Compamy try again galee TABASA":
+                      - cell "ANNA SUI アナ・スイ Aqcascutum アクアスキュータム JILL STUART ジルスチュアート GHERARDINI ゲラルディーニ MICHEL KLEN ミシェルクラン HANAE MORI ハナエモリ NINARICH ニナリッチ CHARLE JOURDAN ジョルダン paul stuart 前原光榮 モンブラン 小宮商店 わかお しばたのオリジナルブランド Weather Compamy try again galee TABASA":
+                        - paragraph:
+                          - text: ANNA SUI
+                          - text: アナ・スイ
+                          - text: Aqcascutum
+                          - text: アクアスキュータム
+                          - text: JILL STUART
+                          - text: ジルスチュアート
+                          - text: GHERARDINI
+                          - text: ゲラルディーニ
+                          - text: MICHEL KLEN
+                          - text: ミシェルクラン
+                          - text: HANAE MORI
+                          - text: ハナエモリ
+                          - text: NINARICH
+                          - generic: ニ
+                          - text: ナリッチ
+                          - text: CHARLE JOURDAN
+                          - text: ジョルダン
+                          - text: paul stuart
+                          - text: 前原光榮
+                          - text: モンブラン
+                          - text: 小宮商店
+                          - text: わかお
+                          - text: しばたのオリジナルブランド
+                          - text: Weather Compamy
+                          - text: try again
+                          - text: galee
+                          - text: TABASA
+                    - row:
+                      - cell
+                    - row:
+                      - cell
+                - text: オリジナル
+                - text: ハンドメイドの日傘
+                - text: シルクのリボヤーン
+                - generic: ￥５８０００
+                - separator
+                - paragraph:
+                  - generic: 和傘
+                  - generic: 蛇の目
+                  - text: 羽二重・紙張り
+                  - text: 番傘
+                  - text: 野点（のだて）
+                  - text: 2尺・2.5尺.3尺・3.5尺
+                - paragraph
+                - separator
+                - paragraph:
+                  - generic: ■
+                  - generic: コート
+                  - text: レインコート
+                  - text: スプリングダスター
+                  - text: オーバーコート
+                  - text: レザーコート・ジャケット
+                - separator
+                - text: コートブランド
+                - separator
+                - paragraph:
+                  - text: ソレイユSOLEIL
+                  - text: アレグリallegri
+                  - text: サンヨーSANYO
+                  - text: ＥＶＥＸ
+                  - text: しばたのオリジナルブランド
+                  - generic: Weather Compamy
+                  - text: (R)
+                - separator
+                - text: アー、マフラー、ストール
+                - separator
+                - generic: 男女雨傘、日傘、晴雨兼用傘、レインコ－ト、レインハット
+                - separator
+                - paragraph:
+                  - generic: Weather Company
+                - paragraph:
+                  - generic: 男女雨傘、日傘、晴雨兼用傘、レインコート
+    - row:
+      - cell
+    - row "ホーム ページ | 傘物語６月は雨の月 | | Weather Company | 博多の花道新天町 お問合せ先:しばた洋傘店 福岡・天神・新天町 Shibata":
+      - cell "ホーム ページ | 傘物語６月は雨の月 | | Weather Company | 博多の花道新天町 お問合せ先:しばた洋傘店 福岡・天神・新天町 Shibata":
+        - link "ホーム ページ":
+          - /url: index.html
+        - text: "|"
+        - link "傘物語６月は雨の月":
+          - /url: page2.html
+        - text: "| |"
+        - link "Weather Company":
+          - /url: page4.html
+        - text: "|"
+        - link "博多の花道新天町":
+          - /url: shintencho/index.html
+        - text: お問合せ先:しばた洋傘店 福岡・天神・新天町
+        - text: Shibata

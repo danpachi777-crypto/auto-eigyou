@@ -1,0 +1,327 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - combobox: （株）しばた洋傘店
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - region "この付近で利用できる検索オプション":
+    - button "レストラン":
+      - generic: 
+      - generic: レストラン
+    - button "ホテル":
+      - generic: 
+      - generic: ホテル
+    - button "アクティビティ":
+      - generic: 
+      - generic: アクティビティ
+    - button "交通機関":
+      - generic: 
+      - generic: 交通機関
+    - button "駐車場":
+      - generic: 
+      - generic: 駐車場
+    - button "薬局":
+      - generic: 
+      - generic: 薬局
+    - button "ATM":
+      - generic: 
+      - generic: ATM
+    - button "次のページ":
+      - generic: 
+  - list:
+    - button "メニュー":
+      - generic: 
+    - button "マップに相談":
+      - generic: 
+      - generic: マップに相談
+    - button "保存済み":
+      - generic: 
+      - generic: 保存済み
+    - button "最近":
+      - generic: 
+      - generic: 最近
+    - button "50 か所 本州 & 九州":
+      - generic "50 か所": "50"
+      - generic: 本州 & 九州
+    - button "アプリをダウンロード":
+      - generic: 
+      - generic: アプリをダウンロード
+  - main "（株）しばた洋傘店":
+    - 'button "写真: （株）しばた洋傘店" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "（株）しばた洋傘店" [level=1]: （株）しばた洋傘店
+    - text: "4.6"
+    - img "4.6 つ星"
+    - img "81 件のクチコミ": (81)
+    - button "婦人服店・ブティック"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "（株）しばた洋傘店 の概要" [selected]:
+        - generic: 概要
+      - tab "（株）しばた洋傘店 のクチコミ":
+        - generic: クチコミ
+      - tab "「（株）しばた洋傘店」について":
+        - generic: 基本情報
+    - region "（株）しばた洋傘店 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "（株）しばた洋傘店 について":
+      - button "オンラインで注文した商品の店舗受け取り可":
+        - group "オンラインで注文した商品の店舗受け取り可":
+          - text: ·
+          - generic: 
+          - generic: 店舗受け取り可
+        - generic: 
+    - region "（株）しばた洋傘店 の情報":
+      - 'button "住所: 〒810-0001 福岡県福岡市中央区天神２丁目８−１３２"':
+        - generic: 
+        - generic: 〒810-0001 福岡県福岡市中央区天神２丁目８−１３２
+      - button "住所をコピーします":
+        - generic: 
+      - button "1 階 · 新天町商店街":
+        - generic: 1 階 · 新天町商店街
+      - 'button "営業時間 まもなく営業終了: 20:00 · 営業開始: 10:00（月） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "まもなく営業終了: 20:00 · 営業開始: 10:00（月）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: hakatakasaya.jp"':
+        - /url: http://hakatakasaya.jp/
+        - generic: 
+        - generic: hakatakasaya.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://hakatakasaya.jp/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 092-741-1771"':
+        - generic: 
+        - generic: 092-741-1771
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0927411771
+        - generic: 
+      - 'button "Plus Code: H9RW+3X 福岡市、福岡県"':
+        - generic: 
+        - generic: H9RW+3X 福岡市、福岡県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「（株）しばた洋傘店」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 57 件": "5"
+        - img "4 つ星、クチコミ 17 件": "4"
+        - img "3 つ星、クチコミ 5 件": "3"
+        - img "2 つ星、クチコミ 2 件": "2"
+        - img "1 つ星、クチコミ 0 件": "1"
+    - generic: "4.6"
+    - img "4.6 つ星"
+    - button "81 件のクチコミ":
+      - generic: 81 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"お世話になった方へのプレゼントで折りたたみ傘を購入しました。\""':
+      - /url: https://www.google.com/maps/contrib/111381115706924621298?hl=ja-JP
+    - button "\"お世話になった方へのプレゼントで折りたたみ傘を購入しました。\"":
+      - generic: "\"お世話になった方へのプレゼントで折りたたみ傘を購入しました。\""
+    - 'link "次のクチコミ投稿者の写真: \"専門店ならではの品揃えと、 ご丁寧な接客で楽しく買い物をさせて頂きました。\""':
+      - /url: https://www.google.com/maps/contrib/105924369070444747746?hl=ja-JP
+    - button "\"専門店ならではの品揃えと、 ご丁寧な接客で楽しく買い物をさせて頂きました。\"":
+      - generic: "\"専門店ならではの品揃えと、 ご丁寧な接客で楽しく買い物をさせて頂きました。\""
+    - 'link "次のクチコミ投稿者の写真: \"紳士傘を探していたのですが、デパートで納得する傘に出会えずこちらを訪れました。\""':
+      - /url: https://www.google.com/maps/contrib/113807707095775936029?hl=ja-JP
+    - button "\"紳士傘を探していたのですが、デパートで納得する傘に出会えずこちらを訪れました。\"":
+      - generic: "\"紳士傘を探していたのですが、デパートで納得する傘に出会えずこちらを訪れました。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "ネーム: 9 件のクチコミで言及。"':
+        - generic: ネーム
+        - generic: "9"
+      - 'radio "デパート: 8 件のクチコミで言及。"':
+        - generic: デパート
+        - generic: "8"
+      - 'radio "プレゼント: 8 件のクチコミで言及。"':
+        - generic: プレゼント
+        - generic: "8"
+      - 'radio "値段: 7 件のクチコミで言及。"':
+        - generic: 値段
+        - generic: "7"
+      - button "他 6 件のトピックを表示":
+        - generic: "+6"
+    - generic "りんご":
+      - button "りんご の写真"
+      - button "りんご ローカルガイド · 153 件のクチコミ · 58 枚の写真":
+        - generic: りんご
+        - generic: ローカルガイド · 153 件のクチコミ · 58 枚の写真
+      - button "りんご さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 1 か月前
+      - generic: こちらのお店は色々なアドバイスを頂けたりと楽しく自分に気に入った傘を購入することが出来ます。 デパートにあるブランドの傘も購入出来るので色々な世代の方が満足出来るお店です。 無料で名前も掘って頂けるので次回は贈り物で傘もいいなと思いました。 修理もしていただけるそうで自宅にあるお気に入りの傘を修理してもらおうと思います。
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "りんご さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "BYEONGGWON OH":
+      - button "BYEONGGWON OH の写真"
+      - button "BYEONGGWON OH 2 件のクチコミ":
+        - generic: BYEONGGWON OH
+        - generic: 2 件のクチコミ
+      - button "BYEONGGWON OH さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 5 か月前
+      - text: 福岡の家族旅行の際、5月16日に緑色の日傘を購入した者です。 当日すぐに壊れてしまい、元々不良品だったのか、私たちの不注意だったのか分からずお店に伺いました。 私たちは日本語をある程度聞き取ることはできますが、話すことが上手ではありません。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "BYEONGGWON OH さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "Zuma Tirara":
+      - button "Zuma Tirara の写真"
+      - button "Zuma Tirara 1 件のクチコミ":
+        - generic: Zuma Tirara
+        - generic: 1 件のクチコミ
+      - button "Zuma Tirara さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 7 か月前
+      - generic: これまで傘はデパートのセールで購入していましたが、こちらのお店を知ってからは「目的に合った傘選び」をするようになり、そうすると傘への愛着がわき、傘を大事にするようになりました。特に男性店員さんの知識量が豊富でなかなか得られる話ではないのでとても興味深く、楽しく傘選びが出来ました。 名前を彫ってくれるサービスがとても嬉しく、贈り物にも最適です！（ラッピングも綺麗にしてもらえます）
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "Zuma Tirara さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (78)":
+      - generic: その他のクチコミ (78)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "傘屋·0.0 つ星·雑貨店":
+      - generic: 傘屋
+      - generic: クチコミはありません
+      - generic: 雑貨店
+    - link "You know ?·0.0 つ星·ファッション アクセサリー店":
+      - generic: You know ?
+      - generic: クチコミはありません
+      - generic: ファッション アクセサリー店
+    - link "博多キャナル かんざし屋wargo／北斎グラフィック·4.1 つ星·クチコミ 43 件·雑貨店":
+      - generic: 博多キャナル かんざし屋wargo／北斎グラフィック
+      - img "4.1 つ星 クチコミ 43 件":
+        - text: "4.1"
+        - text: (43)
+      - generic: 雑貨店
+    - link "天神ロフト·4.0 つ星·クチコミ 4,667 件·雑貨店":
+      - generic: 天神ロフト
+      - img "4.0 つ星 クチコミ 4,667 件":
+        - text: "4.0"
+        - text: (4,667)
+      - generic: 雑貨店
+    - link "雑貨館インキューブ 天神店·4.0 つ星·クチコミ 1,138 件·雑貨店":
+      - generic: 雑貨館インキューブ 天神店
+      - img "4.0 つ星 クチコミ 1,138 件":
+        - text: "4.0"
+        - text: (1,138)
+      - generic: 雑貨店
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - button "現在地を表示":
+    - generic: 
+  - button "ズームイン":
+    - generic: 
+  - button "ズームアウト":
+    - generic: 
+  - button "ストリートビューの画像をブラウジング"
+  - button "ストリートビュー":
+    - generic: 
+  - generic "インタラクティブな地図"
+  - generic: 
+  - generic: レイヤ
+  - button "レイヤ"
+  - contentinfo:
+    - text: 地図データ ©2026 Google
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m
