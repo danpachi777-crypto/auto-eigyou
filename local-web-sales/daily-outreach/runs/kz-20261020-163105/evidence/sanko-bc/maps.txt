@@ -1,0 +1,273 @@
+- generic "Google マップ":
+  - application "地図·矢印キーで地図を移動します。·対応する数字キーを押して場所の詳細情報を確認します。"
+  - search:
+    - button "メニュー":
+      - generic: 
+    - combobox: サンコー自転車商会
+    - button "検索":
+      - generic: 
+    - button "閉じる":
+      - generic: 
+  - button
+  - button "Show the Input Tools menu"
+  - main "サンコー自転車商会":
+    - 'button "写真: サンコー自転車商会" [active]':
+    - button "写真を表示":
+      - generic: 
+      - generic: 写真を表示
+    - heading "サンコー自転車商会" [level=1]: サンコー自転車商会
+    - text: "4.7"
+    - img "4.7 つ星"
+    - img "57 件のクチコミ": (57)
+    - button "自転車屋"
+    - text: ·
+    - img "車椅子対応の入り口なし": 
+    - tablist:
+      - tab "サンコー自転車商会 の概要" [selected]:
+        - generic: 概要
+      - tab "サンコー自転車商会 のクチコミ":
+        - generic: クチコミ
+      - tab "「サンコー自転車商会」について":
+        - generic: 基本情報
+    - region "サンコー自転車商会 の操作オプション":
+      - button "ルート・乗換":
+        - generic: 
+        - generic: ルート・乗換
+      - button "保存":
+        - generic: 
+        - generic: 保存
+      - button "付近を検索":
+        - generic: 
+        - generic: 付近を検索
+      - button "モバイルデバイスに送信":
+        - generic: 
+        - generic: モバイルデバイスに送信
+      - button "共有":
+        - generic: 
+        - generic: 共有
+    - region "サンコー自転車商会 の情報":
+      - 'button "住所: 〒510-0958 三重県四日市市小古曽１丁目９−１６"':
+        - generic: 
+        - generic: 〒510-0958 三重県四日市市小古曽１丁目９−１６
+      - button "住所をコピーします":
+        - generic: 
+      - 'button "営業時間 営業時間外 · 営業開始: 10:00（木） 1 週間の営業時間を表示"':
+        - img "営業時間": 
+        - generic: "営業時間外 · 営業開始: 10:00（木）"
+        - img "1 週間の営業時間を表示": 
+      - 'link "ウェブサイト: cty-net.ne.jp"':
+        - /url: http://www.cty-net.ne.jp/~sanko-bc/
+        - generic: 
+        - generic: cty-net.ne.jp
+      - link "ウェブサイトを開きます":
+        - /url: http://www.cty-net.ne.jp/~sanko-bc/
+        - generic: 
+      - button "ウェブサイトをコピーします":
+        - generic: 
+      - 'button "電話番号: 059-345-0757"':
+        - generic: 
+        - generic: 059-345-0757
+      - button "電話番号をコピーします":
+        - generic: 
+      - link "電話番号に発信します":
+        - /url: tel:0593450757
+        - generic: 
+      - 'button "Plus Code: WHJV+Q8 四日市市、三重県"':
+        - generic: 
+        - generic: WHJV+Q8 四日市市、三重県
+      - button "Plus Code をコピーします":
+        - generic: 
+      - button "plus code についての詳細です":
+        - generic: 
+      - button "マップ履歴":
+        - generic: 
+        - generic: マップ履歴
+    - button "ラベルを追加":
+      - generic: 
+      - generic: ラベルを追加
+    - button "情報の修正を提案":
+      - generic: 
+      - generic: 情報の修正を提案
+    - heading "写真と動画" [level=2]
+    - region "「サンコー自転車商会」の写真":
+      - button "すべて"
+      - generic: すべて
+      - button "屋内"
+      - generic: 屋内
+      - button "マウンテンバイク"
+      - generic: マウンテンバイク
+      - button "オーナー提供"
+      - generic: オーナー提供
+      - button "ストリートビューと 360° ビュー"
+      - generic: ストリートビューと 360° ビュー
+    - button "写真や動画を追加":
+      - generic: 
+      - generic: 写真や動画を追加
+    - heading "クチコミの概要" [level=2]
+    - button "クチコミの概要に関する詳細情報":
+      - generic: 
+    - table:
+      - rowgroup:
+        - img "5 つ星、クチコミ 50 件": "5"
+        - img "4 つ星、クチコミ 3 件": "4"
+        - img "3 つ星、クチコミ 0 件": "3"
+        - img "2 つ星、クチコミ 0 件": "2"
+        - img "1 つ星、クチコミ 4 件": "1"
+    - generic: "4.7"
+    - img "4.7 つ星"
+    - button "57 件のクチコミ":
+      - generic: 57 件のクチコミ
+    - 'link "次のクチコミ投稿者の写真: \"ただ営業日が少ないので事前にメール等で相談しておくとよいと思います。\""':
+      - /url: https://www.google.com/maps/contrib/109253956600358667695?hl=ja-JP
+    - button "\"ただ営業日が少ないので事前にメール等で相談しておくとよいと思います。\"":
+      - generic: "\"ただ営業日が少ないので事前にメール等で相談しておくとよいと思います。\""
+    - 'link "次のクチコミ投稿者の写真: \"挨拶もなしに、自転車チラッとみて『パンクやったらチューブ変えたら直るけどね。』\""':
+      - /url: https://www.google.com/maps/contrib/113777796046973088076?hl=ja-JP
+    - button "\"挨拶もなしに、自転車チラッとみて『パンクやったらチューブ変えたら直るけどね。』\"":
+      - generic: "\"挨拶もなしに、自転車チラッとみて『パンクやったらチューブ変えたら直るけどね。』\""
+    - 'link "次のクチコミ投稿者の写真: \"知識、技術はとても素晴らしく、安心して頼めるし、質問にも丁寧に答えてくれる。\""':
+      - /url: https://www.google.com/maps/contrib/108236107339114726730?hl=ja-JP
+    - button "\"知識、技術はとても素晴らしく、安心して頼めるし、質問にも丁寧に答えてくれる。\"":
+      - generic: "\"知識、技術はとても素晴らしく、安心して頼めるし、質問にも丁寧に答えてくれる。\""
+    - button "クチコミを書く":
+      - generic: 
+      - generic: クチコミを書く
+    - heading "クチコミ" [level=2]
+    - button "クチコミを検索":
+      - generic: 
+    - button "クチコミの並べ替え":
+      - generic: 
+      - generic: 並べ替え
+    - radiogroup "クチコミを絞り込む":
+      - radio "すべてのクチコミ" [checked]:
+        - generic: 
+        - generic: すべて
+      - 'radio "値段: 9 件のクチコミで言及。"':
+        - generic: 値段
+        - generic: "9"
+      - 'radio "知識: 5 件のクチコミで言及。"':
+        - generic: 知識
+        - generic: "5"
+      - 'radio "メール: 4 件のクチコミで言及。"':
+        - generic: メール
+        - generic: "4"
+      - 'radio "スポーツ: 3 件のクチコミで言及。"':
+        - generic: スポーツ
+        - generic: "3"
+      - button "他 4 件のトピックを表示":
+        - generic: "+4"
+    - generic "guran 、":
+      - button "guran 、 の写真"
+      - button "guran 、 2 件のクチコミ":
+        - generic: guran 、
+        - generic: 2 件のクチコミ
+      - button "guran 、 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 6 か月前
+      - text: サドルが合わなくお尻が痛くて悩んでて、イ○ンバイクに相談してもサドルか自転車ごと新しいのにするしかないと言われてしまいサドルを見に口コミが良いここに来ました。 相談したらサドルじゃなくポジションの問題と言われて調整して貰うとめちゃくちゃ乗りやすくなってビックリ笑 …
+      - button "もっと見る"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "guran 、 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "CAAD 12":
+      - button "CAAD 12 の写真"
+      - button "CAAD 12 5 件のクチコミ":
+        - generic: CAAD 12
+        - generic: 5 件のクチコミ
+      - button "CAAD 12 さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: "最終編集: 1 年前"
+      - text: ここはおすすめです。確かに一見さんは入りづらい雰囲気ですし、店主もクセがありそうに見えますが、5分も話すと気さくで、本当に客や自転車のことを考えてくれていると感じることができます。 …
+      - button "もっと見る"
+      - button "いいね":
+        - generic: 
+        - generic: 高評価
+      - button "CAAD 12 さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - generic "*ここな":
+      - button "*ここな の写真"
+      - button "*ここな 3 件のクチコミ":
+        - generic: "*ここな"
+        - generic: 3 件のクチコミ
+      - button "*ここな さんのクチコミへのアクション":
+        - generic: 
+      - img "5 つ星":
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+        - generic: 
+      - generic: 2 年前
+      - text: 電話の対応は少しきつかったけど、行ってみるとフレンドリーな方で、自転車のタイヤの修理と、チェーンが回りづらかったのをオイルを差してくれたり、カバーの調整をしてくれたりして、タイヤは替えなくていいよ、パンクだけの修理で大丈夫とのことで、しっかり直してくれて1100円で直してくれました！とても良心的で、とってもおすすめでした！ …
+      - button "もっと見る"
+      - button "いいね 1 件":
+        - generic: 
+        - generic: "1"
+      - button "*ここな さんのクチコミを共有":
+        - generic: 
+        - generic: 共有
+    - button "その他のクチコミ (54)":
+      - generic: その他のクチコミ (54)
+    - heading "他の人はこちらも検索" [level=2]
+    - link "TREK Bicycle 四日市（直営店）·4.5 つ星·クチコミ 63 件·自転車屋":
+      - generic: TREK Bicycle 四日市（直営店）
+      - img "4.5 つ星 クチコミ 63 件":
+        - text: "4.5"
+        - text: (63)
+      - generic: 自転車屋
+    - link "リサイクル自転車＆バイク修理のACB·5.0 つ星·クチコミ 4 件·自転車修理・整備店":
+      - generic: リサイクル自転車＆バイク修理のACB
+      - img "5.0 つ星 クチコミ 4 件":
+        - text: "5.0"
+        - text: (4)
+      - generic: 自転車修理・整備店
+    - link "サイクルベースあさひ四日市店·3.7 つ星·クチコミ 80 件·自転車屋":
+      - generic: サイクルベースあさひ四日市店
+      - img "3.7 つ星 クチコミ 80 件":
+        - text: "3.7"
+        - text: (80)
+      - generic: 自転車屋
+    - link "自転車のちゃりんこ·3.1 つ星·クチコミ 23 件·自転車屋":
+      - generic: 自転車のちゃりんこ
+      - img "3.1 つ星 クチコミ 23 件":
+        - text: "3.1"
+        - text: (23)
+      - generic: 自転車屋
+    - link "イオンバイク 四日市北店·3.5 つ星·クチコミ 8 件·自転車屋":
+      - generic: イオンバイク 四日市北店
+      - img "3.5 つ星 クチコミ 8 件":
+        - text: "3.5"
+        - text: (8)
+      - generic: 自転車屋
+    - heading "ウェブ検索結果" [level=2]
+    - region
+    - link "このデータについて":
+      - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=ja
+      - generic: このデータについて
+  - button "サイドパネルを折りたたむ":
+    - generic: 
+  - button "Google アプリ":
+  - 'button "Google アカウント: プラスジェン (plusgen0620@gmail.com)"':
+  - contentinfo:
+    - text: 地図データ ©2026
+    - button "日本"
+    - button "利用規約"
+    - button "プライバシー"
+    - button "プロダクトに関するフィードバックを送信"
+  - button "100 m": 100 m

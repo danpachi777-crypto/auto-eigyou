@@ -1,0 +1,313 @@
+- table:
+  - rowgroup:
+    - row "ロゴ SANKO サンコー自転車商会 BICYCLE CAMPANY":
+      - cell "ロゴ":
+        - img "ロゴ"
+      - cell
+      - cell "SANKO サンコー自転車商会 BICYCLE CAMPANY":
+        - table:
+          - rowgroup:
+            - row:
+              - cell:
+            - row "SANKO サンコー自転車商会 BICYCLE CAMPANY":
+              - cell "SANKO サンコー自転車商会 BICYCLE CAMPANY":
+                - table:
+                  - rowgroup:
+                    - row:
+                      - cell
+                      - cell:
+                    - row "SANKO サンコー自転車商会 BICYCLE CAMPANY":
+                      - cell "SANKO":
+                        - img "SANKO"
+                      - cell "サンコー自転車商会 BICYCLE CAMPANY":
+                        - img "サンコー自転車商会 BICYCLE CAMPANY"
+            - row:
+              - cell:
+- table:
+  - rowgroup:
+    - row:
+      - cell "今日の日記 現在未更新 売りたし 買いたし 2014/2/9新規 2019/2/23更新 処分品ワゴン コーナー EVERYDAY LOW-PRICE 毎日が お買い得の コーナー 上のお買い得 ページがサーバー不安定のため別ページ お買い得2 作業料金 見出し情報など 店内展示完成車 レースサポートなど お店の営業案内など 入荷商品やメーカー情報 掲示板 E-MAIL":
+        - table:
+          - rowgroup:
+            - row:
+              - cell:
+            - row "今日の日記 現在未更新 売りたし 買いたし 2014/2/9新規 2019/2/23更新 処分品ワゴン コーナー EVERYDAY LOW-PRICE 毎日が お買い得の コーナー 上のお買い得 ページがサーバー不安定のため別ページ お買い得2 作業料金":
+              - cell "今日の日記 現在未更新 売りたし 買いたし 2014/2/9新規 2019/2/23更新 処分品ワゴン コーナー EVERYDAY LOW-PRICE 毎日が お買い得の コーナー 上のお買い得 ページがサーバー不安定のため別ページ お買い得2 作業料金":
+                - link "今日の日記":
+                  - /url: http://diary.fc2.com/cgi-sys/ed.cgi/sanko-bc/
+                  - img "今日の日記"
+                - text: 現在未更新
+                - separator
+                - link "売りたし 買いたし":
+                  - /url: http://sanko3k.michikusa.jp/uritasikaitasi.htm
+                  - text: 売りたし
+                  - text: 買いたし
+                - text: 2014/2/9新規
+                - separator
+                - text: 2019/2/23更新
+                - link "処分品ワゴン コーナー":
+                  - /url: http://sanko3k.michikusa.jp/wagonsale.htm
+                  - text: 処分品ワゴン
+                  - text: コーナー
+                - separator
+                - text: EVERYDAY
+                - text: LOW-PRICE
+                - link "毎日が お買い得の コーナー":
+                  - /url: http://sanko3k.michikusa.jp/okaidoku.htm
+                  - text: 毎日が
+                  - text: お買い得の
+                  - text: コーナー
+                - separator
+                - text: 上のお買い得
+                - text: ページがサーバー不安定のため別ページ
+                - link "お買い得2":
+                  - /url: http://sanko3k.fc2web.com/okaidoku2.htm
+                - separator
+                - link "作業料金":
+                  - /url: kouchinhyou.htm
+            - row "見出し情報など":
+              - cell "見出し情報など":
+                - img "見出し情報など"
+            - row:
+              - cell:
+            - row "店内展示完成車":
+              - cell "店内展示完成車":
+                - link "店内展示完成車":
+                  - /url: catalog.html
+                  - img "店内展示完成車"
+            - row:
+              - cell:
+            - row "レースサポートなど":
+              - cell "レースサポートなど":
+                - link "レースサポートなど":
+                  - /url: activity.html
+                  - img "レースサポートなど"
+            - row:
+              - cell:
+            - row "お店の営業案内など":
+              - cell "お店の営業案内など":
+                - link "お店の営業案内など":
+                  - /url: info.html
+                  - img "お店の営業案内など"
+            - row:
+              - cell:
+            - row "入荷商品やメーカー情報":
+              - cell "入荷商品やメーカー情報":
+                - link "入荷商品やメーカー情報":
+                  - /url: topics.html
+                  - img "入荷商品やメーカー情報"
+            - row:
+              - cell:
+            - row "掲示板":
+              - cell "掲示板":
+                - link "掲示板":
+                  - /url: http://sanko-bc.bbs.fc2.com/
+                  - img "掲示板"
+            - row:
+              - cell:
+            - row "E-MAIL":
+              - cell "E-MAIL":
+                - link "E-MAIL":
+                  - /url: mailto:sanko-bc@cty-net.ne.jp
+                  - img "E-MAIL"
+      - cell:
+      - cell:
+        - table:
+          - rowgroup:
+            - row:
+              - cell:
+                - img "当店ホームページにようこそおいでくださいました"
+                - text: 多忙に付き店内グチャグチャで申しわけありません
+                - text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+                - text: お知らせ
+                - text: メール、電話でのパーツ等の手配のご依頼は
+                - text: 月曜にまとめ発注いたしますので日曜閉店時間までに
+                - text: 御願いいたします。
+                - text: ご購入商品の保証は各メーカーの規約にしたがいますので
+                - text: 保証規約をご確認の上お申し付けください
+                - text: 購入証明の領収書、保証書等は必ず保管お願いします
+                - text: 車スペースについてのお知らせ
+                - text: 2011/12/01より駐車スペースが変更になりました
+                - text: 当店にお越しの際は
+                - link "（ここをクリック）":
+                  - /url: http://www.cty-net.ne.jp/~sanko-bc/parking.htm
+                - text: に止めていただきますよう
+                - text: よろしくお願いします。
+                - generic: ここ以外は他の契約者にご迷惑
+                - text: ですので駐車しないようお願います
+                - text: 一般車とは異なるスポーツタイプ自転車の
+                - text: 取り扱いに関する国民生活センターからのお知らせ
+                - link "http://www.kokusen.go.jp/news/data/n-20150618_1.html#taiou":
+                  - /url: http://www.kokusen.go.jp/news/data/n-20150618_1.html#taiou
+                - text: メーカーさんとの事情によりＸを運用することになりました
+                - link "https://x.com/sanko750247":
+                  - /url: https://x.com/sanko750247
+                - text: 消費税適格事業者登録番号 T5-8107-3527-1760
+                - text: 自転車安全整備店登録番号 A-55-113-039
+                - text: 通産省自転車組立整備士登録番号 21-1607
+                - text: 自転車安全整備士番号 55113112
+                - text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+                - text: 当店は創業昭和３３年の
+                - text: 四日市市南部の小さな自転車店です
+                - text: WEBの利点を生かし出来るだけ最新情報をご提供したいと思います
+                - text: 商品につきましてはいつでもお値打ちにご提供できるよう努めております
+                - text: ページの作成は自前でございますので至らぬ点もありますが
+                - text: ご勘弁のほど宜しくお願いいたします
+                - text: 処分品や特売品などはその都度左欄各コーナーに掲載いたします
+                - text: 各ブランドごとの店頭価格はお気軽にお尋ねくださいませ
+                - separator
+                - text: 2025営業方針のお知らせ
+                - text: 当店にてお買い上げの商品につきましては
+                - text: 点検、調整等アフターフォローは今までどうり無料とさせていただきますが
+                - text: 当店の顧客様において中古品、個人売買、海外並行品、他店購入品等
+                - text: 当店にてお買い上げでない
+                - text: 製品の作業依頼につきましては大変心苦しいのですが
+                - text: 全て適正価格にて有料とさせていただきたいと思います。
+                - text: 今まで明確に提示しておりませんでしたが
+                - text: 昨今の商品流通事情によりご理解よろしく御願いいたします。
+                - text: リコール、メーカー自主交換などにつきましてはメーカー指示のとうりとなります。
+                - text: 営業時間は
+                - text: 10：00～12:00
+                - text: 13:00～18:00まで
+                - text: とさせて頂きますので
+                - text: よろしくお願いいたします
+                - text: 現在月曜～水曜は作業、事務処理等により
+                - text: 閉店しております
+                - text: 営業日の作業依頼は
+                - text: 事前に御連絡をお願いします
+                - text: "----------------------------------------------------------------"
+                - text: 2020年度営業日程等 についてのお知らせ
+                - text: 今まで父が行なっておりました一般車、通学車、原付バイクの出張引取りは
+                - text: 対応できかねますので
+                - text: 申しわけありませんがご理解おねがいします。
+                - text: 木曜～日曜 は混雑具合により
+                - text: 応対等ご希望に添えない場合がございますがご了承ください。
+                - text: 作業完了や入荷の御連絡などが夜間になってしまうことも
+                - text: ありますので連絡事項は
+                - link "掲示板":
+                  - /url: http://sanko-bc.bbs.fc2.com/
+                - text: へ掲載いたしますので
+                - text: ご確認をお願いします
+                - text: もしくは
+                - link "こちら":
+                  - /url: mailto:sanko-bc@cty-net.ne.jp?Subject=納期等の連絡先
+                - text: へ確認の連絡をお願いいたします
+                - text: "------------------------------------------------------------------"
+                - text: お願い
+                - text: お急ぎのお問い合わせで無い場合は
+                - text: 申し訳ございませんがメールにてお願いいたします。
+                - text: 匿名や偽装送信者でのお問い合わせは
+                - text: 間違いの元になりますのでご容赦ください。
+                - text: 尚、迷惑メールの対策は必要なメールも削除される場合がありますので
+                - text: フィルターをかけてありません。必ず件名を入れて送信お願いします。
+                - text: 件名の無いメールは開封いたしませんのでご了承ください。
+                - text: 携帯より送信の場合も受信設定をお願いします。
+                - text: 返信もフィルターで戻ってくる場合がございますので
+                - text: 何度送信してもだめな場合は掲示板にてお知らせいたしますので
+                - text: ご了承くださいませ。
+                - text: 駐車スペースについてのお知らせ
+                - text: 2011/12/01より駐車スペースが変更になりました
+                - text: 当店にお越しの際は
+                - link "（ここをクリック）":
+                  - /url: http://www.cty-net.ne.jp/~sanko-bc/parking.htm
+                - text: に止めていただきますよう
+                - text: よろしくお願いします。
+                - generic: ここ以外は他の契約者のスペース
+                - text: ですので駐車はご遠慮願います
+                - link:
+                  - /url: http://www.specialized-onlinestore.jp/shop/
+                - link "MTB乗りなら覗いてみよう色んなヒントが 満載のマムアンドポップス大島さんブログはここ":
+                  - /url: http://mamapapa.at.webry.info/
+                  - text: MTB乗りなら覗いてみよう色んなヒントが
+                  - text: 満載のマムアンドポップス大島さんブログはここ
+                - link "NHKチャリダーこちらも見てね":
+                  - /url: http://www.nhk.or.jp/charida/hillclimb/index_06.html
+                - link:
+                  - /url: http://www.gokiso.jp/index2.html
+                - text: 森本誠の↑GOKISOホイール
+                - text: 2003年１２月より
+                - text: 人目のご訪問です
+                - text: 思い立ったら更新中→
+                - link "新着情報":
+                  - /url: topics.html
+                - link "よろず情報のページ":
+                  - /url: http://sanko3k.michikusa.jp/
+                  - generic: よろず情報のページ
+                - separator
+                - link "旧車在庫展示車処分コーナー":
+                  - /url: tenjitokkasya.html
+                - link "旧車在庫セール価格はこちら":
+                  - /url: http://sanko3k.michikusa.jp/kanseisya.htm
+                - link "レフティフォークにサイクルコンピュータの取付例":
+                  - /url: http://sanko3k.fc2web.com/lefty-magnet.html
+                - separator
+                - generic: 日頃ごひいきになっている皆さんのコーナーです。
+                - text: MAXSPEED97Ｘ
+                - link:
+                  - /url: https://x.com/MSpeed9738394
+                - text: 鷹組
+                - link:
+                  - /url: http://red.ap.teacup.com/barutan/
+                - text: JSR四日市
+                - link:
+                  - /url: http://jsr.fc2web.com/
+                - text: △ミサイル
+                - link:
+                  - /url: http://www.geocities.jp/ka72taka23/
+                - text: 鈴鹿ターミネーター
+                - link:
+                  - /url: http://terminator.main.jp/index.html
+                - text: サカイレーシング
+                - link:
+                  - /url: http://www.geocities.jp/sakai_racing/
+                - text: 井田君のコーヒー豆ショップ
+                - link "https://motracoffee.stores.jp/":
+                  - /url: https://motracoffee.stores.jp/
+                - text: 庭師仲君のお店
+                - text: ↓
+                - link:
+                  - /url: http://tsuki-momiji.jp/
+                - text: 小柴さんのお店
+                - link:
+                  - /url: http://www.thingsting.com/
+                - text: 川越君のうどんやさん
+                - link "https://map.yahoo.co.jp/place?gid=PcrtTzRNw2U&fr=sydd_p-grmspot-1-leftheader_gs-ttl&from_srv=search_web":
+                  - /url: https://map.yahoo.co.jp/place?gid=PcrtTzRNw2U&fr=sydd_p-grmspot-1-leftheader_gs-ttl&from_srv=search_web
+                - separator
+                - text: HOME |
+                - link "商品案内":
+                  - /url: catalog.html
+                - text: "|"
+                - link "活動内容":
+                  - /url: activity.html
+                - text: "|"
+                - link "当店の案内":
+                  - /url: info.html
+                - text: "|"
+                - link "新着情報":
+                  - /url: topics.html
+                - text: "|"
+                - link "BBS":
+                  - /url: http://bbs2.fc2.com/cgi-bin/e.cgi/21789/
+                - text: "|"
+                - link "E-MAIL":
+                  - /url: mailto:sanko-bc@cty-net.ne.jp
+                - table:
+                  - rowgroup:
+                    - row:
+                      - cell:
+                - table:
+                  - rowgroup:
+                    - row:
+                      - cell:
+                - table:
+                  - rowgroup:
+                    - row "SPORTS and CITY CYCLE SHOP サンコー自転車商会 〒510-0958三重県四日市市小古曽1丁目9-16 TEL(059)345-0757 FAX(059)346-9768 E-mail：sanko-bc@cty-net.ne.jp":
+                      - cell "SPORTS and CITY CYCLE SHOP サンコー自転車商会":
+                        - img "SPORTS and CITY CYCLE SHOP サンコー自転車商会"
+                      - cell "〒510-0958三重県四日市市小古曽1丁目9-16 TEL(059)345-0757 FAX(059)346-9768 E-mail：sanko-bc@cty-net.ne.jp":
+                        - text: 〒510-0958三重県四日市市小古曽1丁目9-16
+                        - text: TEL(059)345-0757 FAX(059)346-9768
+                        - text: E-mail：sanko-bc@cty-net.ne.jp
+                - img "サンコーバナ－"
+                - text: リンクはご自由にどうぞ

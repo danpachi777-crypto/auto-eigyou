@@ -1,0 +1,84 @@
+{
+  "company": "サンコー自転車商会",
+  "industry": "自転車販売・整備",
+  "region": "三重県四日市市",
+  "email": "sanko-bc@cty-net.ne.jp",
+  "email_source": "https://www.cty-net.ne.jp/~sanko-bc/info.html",
+  "website_url": "https://www.cty-net.ne.jp/~sanko-bc/index.html",
+  "discovery_source": "https://www.riogrande.co.jp/shop/24007/",
+  "checked_at": "2026-11-01T17:52:13.110Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 57,
+    "url": "https://www.google.com/maps/search/?api=1&query=サンコー自転車商会+四日市",
+    "identity": "小古曽1-9-16・0593450757・公式パス一致。複数メーカー販売店掲載一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.cty-net.ne.jp/~sanko-bc/index.html",
+    "service": "https://www.cty-net.ne.jp/~sanko-bc/catalog.html",
+    "contact": "https://www.cty-net.ne.jp/~sanko-bc/info.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390px店舗案内で説明と住所電話メール右端欠け。scrollWidth750。1280px全文確認。商品案内は390px初期画面で右側本文が画面外、1280pxで表示。6枚確認済み。"
+    },
+    {
+      "item": 2,
+      "result": "店舗案内とホームに一般公開メール。ホームに件名必須、急ぎでない内容はメール推奨。"
+    },
+    {
+      "item": 3,
+      "result": "商品・整備対応・所在地・電話・営業時間確認。作業依頼は事前連絡。"
+    },
+    {
+      "item": 4,
+      "result": "主要画像・リンク表示。390px自動切替なし、閲覧範囲で別スマホ版リンク未検出。"
+    },
+    {
+      "item": 5,
+      "result": "店頭販売・配送確認制。架空ECやフォームを提案せずメール電話案内を保持。"
+    },
+    {
+      "item": 6,
+      "result": "現行2026/2027メーカー情報あり。自作や更新年を理由とせず。営業拒否は閲覧範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.cty-net.ne.jp/~sanko-bc/info.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「当店の案内」を拝見すると、案内文や電話番号・メールアドレスの右側が画面外に出ており、そのままでは全体を確認できない状態でした。",
+      "proposal": "店舗案内と電話・メールの連絡先を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず内容を確認できるようにする",
+      "evidence_path": "evidence/sanko-bc/contact-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "sanko-bc@cty-net.ne.jp",
+      "サンコー自転車商会",
+      "sanko3k.fc2web.com"
+    ],
+    "note": "cty-net.ne.jpは共有ISPドメインなので店舗固有アドレス・名称・パスで照合する"
+  },
+  "comparisons": [
+    {
+      "url": "https://elmo.gifu.jp/contact/",
+      "note": "問い合わせと店舗情報を整理する構成を参照。転載なし。"
+    },
+    {
+      "url": "https://www.bikes-kurosawa.com/",
+      "note": "取扱内容と店舗連絡先の構成参照。転載なし。"
+    }
+  ]
+}
