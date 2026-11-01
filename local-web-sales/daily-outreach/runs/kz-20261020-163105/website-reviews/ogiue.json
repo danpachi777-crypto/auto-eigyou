@@ -1,0 +1,84 @@
+{
+  "company": "自転車屋 OGIUE CYCLE",
+  "industry": "自転車販売・整備",
+  "region": "岐阜県各務原市",
+  "email": "info@ogiue.com",
+  "email_source": "https://www.ogiue.com/contactus.html",
+  "website_url": "https://www.ogiue.com/",
+  "discovery_source": "https://www.city.kakamigahara.lg.jp/ourfavorite-kakamigahara/city/1029012.html",
+  "checked_at": "2026-11-01T18:01:10.630Z",
+  "maps": {
+    "rating": 3.4,
+    "review_count": 41,
+    "url": "https://www.google.com/maps/search/?api=1&query=オギウエサイクル",
+    "identity": "那加織田町1-120、0583823462、公式ドメイン一致。柳ケ瀬のオギウエサイクルセンターとは別店舗。各務原市公式記事とメーカー取扱店一覧でも一致。"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://www.ogiue.com/",
+    "service": "https://www.ogiue.com/itemlist.html",
+    "contact": "https://www.ogiue.com/contactus.html"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "商品紹介の390px表示で3列ブランド表の右列Bianchi/FUJI/BOTTECCHIAが画面外。scrollWidth563。1280pxで3列全体表示。ホーム本文と問い合わせ先は390pxに収まる。6枚保存。"
+    },
+    {
+      "item": 2,
+      "result": "問い合わせページの一般公開メール表示とmailto一致。電話もあり。トップと商品ページに問い合わせリンク。"
+    },
+    {
+      "item": 3,
+      "result": "取扱ブランド・自転車種別・所在地・電話を確認。自治体記事と一致。"
+    },
+    {
+      "item": 4,
+      "result": "トップの一部背景画像表示は不明瞭だが不具合として取り上げない。スマホ幅へ自動リフローするサイトだが商品表のみ固定幅が残る。別スマホ版リンクは閲覧範囲で未検出。"
+    },
+    {
+      "item": 5,
+      "result": "ブランドからメール電話へつなぐ案。架空フォームや注文受付を追加しない。既存オンラインショップリンクあり。"
+    },
+    {
+      "item": 6,
+      "result": "2022ニュースだけでは改善根拠にしない。営業拒否は確認したページで未検出。営業時間や価格を案に追加しない。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.ogiue.com/itemlist.html",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして「商品紹介」を拝見すると、取扱ブランドの表が画面幅を超え、右側のブランド名がそのままでは全体を確認できない状態でした。",
+      "proposal": "取扱ブランドの一覧を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず各ブランド名と問い合わせへの案内を確認できるようにする",
+      "evidence_path": "evidence/ogiue/service-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "ogiue.com",
+      "ogiue-shop.com",
+      "オギウエサイクル",
+      "OGIUE CYCLE"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://elmo.gifu.jp/contact/",
+      "note": "連絡先と店舗情報の整理のみ参照。転載なし。"
+    },
+    {
+      "url": "https://www.bikes-kurosawa.com/",
+      "note": "取扱ブランド・連絡先へのナビゲーション構成のみ参照。転載なし。"
+    }
+  ]
+}

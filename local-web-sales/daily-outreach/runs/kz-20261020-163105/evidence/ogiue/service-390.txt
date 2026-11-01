@@ -1,0 +1,118 @@
+- link "本文へスキップ":
+  - /url: "#hpb-title"
+- heading "自転車屋オギウエサイクル スポーツサイクルショップ" [level=1]
+- link "自転車屋 OGIUE CYCLE":
+  - /url: /
+- paragraph:
+  - generic: 電話でのお問い合わせは
+  - text: TEL.058－382－3462
+- paragraph: 〒504-0908 岐阜県各務原市那加織田町1－120
+- heading "ナビゲーション" [level=3]
+- heading "■商品紹介 item list ・バイクはコチラ ・パーツ系はコチラ ・アパレル系はコチラ ・その他はコチラ" [level=3]:
+  - generic: ■商品紹介 item list
+  - text: ・バイクは
+  - link "コチラ":
+    - /url: itemlist.html
+  - text: ・パーツ系はコチラ
+  - text: ・アパレル系はコチラ ・その他はコチラ
+- heading "TREK /PINARELLO /Bianchi / COLNAGO / MERID / FUJI / FOCUS / corarrtec / BOTTECHIA / Panasonic" [level=2]:
+  - text: TREK /PINARELLO /Bianchi /
+  - text: COLNAGO / MERID / FUJI /
+  - text: FOCUS / corarrtec / BOTTECHIA / Panasonic
+- separator
+- table:
+  - rowgroup:
+    - row "TREK PINARELLO Bianchi":
+      - cell "TREK":
+        - link "TREK":
+          - /url: https://www.trekbikes.com/jp/ja_JP/
+      - cell "PINARELLO":
+        - link "PINARELLO":
+          - /url: https://www.riogrande.co.jp/pinarello_opera/
+        - link:
+          - /url: http://www.corratec-bikes.jp/index.html
+        - link:
+          - /url: http://www.corratec-bikes.jp/index.html
+      - cell "Bianchi":
+        - link "Bianchi":
+          - /url: http://www.japan.bianchi.com/category.cgi?mode=category_list&big_code=01
+- table:
+  - rowgroup:
+    - row "COLNAGO MERIDA FUJI":
+      - cell "COLNAGO":
+        - link "COLNAGO":
+          - /url: https://www.colnago.co.jp/index.html
+      - cell "MERIDA":
+        - link "MERIDA":
+          - /url: https://www.merida.jp/
+      - cell "FUJI":
+        - link:
+          - /url: http://www.bottecchia-bikes.jp/index.html
+        - link "FUJI":
+          - /url: https://www.fujibikes.jp/
+          - generic: FUJI
+- table:
+  - rowgroup:
+    - row "FOCUS corratec BOTTECCHIA":
+      - cell "FOCUS":
+        - link "FOCUS":
+          - /url: http://www.focus-bikes.jp/index.html
+      - cell "corratec":
+        - link "corratec":
+          - /url: http://www.corratec-bikes.jp/index.html
+          - generic: corratec
+      - cell "BOTTECCHIA":
+        - link "BOTTECCHIA":
+          - /url: http://www.bottecchia-bikes.jp/index.html
+- table:
+  - rowgroup:
+    - row "Panasonic":
+      - cell "Panasonic":
+        - link "Panasonic":
+          - /url: https://cycle.panasonic.com/products/pos/
+          - generic: Panasonic
+- separator
+- link "このページの先頭へ":
+  - /url: "#hpb-container"
+  - text: このページの先頭へ
+- heading "バナースペース" [level=3]
+- list:
+  - link "アクセス":
+    - /url: access.html
+  - link "アメブロ入荷情":
+    - /url: https://ameblo.jp/ogiue-cycle/
+  - link "イベント情報":
+    - /url: event1.html
+  - link "フェイスブック":
+    - /url: https://www.facebook.com/OGIUECYCLE/
+  - link "お問い合わせ":
+    - /url: contactus.html
+- generic: オギママ オススメ品
+- text: パフォーマンスをアップするソックス
+- link "詳細はコチラ":
+  - /url: https://ameblo.jp/ogiue-cycle/entry-12624127173.html
+- link:
+  - /url: "#"
+- generic: 当店人気アイテム
+- text: ヒルクライムが苦手な人に
+- text: オーバルを凌駕する
+- text: 高性能チェーンリング
+- link "詳細はコチラ":
+  - /url: https://ameblo.jp/ogiue-cycle/entry-12488341683.html
+- text: CYCLOID SHC チェーンリング
+- text: シマノには無いコンパクトな３２Ｔ
+- text: 定価￥11,000（税抜）
+- link:
+  - /url: "#"
+- heading "shop info店舗情報" [level=3]
+- heading "自転車屋 OGIUE CYCLE" [level=4]
+- paragraph:
+  - text: 〒504-0908
+  - text: 岐阜県各務原市那加織田町1－120
+  - text: TEL.058－382－3462
+  - text: FAX.058－389－7262
+- heading "サブナビゲーション" [level=3]
+- list:
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+- paragraph: copyright©2020 OGIUE CYCLE all rights reserved.

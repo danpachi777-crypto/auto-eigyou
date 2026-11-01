@@ -1,0 +1,127 @@
+- link "本文へスキップ":
+  - /url: "#hpb-title"
+- heading "自転車屋オギウエサイクル スポーツサイクル専門店" [level=1]
+- link "自転車屋 OGIUE CYCLE":
+  - /url: /
+- paragraph: 電話でのお問い合わせはTEL.058－382－3462
+- paragraph:
+  - text: 〒504-0908 岐阜県各務原市那加織田町1－120
+  - text: 定休日/火曜日
+- heading "岐阜・各務原のオギウエサイクル/ロードバイク/クロスバイク/MTB多数展示しています。サイクルライフをサポートします" [level=2]
+- paragraph:
+  - generic: 岐阜・各務原 ロードバイク・クロスバイク・MTBを扱うスポーツサイクルショップ
+- paragraph:
+  - text: 自転車屋 OGIUE CYCLEでは
+  - text: TREK・PINARELLO・Bianchi・COLNAGO・MERIDA・FUJI・FOCUS・corratec
+  - text: ・BOTTECCHIA・Panasonicを取り扱っています。
+  - text: 各種クレジットカード・QRコード決済が使えます
+  - img "各種クレジットカード"
+  - img "QRコード決済"
+  - generic: JACCS
+  - generic: ショッピングクレジットも対応
+  - text: 分割払いのシュミレーションできます。お気軽にご相談下さい。
+- generic: OGIUE CYCLE 「Online Shop」サイトオープンしました
+- generic: 見てね～
+- link:
+  - /url: https://ogiue-shop.com/
+- heading "new item新商品情報" [level=3]
+- paragraph:
+  - generic: PINARELLO 2022 DOGMA F DISC DA R9200完成車
+  - generic: メーカー希望小売価格
+  - generic: \1,815,000
+  - generic: 写真の状態の完成車重量 6.7kg
+- separator
+- paragraph: news新着情報
+- term: 2022年 12月 日（）
+- definition
+- term: 2022年 12月 15日 （木）
+- definition: 年始は1月5日（木）より営業致します
+- term: 2022年 12月 12日 （月）
+- definition: 年内は12月28日（水）まで営業致します
+- term: 2022年 11月 21日 （月）
+- definition:
+  - text: 年に一度の決算SALE！開催中！！ 詳しくは
+  - link "コチラ":
+    - /url: https://ameblo.jp/ogiue-cycle/entry-12775312820.html
+- link "■SITE MAP":
+  - /url: sitemap.html
+- link "このページの先頭":
+  - /url: "#hpb-container"
+- heading "ナビゲーション" [level=3]
+- list:
+  - link "top page":
+    - /url: /
+    - generic: top page
+  - link "item list":
+    - /url: itemlist.html
+    - generic: item list
+  - link "SHOP":
+    - /url: shop.html
+    - generic: SHOP
+  - link "SHOP TEAM":
+    - /url: team.html
+    - generic: SHOP TEAM
+  - link "EVENT":
+    - /url: event1.html
+    - generic: EVENT
+  - link "access":
+    - /url: access.html
+    - generic: access
+  - link "contact us":
+    - /url: contactus.html
+    - generic: contact us
+- heading "バナースペース" [level=3]
+- list:
+  - link "アクセス":
+    - /url: access.html
+  - link "アメブロ入荷情報":
+    - /url: https://ameblo.jp/ogiue-cycle/
+  - link "イベント情報":
+    - /url: event1.html
+  - link "フェイスブック":
+    - /url: https://www.facebook.com/OGIUECYCLE/
+  - link "お問い合わせ":
+    - /url: contactus.html
+- text: 岐阜県 各務原市
+- text: CYCLE START掲載店
+- link:
+  - /url: https://cyclestart.jp/search?utf8=%E2%9C%93&q%5Bprefecture_id_eq%5D=21&q%5Bshop_brands_brand_id_eq%5D=
+- text: バーチャル
+- text: サイクリングアプリ
+- img "ZWIFT"
+- img "ELITE"
+- generic: ダイレクトスマートトレーナーSUITOデモ機設置
+- generic: ・・・・・・・・・・・・・・・・・・
+- text: 当店2Fに設置しています
+- text: 体験してみたい方はお気軽に
+- text: スタッフまでどうぞ
+- text: 機材の設置・設定
+- text: ZWIFTアプリの使い方など
+- text: アドバイス致します
+- text: ・・・・・・・・・・・・・・・・・・
+- img "カーボンドライ"
+- img "CRACK SAVE"
+- text: フレームプロテクター
+- text: 当店で施工出来ます
+- text: チェーン脱落時のキズ補強＆防止
+- text: ￥5,500（税込）～
+- link "フレームキズ":
+  - /url: "#"
+  - img "フレームキズ"
+- text: fi'zi;kのテストサドルあります
+- text: 詳細は
+- link "コチラ":
+  - /url: https://ameblo.jp/ogiue-cycle/entry-12633622081.html
+- heading "shop info店舗情報" [level=3]:
+  - generic: shop info店舗情報
+- heading "自転車屋 OGIUE CYCLE" [level=4]
+- paragraph:
+  - text: 〒504-0908
+  - text: 岐阜県各務原市那加織田町1－120
+  - text: TEL.058－382－3462
+  - text: FAX.058－389－7262
+- heading "サブナビゲーション" [level=3]
+- list:
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+- paragraph: copyright©2020 OGIUE CYCLE all rights reserved.

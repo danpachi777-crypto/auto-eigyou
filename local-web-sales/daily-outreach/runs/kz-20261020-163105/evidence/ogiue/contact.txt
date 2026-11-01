@@ -1,0 +1,69 @@
+- link "本文へスキップ":
+  - /url: "#hpb-title"
+- heading "自転車屋オギウエサイクル スポーツサイクルショップ" [level=1]
+- link "自転車屋 OGIUE CYCLE":
+  - /url: /
+- paragraph: 電話でのお問い合わせはTEL.058－382－3462
+- paragraph: 〒504-0908 岐阜県各務原市那加織田町1－120
+- heading "お問い合わせcontact us" [level=2]
+- paragraph: お問い合わせは、こちらで受付しております。
+- heading "電話・FAX" [level=3]
+- term: TEL
+- definition:
+  - generic: 058－382－3462（平日 10:00～19:30） 定休日の火曜日は除く
+- term: FAX
+- definition: 058－389－7262
+- term: E-MAIL
+- definition:
+  - link "info@ogiue.com":
+    - /url: mailto:info@ogiue.com
+- separator
+- link "このページの先頭へ":
+  - /url: "#hpb-container"
+- heading "ナビゲーション" [level=3]
+- list:
+  - link "top page":
+    - /url: /
+    - generic: top page
+  - link "item list":
+    - /url: itemlist.html
+    - generic: item list
+  - link "SHOP":
+    - /url: shop.html
+    - generic: SHOP
+  - link "SHOP TEAM":
+    - /url: team.html
+    - generic: SHOP TEAM
+  - link "EVENT":
+    - /url: event1.html
+    - generic: EVENT
+  - link "access":
+    - /url: access.html
+    - generic: access
+  - link "contact us":
+    - /url: contactus.html
+    - generic: contact us
+- heading "バナースペース" [level=3]
+- list:
+  - link "アクセス":
+    - /url: access.html
+  - link "アメブロ入荷情":
+    - /url: https://ameblo.jp/ogiue-cycle/
+  - link "イベント情報":
+    - /url: event1.html
+  - link "フェイスブック":
+    - /url: https://www.facebook.com/OGIUECYCLE/
+  - link "お問い合わせ":
+    - /url: contactus.html
+- heading "shop info店舗情報" [level=3]
+- heading "自転車屋 OGIUE CYCLE" [level=4]
+- paragraph:
+  - text: 〒504-0908
+  - text: 岐阜県各務原市那加織田町1－120
+  - text: TEL.058－382－3462
+  - text: FAX.058－389－7262
+- heading "サブナビゲーション" [level=3]
+- list:
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+- paragraph: copyright©2020 OGIUE CYCLE all rights reserved.

@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 359,
+  "verified_sent_last_known": 360,
   "target": 450,
-  "remaining_unsent_target": 91,
+  "remaining_unsent_target": 90,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -81,7 +81,8 @@
     "yamanikki",
     "kazenouta",
     "studioizumo",
-    "sanko-bc"
+    "sanko-bc",
+    "ogiue"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -156,7 +157,8 @@
     "yamanikki",
     "kazenouta",
     "studioizumo",
-    "sanko-bc"
+    "sanko-bc",
+    "ogiue"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
@@ -252,8 +254,9 @@
     "yamanikki",
     "kazenouta",
     "studioizumo",
-    "sanko-bc"
+    "sanko-bc",
+    "ogiue"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 71
+  "prepared_count": 72
 }
