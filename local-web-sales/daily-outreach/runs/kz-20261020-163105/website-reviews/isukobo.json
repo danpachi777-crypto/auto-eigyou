@@ -1,0 +1,10 @@
+{
+  "company": "椅子工房",
+  "website_url": "http://www.isukobo.com/index.html",
+  "discovery_source": "https://www.isuisu.jp/workshops",
+  "checked_at": "2026-11-01T21:12:44.173845+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "ホームとcontact.htmlを確認。390pxフォームのDOMでは入力幅306pxで画面内。スクリーンショットが白い状態のため視覚レビュー不十分。明確な改善点は未確定、送信保留。",
+  "findings": []
+}

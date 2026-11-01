@@ -1,0 +1,10 @@
+{
+  "company": "ペンション アリスの丘",
+  "website_url": "http://alice.ram.ne.jp/",
+  "discovery_source": "https://www.houki-town.jp/hp/alice/",
+  "checked_at": "2026-11-01T21:12:44.172992+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "町の施設ページに電話案内のみ。公式リンク先はレンタルサーバの案内で、現行公式内容・公開メールを確認できず。",
+  "findings": []
+}

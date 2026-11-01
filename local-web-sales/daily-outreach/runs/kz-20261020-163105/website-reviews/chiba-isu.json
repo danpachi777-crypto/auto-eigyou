@@ -1,0 +1,10 @@
+{
+  "company": "千葉イス店",
+  "website_url": "http://www.chiba-isu.com",
+  "discovery_source": "https://www.isuisu.jp/workshops",
+  "checked_at": "2026-11-01T21:12:44.173586+00:00",
+  "priority": "hold",
+  "status": "hold",
+  "reason": "公式URL閲覧がERR_NAME_NOT_RESOLVED。ブラウザレビュー不可につき保留。メール配信失敗とは扱わない。",
+  "findings": []
+}
