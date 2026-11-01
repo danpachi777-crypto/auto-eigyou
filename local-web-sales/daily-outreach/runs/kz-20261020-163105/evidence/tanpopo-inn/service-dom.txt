@@ -1,0 +1,266 @@
+- list:
+  - link "English":
+    - /url: http://tanpopo-inn.jp/english
+    - img "English"
+  - link "Chinese":
+    - /url: http://tanpopo-inn.jp/chinese
+    - img "Chinese"
+- heading "山形県米沢市、米沢スキー場にあるペットも泊まれる宿タンポポイン" [level=1]
+- list:
+  - link "米沢牛、ペットも泊まれる宿 合宿等の貸切も大歓迎！山形県米沢市の宿、タンポポイン":
+    - /url: https://tanpopo-inn.jp
+    - img "米沢牛、ペットも泊まれる宿 合宿等の貸切も大歓迎！山形県米沢市の宿、タンポポイン"
+  - img "ペットと一緒に暮らしています！"
+  - link "電話でのご予約・メールでのお問い合わせはコチラ":
+    - /url: http://tanpopo-inn.jp/otoiawase
+    - img "電話でのご予約・メールでのお問い合わせはコチラ"
+- paragraph:
+  - img "部屋・館内"
+- list:
+  - link "ホーム":
+    - /url: https://tanpopo-inn.jp
+    - img "ホーム"
+  - link "初めての方へ":
+    - /url: https://tanpopo-inn.jp/goodpoint
+    - img "初めての方へ"
+  - link "部屋・館内":
+    - /url: https://tanpopo-inn.jp/ryouri-heya
+    - img "部屋・館内"
+  - link "お料理":
+    - /url: https://tanpopo-inn.jp/ryouri
+    - img "お料理"
+  - link "お客様の声":
+    - /url: https://tanpopo-inn.jp/archives/category/voice
+    - img "お客様の声"
+  - link "アクセス":
+    - /url: https://tanpopo-inn.jp/access
+    - img "アクセス"
+  - link "ブログ":
+    - /url: https://tanpopo-inn.jp/blog
+    - img "ブログ"
+- list:
+  - link "トップページに戻る":
+    - /url: https://tanpopo-inn.jp
+  - text: »
+  - link "部屋・館内":
+    - /url: https://tanpopo-inn.jp/ryouri-heya
+- heading "お部屋" [level=3]
+- table:
+  - rowgroup:
+    - row "【和室】12畳のお部屋» 2～6名 テレビありエアコンあり冷蔵庫あり大型犬もＯＫ":
+      - cell "【和室】12畳のお部屋» 2～6名 テレビありエアコンあり冷蔵庫あり大型犬もＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h12
+        - link "【和室】12畳のお部屋»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h12
+        - paragraph
+        - paragraph: 2～6名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "冷蔵庫あり"
+          - img "大型犬もＯＫ"
+    - row "【和室】9畳のお部屋» 2～4名 テレビありエアコンあり冷蔵庫あり大型犬もＯＫ 【和室】8畳のお部屋» 2～3名 テレビありエアコンあり冷蔵庫あり中型犬までＯＫ":
+      - cell "【和室】9畳のお部屋» 2～4名 テレビありエアコンあり冷蔵庫あり大型犬もＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h09
+        - link "【和室】9畳のお部屋»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h09
+        - paragraph
+        - paragraph: 2～4名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "冷蔵庫あり"
+          - img "大型犬もＯＫ"
+      - cell "【和室】8畳のお部屋» 2～3名 テレビありエアコンあり冷蔵庫あり中型犬までＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h08
+        - link "【和室】8畳のお部屋»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h08
+        - paragraph
+        - paragraph: 2～3名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "冷蔵庫あり"
+          - img "中型犬までＯＫ"
+    - row "【和室】6畳のお部屋» 2～3名 テレビありエアコンあり中型犬までＯＫ 【洋室】6畳のお部屋» 2～3名 テレビあり中型犬までＯＫ":
+      - cell "【和室】6畳のお部屋» 2～3名 テレビありエアコンあり中型犬までＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h06w
+        - link "【和室】6畳のお部屋»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h06w
+        - paragraph
+        - paragraph: 2～3名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "中型犬までＯＫ"
+      - cell "【洋室】6畳のお部屋» 2～3名 テレビあり中型犬までＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h06y
+        - link "【洋室】6畳のお部屋»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/h06y
+        - paragraph
+        - paragraph: 2～3名
+        - paragraph:
+          - img "テレビあり"
+          - img "中型犬までＯＫ"
+    - row "【洋室】ツインルーム» 2～3名 テレビありエアコンあり冷蔵庫あり中型犬までＯＫ 【洋室】スキーヤーズルーム» 4～5名 テレビありエアコンあり大型犬もＯＫ":
+      - cell "【洋室】ツインルーム» 2～3名 テレビありエアコンあり冷蔵庫あり中型犬までＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/htwin
+        - link "【洋室】ツインルーム»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/htwin
+        - paragraph
+        - paragraph: 2～3名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "冷蔵庫あり"
+          - img "中型犬までＯＫ"
+      - cell "【洋室】スキーヤーズルーム» 4～5名 テレビありエアコンあり大型犬もＯＫ":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hski
+        - link "【洋室】スキーヤーズルーム»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hski
+        - paragraph
+        - paragraph: 4～5名
+        - paragraph:
+          - img "テレビあり"
+          - img "エアコンあり"
+          - img "大型犬もＯＫ"
+    - row:
+      - cell:
+        - separator
+    - row "学習室（ピアノルーム）» 食堂»":
+      - cell "学習室（ピアノルーム）»":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hgakushu
+        - link "学習室（ピアノルーム）»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hgakushu
+      - cell "食堂»":
+        - link:
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hshokudo
+        - link "食堂»":
+          - /url: https://tanpopo-inn.jp/ryouri-heya/hshokudo
+- list:
+  - link "よくある質問":
+    - /url: http://tanpopo-inn.jp/qa
+    - img "よくある質問"
+  - link "オススメスポット":
+    - /url: http://tanpopo-inn.jp/spot
+    - img "オススメスポット"
+  - link "ギャラリー":
+    - /url: http://tanpopo-inn.jp/gallery
+    - img "ギャラリー"
+  - link "公式Facebook":
+    - /url: https://www.facebook.com/tanpopoinn
+    - img "公式Facebook"
+- paragraph:
+  - link "米沢スキー場":
+    - /url: http://www.yonezawa-ski.co.jp/
+    - img "米沢スキー場"
+- heading "客室・施設概要" [level=3]
+- list:
+  - listitem: 和室：５部屋
+  - listitem: ツイン：１部屋
+  - listitem: スキーヤーズルーム：２部屋
+- list:
+  - text: 学習室（兼音楽室）
+  - text: グランドピアノあり
+  - listitem: 浴室(16:00～23:00)
+  - text: ペット専用バス
+  - text: ユニットバス
+  - listitem: エアコン完備
+  - listitem: レンタルゲージ有り（無料）
+  - listitem: ドッグラン有り
+  - listitem: 全館WiFiフリースポット対応
+- heading "お支払い" [level=3]
+- list:
+  - listitem: チェックアウト時に現金での現地決済になります。
+  - listitem: クレジットカード払い不可
+  - text: キャンセル料金
+  - text: 当日キャンセル：宿泊料金の１００％
+  - text: 連絡なしの不泊：宿泊料金の１００％
+- heading "宿泊概要・料金" [level=3]
+- list:
+  - text: チェックイン
+  - text: 15:00～
+  - text: チェックアウト
+  - text: 10:00
+- list:
+  - text: 宿泊料金（1泊2食付）
+  - link "詳しくはこちら":
+    - /url: https://tanpopo-inn.jp#info
+  - text: をご覧ください
+  - listitem: ペット料金（１泊１匹・税込）
+- table:
+  - rowgroup:
+    - row "大型犬 2,200円":
+      - cell "大型犬"
+      - cell "2,200円"
+    - row "中型犬 1,650円":
+      - cell "中型犬"
+      - cell "1,650円"
+    - row "小型犬・猫 1,100円":
+      - cell "小型犬・猫"
+      - cell "1,100円"
+- link:
+  - /url: "#top"
+- paragraph:
+- paragraph:
+  - img "イブとララ"
+- iframe:
+  - link "マップで開く（新しいタブで開きます）":
+    - /url: about:invalid#zClosurez
+    - text: マップで開く
+- paragraph:
+  - img "TANPOPO-iNN タンポポイン"
+- paragraph: タンポポイン
+- text: 〒992-1121
+- text: 山形県米沢市万世町刈安 24156-82
+- text: ■TEL
+- text: 0238-28-2631(FAX共通)
+- text: ■Mail
+- text: owa
+- text: tanpopo-inn.jp
+- list:
+  - link "トップページ":
+    - /url: https://tanpopo-inn.jp
+  - link "タンポポ INFORMATION":
+    - /url: https://tanpopo-inn.jp/information
+  - link "お問い合わせ":
+    - /url: https://tanpopo-inn.jp/otoiawase
+  - link "キャンペーンのお知らせ":
+    - /url: https://tanpopo-inn.jp/%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b
+  - link "ブログ":
+    - /url: https://tanpopo-inn.jp/blog
+  - link "初めての方へ 「タンポポイン12のポイント」":
+    - /url: https://tanpopo-inn.jp/goodpoint
+  - link "猫と一緒に泊まれます":
+    - /url: https://tanpopo-inn.jp/%e7%8c%ab%e3%81%a8%e4%b8%80%e7%b7%92%e3%81%ab%e6%b3%8a%e3%81%be%e3%82%8c%e3%81%be%e3%81%99
+  - link "よくある質問":
+    - /url: https://tanpopo-inn.jp/qa
+  - link "オススメスポット":
+    - /url: https://tanpopo-inn.jp/spot
+  - link "ギャラリー":
+    - /url: https://tanpopo-inn.jp/gallery
+  - link "タンポポインとは？":
+    - /url: https://tanpopo-inn.jp/what
+  - link "ドッグラン":
+    - /url: https://tanpopo-inn.jp/pet
+  - link "交通アクセス":
+    - /url: https://tanpopo-inn.jp/access
+  - link "部屋・館内":
+    - /url: https://tanpopo-inn.jp/ryouri-heya
+  - link "米沢牛を使ったお料理":
+    - /url: https://tanpopo-inn.jp/ryouri
+  - link "English":
+    - /url: https://tanpopo-inn.jp/english
+  - link "Chinese":
+    - /url: https://tanpopo-inn.jp/chinese
+  - link "お客様の声":
+    - /url: https://tanpopo-inn.jp/archives/category/voice
+- paragraph: Copyrights(C)2010-2026 タンポポイン.All Rights Reserved.

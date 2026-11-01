@@ -1,0 +1,445 @@
+- list:
+  - link "English":
+    - /url: http://tanpopo-inn.jp/english
+    - img "English"
+  - link "Chinese":
+    - /url: http://tanpopo-inn.jp/chinese
+    - img "Chinese"
+- heading "山形県米沢市、米沢スキー場にあるペットも泊まれる宿タンポポイン" [level=1]
+- list:
+  - link "米沢牛、ペットも泊まれる宿 合宿等の貸切も大歓迎！山形県米沢市の宿、タンポポイン":
+    - /url: https://tanpopo-inn.jp
+    - img "米沢牛、ペットも泊まれる宿 合宿等の貸切も大歓迎！山形県米沢市の宿、タンポポイン"
+  - img "ペットと一緒に暮らしています！"
+  - link "電話でのご予約・メールでのお問い合わせはコチラ":
+    - /url: http://tanpopo-inn.jp/otoiawase
+    - img "電話でのご予約・メールでのお問い合わせはコチラ"
+- paragraph:
+  - strong: 米沢スキー場すぐそばのロッジ タンポポイン
+  - text: 396㎡の広いドックランと米沢牛でおもてなし
+- paragraph: 1 / 9
+- text: Slideshow
+- text: START/■ STOP
+- list:
+  - link "米沢スキー場すぐそばのロッジ タンポポイン":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/07.jpg
+    - img "米沢スキー場すぐそばのロッジ タンポポイン"
+  - link "なんといっても米沢牛":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/10.jpg
+    - img "なんといっても米沢牛"
+  - link "ロッジのママさんとぱちり":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/14.jpg
+    - img "ロッジのママさんとぱちり"
+  - link "和室12畳の広い空間は大型のワンちゃんとの宿泊に便利":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/20.jpg
+    - img "和室12畳の広い空間は大型のワンちゃんとの宿泊に便利"
+  - link "ロッジ タンポポインの看板娘？":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/01.jpg
+    - img "ロッジ タンポポインの看板娘？"
+  - link "最近改装した新しいお部屋":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/08.jpg
+    - img "最近改装した新しいお部屋"
+  - link "ストレス知らず！":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/13.jpg
+    - img "ストレス知らず！"
+  - link "ロッジの食堂":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/15.jpg
+    - img "ロッジの食堂"
+  - link "夜の食堂です":
+    - /url: https://tanpopo-inn.jp/wp-content/themes/skin-tannpopo-inn/images/18.jpg
+    - img "夜の食堂です"
+- list:
+  - link "ホーム":
+    - /url: https://tanpopo-inn.jp
+    - img "ホーム"
+  - link "初めての方へ":
+    - /url: https://tanpopo-inn.jp/goodpoint
+    - img "初めての方へ"
+  - link "部屋・館内":
+    - /url: https://tanpopo-inn.jp/ryouri-heya
+    - img "部屋・館内"
+  - link "お料理":
+    - /url: https://tanpopo-inn.jp/ryouri
+    - img "お料理"
+  - link "お客様の声":
+    - /url: https://tanpopo-inn.jp/archives/category/voice
+    - img "お客様の声"
+  - link "アクセス":
+    - /url: https://tanpopo-inn.jp/access
+    - img "アクセス"
+  - link "ブログ":
+    - /url: https://tanpopo-inn.jp/blog
+    - img "ブログ"
+- heading "お知らせ" [level=2]:
+  - img "お知らせ"
+- link "2024/06/26 涼しい毎日。":
+  - /url: https://tanpopo-inn.jp/archives/710
+  - paragraph: 2024/06/26
+  - heading "涼しい毎日。" [level=4]
+- link "2024/03/07 ご宿泊料金のご案内":
+  - /url: https://tanpopo-inn.jp/archives/668
+  - paragraph: 2024/03/07
+  - heading "ご宿泊料金のご案内" [level=4]
+- link "2014/07/28 自己紹介の動画を撮影しました":
+  - /url: https://tanpopo-inn.jp/archives/596
+  - paragraph: 2014/07/28
+  - heading "自己紹介の動画を撮影しました" [level=4]
+- link "2014/04/06 春は遠いなぁ。":
+  - /url: https://tanpopo-inn.jp/archives/587
+  - paragraph: 2014/04/06
+  - heading "春は遠いなぁ。" [level=4]
+- link "2013/08/26 ケーナの会の合宿。":
+  - /url: https://tanpopo-inn.jp/archives/569
+  - paragraph: 2013/08/26
+  - heading "ケーナの会の合宿。" [level=4]
+- link "2013/07/30 夏なのに。":
+  - /url: https://tanpopo-inn.jp/archives/565
+  - paragraph: 2013/07/30
+  - heading "夏なのに。" [level=4]
+- link "2013/05/06 桜、散り始めました。":
+  - /url: https://tanpopo-inn.jp/archives/560
+  - paragraph: 2013/05/06
+  - heading "桜、散り始めました。" [level=4]
+- link "2012/12/21 米沢スキー場オープン！":
+  - /url: https://tanpopo-inn.jp/archives/547
+  - paragraph: 2012/12/21
+  - heading "米沢スキー場オープン！" [level=4]
+- link "2012/08/31 選べる米沢牛ご堪能プランに、山形の「芋煮」が登":
+  - /url: https://tanpopo-inn.jp/archives/454
+  - paragraph: 2012/08/31
+  - heading "選べる米沢牛ご堪能プランに、山形の「芋煮」が登" [level=4]
+- link "2012/04/04 ゴールデンウィークに向かって。":
+  - /url: https://tanpopo-inn.jp/archives/313
+  - paragraph: 2012/04/04
+  - heading "ゴールデンウィークに向かって。" [level=4]
+- link "2012/03/07 感謝dayを設けます。":
+  - /url: https://tanpopo-inn.jp/archives/307
+  - paragraph: 2012/03/07
+  - heading "感謝dayを設けます。" [level=4]
+- link "2011/12/17 スキー場開き。":
+  - /url: https://tanpopo-inn.jp/archives/236
+  - paragraph: 2011/12/17
+  - heading "スキー場開き。" [level=4]
+- link "2011/10/29 ２０１１年新米プレゼント":
+  - /url: https://tanpopo-inn.jp/archives/141
+  - paragraph: 2011/10/29
+  - heading "２０１１年新米プレゼント" [level=4]
+- link "2011/10/29 ドッグラン":
+  - /url: https://tanpopo-inn.jp/archives/136
+  - paragraph: 2011/10/29
+  - heading "ドッグラン" [level=4]
+- link "2011/10/18 米沢牛すき焼きプランです":
+  - /url: https://tanpopo-inn.jp/archives/120
+  - paragraph: 2011/10/18
+  - heading "米沢牛すき焼きプランです" [level=4]
+- link "2011/10/17 ホームページをリニューアルしました！":
+  - /url: https://tanpopo-inn.jp/archives/93
+  - paragraph: 2011/10/17
+  - heading "ホームページをリニューアルしました！" [level=4]
+- paragraph:
+  - link "» お知らせをすべて見る":
+    - /url: https://tanpopo-inn.jp/archives/category/news
+- heading "タンポポブログ" [level=2]:
+  - link "タンポポブログ":
+    - /url: https://tanpopo-inn.jp/archives/date/2026/09
+    - img "タンポポブログ"
+- link "2026/09/25 味覚の秋です。":
+  - /url: https://tanpopo-inn.jp/archives/765
+  - paragraph: 2026/09/25
+  - heading "味覚の秋です。" [level=4]
+- link "2026/03/27 米沢スキー場の2,026年シーズン営業は終了し":
+  - /url: https://tanpopo-inn.jp/archives/761
+  - paragraph: 2026/03/27
+  - heading "米沢スキー場の2,026年シーズン営業は終了し" [level=4]
+- link "2026/01/08 あけましておめでとうございます。":
+  - /url: https://tanpopo-inn.jp/archives/743
+  - paragraph: 2026/01/08
+  - heading "あけましておめでとうございます。" [level=4]
+- link "2025/12/31 大晦日です。":
+  - /url: https://tanpopo-inn.jp/archives/739
+  - paragraph: 2025/12/31
+  - heading "大晦日です。" [level=4]
+- link "2025/09/27 おいしい山形楽しみましょう。":
+  - /url: https://tanpopo-inn.jp/archives/735
+  - paragraph: 2025/09/27
+  - heading "おいしい山形楽しみましょう。" [level=4]
+- link "2025/08/31 山形のおいしい秋":
+  - /url: https://tanpopo-inn.jp/archives/732
+  - paragraph: 2025/08/31
+  - heading "山形のおいしい秋" [level=4]
+- link "2025/08/17 お盆が終わりました。":
+  - /url: https://tanpopo-inn.jp/archives/729
+  - paragraph: 2025/08/17
+  - heading "お盆が終わりました。" [level=4]
+- link "2025/06/10 明日はダイちゃんの初七日。":
+  - /url: https://tanpopo-inn.jp/archives/725
+  - paragraph: 2025/06/10
+  - heading "明日はダイちゃんの初七日。" [level=4]
+- link "2024/12/21 米沢スキー場は今日オープンしました。":
+  - /url: https://tanpopo-inn.jp/archives/723
+  - paragraph: 2024/12/21
+  - heading "米沢スキー場は今日オープンしました。" [level=4]
+- link "2024/11/23 降雪３回目。":
+  - /url: https://tanpopo-inn.jp/archives/721
+  - paragraph: 2024/11/23
+  - heading "降雪３回目。" [level=4]
+- link "2024/10/27 秋らしくない秋。":
+  - /url: https://tanpopo-inn.jp/archives/719
+  - paragraph: 2024/10/27
+  - heading "秋らしくない秋。" [level=4]
+- link "2024/08/23 残暑お見舞い申し上げます。":
+  - /url: https://tanpopo-inn.jp/archives/717
+  - paragraph: 2024/08/23
+  - heading "残暑お見舞い申し上げます。" [level=4]
+- link "2024/08/09 立秋も過ぎて・・":
+  - /url: https://tanpopo-inn.jp/archives/715
+  - paragraph: 2024/08/09
+  - heading "立秋も過ぎて・・" [level=4]
+- link "2024/07/22 山も夏になってきました。":
+  - /url: https://tanpopo-inn.jp/archives/713
+  - paragraph: 2024/07/22
+  - heading "山も夏になってきました。" [level=4]
+- link "2024/05/28 まもなく６月ですね。":
+  - /url: https://tanpopo-inn.jp/archives/707
+  - paragraph: 2024/05/28
+  - heading "まもなく６月ですね。" [level=4]
+- link "2024/04/19 山も桜が咲き始めました。":
+  - /url: https://tanpopo-inn.jp/archives/703
+  - paragraph: 2024/04/19
+  - heading "山も桜が咲き始めました。" [level=4]
+- link "2024/03/26 2023～2024冬シーズン":
+  - /url: https://tanpopo-inn.jp/archives/675
+  - paragraph: 2024/03/26
+  - heading "2023～2024冬シーズン" [level=4]
+- link "2016/07/13 猫ちゃんと一緒にご宿泊できます":
+  - /url: https://tanpopo-inn.jp/archives/618
+  - paragraph: 2016/07/13
+  - heading "猫ちゃんと一緒にご宿泊できます" [level=4]
+- link "2014/07/05 夏ですよね？":
+  - /url: https://tanpopo-inn.jp/archives/592
+  - paragraph: 2014/07/05
+  - heading "夏ですよね？" [level=4]
+- link "2013/03/30 2013スキーシーズン終了です。":
+  - /url: https://tanpopo-inn.jp/archives/553
+  - paragraph: 2013/03/30
+  - heading "2013スキーシーズン終了です。" [level=4]
+- paragraph:
+  - link "» ブログをすべて見る":
+    - /url: https://tanpopo-inn.jp/blog
+- heading "タンポポ INFORMATION" [level=2]
+- heading "ご宿泊料金のご案内" [level=3]
+- paragraph:
+  - text: タンポポインでは、現在受け入れを
+  - text: 1日2～3組までとさせていただいております。
+- heading "米沢牛 ステーキコース" [level=4]
+- paragraph:
+  - text: １泊２食付き
+  - text: ￥16,200/１名（税込）
+  - superscript: ※
+- paragraph: ステーキは、ヒレまたはサーロインからお選びいただけます。
+- heading "選べる米沢牛ご堪能コース" [level=4]
+- paragraph:
+  - text: １泊２食付き
+  - text: ￥14,580/１名（税込）
+  - superscript: ※
+- paragraph:
+  - text: すき焼き、しゃぶしゃぶ、焼肉、ももステーキのいずれかからお選びいただけます。
+  - text: １泊２食付き
+- paragraph:
+  - text: ※お子様料金について
+  - text: 小学生は大人料金の80％
+  - text: 園児（就学前児童）は大人料金の50％
+  - text: ０～３歳未満は大人料金の20％
+- heading "料金改定のお知らせ" [level=5]
+- paragraph:
+  - text: このたび、
+  - strong: 2026年5月1日より
+  - text: 宿泊料金を改定させていただきます。
+- list:
+  - text: 米沢牛 ステーキコース（１泊２食付き）：
+  - text: 16,200円 → 17,080円/１名（税込）
+  - text: 選べる米沢牛ご堪能コース（１泊２食付き）：
+  - text: 14,580円 → 15,400円/１名（税込）
+- paragraph: また、冬期間は以下の料金を頂戴しております。
+- list:
+  - listitem: 暖房費：700円
+- paragraph:
+  - link:
+    - /url: http://tanpopo-inn.jp/goodpoint
+- paragraph:
+  - link "» 12のポイントの詳細を読む":
+    - /url: http://tanpopo-inn.jp/goodpoint
+- heading "お客様の声" [level=2]
+- table:
+  - rowgroup:
+    - row "2012年5月21日のお客様の声 犬三匹共に宿泊できて良かったです。 階段が急なので膝にキツイです。 急な宿泊に対応してくださり、ありがとうございます。 2012年5月21日":
+      - cell "2012年5月21日のお客様の声":
+        - link "2012年5月21日のお客様の声":
+          - /url: http://tanpopo-inn.jp/archives/431
+          - img "2012年5月21日のお客様の声"
+      - cell "犬三匹共に宿泊できて良かったです。 階段が急なので膝にキツイです。 急な宿泊に対応してくださり、ありがとうございます。 2012年5月21日":
+        - paragraph:
+          - text: 犬三匹共に宿泊できて良かったです。
+          - text: 階段が急なので膝にキツイです。
+          - text: 急な宿泊に対応してくださり、ありがとうございます。
+        - paragraph: 2012年5月21日
+    - row "» 続きを読む":
+      - cell "» 続きを読む":
+        - link "» 続きを読む":
+          - /url: http://tanpopo-inn.jp/archives/431
+- table:
+  - rowgroup:
+    - row "2012年5月5日のお客様の声 ありがとうございました。 犬も大変よろこんでいました。 又、きたいホテルです。 2012年5月5日":
+      - cell "2012年5月5日のお客様の声":
+        - link "2012年5月5日のお客様の声":
+          - /url: http://tanpopo-inn.jp/archives/420
+          - img "2012年5月5日のお客様の声"
+      - cell "ありがとうございました。 犬も大変よろこんでいました。 又、きたいホテルです。 2012年5月5日":
+        - paragraph:
+          - text: ありがとうございました。
+          - text: 犬も大変よろこんでいました。
+          - text: 又、きたいホテルです。
+        - paragraph: 2012年5月5日
+    - row "» 続きを読む":
+      - cell "» 続きを読む":
+        - link "» 続きを読む":
+          - /url: http://tanpopo-inn.jp/archives/420
+- table:
+  - rowgroup:
+    - row "2012年5月3日のお客様の声 雨でドッグランで遊ばせなかったのが、心残りです。次回、また来ますので、よろしくお願いします。 オーナーさん（お母さん）がとても気さくでやさしい方だったので楽しかったです。 又、ぜひ来たいと思っていますので、その時はどうぞよろしくお願い致します。 ☆ステーキサイコーでした！米沢牛...スゴイ 2012年5月3日":
+      - cell "2012年5月3日のお客様の声":
+        - link "2012年5月3日のお客様の声":
+          - /url: http://tanpopo-inn.jp/archives/416
+          - img "2012年5月3日のお客様の声"
+      - cell "雨でドッグランで遊ばせなかったのが、心残りです。次回、また来ますので、よろしくお願いします。 オーナーさん（お母さん）がとても気さくでやさしい方だったので楽しかったです。 又、ぜひ来たいと思っていますので、その時はどうぞよろしくお願い致します。 ☆ステーキサイコーでした！米沢牛...スゴイ 2012年5月3日":
+        - paragraph: 雨でドッグランで遊ばせなかったのが、心残りです。次回、また来ますので、よろしくお願いします。
+        - paragraph:
+          - text: オーナーさん（お母さん）がとても気さくでやさしい方だったので楽しかったです。
+          - text: 又、ぜひ来たいと思っていますので、その時はどうぞよろしくお願い致します。
+        - paragraph: ☆ステーキサイコーでした！米沢牛...スゴイ
+        - paragraph: 2012年5月3日
+    - row "» 続きを読む":
+      - cell "» 続きを読む":
+        - link "» 続きを読む":
+          - /url: http://tanpopo-inn.jp/archives/416
+- paragraph:
+  - link "お問い合わせはコチラをクリック":
+    - /url: http://tanpopo-inn.jp/otoiawase
+    - img "お問い合わせはコチラをクリック"
+- list:
+  - link "よくある質問":
+    - /url: http://tanpopo-inn.jp/qa
+    - img "よくある質問"
+  - link "オススメスポット":
+    - /url: http://tanpopo-inn.jp/spot
+    - img "オススメスポット"
+  - link "ギャラリー":
+    - /url: http://tanpopo-inn.jp/gallery
+    - img "ギャラリー"
+  - link "公式Facebook":
+    - /url: https://www.facebook.com/tanpopoinn
+    - img "公式Facebook"
+- paragraph:
+  - link "米沢スキー場":
+    - /url: http://www.yonezawa-ski.co.jp/
+    - img "米沢スキー場"
+- heading "客室・施設概要" [level=3]
+- list:
+  - listitem: 和室：５部屋
+  - listitem: ツイン：１部屋
+  - listitem: スキーヤーズルーム：２部屋
+- list:
+  - text: 学習室（兼音楽室）
+  - text: グランドピアノあり
+  - listitem: 浴室(16:00～23:00)
+  - text: ペット専用バス
+  - text: ユニットバス
+  - listitem: エアコン完備
+  - listitem: レンタルゲージ有り（無料）
+  - listitem: ドッグラン有り
+  - listitem: 全館WiFiフリースポット対応
+- heading "お支払い" [level=3]
+- list:
+  - listitem: チェックアウト時に現金での現地決済になります。
+  - listitem: クレジットカード払い不可
+  - text: キャンセル料金
+  - text: 当日キャンセル：宿泊料金の１００％
+  - text: 連絡なしの不泊：宿泊料金の１００％
+- heading "宿泊概要・料金" [level=3]
+- list:
+  - text: チェックイン
+  - text: 15:00～
+  - text: チェックアウト
+  - text: 10:00
+- list:
+  - text: 宿泊料金（1泊2食付）
+  - link "詳しくはこちら":
+    - /url: https://tanpopo-inn.jp#info
+  - text: をご覧ください
+  - listitem: ペット料金（１泊１匹・税込）
+- table:
+  - rowgroup:
+    - row "大型犬 2,200円":
+      - cell "大型犬"
+      - cell "2,200円"
+    - row "中型犬 1,650円":
+      - cell "中型犬"
+      - cell "1,650円"
+    - row "小型犬・猫 1,100円":
+      - cell "小型犬・猫"
+      - cell "1,100円"
+- link:
+  - /url: "#top"
+- paragraph:
+- paragraph:
+  - img "イブとララ"
+- iframe
+- paragraph:
+  - img "TANPOPO-iNN タンポポイン"
+- paragraph: タンポポイン
+- text: 〒992-1121
+- text: 山形県米沢市万世町刈安 24156-82
+- text: ■TEL
+- text: 0238-28-2631(FAX共通)
+- text: ■Mail
+- text: owa
+- text: tanpopo-inn.jp
+- list:
+  - link "トップページ":
+    - /url: https://tanpopo-inn.jp
+  - link "タンポポ INFORMATION":
+    - /url: https://tanpopo-inn.jp/information
+  - link "お問い合わせ":
+    - /url: https://tanpopo-inn.jp/otoiawase
+  - link "キャンペーンのお知らせ":
+    - /url: https://tanpopo-inn.jp/%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b
+  - link "ブログ":
+    - /url: https://tanpopo-inn.jp/blog
+  - link "初めての方へ 「タンポポイン12のポイント」":
+    - /url: https://tanpopo-inn.jp/goodpoint
+  - link "猫と一緒に泊まれます":
+    - /url: https://tanpopo-inn.jp/%e7%8c%ab%e3%81%a8%e4%b8%80%e7%b7%92%e3%81%ab%e6%b3%8a%e3%81%be%e3%82%8c%e3%81%be%e3%81%99
+  - link "よくある質問":
+    - /url: https://tanpopo-inn.jp/qa
+  - link "オススメスポット":
+    - /url: https://tanpopo-inn.jp/spot
+  - link "ギャラリー":
+    - /url: https://tanpopo-inn.jp/gallery
+  - link "タンポポインとは？":
+    - /url: https://tanpopo-inn.jp/what
+  - link "ドッグラン":
+    - /url: https://tanpopo-inn.jp/pet
+  - link "交通アクセス":
+    - /url: https://tanpopo-inn.jp/access
+  - link "部屋・館内":
+    - /url: https://tanpopo-inn.jp/ryouri-heya
+  - link "米沢牛を使ったお料理":
+    - /url: https://tanpopo-inn.jp/ryouri
+  - link "English":
+    - /url: https://tanpopo-inn.jp/english
+  - link "Chinese":
+    - /url: https://tanpopo-inn.jp/chinese
+  - link "お客様の声":
+    - /url: https://tanpopo-inn.jp/archives/category/voice
+- paragraph: Copyrights(C)2010-2026 タンポポイン.All Rights Reserved.
+- generic: mobile

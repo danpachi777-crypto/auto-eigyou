@@ -1,0 +1,32 @@
+{
+  "company": "タンポポイン",
+  "email": "owa@tanpopo-inn.jp",
+  "website_url": "https://tanpopo-inn.jp/",
+  "status": "research_in_progress",
+  "maps": {
+    "rating": 4.3,
+    "review_count": 19,
+    "identity": "住所24156-82・電話0238282631・公式ドメイン一致"
+  },
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0
+  },
+  "discovery_source": "https://www.yonezawa-ski.co.jp/kirakira.html",
+  "pages_checked": {
+    "home": "https://tanpopo-inn.jp/",
+    "service": "https://tanpopo-inn.jp/ryouri-heya",
+    "contact": "https://tanpopo-inn.jp/otoiawase"
+  },
+  "observations": [
+    "390pxでscrollWidth1000。問い合わせ本文と入力欄が右側に切れる。1280px表示では全体が読める。6枚保存して目視確認。",
+    "フォームは電話必須、一般公開メールは別にフッター掲載。メールの@画像の視覚確認は次に実施。営業拒否は閲覧範囲で未検出。"
+  ],
+  "remaining": [
+    "公開メール@画像の確認",
+    "同業2サイト比較",
+    "画像2点生成・検査",
+    "本文作成・送信・SENT確認"
+  ],
+  "viewport_restored": true
+}
