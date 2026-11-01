@@ -1,0 +1,73 @@
+- link "本文へスキップ":
+  - /url: "#hpb-title"
+- heading "椅子（いす）、ダイニングチェア（食堂椅子）、ソファーの張り替え、修理に関することは椅子の張替え ツツミ工芸にご相談ください。" [level=1]
+- link "東京都日野市 椅子の張替え・修理 ツツミ工芸":
+  - /url: index.html
+- paragraph: 電話でのお問い合わせはTEL.042-587-0774
+- paragraph: 〒191-0024 東京都日野市万願寺6-40-17
+- heading "お問い合わせ" [level=2]
+- heading "お電話でのお問い合わせの場合" [level=3]
+- term:
+  - generic: お電話
+- definition:
+  - text: TEL
+  - generic: 042-587-0774
+  - text: （平日・土曜日08:30～17:30）
+- definition: まずはお電話で椅子の張替え・修理についてご相談、ご質問などお伝えください。ご相談、ご質問、お見積もりは無料です。
+- heading "メールでのお問い合わせの場合" [level=3]
+- term:
+  - generic: メール
+- definition:
+  - link "tsutsumikougei@yahoo.co.jp":
+    - /url: mailto:tsutsumikougei@yahoo.co.jp
+- definition: 椅子の種類、数量、サイズ（幅×奥行き×高さ）、新しく張替える生地の素材、使用年数を書いて椅子の写真（前面、側面、背面）を添付して送信してください。
+- separator
+- link "このページの先頭へ":
+  - /url: "#hpb-container"
+- heading "ナビゲーション" [level=3]
+- list:
+  - link "トップページ":
+    - /url: index.html
+    - generic: トップページ
+  - link "業務内容":
+    - /url: occupation.html
+    - generic: 業務内容
+  - link "張替え価格につきまて":
+    - /url: price.html
+    - generic: 張替え価格につきまて
+  - link "椅子張生地見本（サンプル）":
+    - /url: material.html
+    - generic: 椅子張生地見本（サンプル）
+  - link "張替え施工例":
+    - /url: example.html
+    - generic: 張替え施工例
+  - link "ご依頼の流れ":
+    - /url: flow.html
+    - generic: ご依頼の流れ
+  - link "お問い合わせ":
+    - /url: contactus.html
+    - generic: お問い合わせ
+  - link "会社案内":
+    - /url: company.html
+    - generic: 会社案内
+- heading "バナースペース" [level=3]
+- list:
+  - link "アクセスマップ":
+    - /url: access.html
+  - link "サイトマップ":
+    - /url: sitemap.html
+  - link "椅子の張替えにつきまして":
+    - /url: index.html#repapering
+  - link "お見積り無料":
+    - /url: index.html#estimate
+- heading "ツツミ工芸" [level=4]
+- paragraph:
+  - text: 〒191-0024
+  - text: 東京都日野市万願寺6-40-17
+  - text: TEL.042-587-0774
+  - text: FAX.042-587-0774
+- heading "サブナビゲーション" [level=3]
+- list:
+  - link "プライバシーポリシー":
+    - /url: privacy.html
+- paragraph: copyright©2006－2015 ツツミ工芸 all rights reserved.

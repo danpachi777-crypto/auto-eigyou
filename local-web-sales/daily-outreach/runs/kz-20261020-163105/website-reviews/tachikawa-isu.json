@@ -1,0 +1,16 @@
+{
+  "company": "立川椅子工芸",
+  "website_url": "http://www.tachikawa-isu.com/",
+  "email": "info@tachikawa-isu.com",
+  "checked_at": "2026-11-01T20:40:08.980Z",
+  "maps": {
+    "rating": 5,
+    "review_count": 4,
+    "url": "https://www.google.com/maps/search/立川椅子工芸",
+    "identity": "公式URL・柴崎町6-7-21・0425210676一致"
+  },
+  "priority": "hold",
+  "status": "hold_maps_review_count",
+  "reason": "Google Maps口コミ4件のため10件以上の条件を満たさない。送信しない。",
+  "duplicate_check": "Gmail anywhere・台帳・失敗一覧一致なし"
+}

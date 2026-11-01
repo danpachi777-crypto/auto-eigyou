@@ -1,0 +1,57 @@
+{
+  "company": "ツツミ工芸",
+  "industry": "椅子張替え・家具修理",
+  "region": "東京都日野市",
+  "email": "tsutsumikougei@yahoo.co.jp",
+  "email_source": "http://www.tsutsumikougei.com/contactus.html",
+  "website_url": "http://www.tsutsumikougei.com/",
+  "discovery_source": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/024/505/20230401/202308kouhoutanpage.pdf",
+  "checked_at": "2026-11-01T20:41:47.511Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 12,
+    "url": "https://www.google.com/maps/search/ツツミ工芸",
+    "identity": "日野市万願寺6-40-17・電話0425870774・公式URL一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "http://www.tsutsumikougei.com/",
+    "http://www.tsutsumikougei.com/occupation.html",
+    "http://www.tsutsumikougei.com/contactus.html"
+  ],
+  "review_checks": [
+    "390pxで固定サイドバーと右側本文により問い合わせメール・電話案内が画面右に隠れる。1280pxでは全体が表示される。",
+    "トップの問い合わせリンクは存在し到達できる。連絡先の表示幅改善に限定。",
+    "椅子・ソファの張替え修理、住所、電話・メールを確認。",
+    "写真・ナビ・本文表示を確認。",
+    "メールと写真添付および電話の方針を維持。別のモバイル版への誘導は閲覧範囲で確認なし。",
+    "古い更新日を問題としない。営業情報の明確な矛盾は確認なし。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "http://www.tsutsumikougei.com/contactus.html",
+      "viewport_width": 390,
+      "observation": "お問い合わせページを幅390pxで表示すると、右側のメールアドレスと電話・メールの案内本文が画面外に隠れる状態",
+      "proposal": "問い合わせ案内をスマートフォンの画面幅に収め、電話とメール、写真添付の案内を縦に並べて確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/tsutsumikougei/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhere email/domain/社名0件、台帳・失敗宛先一致なし。閲覧範囲に営業拒否なし。独立した日野市広報に社名・住所・電話一致。",
+  "comparisons": [
+    {
+      "url": "https://www.riuso-upholstery.com/",
+      "note": "連絡方法別に案内をまとめる構造のみ参照。内容素材コピーなし。"
+    },
+    {
+      "url": "http://www.maekawa-chair.com/form",
+      "note": "今回ブラウザ確認した390pxで収まる問い合わせ情報配置のみ参照。独自条件は転用しない。"
+    }
+  ]
+}
