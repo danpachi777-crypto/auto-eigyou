@@ -1,0 +1,62 @@
+{
+  "company": "有限会社西川写真",
+  "industry": "写真館",
+  "region": "高知県高知市",
+  "email": "mail@24kawa.jp",
+  "email_source": "https://www.24kawa.jp/about/ メール表示リンクを開いて確認",
+  "website_url": "https://www.24kawa.jp/",
+  "discovery_source": "https://www.shashinkan.com/photo_studio/kochi/",
+  "checked_at": "2026-11-01T21:51:54.323Z",
+  "maps": {
+    "rating": 4.7,
+    "review_count": 17,
+    "url": "https://www.google.com/maps/search/?api=1&query=西川写真%20高知",
+    "identity": "公式URL、知寄町2-3-3、0888830750一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.24kawa.jp/",
+    "https://www.24kawa.jp/individual/index.html",
+    "https://www.24kawa.jp/about/"
+  ],
+  "review_checks": [
+    "トップ・個人写真・店舗案内を390px/1280pxで確認。スマホメニュー、電話LINE固定ボタンあり。",
+    "公式店舗案内で一般メールを表示確認。電話とLINE経路あり。送信や発信はしていない。",
+    "撮影種類・所在地・駐車場・営業時間確認。",
+    "主要画像・案内表示確認。地図初回遅延は不具合としない。",
+    "サービスから連絡案内に移れる。",
+    "店舗概要〒781-0806、同ページフッター〒780-0806と不一致。日本郵便の現行表示781-0806を照合。古いニュース自体は改善点としない。"
+  ],
+  "findings": [
+    {
+      "category": "business_information",
+      "url": "https://www.24kawa.jp/about/",
+      "viewport_width": 390,
+      "observation": "店舗案内の所在地欄には「〒781-0806」、同じページ下部には「〒780-0806」と記載されており、同じ住所の郵便番号が一致していない状態",
+      "proposal": "店舗案内・トップ画面・問い合わせ案内で住所情報を共通化し、郵便番号を含む所在地表記を統一する",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/24kawa/contact-dom.txt"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・ドメイン・名称0件。台帳・失敗一覧・レビュー一致なし。閲覧範囲で営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://photo-saito.jp/contact",
+      "note": "電話と問い合わせ案内の分け方のみ参考。素材文言コピーなし。"
+    },
+    {
+      "url": "https://www.wadacamera.com/",
+      "note": "撮影種類と問い合わせ案内の構造のみ参考。素材文言コピーなし。"
+    }
+  ],
+  "postal_verification": {
+    "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?city=1401010&id=141470&pref=40",
+    "current": "781-0806",
+    "note": "日本郵便の知寄町結果とMapsおよび公式本文が一致。"
+  }
+}

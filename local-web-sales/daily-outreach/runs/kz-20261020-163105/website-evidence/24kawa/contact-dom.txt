@@ -1,0 +1,125 @@
+- banner:
+  - heading "高知の写真館・西川写真の店舗案内・会社概要です。" [level=1]
+  - heading "ご予約・お問い合わせはお気軽に。TEL:088-883-0750" [level=2]:
+    - link "ご予約・お問い合わせはお気軽に。TEL:088-883-0750":
+      - /url: /
+      - img "ご予約・お問い合わせはお気軽に。TEL:088-883-0750"
+  - img "お問い合わせ"
+  - link:
+    - /url: https://liff.line.me/1645278921-kWRPP32q/?accountId=631bxnxx
+  - navigation:
+    - list:
+      - link "記念写真・家族写真":
+        - /url: /anniversary/index.html
+        - paragraph: 記念写真・家族写真
+      - link "個人写真":
+        - /url: /individual/index.html
+        - paragraph: 個人写真
+      - link "RE:Memory":
+        - /url: /rememory/index.html
+        - paragraph: RE:Memory
+      - link "団体・企業写真":
+        - /url: /corporate/index.html
+        - paragraph: 団体・企業写真
+      - link "プリントメニュー 料金":
+        - /url: /menu/index.html
+        - paragraph:
+          - text: プリントメニュー
+          - text: 料金
+      - link "店舗案内":
+        - /url: /about/index.html
+        - paragraph: 店舗案内
+- main:
+  - article:
+    - list:
+      - text: 
+      - link "トップ":
+        - /url: /index.html
+      - listitem: 店舗案内
+    - heading "店舗案内" [level=1]
+    - paragraph: とさでん交通 電車「知寄町一丁目」と「知寄町二丁目」の間、通り沿い、ちょうど「ちより町テラス」の向かいにスタジオがございます。大きな展示ウインドが目印です。昭和38年（1963年）の創業時の趣ある、デコラティブな装飾を施した店舗内の壁面や階段がちょっとした自慢です。落ち着いた雰囲気の中、和やかな撮影時間を提供させていただきたいと思います。
+    - heading "アクセスマップ" [level=2]
+    - paragraph:
+      - text: 専用駐車場がございますのでお気軽にお車でお越しください。
+      - text: 途中でわからない場合は、誘導いたしますのでお電話くださいませ。
+    - iframe
+    - heading "店舗概要" [level=2]
+    - table:
+      - rowgroup:
+        - row "屋号 有限会社西川写真":
+          - rowheader "屋号"
+          - cell "有限会社西川写真"
+        - row "所在地 〒781-0806 高知県高知市知寄町2丁目3-3":
+          - rowheader "所在地"
+          - cell "〒781-0806 高知県高知市知寄町2丁目3-3":
+            - text: 〒781-0806
+            - text: 高知県高知市知寄町2丁目3-3
+        - row "電話 088-883-0750":
+          - rowheader "電話"
+          - cell "088-883-0750"
+        - row "FAX 088-883-0130":
+          - rowheader "FAX"
+          - cell "088-883-0130"
+        - row "メールアドレス mail@24kawa.jp":
+          - rowheader "メールアドレス"
+          - cell "mail@24kawa.jp":
+            - link "mail@24kawa.jp" [active]:
+              - /url: javascript:mailto('1');
+        - row "営業時間 平日 9:00～18:00 日祝 10:00～17:00":
+          - rowheader "営業時間"
+          - cell "平日 9:00～18:00 日祝 10:00～17:00":
+            - text: 平日 9:00～18:00
+            - text: 日祝 10:00～17:00
+        - row "定休日 毎週木曜日":
+          - rowheader "定休日"
+          - cell "毎週木曜日"
+        - row "駐車場 店舗1Fと建物の東隣":
+          - rowheader "駐車場"
+          - cell "店舗1Fと建物の東隣"
+        - row "創業 昭和38年（1963年）7月":
+          - rowheader "創業"
+          - cell "昭和38年（1963年）7月"
+        - row "代表 代表取締役 西川義章":
+          - rowheader "代表"
+          - cell "代表取締役 西川義章"
+        - row "所属 日本写真館協会 日本写真文化協会 ポートレートアカデミーオブジャパン（PAJ）":
+          - rowheader "所属"
+          - cell "日本写真館協会 日本写真文化協会 ポートレートアカデミーオブジャパン（PAJ）":
+            - text: 日本写真館協会
+            - text: 日本写真文化協会
+            - text: ポートレートアカデミーオブジャパン（PAJ）
+    - heading "代表挨拶" [level=2]
+    - paragraph:
+      - text: 「写真の心と技で、文化に貢献します。」
+      - text: 当社は、昭和38年1963年に現在の地で開業しました。まだ電車軌道と１車線づつの土埃の舞う場末の国道沿いでした。証明写真、記念写真と白黒写真の現像引き伸ばしが主な仕事で、初代夫婦二人のパパママショップでした。徐々に学校写真、広告宣伝用写真、結婚式の写真と少しずつ規模を拡張してゆき、昭和61年1986年に法人化、現在は２代目の私が代表を努めています。
+      - text: 創業当時から写真館の業務を中心にコマーシャル分野や建築、ドローン空撮など撮影でお役に立てることは何でもこなせる、地域の撮影専門店として営業を続けています。
+    - paragraph:
+      - text: 代表取締役
+      - text: 西川義章
+    - img "ご予約・お問い合わせは お気軽に"
+    - paragraph:
+      - text: お電話はこちらから
+      - text: 088-883-0750
+    - link:
+      - /url: javascript:mailto('2');
+    - paragraph: メールはこちらから
+- contentinfo:
+  - link "高知の写真館 - 有限会社西川写真":
+    - /url: /
+    - img "高知の写真館 - 有限会社西川写真"
+  - paragraph:
+    - text: 〒780-0806 高知県高知市知寄町2丁目3-3
+    - text: 電話：088-883-0750
+    - text: メール：
+    - link "（クリックするとメールを表示します）":
+      - /url: "#"
+    - text: 営業時間：平日…9:00～18:00 日祝…10:00～17:00
+    - text: 定休日：毎週木曜日
+    - text: 駐車：専用駐車場あり
+- text: Copyright ©
+- link "有限会社 西川写真":
+  - /url: https://www.24kawa.jp/
+- text: All Rights Reserved.
+- paragraph:
+  - link "ページ上部へ":
+    - /url: "#pages"
