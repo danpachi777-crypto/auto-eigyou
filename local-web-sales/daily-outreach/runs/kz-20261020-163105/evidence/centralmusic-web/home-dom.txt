@@ -1,0 +1,343 @@
+- list:
+  - link "マイアカウント":
+    - /url: https://centralmusic-web.com/?mode=myaccount
+    - text: マイアカウント
+  - link "カートを見る0":
+    - /url: https://centralmusic-web.com/cart/proxy/basket?shop_id=PA01276381&shop_domain=centralmusic-web.com
+    - text: カートを見る0
+- combobox:
+  - option "全ての商品から" [selected]
+  - option "USED・VINTAGE"
+  - option "Electric Guitar"
+  - option "Acoustic Guitar"
+  - option "Bass"
+  - option "Classic Guitar"
+  - option "Amplifier"
+  - option "Effector"
+  - option "Pickup"
+  - option "Replacement Parts"
+  - option "Guitar accessory"
+  - option "Drum"
+  - option "Percussion"
+  - option "Digital Equipment/DJ"
+  - option "Synthesizer/Keyboard"
+  - option "Digital Piano"
+  - option "DTM/DAW"
+  - option "PA/Recording"
+  - option "Headphone・earphone"
+  - option "Other/Option"
+  - option "Books・CD・DVD"
+  - option "Harmonica"
+  - option "Ukulele"
+  - option "管楽器"
+  - option "その他弦楽器"
+  - option "その他鍵盤楽器"
+  - option "和楽器・その他民族楽器"
+- textbox
+- button "検索"
+- heading "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ" [level=1]:
+  - link "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ":
+    - /url: https://centralmusic-web.com/
+    - img "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ"
+- heading "CENTRAL MUSIC" [level=2]
+- heading "音楽を愛する全ての人達の為に" [level=4]
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- img "CENTRAL MUSIC"
+- list:
+  - link "【送料無料】Tom Anderson Angel Player Black with White Dog Hair(Beautiful High Gloss Finish) エレキギター 【送料無料】Tom Anderson Angel Player Black with White Dog Hair(Beautiful High Gloss Finish) エレキギター 1,072,500円(内税)":
+    - /url: "?pid=189371844"
+    - img "【送料無料】Tom Anderson Angel Player Black with White Dog Hair(Beautiful High Gloss Finish) エレキギター"
+    - paragraph: 【送料無料】Tom Anderson Angel Player Black with White Dog Hair(Beautiful High Gloss Finish) エレキギター
+    - paragraph: 1,072,500円(内税)
+  - link "【送料無料】AST Basses and Guitars Premium Series Jupiter II 5 Strings 5A Birdseye エレキベース(5弦) 【送料無料】AST Basses and Guitars Premium Series Jupiter II 5 Strings 5A Birdseye エレキベース(5弦) 1,298,000円(内税)":
+    - /url: "?pid=190394078"
+    - img "【送料無料】AST Basses and Guitars Premium Series Jupiter II 5 Strings 5A Birdseye エレキベース(5弦)"
+    - paragraph: 【送料無料】AST Basses and Guitars Premium Series Jupiter II 5 Strings 5A Birdseye エレキベース(5弦)
+    - paragraph: 1,298,000円(内税)
+  - link "【中古】Collings I-30LC Sunburst 2023's エレキギター(フルホローボディ) 【USED】 【中古】Collings I-30LC Sunburst 2023's エレキギター(フルホローボディ) 【USED】 1,232,000円(内税)":
+    - /url: "?pid=192315225"
+    - img "【中古】Collings I-30LC Sunburst 2023's エレキギター(フルホローボディ) 【USED】"
+    - paragraph: 【中古】Collings I-30LC Sunburst 2023's エレキギター(フルホローボディ) 【USED】
+    - paragraph: 1,232,000円(内税)
+  - link "【送料無料】AST Basses and Guitars Vintage 22 Quilt Maple with MR Brown Sunburst 5 String エレキベース 【送料無料】AST Basses and Guitars Vintage 22 Quilt Maple with MR Brown Sunburst 5 String エレキベース 803,000円(内税)":
+    - /url: "?pid=181570693"
+    - img "【送料無料】AST Basses and Guitars Vintage 22 Quilt Maple with MR Brown Sunburst 5 String エレキベース"
+    - paragraph: 【送料無料】AST Basses and Guitars Vintage 22 Quilt Maple with MR Brown Sunburst 5 String エレキベース
+    - paragraph: 803,000円(内税)
+  - link "【中古】Tom Anderson Angel Quilt Maple Top / Caramel Maple Neck Alder Body エレキギター 【USED】 【中古】Tom Anderson Angel Quilt Maple Top / Caramel Maple Neck Alder Body エレキギター 【USED】 770,000円(内税)":
+    - /url: "?pid=189380892"
+    - img "【中古】Tom Anderson Angel Quilt Maple Top / Caramel Maple Neck Alder Body エレキギター 【USED】"
+    - paragraph: 【中古】Tom Anderson Angel Quilt Maple Top / Caramel Maple Neck Alder Body エレキギター 【USED】
+    - paragraph: 770,000円(内税)
+  - link "【中古】Tom Anderson Icon Classic Black over Plumb Crazy (In-Distress Level 3) エレキギター 【USED】 【中古】Tom Anderson Icon Classic Black over Plumb Crazy (In-Distress Level 3) エレキギター 【USED】 880,000円(内税)":
+    - /url: "?pid=189151835"
+    - img "【中古】Tom Anderson Icon Classic Black over Plumb Crazy (In-Distress Level 3) エレキギター 【USED】"
+    - paragraph: 【中古】Tom Anderson Icon Classic Black over Plumb Crazy (In-Distress Level 3) エレキギター 【USED】
+    - paragraph: 880,000円(内税)
+- text: 当店はギター、ベース、アンプ、エフェクターの新品・中古・ビンテージを中心にラインナップ。
+- text: 難易度の高い楽器の修理、リペアから弦の交換まで幅広いメンテナンスに対応しております。
+- text: 音作りに関しましてもプロフェッショナルなスタッフにお任せ下さい。ご希望に添える環境が整っております。
+- text: 楽器の買取り委託販売も地域No.1を目指しており、高価買取中です。
+- text: 是非一度セントラルミュージックにお立ち寄り下さい。
+- heading "営業日カレンダー" [level=2]
+- paragraph: 定休日
+- table "2026年11月":
+  - caption: 2026年11月
+  - rowgroup:
+    - row "日 月 火 水 木 金 土":
+      - columnheader "日"
+      - columnheader "月"
+      - columnheader "火"
+      - columnheader "水"
+      - columnheader "木"
+      - columnheader "金"
+      - columnheader "土"
+    - row "1 2 3 4 5 6 7":
+      - cell "1"
+      - cell "2"
+      - cell "3"
+      - cell "4"
+      - cell "5"
+      - cell "6"
+      - cell "7"
+    - row "8 9 10 11 12 13 14":
+      - cell "8"
+      - cell "9"
+      - cell "10"
+      - cell "11"
+      - cell "12"
+      - cell "13"
+      - cell "14"
+    - row "15 16 17 18 19 20 21":
+      - cell "15"
+      - cell "16"
+      - cell "17"
+      - cell "18"
+      - cell "19"
+      - cell "20"
+      - cell "21"
+    - row "22 23 24 25 26 27 28":
+      - cell "22"
+      - cell "23"
+      - cell "24"
+      - cell "25"
+      - cell "26"
+      - cell "27"
+      - cell "28"
+    - row "29 30":
+      - cell "29"
+      - cell "30"
+      - cell
+      - cell
+      - cell
+      - cell
+      - cell
+- table "2026年12月":
+  - caption: 2026年12月
+  - rowgroup:
+    - row "日 月 火 水 木 金 土":
+      - columnheader "日"
+      - columnheader "月"
+      - columnheader "火"
+      - columnheader "水"
+      - columnheader "木"
+      - columnheader "金"
+      - columnheader "土"
+    - row "1 2 3 4 5":
+      - cell
+      - cell
+      - cell "1"
+      - cell "2"
+      - cell "3"
+      - cell "4"
+      - cell "5"
+    - row "6 7 8 9 10 11 12":
+      - cell "6"
+      - cell "7"
+      - cell "8"
+      - cell "9"
+      - cell "10"
+      - cell "11"
+      - cell "12"
+    - row "13 14 15 16 17 18 19":
+      - cell "13"
+      - cell "14"
+      - cell "15"
+      - cell "16"
+      - cell "17"
+      - cell "18"
+      - cell "19"
+    - row "20 21 22 23 24 25 26":
+      - cell "20"
+      - cell "21"
+      - cell "22"
+      - cell "23"
+      - cell "24"
+      - cell "25"
+      - cell "26"
+    - row "27 28 29 30 31":
+      - cell "27"
+      - cell "28"
+      - cell "29"
+      - cell "30"
+      - cell "31"
+      - cell
+      - cell
+- generic: ※日曜日/第三水曜日は定休日となっております。 【営業時間】12:00－18:00
+- list:
+  - link "COMPANY 会社概要":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f3
+    - text: COMPANY
+    - generic: 会社概要
+  - link "REPAIR リペアメニュー":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f2
+    - text: REPAIR
+    - generic: リペアメニュー
+  - link "BLOG スタッフブログ":
+    - /url: http://ameblo.jp/centralmusic/
+    - text: BLOG
+    - generic: スタッフブログ
+  - link "CONTACT お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+    - text: CONTACT
+    - generic: お問い合わせ
+  - link "USED・VINTAGE ユーズド・ビンテージ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727428&csid=0&sort=n
+    - text: USED・VINTAGE
+    - generic: ユーズド・ビンテージ
+  - link "Electric Guitar エレクトリックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1723962&csid=0&sort=n
+    - text: Electric Guitar
+    - generic: エレクトリックギター
+  - link "Acoustic Guitar アコースティックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727420&csid=0&sort=n
+    - text: Acoustic Guitar
+    - generic: アコースティックギター
+  - link "Bass ベース":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727421&csid=0&sort=n
+    - text: Bass
+    - generic: ベース
+  - link "Classic Guitar クラシックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727422&csid=0&sort=n
+    - text: Classic Guitar
+    - generic: クラシックギター
+  - link "Amplifier アンプ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727423&csid=0&sort=n
+    - text: Amplifier
+    - generic: アンプ
+  - link "Effector エフェクター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727424&csid=0&sort=n
+    - text: Effector
+    - generic: エフェクター
+  - link "Harmonica ハーモニカ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=2058015&csid=0
+    - text: Harmonica
+    - generic: ハーモニカ
+  - link "Pickup ピックアップ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727425&csid=0&sort=n
+    - text: Pickup
+    - generic: ピックアップ
+  - link "Replacement Parts 交換部品":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727426&csid=0&sort=n
+    - text: Replacement Parts
+    - generic: 交換部品
+  - link "Guitar accessory ギター用アクセサリー":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727427&csid=0&sort=n
+    - text: Guitar accessory
+    - generic: ギター用アクセサリー
+  - link "Drum ドラム":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814614&csid=0&sort=n
+    - text: Drum
+    - generic: ドラム
+  - link "Percussion パーカッション":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814615&csid=0&sort=n
+    - text: Percussion
+    - generic: パーカッション
+  - link "Digital Equipment/DJ デジタルDJ機材":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814616&csid=0&sort=n
+    - text: Digital Equipment/DJ
+    - generic: デジタルDJ機材
+  - link "Synthesizer/Keyboard シンセサイザー/キーボード":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814617&csid=0&sort=n
+    - text: Synthesizer/Keyboard
+    - generic: シンセサイザー/キーボード
+  - link "Digital Piano 電子ピアノ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814618&csid=0&sort=n
+    - text: Digital Piano
+    - generic: 電子ピアノ
+  - link "DTM/DAW DTM・DAW":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814620&csid=0&sort=n
+    - text: DTM/DAW
+    - generic: DTM・DAW
+  - link "PA/Recording PA機器 ／レコーディング":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814623&csid=0&sort=n
+    - text: PA/Recording
+    - generic: PA機器 ／レコーディング
+  - link "Headphone・earphone ヘッドホン・イヤホン":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814626&csid=0&sort=n
+    - text: Headphone・earphone
+    - generic: ヘッドホン・イヤホン
+  - link "Other/Option その他／オプション":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814627&csid=0&sort=n
+    - text: Other/Option
+    - generic: その他／オプション
+  - link "Books・CD・DVD 本・CD・DVD":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814629&csid=0&sort=n
+    - text: Books・CD・DVD
+    - generic: 本・CD・DVD
+- list:
+  - link "ホーム":
+    - /url: http://centralmusic-web.com/
+  - link "マイアカウント":
+    - /url: https://centralmusic-web.com/?mode=myaccount
+  - link "お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+  - link "プライバシーポリシー":
+    - /url: https://centralmusic-web.com/?mode=privacy
+  - link "お支払い方法について":
+    - /url: https://centralmusic-web.com/?mode=sk#payment
+  - link "配送方法・送料について":
+    - /url: https://centralmusic-web.com/?mode=sk#delivery
+  - link "特定商取引法に基づく表記":
+    - /url: https://centralmusic-web.com/?mode=sk
+  - link "RSS":
+    - /url: https://centralmusic-web.com/?mode=rss
+  - text: /
+  - link "ATOM":
+    - /url: https://centralmusic-web.com/?mode=atom
+- list:
+  - link "会社概要":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f3
+  - link "リペアメニュー":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f2
+  - link "スタッフブログ":
+    - /url: http://ameblo.jp/centralmusic/
+  - link "お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+  - link "ウェブストア":
+    - /url: https://centralmusic-web.com/
+- link "セントラルミュージック楽天市場店":
+  - /url: http://www.rakuten.co.jp/centralmusic/
+  - img "セントラルミュージック楽天市場店"
+- link:
+  - /url: http://www.digimart.net/shop/4961/
+- link "セントラルミュージック Yahoo!Shop":
+  - /url: https://store.shopping.yahoo.co.jp/centralmusicshop/
+  - img "セントラルミュージック Yahoo!Shop"
+- link:
+  - /url: https://facebook.com/Centralmusic
+- link:
+  - /url: https://instagram.com/centralmusicweb
+- link:
+  - /url: https://twitter.com/CENTRALMUSIC_em
+- paragraph: CENTRALMUSIC〔セントラルミュージック〕
+- paragraph: 〒790-0003愛媛県松山市三番町7丁目6-15
+- paragraph: TEL/FAX:089-907-0388
+- paragraph: E-mail:info@centralmusic-web.com
+- paragraph: Copyright (C) 2014 CENTRAL MUSIC. All Rights Reserved.

@@ -1,0 +1,34 @@
+- link "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ":
+  - /url: https://centralmusic-web.com
+  - img "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ"
+- link "ショップへ戻る":
+  - /url: https://centralmusic-web.com
+- generic: お問い合わせ
+- generic: 当店に対するご意見ご感想、お問い合わせなど、こちらのフォームよりお気軽にお尋ねください。
+- table:
+  - rowgroup:
+    - row "お名前 （必須）":
+      - rowheader "お名前 （必須）"
+      - cell:
+        - textbox "お名前"
+    - row "メールアドレス （必須） ▼確認のためにもう一度入力してください。":
+      - rowheader "メールアドレス （必須）"
+      - cell "▼確認のためにもう一度入力してください。":
+        - textbox "メールアドレス"
+        - paragraph: ▼確認のためにもう一度入力してください。
+        - textbox
+    - row "お問い合わせタイトル （必須）":
+      - rowheader "お問い合わせタイトル （必須）"
+      - cell:
+        - textbox "お問い合わせタイトル"
+    - row "お問い合わせ内容 （必須）":
+      - rowheader "お問い合わせ内容 （必須）"
+      - cell:
+        - textbox "お問い合わせ内容"
+    - row "reCAPTCHA":
+      - rowheader
+      - cell "reCAPTCHA":
+        - iframe [name="a-7qh35824d9bf"]
+- button "送信" [disabled]
+- generic: Copyright (C) 2014 CENTRAL MUSIC. All Rights Reserved.
+- generic: 当サイトでは、通信情報の暗号化と実在性の証明のため、GMOグローバルサイン株式会社のSSLサーバ証明書を使用しております。 セキュアシールより、サーバ証明書の検証結果をご確認ください。

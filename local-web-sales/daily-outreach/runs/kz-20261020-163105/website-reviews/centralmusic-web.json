@@ -1,0 +1,85 @@
+{
+  "company": "CENTRALMUSIC",
+  "industry": "楽器販売・修理",
+  "region": "愛媛県松山市",
+  "email": "info@centralmusic-web.com",
+  "email_source": "https://centralmusic-web.com/?mode=f3",
+  "website_url": "https://centralmusic-web.com/",
+  "discovery_source": "https://www.digimart.net/shop/4961/",
+  "checked_at": "2026-11-01T16:46:45.076809+00:00",
+  "maps": {
+    "rating": 5.0,
+    "review_count": 20,
+    "url": "https://www.google.com/maps/search/?api=1&query=CENTRALMUSIC+松山",
+    "identity": "松山市三番町7丁目6-15・電話0899070388・公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": {
+    "home": "https://centralmusic-web.com/",
+    "service": "https://centralmusic-web.com/?tid=1&mode=f2",
+    "contact": "https://centralmusic.shop-pro.jp/customer/inquiries/new"
+  },
+  "review_checks": [
+    {
+      "item": 1,
+      "result": "390pxトップscrollWidth931。リペア本文・価格欄・問い合わせ案内と入力欄右側が画面外。1280pxでは表示。主要3ページ6枚保存目視済み。"
+    },
+    {
+      "item": 2,
+      "result": "トップに問い合わせとリペアのリンク。一般メール会社概要・フッター確認。"
+    },
+    {
+      "item": 3,
+      "result": "ギター・ベース販売と修理メンテナンス、所在地電話確認。"
+    },
+    {
+      "item": 4,
+      "result": "主要3ページ表示済み。別スマホ版リンク未検出。"
+    },
+    {
+      "item": 5,
+      "result": "既存フォームの氏名・メール確認・タイトル・内容を維持。一般メールを利用。フォーム操作・CAPTCHA操作なし。"
+    },
+    {
+      "item": 6,
+      "result": "料金は今回転載しない。営業拒否は閲覧範囲で未検出。"
+    }
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://centralmusic.shop-pro.jp/customer/inquiries/new",
+      "viewport_width": 390,
+      "observation": "ブラウザーの表示幅を390pxにして拝見すると、お問い合わせページの案内文や入力欄が画面の右側にはみ出し、そのままでは全体を確認できない状態でした。",
+      "proposal": "案内文・連絡先・入力欄を画面幅に合わせて縦に並べ、スマートフォンでも横へ移動せず問い合わせ内容を確認できるようにする",
+      "evidence_path": "evidence/centralmusic-web/contact-390.png"
+    }
+  ],
+  "priority": "high",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0,
+    "aliases_checked": [
+      "info@centralmusic-web.com",
+      "centralmusic-web.com",
+      "centralmusic.shop-pro.jp",
+      "CENTRALMUSIC",
+      "セントラルミュージック"
+    ]
+  },
+  "comparisons": [
+    {
+      "url": "https://west-msc.co.jp/",
+      "note": "楽器案内の分類を参照。文言写真等は転載しない。"
+    },
+    {
+      "url": "https://www.musicshop-toshino.com/",
+      "note": "販売修理と問い合わせ導線の構成を参照。文言写真等は転載しない。"
+    }
+  ]
+}

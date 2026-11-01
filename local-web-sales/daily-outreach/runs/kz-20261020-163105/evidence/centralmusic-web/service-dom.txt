@@ -1,0 +1,498 @@
+- list:
+  - link "マイアカウント":
+    - /url: https://centralmusic-web.com/?mode=myaccount
+    - text: マイアカウント
+  - link "カートを見る0":
+    - /url: https://centralmusic-web.com/cart/proxy/basket?shop_id=PA01276381&shop_domain=centralmusic-web.com
+    - text: カートを見る0
+- combobox:
+  - option "全ての商品から" [selected]
+  - option "USED・VINTAGE"
+  - option "Electric Guitar"
+  - option "Acoustic Guitar"
+  - option "Bass"
+  - option "Classic Guitar"
+  - option "Amplifier"
+  - option "Effector"
+  - option "Pickup"
+  - option "Replacement Parts"
+  - option "Guitar accessory"
+  - option "Drum"
+  - option "Percussion"
+  - option "Digital Equipment/DJ"
+  - option "Synthesizer/Keyboard"
+  - option "Digital Piano"
+  - option "DTM/DAW"
+  - option "PA/Recording"
+  - option "Headphone・earphone"
+  - option "Other/Option"
+  - option "Books・CD・DVD"
+  - option "Harmonica"
+  - option "Ukulele"
+  - option "管楽器"
+  - option "その他弦楽器"
+  - option "その他鍵盤楽器"
+  - option "和楽器・その他民族楽器"
+- textbox
+- button "検索"
+- heading "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ" [level=1]:
+  - link "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ":
+    - /url: https://centralmusic-web.com/
+    - img "CENTRALMUSIC〔セントラルミュージック〕愛媛・松山 エレキギター/ベース/アコースティックギター/ヴィンテージ"
+- heading "CENTRAL MUSIC" [level=2]
+- heading "音楽を愛する全ての人達の為に" [level=4]
+- img "リペア"
+- list:
+  - link "〔弦交換〕":
+    - /url: "#string_rep"
+  - link "〔ネック調整〕":
+    - /url: "#neck_align"
+  - link "〔ナット〕":
+    - /url: "#nut"
+  - link "〔フレット〕":
+    - /url: "#fret"
+  - link "〔サドル〕":
+    - /url: "#saddle"
+  - link "〔ブリッジ・ペグ〕":
+    - /url: "#bridge"
+  - link "〔ストラップピン〕":
+    - /url: "#strap"
+  - link "〔クリーニング〕":
+    - /url: "#clean"
+  - link "〔ピックガード〕":
+    - /url: "#pick_guard"
+  - link "〔パッシブ・タイプ〕":
+    - /url: "#passive_type"
+  - link "〔アクティブ・タイプ〕":
+    - /url: "#active_type"
+  - link "〔ジャック〕":
+    - /url: "#jack"
+  - link "〔ポット、セレクター他〕":
+    - /url: "#"
+  - link "〔ケーブル作成〕":
+    - /url: "#cable_edit"
+  - link "〔エフェクトボード制作・組み込み〕":
+    - /url: "#effect_edit"
+- table "弦交換":
+  - caption: 弦交換
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "エレキギター・エレキベース 1,100円":
+      - cell "エレキギター・エレキベース"
+      - cell "1,100円"
+    - row "エレキギター(フロイドローズ・タイプ) 2,200円":
+      - cell "エレキギター(フロイドローズ・タイプ)"
+      - cell "2,200円"
+    - row "アコースティックギター 1,100円":
+      - cell "アコースティックギター"
+      - cell "1,100円"
+    - row "クラシックギター 2,200円":
+      - cell "クラシックギター"
+      - cell "2,200円"
+    - row "ウクレレ 1,100円":
+      - cell "ウクレレ"
+      - cell "1,100円"
+    - row "※弦のメーカー、ゲージをご指定ください。（弦代は別途必要となります。）":
+      - cell "※弦のメーカー、ゲージをご指定ください。（弦代は別途必要となります。）"
+    - row "オクターブ調整 3,300円":
+      - cell "オクターブ調整"
+      - cell "3,300円"
+    - row "BFTシステム 29,700円":
+      - cell "BFTシステム"
+      - cell "29,700円"
+- table "ネック調整":
+  - caption: ネック調整
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "トラスロッド調整 3,300円":
+      - cell "トラスロッド調整"
+      - cell "3,300円"
+    - row "アイロン修正 15,400円～":
+      - cell "アイロン修正"
+      - cell "15,400円～"
+    - row "ネック折れ接着(補強無し) 38,500円～":
+      - cell "ネック折れ接着(補強無し)"
+      - cell "38,500円～"
+    - row "ネック折れ接着(補強有り) 49,500円～":
+      - cell "ネック折れ接着(補強有り)"
+      - cell "49,500円～"
+    - row "全体調整(弦交換、オクターブ調整、トラスロッド調整) 8,800円～":
+      - cell "全体調整(弦交換、オクターブ調整、トラスロッド調整)"
+      - cell "8,800円～"
+    - row "※上記修理につきましては、弦交換が必要な場合、弦代が別途必要となります。":
+      - cell "※上記修理につきましては、弦交換が必要な場合、弦代が別途必要となります。"
+- table "ナット":
+  - caption: ナット
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ナット溝調整 3,300円":
+      - cell "ナット溝調整"
+      - cell "3,300円"
+    - row "ナット交換 8,800円":
+      - cell "ナット交換"
+      - cell "8,800円"
+- table "フレット":
+  - caption: フレット
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "フレット交換 44,000円～":
+      - cell "フレット交換"
+      - cell "44,000円～"
+    - row "フレットすりあわせ 16,500円～":
+      - cell "フレットすりあわせ"
+      - cell "16,500円～"
+    - row "フレット付け足し 38,500円～":
+      - cell "フレット付け足し"
+      - cell "38,500円～"
+- table "サドル":
+  - caption: サドル
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "エレキギターサドル交換 5,500円":
+      - cell "エレキギターサドル交換"
+      - cell "5,500円"
+    - row "アコースティックギターサドル交換 8,800円":
+      - cell "アコースティックギターサドル交換"
+      - cell "8,800円"
+    - row "サドル調整 4,400円":
+      - cell "サドル調整"
+      - cell "4,400円"
+- table "ブリッジ・ペグ":
+  - caption: ブリッジ・ペグ
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ブリッジ取り付け(同規格) 3,300円":
+      - cell "ブリッジ取り付け(同規格)"
+      - cell "3,300円"
+    - row "ブリッジ取り付け(加工要) 5,500円～":
+      - cell "ブリッジ取り付け(加工要)"
+      - cell "5,500円～"
+    - row "ペグ交換(同規格) 3,300円～":
+      - cell "ペグ交換(同規格)"
+      - cell "3,300円～"
+    - row "ペグ交換(加工要) 6,600円～":
+      - cell "ペグ交換(加工要)"
+      - cell "6,600円～"
+    - row "テンションピン取り付け 2,200円":
+      - cell "テンションピン取り付け"
+      - cell "2,200円"
+- table "ストラップピン":
+  - caption: ストラップピン
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ストラップピン取り付け(2ヶ所の価格となりますので1ヶ所の場合は半額となります。) 4,400円～":
+      - cell "ストラップピン取り付け(2ヶ所の価格となりますので1ヶ所の場合は半額となります。)"
+      - cell "4,400円～"
+    - row "ストラップピン取り付け(ネジ穴開け直し)(2ヶ所の価格となりますので1ヶ所の場合は半額となります。) 6,600円":
+      - cell "ストラップピン取り付け(ネジ穴開け直し)(2ヶ所の価格となりますので1ヶ所の場合は半額となります。)"
+      - cell "6,600円"
+    - row "ロックピンへ交換 2,200円":
+      - cell "ロックピンへ交換"
+      - cell "2,200円"
+- table "クリーニング":
+  - caption: クリーニング
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "クリーニング（木部のみ）":
+      - cell "クリーニング（木部のみ）"
+      - cell
+    - row "クリーニング（木部、金属パーツ）":
+      - cell "クリーニング（木部、金属パーツ）"
+      - cell
+    - row "※パーツのカラーによりまして、ご希望に添えない場合もございます。":
+      - cell "※パーツのカラーによりまして、ご希望に添えない場合もございます。"
+      - cell
+- table "ピックガード":
+  - caption: ピックガード
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ピックガード製作(交換工賃込み) 13,200円～":
+      - cell "ピックガード製作(交換工賃込み)"
+      - cell "13,200円～"
+    - row "ピックガード交換(同規格) 3,300円～":
+      - cell "ピックガード交換(同規格)"
+      - cell "3,300円～"
+    - row "ピックガード交換(加工要) 5,500円～":
+      - cell "ピックガード交換(加工要)"
+      - cell "5,500円～"
+- heading "ピックアップ交換（ピックアップ同時ご購入の場合）" [level=3]:
+  - generic: ピックアップ交換（ピックアップ同時ご購入の場合）
+- table "パッシブ・タイプ":
+  - caption: パッシブ・タイプ
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ピックアップ交換(1ヶ) 3,300円～":
+      - cell "ピックアップ交換(1ヶ)"
+      - cell "3,300円～"
+    - row "ピックアップ交換(2ヶ) 5,500円～":
+      - cell "ピックアップ交換(2ヶ)"
+      - cell "5,500円～"
+    - row "ピックアップ交換(3ヶ) 7,700円～":
+      - cell "ピックアップ交換(3ヶ)"
+      - cell "7,700円～"
+- table "アクティブ・タイプ":
+  - caption: アクティブ・タイプ
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ピックアップ交換(1ヶ) 4,400円～":
+      - cell "ピックアップ交換(1ヶ)"
+      - cell "4,400円～"
+    - row "ピックアップ交換(2ヶ) 6,600円～":
+      - cell "ピックアップ交換(2ヶ)"
+      - cell "6,600円～"
+    - row "ピックアップ交換(3ヶ) 8,800円～":
+      - cell "ピックアップ交換(3ヶ)"
+      - cell "8,800円～"
+- table "ジャック":
+  - caption: ジャック
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "ジャック交換 2,200円～":
+      - cell "ジャック交換"
+      - cell "2,200円～"
+    - row "ジャック交換(埋め込み) 2,200円～":
+      - cell "ジャック交換(埋め込み)"
+      - cell "2,200円～"
+    - row "ジャック交換(アクティブ) 3,300円～":
+      - cell "ジャック交換(アクティブ)"
+      - cell "3,300円～"
+    - row "ジャック交換(セミアコ、フルアコ) 5,500円～":
+      - cell "ジャック交換(セミアコ、フルアコ)"
+      - cell "5,500円～"
+- table "ケーブル作成":
+  - caption: ケーブル作成
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "2P取り付け 880円～":
+      - cell "2P取り付け"
+      - cell "880円～"
+    - row "3P取り付け 1,100円～":
+      - cell "3P取り付け"
+      - cell "1,100円～"
+    - row "XLR取り付け 1,650円～":
+      - cell "XLR取り付け"
+      - cell "1,650円～"
+    - row "その他特殊 1,650円～":
+      - cell "その他特殊"
+      - cell "1,650円～"
+- table "エフェクトボード製作・組み込み":
+  - caption: エフェクトボード製作・組み込み
+  - rowgroup:
+    - row "△TOP":
+      - cell "△TOP":
+        - link "△TOP":
+          - /url: "#header"
+  - rowgroup:
+    - row "お客様のご予算に応じましてご相談させていただきます。 応談":
+      - cell "お客様のご予算に応じましてご相談させていただきます。"
+      - cell "応談"
+    - row "※金額は税込みとなります。 ※別途パーツ代等がかかる場合がございます。":
+      - cell "※金額は税込みとなります。 ※別途パーツ代等がかかる場合がございます。":
+        - text: ※金額は税込みとなります。
+        - text: ※別途パーツ代等がかかる場合がございます。
+- paragraph:
+  - text: その他お客様の視点に立った修理、メンテナンスを行いたいと思いますので
+  - text: リストにない修理、改造等、是非ご相談くださいませ。
+- list:
+  - link "COMPANY 会社概要":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f3
+    - text: COMPANY
+    - generic: 会社概要
+  - link "REPAIR リペアメニュー":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f2
+    - text: REPAIR
+    - generic: リペアメニュー
+  - link "BLOG スタッフブログ":
+    - /url: http://ameblo.jp/centralmusic/
+    - text: BLOG
+    - generic: スタッフブログ
+  - link "CONTACT お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+    - text: CONTACT
+    - generic: お問い合わせ
+  - link "USED・VINTAGE ユーズド・ビンテージ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727428&csid=0&sort=n
+    - text: USED・VINTAGE
+    - generic: ユーズド・ビンテージ
+  - link "Electric Guitar エレクトリックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1723962&csid=0&sort=n
+    - text: Electric Guitar
+    - generic: エレクトリックギター
+  - link "Acoustic Guitar アコースティックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727420&csid=0&sort=n
+    - text: Acoustic Guitar
+    - generic: アコースティックギター
+  - link "Bass ベース":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727421&csid=0&sort=n
+    - text: Bass
+    - generic: ベース
+  - link "Classic Guitar クラシックギター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727422&csid=0&sort=n
+    - text: Classic Guitar
+    - generic: クラシックギター
+  - link "Amplifier アンプ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727423&csid=0&sort=n
+    - text: Amplifier
+    - generic: アンプ
+  - link "Effector エフェクター":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727424&csid=0&sort=n
+    - text: Effector
+    - generic: エフェクター
+  - link "Harmonica ハーモニカ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=2058015&csid=0
+    - text: Harmonica
+    - generic: ハーモニカ
+  - link "Pickup ピックアップ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727425&csid=0&sort=n
+    - text: Pickup
+    - generic: ピックアップ
+  - link "Replacement Parts 交換部品":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727426&csid=0&sort=n
+    - text: Replacement Parts
+    - generic: 交換部品
+  - link "Guitar accessory ギター用アクセサリー":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1727427&csid=0&sort=n
+    - text: Guitar accessory
+    - generic: ギター用アクセサリー
+  - link "Drum ドラム":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814614&csid=0&sort=n
+    - text: Drum
+    - generic: ドラム
+  - link "Percussion パーカッション":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814615&csid=0&sort=n
+    - text: Percussion
+    - generic: パーカッション
+  - link "Digital Equipment/DJ デジタルDJ機材":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814616&csid=0&sort=n
+    - text: Digital Equipment/DJ
+    - generic: デジタルDJ機材
+  - link "Synthesizer/Keyboard シンセサイザー/キーボード":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814617&csid=0&sort=n
+    - text: Synthesizer/Keyboard
+    - generic: シンセサイザー/キーボード
+  - link "Digital Piano 電子ピアノ":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814618&csid=0&sort=n
+    - text: Digital Piano
+    - generic: 電子ピアノ
+  - link "DTM/DAW DTM・DAW":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814620&csid=0&sort=n
+    - text: DTM/DAW
+    - generic: DTM・DAW
+  - link "PA/Recording PA機器 ／レコーディング":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814623&csid=0&sort=n
+    - text: PA/Recording
+    - generic: PA機器 ／レコーディング
+  - link "Headphone・earphone ヘッドホン・イヤホン":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814626&csid=0&sort=n
+    - text: Headphone・earphone
+    - generic: ヘッドホン・イヤホン
+  - link "Other/Option その他／オプション":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814627&csid=0&sort=n
+    - text: Other/Option
+    - generic: その他／オプション
+  - link "Books・CD・DVD 本・CD・DVD":
+    - /url: https://centralmusic-web.com/?mode=cate&cbid=1814629&csid=0&sort=n
+    - text: Books・CD・DVD
+    - generic: 本・CD・DVD
+- list:
+  - link "ホーム":
+    - /url: http://centralmusic-web.com/
+  - link "マイアカウント":
+    - /url: https://centralmusic-web.com/?mode=myaccount
+  - link "お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+  - link "プライバシーポリシー":
+    - /url: https://centralmusic-web.com/?mode=privacy
+  - link "お支払い方法について":
+    - /url: https://centralmusic-web.com/?mode=sk#payment
+  - link "配送方法・送料について":
+    - /url: https://centralmusic-web.com/?mode=sk#delivery
+  - link "特定商取引法に基づく表記":
+    - /url: https://centralmusic-web.com/?mode=sk
+  - link "RSS":
+    - /url: https://centralmusic-web.com/?mode=rss
+  - text: /
+  - link "ATOM":
+    - /url: https://centralmusic-web.com/?mode=atom
+- list:
+  - link "会社概要":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f3
+  - link "リペアメニュー":
+    - /url: https://centralmusic-web.com/?tid=1&mode=f2
+  - link "スタッフブログ":
+    - /url: http://ameblo.jp/centralmusic/
+  - link "お問い合わせ":
+    - /url: https://centralmusic.shop-pro.jp/customer/inquiries/new
+  - link "ウェブストア":
+    - /url: https://centralmusic-web.com/
+- link "セントラルミュージック楽天市場店":
+  - /url: http://www.rakuten.co.jp/centralmusic/
+  - img "セントラルミュージック楽天市場店"
+- link:
+  - /url: http://www.digimart.net/shop/4961/
+- link "セントラルミュージック Yahoo!Shop":
+  - /url: https://store.shopping.yahoo.co.jp/centralmusicshop/
+  - img "セントラルミュージック Yahoo!Shop"
+- link:
+  - /url: https://facebook.com/Centralmusic
+- link:
+  - /url: https://instagram.com/centralmusicweb
+- link:
+  - /url: https://twitter.com/CENTRALMUSIC_em
+- paragraph: CENTRALMUSIC〔セントラルミュージック〕
+- paragraph: 〒790-0003愛媛県松山市三番町7丁目6-15
+- paragraph: TEL/FAX:089-907-0388
+- paragraph: E-mail:info@centralmusic-web.com
+- paragraph: Copyright (C) 2014 CENTRAL MUSIC. All Rights Reserved.
