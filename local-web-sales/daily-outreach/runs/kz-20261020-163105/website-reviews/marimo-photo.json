@@ -1,0 +1,18 @@
+{
+  "company": "まりも写真館",
+  "website_url": "https://www.marimo-photo.co.jp/",
+  "pages_checked": [
+    "https://www.marimo-photo.co.jp/",
+    "https://www.marimo-photo.co.jp/contact.php"
+  ],
+  "reason": "390pxのトップ本文・問い合わせフォームが画面内に収まる。明確な改善点未確認。",
+  "email": "contact@marimo-photo.co.jp",
+  "duplicate_check": {
+    "gmail_matches": 0
+  },
+  "region": "福井県福井市",
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T11:43:59.691Z",
+  "findings": []
+}

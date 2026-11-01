@@ -1,0 +1,14 @@
+{
+  "company": "セコンド時計店",
+  "website_url": "https://www.e-second.co.jp/",
+  "pages_checked": [
+    "https://www.e-second.co.jp/",
+    "https://www.e-second.co.jp/user_data/maintenance"
+  ],
+  "reason": "390pxの修理案内は幅390pxで読み取れる。明確な改善点未確認。",
+  "region": "熊本県熊本市",
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T11:43:59.691Z",
+  "findings": []
+}

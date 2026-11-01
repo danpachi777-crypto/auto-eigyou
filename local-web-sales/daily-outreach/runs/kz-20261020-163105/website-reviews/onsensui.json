@@ -1,0 +1,13 @@
+{
+  "company": "プチホテルゆばらリゾート",
+  "website_url": "https://www.onsensui.net/index.html",
+  "reason": "ブラウザーで証明書名不一致。警告を回避せず閲覧確認不可で保留。",
+  "duplicate_check": {
+    "gmail_matches": 0,
+    "csv_matches": 0
+  },
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T11:45:51.664Z",
+  "findings": []
+}

@@ -1,0 +1,16 @@
+{
+  "company": "株式会社シルク",
+  "website_url": "https://www.silk-butsugu.com/",
+  "reason": "Googleマップ口コミ2件で必須10件に満たないため保留。",
+  "maps": {
+    "rating": 3.5,
+    "review_count": 2,
+    "url": "https://www.google.com/maps/search/?api=1&query=株式会社シルク+加賀",
+    "identity": "加賀市河南町タ1-8、0761-77-5113、公式URL一致"
+  },
+  "region": "石川県加賀市",
+  "status": "hold",
+  "priority": "hold",
+  "checked_at": "2026-11-01T11:43:59.691Z",
+  "findings": []
+}
