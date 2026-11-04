@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 386,
+  "verified_sent_last_known": 387,
   "target": 450,
-  "remaining_unsent_target": 64,
+  "remaining_unsent_target": 63,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -108,7 +108,8 @@
     "p-fy",
     "fraisier",
     "studio-uehara",
-    "horio-photo"
+    "horio-photo",
+    "factsasagawa"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -210,15 +211,16 @@
     "p-fy",
     "fraisier",
     "studio-uehara",
-    "horio-photo"
+    "horio-photo",
+    "factsasagawa"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 98,
+  "prepared_count_in_recovery": 99,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "6d59d54",
-  "resume_note": "2026-11-04: 386件SENT確認済み。最新horio-photo 1a1a6e4a69e4f83f。残り64件。新規クライアント候補65社の表を作成、うち1社送信済み。AI導入別案件504/500達成。継続GoalはusageLimited。",
+  "resume_note": "2026-11-05: 387件SENT確認済み。最新factsasagawa 1a1a70fadc54e5c4。残り63件。新規表65社中2社送信。Goal usageLimited継続、上限変更権限なし。富士写真館fuji-psは評価4.5/11、メール重複0、具体的改善未確定で保留。",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 347,
@@ -333,9 +335,10 @@
     "p-fy",
     "fraisier",
     "studio-uehara",
-    "horio-photo"
+    "horio-photo",
+    "factsasagawa"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 98,
+  "prepared_count": 99,
   "new_client_list": "local-web-sales/daily-outreach/client-lists/2026-11-04/new-clients-20261104.xlsx"
 }

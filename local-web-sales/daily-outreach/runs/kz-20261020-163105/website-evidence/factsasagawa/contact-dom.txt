@@ -1,0 +1,77 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- link "テストlogo_gold.png":
+  - /url: https://www.factsasagawa.com
+  - img "テストlogo_gold.png"
+- list "SNS バー":
+  - link "グレーInstagramのアイコン":
+    - /url: https://www.instagram.com/sasagawa.p.s/
+    - img "グレーInstagramのアイコン"
+- banner:
+  - navigation "サイト":
+    - list:
+      - link "TOP":
+        - /url: https://www.factsasagawa.com
+        - paragraph: TOP
+      - link "PRIVACY POLICY":
+        - /url: https://www.factsasagawa.com/privacy-policy
+        - paragraph: PRIVACY POLICY
+      - link "ABOUT":
+        - /url: https://www.factsasagawa.com/about
+        - paragraph: ABOUT
+      - link "COSTUMES":
+        - /url: https://www.factsasagawa.com/レンタル衣装
+        - paragraph: COSTUMES
+      - link "SERVICE":
+        - /url: https://www.factsasagawa.com/service
+        - paragraph: SERVICE
+      - button "その他のSERVICEページ":
+      - link "SNS":
+        - /url: https://www.factsasagawa.com/sns
+        - paragraph: SNS
+      - link "CONTACT":
+        - /url: https://www.factsasagawa.com/contact
+        - paragraph: CONTACT
+- main:
+  - img "2019050502.jpg"
+  - heading "CONTACT" [level=1]:
+    - generic: CONTACT
+  - heading "Contact Us" [level=2]:
+    - generic: Contact Us
+  - paragraph:
+    - generic: お急ぎの問い合わせはお電話でお願いいたします。
+  - generic: お名前 *
+  - textbox "お名前 *":
+    - /placeholder: お名前をご記入ください
+  - generic: ふりがな *
+  - textbox "ふりがな *":
+    - /placeholder: ふりがなをご記入ください
+  - generic: メールアドレス *
+  - textbox "メールアドレス *":
+    - /placeholder: メールアドレスをご記入ください
+  - generic: ご住所
+  - textbox "ご住所":
+    - /placeholder: こちらに住所をご記入ください
+  - generic: お電話番号 *
+  - textbox "お電話番号 *":
+    - /placeholder: 000-0000-0000
+  - generic: お問い合わせ題名
+  - textbox "お問い合わせ題名":
+    - /placeholder: お問い合わせ件名をご記入ください
+  - generic: お問い合わせ内容 *
+  - textbox "お問い合わせ内容 *":
+    - /placeholder: ご自由にご記入ください。
+  - button "送信する":
+    - generic: 送信する
+  - paragraph:
+    - text: 有限会社 笹川写真館 FACT*sasagawa
+    - text: 代表 土居義樹
+    - text: 住 所 795-0012 愛媛県大洲市中村246-3
+    - text: TEL 0120-50-3364 ／ FAX 0893-24-3381
+    - text: 営業時間 10:00〜18:00（定休日 火曜日）
+  - iframe
+- contentinfo:
+  - generic "テストlogo_gold.png"
+  - paragraph:
+    - generic: Copyright FACT SASAGAWA. All Rights Reserved.
+- region "bottom of page"

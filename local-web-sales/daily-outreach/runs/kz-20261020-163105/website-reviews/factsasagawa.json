@@ -1,0 +1,57 @@
+{
+  "company": "有限会社笹川写真館",
+  "industry": "写真館",
+  "region": "愛媛県大洲市",
+  "email": "info@factsasagawa.com",
+  "email_source": "https://sasagawa-ps.hatenablog.com/entry/56b3a6f43c6635e4f75532ff282b2789 現公式トップからリンクされた公式スタッフブログの一般連絡先。2018年記事の現公開内容、鮮度留意。",
+  "website_url": "https://www.factsasagawa.com/",
+  "discovery_source": "https://www.shashinkan.com/photo_studio/ehime/",
+  "checked_at": "2026-11-04T14:53:37.671Z",
+  "maps": {
+    "rating": 4.8,
+    "review_count": 15,
+    "url": "https://www.google.com/maps/search/笹川写真館+大洲",
+    "identity": "大洲市中村246-3・公式ドメイン一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.factsasagawa.com/",
+    "https://www.factsasagawa.com/service",
+    "https://www.factsasagawa.com/contact"
+  ],
+  "review_checks": [
+    "390pxでページ幅980px。フォーム右側が画面外。1280pxで全幅表示。",
+    "公式トップから電話・LINE・CONTACTへのリンク。",
+    "撮影種別と所在地・連絡先確認。",
+    "トップ写真表示、サービス写真読込に依存する状態は指摘せず。",
+    "問い合わせフォームを閲覧のみ、入力・送信なし。",
+    "古いブログの時刻・空き状況は提案に使用しない。"
+  ],
+  "findings": [
+    {
+      "category": "mobile_readability",
+      "url": "https://www.factsasagawa.com/contact",
+      "viewport_width": 390,
+      "observation": "スマートフォン幅390pxでお問い合わせページを表示すると、ページ幅が980pxとなり、お名前やメールアドレスなどの入力欄の右側が画面外に出る状態を確認しました。",
+      "proposal": "問い合わせフォームをスマートフォンの画面幅に合わせた一列配置に整え、入力欄の全体を横スクロールなしで確認できるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/factsasagawa/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmail anywhereメール・社名・ドメイン0件、送信台帳・失敗一覧一致なし。閲覧範囲営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://stand-photo.jp/",
+      "note": "撮影種別から問い合わせへの情報構造のみ参考。"
+    },
+    {
+      "url": "https://www.photo-life.co.jp/contact/",
+      "note": "入力項目と連絡方法を整理する構造のみ参考。素材・文言流用なし。"
+    }
+  ]
+}
