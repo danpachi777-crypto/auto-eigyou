@@ -215,8 +215,8 @@
   "prepared_count_in_recovery": 97,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
-  "last_pushed_commit": "e149006",
-  "resume_note": "347件SENT確認済み。最新himawari-inn 1a197b04d6e44ea7。残り103件。今回6件保留。次候補goshima.co.jpはトップのみ読了、公開メールと改善点未確認。",
+  "last_pushed_commit": "6d59d54",
+  "resume_note": "2026-11-04: 385件SENT確認済み。最新studio-uehara 1a1a69d873cae2bf。残り65件。AI導入Plusgen別案件は504/500達成をactorと追加4件Gmailで確認。",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 347,
