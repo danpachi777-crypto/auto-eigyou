@@ -1,0 +1,152 @@
+- heading "ペンションフレージェ アクセス・お問い合わせ" [level=1]:
+  - paragraph: ペンションフレージェ アクセス・お問い合わせ
+- link "ペンション フレージェ 裏磐梯高原 五色沼温泉":
+  - /url: index.html
+  - text: ペンション フレージェ
+  - text: 裏磐梯高原 五色沼温泉
+- list:
+  - link "日本語":
+    - /url: index.html
+  - link "English":
+    - /url: en/index.html
+- paragraph:
+  - text: "電話:"
+  - strong: 0241-32-3800
+- paragraph: "受付時間: 平日 9:00(JST) 〜 22:00(JST)"
+- paragraph:
+  - text: ※予約受付は
+  - link "予約ページ":
+    - /url: reserve.html
+  - text: より24時間受付中
+- list:
+  - link "トップページ Top":
+    - /url: index.html
+    - text: トップページ
+    - text: Top
+  - link "館内案内 Rooms":
+    - /url: rooms.html
+    - text: 館内案内
+    - text: Rooms
+  - link "宿泊 Stay":
+    - /url: stay.html
+    - text: 宿泊
+    - text: Stay
+  - link "料理 Cooking":
+    - /url: cooking.html
+    - text: 料理
+    - text: Cooking
+  - link "アクセス・お問い合わせ Access":
+    - /url: access.html
+    - text: アクセス・お問い合わせ
+    - text: Access
+  - link "予約 Reserve":
+    - /url: reserve.html
+    - text: 予約
+    - text: Reserve
+- heading "アクセス お問い合わせ" [level=2]
+- heading "ペンションフレージェまでご案内いたします" [level=3]
+- heading "所在地" [level=3]
+- article:
+  - paragraph: 〒969-2701 福島県耶麻郡北塩原村桧原 福島県耶麻郡北塩原村大字桧原字剣ケ峯1093−366
+  - paragraph:
+    - iframe
+- heading "車をご利用の方" [level=3]
+- article:
+  - paragraph:
+    - text: 東京より
+    - text: 東北道郡山JCTから磐越道を会津方面に入り約20分→猪苗代磐梯高原IC→
+    - text: 国道115、県道2を経由し、国道459で約20分
+  - paragraph:
+    - text: 仙台より
+    - text: 東北道上り線郡山JCTから磐越道を会津方面に入り約20分→猪苗代磐梯高原IC→
+    - text: 国道115、県道2を経由し、国道459で約20分
+- heading "電車・バスをご利用の方" [level=3]
+- article:
+  - paragraph:
+    - text: 東北新幹線郡山駅乗換、磐越西線猪苗代駅下車。
+    - text: 磐梯高原行きバス（約20分）に乗車し、五色沼入口にて下車（徒歩約5分、約300メートル）
+  - paragraph:
+    - text: ●猪苗代駅からは
+    - link "会津バス":
+      - /url: https://www.aizubus.com/
+    - text: 、
+    - link "磐梯東都バス":
+      - /url: http://www.totobus.co.jp/bandai/
+    - text: をご利用ください。
+    - text: ●喜多方駅からは
+    - link "磐梯東都バス":
+      - /url: http://www.totobus.co.jp/bandai/
+    - text: をご利用ください。
+- heading "飛行機をご利用の方" [level=3]
+- article:
+  - paragraph:
+    - text: 福島⇔大阪
+    - text: 大阪から1時間にて福島空港へアクセスできます。
+    - text: 大阪からのフライトはＣＲＪ２００がお勧め浮力、旋回力楽しめ、全シート革張りです。IBEXが運行しています。
+  - paragraph:
+    - text: 福島⇔名古屋
+    - text: 1日1往復 ただいま運休中
+  - paragraph:
+    - text: 福島⇔札幌
+    - text: 1日2往復 約1時間で到着 ＡＮＫ（ＡＮＡ）Ｂ７３７ 126人乗り 意外に低い高度で十和田湖も真近に見れるお勧めの路線です。
+  - paragraph:
+    - text: 福島⇔沖縄
+    - text: ２月１日より残念ながら運休
+  - paragraph:
+    - text: 福島⇔ソウル
+    - text: 日、月、水、金、土、に運行 Ｂ７６７ アシアナ航空 ヨン様も利用された路線です。
+  - paragraph:
+    - text: 福島⇔上海
+    - text: 中国東方航空 日、木運行 上海乗継で香港など各地からお越しいただけます。
+  - paragraph:
+    - text: 福島⇔ダラス
+    - text: ２月１日より関西便が運休で乗り継ぎできません。
+  - paragraph:
+    - text: ※航空ダイヤは変動が多いため、ご利用前にご確認お願いします。
+    - text: ※自家用飛行機の方は
+    - link "コチラ":
+      - /url: https://www.aeroasahi.co.jp/traveler/jet.php
+- heading "お問い合わせ" [level=3]
+- article:
+  - paragraph: 何かご不明点・疑問などございましたらお気軽にお問い合わせください。なお、料金等のお問い合わせには、時期により 価格が変わるため必ずご宿泊予定日を書いてください。
+  - paragraph:
+    - text: ●電話の場合
+    - text: 0241-32-3800（お問い合わせ可能時間9：00～22：00）
+    - text: 080-3737-3800（お問い合わせ可能時間9：00～21：00）
+    - text: ※お電話でのお問い合わせの場合、他業務と重なり出られない場合もございます。ご了承ください。その際は恐れ入りますが、時間をおいて再度お電話いただけますと幸いです。
+  - paragraph:
+    - text: ●FAXの場合
+    - text: 0241-32-3352
+  - paragraph:
+    - text: ●メールの場合
+    - text: fraisieritalia@car.ocn.ne.jp までお願いいたします
+- complementary:
+  - iframe
+  - link:
+    - /url: http://blog.goo.ne.jp/fraisiernet
+  - link:
+    - /url: http://fraisier.net/webshop/
+  - link:
+    - /url: https://fraisier.rwiths.net/r-withs/tfi0010a.do
+- article:
+  - paragraph:
+    - link "ペンションフレージェ 福島県 会津磐梯山 五色沼温泉":
+      - /url: index.html
+      - text: ペンションフレージェ
+      - text: 福島県 会津磐梯山 五色沼温泉
+- article:
+  - list:
+    - link "館内案内":
+      - /url: rooms.html
+    - link "宿泊":
+      - /url: stay.html
+    - link "料理":
+      - /url: cooking.html
+    - link "アクセス・お問い合わせ":
+      - /url: access.html
+    - link "予約":
+      - /url: reserve.html
+  - paragraph:
+    - text: Copyright(c) 2018 ペンションフレージェ All Rights Reserved. Design by
+    - link "http://f-tpl.com":
+      - /url: http://f-tpl.com

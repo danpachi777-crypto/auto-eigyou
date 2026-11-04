@@ -1,0 +1,278 @@
+- banner:
+  - link "福島空港":
+    - /url: https://fks-ab.co.jp/
+    - img "福島空港"
+  - navigation:
+    - list:
+      - link "ホーム":
+        - /url: https://fks-ab.co.jp/
+      - link "フライト":
+        - /url: https://fks-ab.co.jp/category/flight/
+        - text: フライト
+        - img: 
+      - link "アクセス":
+        - /url: https://fks-ab.co.jp/category/access/
+        - text: アクセス
+        - img: 
+      - link "トピック":
+        - /url: https://fks-ab.co.jp/category/information/
+        - text: トピック
+        - img: 
+      - link "空旅":
+        - /url: https://fks-ab.co.jp/category/skytravel/
+        - text: 空旅
+        - img: 
+      - link "お問い合わせ":
+        - /url: https://fks-ab.co.jp/contact/
+      - text: Lang.
+      - img: 
+      - link "ウェブサイトの検索をトグル":
+        - /url: https://fks-ab.co.jp/#
+        - generic: ウェブサイトの検索をトグル
+        - img: 
+  - text: 
+  - text: +  
+- main:
+  - article:
+    - heading "ダイヤ案内" [level=2]
+    - tablist:
+      - tab " 国内線" [selected]:
+        - generic: 
+        - generic: 国内線
+      - tab " 台湾便":
+        - generic: 
+        - generic: 台湾便
+      - tab " チャーター":
+        - generic: 
+        - generic: チャーター
+    - text: ：運航状況
+    - text: ：旅CUBE
+    - paragraph
+    - table:
+      - rowgroup:
+        - row "フライト 発 着 運航日 LINK":
+          - columnheader "フライト"
+          - columnheader "発"
+          - columnheader "着"
+          - columnheader "運航日"
+          - columnheader "LINK"
+      - rowgroup:
+        - row "ANA・NH1696 福島08:05 大阪09:20 10/25 ～3/27":
+          - cell "ANA・NH1696":
+            - text: ANA・NH1696
+          - cell "福島08:05"
+          - cell "大阪09:20"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1696
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1696&depAirport=福島空港発&arrAirport=大阪(伊丹)&fromAirportCode=FKS&toAirportCode=ITM&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=false
+        - row "ANA・NH1695 大阪07:50 福島08:55 10/25 ～3/27":
+          - cell "ANA・NH1695":
+            - text: ANA・NH1695
+          - cell "大阪07:50"
+          - cell "福島08:55"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1695
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1695&depAirport=大阪(伊丹)&arrAirport=福島空港着&fromAirportCode=ITM&toAirportCode=FKS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=true
+        - row "ANA・NH1113 福島09:25 札幌11:00 10/25 ～3/27":
+          - cell "ANA・NH1113":
+            - text: ANA・NH1113
+          - cell "福島09:25"
+          - cell "札幌11:00"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1113
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1113&depAirport=福島空港発&arrAirport=札幌(新千歳)&fromAirportCode=FKS&toAirportCode=CTS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=false
+        - row "IBEX/ANA・FW79/NH3179 大阪10:55 福島11:55 10/25 ～3/27":
+          - cell "IBEX/ANA・FW79/NH3179":
+            - text: IBEX/ANA・FW79/NH3179
+          - cell "大阪10:55"
+          - cell "福島11:55"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=3179
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA3179&depAirport=大阪(伊丹)&arrAirport=福島空港着&fromAirportCode=ITM&toAirportCode=FKS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=true
+        - row "IBEX/ANA・FW80/NH3180 福島12:25 大阪13:40 10/25 ～3/27":
+          - cell "IBEX/ANA・FW80/NH3180":
+            - text: IBEX/ANA・FW80/NH3180
+          - cell "福島12:25"
+          - cell "大阪13:40"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=3180
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA3180&depAirport=福島空港発&arrAirport=大阪(伊丹)&fromAirportCode=FKS&toAirportCode=ITM&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=false
+        - row "ANA・NH1114 札幌15:15 福島16:50 10/25 ～3/27":
+          - cell "ANA・NH1114":
+            - text: ANA・NH1114
+          - cell "札幌15:15"
+          - cell "福島16:50"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1114
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1114&depAirport=札幌(新千歳)&arrAirport=福島空港着&fromAirportCode=CTS&toAirportCode=FKS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=true
+        - row "ANA・NH1698 福島17:25 大阪18:50 10/25 ～3/27":
+          - cell "ANA・NH1698":
+            - text: ANA・NH1698
+          - cell "福島17:25"
+          - cell "大阪18:50"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1698
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1698&depAirport=福島空港発&arrAirport=大阪(伊丹)&fromAirportCode=FKS&toAirportCode=ITM&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=false
+        - row "IBEX/ANA・FW81/NH3181 大阪16:55 福島17:55 10/25 ～3/27":
+          - cell "IBEX/ANA・FW81/NH3181":
+            - text: IBEX/ANA・FW81/NH3181
+          - cell "大阪16:55"
+          - cell "福島17:55"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=3181
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA3181&depAirport=大阪(伊丹)&arrAirport=福島空港着&fromAirportCode=ITM&toAirportCode=FKS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=true
+        - row "IBEX/ANA・FW82/NH3182 福島18:25 大阪19:40 10/25 ～3/27":
+          - cell "IBEX/ANA・FW82/NH3182":
+            - text: IBEX/ANA・FW82/NH3182
+          - cell "福島18:25"
+          - cell "大阪19:40"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=3182
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA3182&depAirport=福島空港発&arrAirport=大阪(伊丹)&fromAirportCode=FKS&toAirportCode=ITM&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=false
+        - row "ANA・NH1697 大阪19:05 福島20:10 10/25 ～3/27":
+          - cell "ANA・NH1697":
+            - text: ANA・NH1697
+          - cell "大阪19:05"
+          - cell "福島20:10"
+          - cell "10/25 ～3/27":
+            - text: 10/25
+            - text: ～3/27
+          - cell:
+            - link:
+              - /url: https://www.ana.co.jp/fs/dom/jp/result.html?mode=0&requestDate=20261102&flightNumber=1697
+            - link:
+              - /url: https://tabicube.com/web/ja/route/search?flightNumber=ANA1697&depAirport=大阪(伊丹)&arrAirport=福島空港着&fromAirportCode=ITM&toAirportCode=FKS&fromTerminal=&toTerminal=&std=202611020000&sta=202611020100&referrer=fksapo&isArrivalGuide=true
+    - paragraph
+    - paragraph:
+      - text: ※航空券は各航空会社でご予約・購入ください →
+      - link "≫ANA":
+        - /url: https://www.ana.co.jp/
+      - link "≫IBEX":
+        - /url: https://www.ibexair.co.jp/
+      - link "≫台湾虎航":
+        - /url: https://www.tigerairtw.com/
+    - img "timetable4"
+    - link "ポケット時刻表":
+      - /url: /flights-in-pocket/
+    - link "2026年10月25日～27年3月27日":
+      - /url: /flights-in-pocket/
+    - link "PDFでダウンロード(2MB)":
+      - /url: /wp-content/uploads/2026/10/fks-timetable2610winter.pdf
+    - heading "おすすめ" [level=3]
+    - article:
+      - figure:
+        - link "投稿についてもっと詳しく フライト情報":
+          - /url: https://fks-ab.co.jp/todays_flights/
+          - img "投稿についてもっと詳しく フライト情報"
+      - heading "フライト情報" [level=3]:
+        - link "フライト情報":
+          - /url: https://fks-ab.co.jp/todays_flights/
+      - text: 
+    - article:
+      - figure:
+        - link "投稿についてもっと詳しく 乗り継ぎ便のご案内":
+          - /url: https://fks-ab.co.jp/transit/
+          - img "投稿についてもっと詳しく 乗り継ぎ便のご案内"
+      - heading "乗り継ぎ便のご案内" [level=3]:
+        - link "乗り継ぎ便のご案内":
+          - /url: https://fks-ab.co.jp/transit/
+      - text: 
+    - article:
+      - figure:
+        - link "投稿についてもっと詳しく 飛行機に乗る":
+          - /url: https://fks-ab.co.jp/fly/
+          - img "投稿についてもっと詳しく 飛行機に乗る"
+      - heading "飛行機に乗る" [level=3]:
+        - link "飛行機に乗る":
+          - /url: https://fks-ab.co.jp/fly/
+      - text: 
+  - complementary "メインサイドバー":
+    - paragraph: 福島空港
+    - paragraph:
+      - text: 玉川村北須釜字はばき田２１
+      - text: TEL:0247-57-1511
+    - paragraph:
+      - link:
+        - /url: https://www.facebook.com/FukushimaAirport
+      - link:
+        - /url: https://www.instagram.com/fksairport_official/
+      - link:
+        - /url: https://x.com/FKS_airport
+      - link:
+        - /url: https://lin.ee/ebETsnl
+    - heading "新着情報" [level=4]
+    - list:
+      - link "陶房 蜷川泰心窯 作陶展":
+        - /url: https://fks-ab.co.jp/ninakawataishingama/
+        - img "陶房 蜷川泰心窯 作陶展"
+      - link "陶房 蜷川泰心窯 作陶展":
+        - /url: https://fks-ab.co.jp/ninakawataishingama/
+      - generic: 2026年10月27日
+      - link "FUKUSHIMA AIRPORT NEWS Vol.9":
+        - /url: https://fks-ab.co.jp/fukushima-airport-news-vol-9/
+      - generic: 2026年10月8日
+      - link "福島ファイヤーボンズが伊丹便でBリーグ開幕戦へ":
+        - /url: https://fks-ab.co.jp/%e7%a6%8f%e5%b3%b6%e3%83%95%e3%82%a1%e3%82%a4%e3%83%a4%e3%83%bc%e3%83%9c%e3%83%b3%e3%82%ba%e3%81%8c%e4%bc%8a%e4%b8%b9%e4%be%bf%e3%81%a7b%e3%83%aa%e3%83%bc%e3%82%b0%e9%96%8b%e5%b9%95%e6%88%a6%e3%81%b8/
+        - img "福島ファイヤーボンズが伊丹便でBリーグ開幕戦へ"
+      - link "福島ファイヤーボンズが伊丹便でBリーグ開幕戦へ":
+        - /url: https://fks-ab.co.jp/%e7%a6%8f%e5%b3%b6%e3%83%95%e3%82%a1%e3%82%a4%e3%83%a4%e3%83%bc%e3%83%9c%e3%83%b3%e3%82%ba%e3%81%8c%e4%bc%8a%e4%b8%b9%e4%be%bf%e3%81%a7b%e3%83%aa%e3%83%bc%e3%82%b0%e9%96%8b%e5%b9%95%e6%88%a6%e3%81%b8/
+      - generic: 2026年9月25日
+      - link "10/2～福岡・大分・宮崎フェア":
+        - /url: https://fks-ab.co.jp/fom-fair/
+        - img "10/2～福岡・大分・宮崎フェア"
+      - link "10/2～福岡・大分・宮崎フェア":
+        - /url: https://fks-ab.co.jp/fom-fair/
+      - generic: 2026年9月25日
+      - link "奇跡の酒 笹正宗 1818-2026-":
+        - /url: https://fks-ab.co.jp/sasamasamune/
+        - img "奇跡の酒 笹正宗 1818-2026-"
+      - link "奇跡の酒 笹正宗 1818-2026-":
+        - /url: https://fks-ab.co.jp/sasamasamune/
+      - generic: 2026年8月20日
+    - link:
+      - /url: https://twitter.com/FKS_airport?ref_src=twsrc%5Etfw

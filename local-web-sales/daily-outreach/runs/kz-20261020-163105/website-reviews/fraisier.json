@@ -1,0 +1,59 @@
+{
+  "company": "ペンションフレージェ",
+  "industry": "ペンション",
+  "region": "福島県北塩原村",
+  "email": "fraisieritalia@car.ocn.ne.jp",
+  "email_source": "https://fraisier.net/access.html",
+  "website_url": "https://fraisier.net/",
+  "discovery_source": "https://www.bandaisan.or.jp/stay/fraisier/",
+  "checked_at": "2026-11-02T07:51:00+09:00",
+  "rechecked_at": "2026-11-04T21:34:00+09:00",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 72,
+    "url": "https://www.google.com/maps/search/?api=1&query=ペンションフレージェ%20裏磐梯",
+    "identity": "公式URL・住所・電話0241323800一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://fraisier.net/index.html",
+    "https://fraisier.net/stay.html",
+    "https://fraisier.net/access.html"
+  ],
+  "review_checks": [
+    "390/1280pxで本文表示確認。",
+    "予約ページと連絡先へ移動可能。",
+    "宿泊、料理、所在地、電話、メール掲載。",
+    "主な画像・案内リンク表示。",
+    "電話・メールと外部予約の方針を維持。",
+    "札幌便の1日2往復表記と現行空港ダイヤ1往復に差。"
+  ],
+  "findings": [
+    {
+      "category": "information_accuracy",
+      "url": "https://fraisier.net/access.html",
+      "viewport_width": 1280,
+      "observation": "アクセスページの福島～札幌便が「1日2往復」と案内されている一方、福島空港の現行ダイヤ（10月25日～3月27日）では1往復となっており、便数の案内に差がある点",
+      "proposal": "航空便の固定の便数表記を見直し、福島空港の最新ダイヤを確認できるリンクをトップ画面とアクセス・お問い合わせ画面にまとめる",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/fraisier/flight-guidance-1280.png",
+      "comparison_source": "https://fks-ab.co.jp/flight_schedule/"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "先行調査Gmail anywhere宛先・ドメイン・名称0。台帳・失敗一覧一致なし。送信直前再検索。閲覧範囲営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://www.ptomo.com/access",
+      "note": "交通手段と公式案内リンクの情報構造のみ参考。素材コピーなし。"
+    },
+    {
+      "url": "https://p-kaigan.com/info/",
+      "note": "所在地連絡先と交通手段の整理のみ参考。素材コピーなし。"
+    }
+  ]
+}
