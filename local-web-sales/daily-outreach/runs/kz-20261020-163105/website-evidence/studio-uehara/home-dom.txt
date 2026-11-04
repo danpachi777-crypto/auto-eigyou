@@ -1,0 +1,96 @@
+- region "top of page" [active]
+- button "メインコンテンツにスキップ"
+- banner:
+  - heading "STUDIO UEHARA" [level=1]:
+    - link "STUDIO UEHARA":
+      - /url: https://www.studio-uehara.net
+  - navigation "サイト":
+    - list:
+      - link "SCHEDULE":
+        - /url: https://www.studio-uehara.net
+        - paragraph: SCHEDULE
+      - link "WORKS":
+        - /url: https://www.studio-uehara.net
+        - paragraph: WORKS
+      - link "COSPLAY":
+        - /url: https://www.studio-uehara.net
+        - paragraph: COSPLAY
+- main:
+  - region "アンカー 5"
+  - heading "STUDIO UEHARA" [level=1]:
+    - link "STUDIO UEHARA":
+      - /url: https://www.studio-uehara.net
+  - region "アンカー 1"
+  - heading [level=2]
+  - paragraph
+  - region:
+    - 'button "七五三撮影会＆着物レンタルのお知らせ 2026年11月14・15日 玉藻公園内披雲閣似て和装レンタル・着付け、園内で写真撮影会を開催します！ 小物なども充実しておりますのでこの機会にぜひ！ #Tumugu #七五三 #着物レンタル #ロケーションフォト"'
+    - 'img "七五三撮影会＆着物レンタルのお知らせ 2026年11月14・15日 玉藻公園内披雲閣似て和装レンタル・着付け、園内で写真撮影会を開催します！ 小物なども充実しておりますのでこの機会にぜひ！ #Tumugu #七五三 #着物レンタル #ロケーションフォト"'
+    - 'button "［お知らせ］ Tumugu x スタジオうえはらコラボ企画！ 2025年8月20〜31日の期間、振袖試着体験会を開催します！ 振袖、小物など多数ご用意しております。 ママ振大歓迎！！ インスタDMにてお問い合わせください。 #振袖 #ママ振 #成人式 #成人 #ロケーションフォト #スタジオ撮影 #レンタル振袖"'
+    - 'img "［お知らせ］ Tumugu x スタジオうえはらコラボ企画！ 2025年8月20〜31日の期間、振袖試着体験会を開催します！ 振袖、小物など多数ご用意しております。 ママ振大歓迎！！ インスタDMにてお問い合わせください。 #振袖 #ママ振 #成人式 #成人 #ロケーションフォト #スタジオ撮影 #レンタル振袖"'
+    - button "Next Item":
+  - region "アンカー 2"
+  - heading "SCHEDULE" [level=2]
+  - iframe [name="htmlComp-iframe"]
+  - region "アンカー 3"
+  - button "WORKS":
+    - generic: WORKS
+  - link "Bridal":
+    - /url: https://www.studio-uehara.net/bridal
+    - generic: Bridal
+  - link "onoue4_edited.jpg":
+    - /url: https://www.studio-uehara.net/bridal
+    - img "onoue4_edited.jpg"
+  - link "IMG_8329_edited.jpg":
+    - /url: https://www.studio-uehara.net/babykids
+    - img "IMG_8329_edited.jpg"
+  - link "Baby & kids":
+    - /url: https://www.studio-uehara.net/babykids
+    - generic: Baby & kids
+  - link "Family":
+    - /url: https://www.studio-uehara.net/family
+    - generic: Family
+  - link "miko_edited.jpg":
+    - /url: https://www.studio-uehara.net/family
+    - img "miko_edited.jpg"
+  - link "1D5A2006_edited.jpg":
+    - /url: https://www.studio-uehara.net/comingofage
+    - img "1D5A2006_edited.jpg"
+  - link "Coming of age":
+    - /url: https://www.studio-uehara.net/comingofage
+    - generic: Coming of age
+  - link "Others":
+    - /url: https://www.studio-uehara.net/others
+    - generic: Others
+  - link "5G9A0952_edited.jpg":
+    - /url: https://www.studio-uehara.net/others
+    - img "5G9A0952_edited.jpg"
+  - region "アンカー 4"
+  - link "COSPLAY":
+    - /url: https://www.studio-uehara.net/cosplay
+    - generic: COSPLAY
+- contentinfo:
+  - paragraph:
+    - generic: STUDIO UEHARA .Ltd
+  - paragraph:
+    - generic: 香川県高松市栗林町1-6-25
+  - paragraph:
+    - generic: TEL / 087-833-1167 FAX / 087-837-3988
+  - list "SNS バー":
+    - link "google-business-icon_edited":
+      - /url: https://www.google.com/search?q=%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%86%E3%81%88%E3%81%AF%E3%82%89&oq=&aqs=chrome.0.35i39i362l7j69i59i450...7.8596189j0j15&sourceid=chrome&ie=UTF-8
+      - img "google-business-icon_edited"
+    - link "Instagram":
+      - /url: https://www.instagram.com/studio_uehara/
+      - img "Instagram"
+    - link "Twitter":
+      - /url: https://twitter.com/studio_uehara
+      - img "Twitter"
+    - link "Facebook Clean":
+      - /url: http://www.facebook.com/wix
+      - img "Facebook Clean"
+  - paragraph:
+    - link "プライバシーポリシー":
+      - /url: https://www.studio-uehara.net/privacy-policy
+      - generic: プライバシーポリシー
+- region "bottom of page"

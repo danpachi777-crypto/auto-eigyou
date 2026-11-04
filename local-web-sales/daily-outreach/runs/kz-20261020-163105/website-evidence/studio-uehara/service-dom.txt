@@ -1,0 +1,72 @@
+- region "top of page"
+- button "メインコンテンツにスキップ"
+- banner:
+  - heading "STUDIO UEHARA" [level=1]:
+    - link "STUDIO UEHARA":
+      - /url: https://www.studio-uehara.net
+  - navigation "サイト":
+    - list:
+      - link "SCHEDULE":
+        - /url: https://www.studio-uehara.net
+        - paragraph: SCHEDULE
+      - link "WORKS":
+        - /url: https://www.studio-uehara.net
+        - paragraph: WORKS
+      - link "COSPLAY":
+        - /url: https://www.studio-uehara.net
+        - paragraph: COSPLAY
+- main:
+  - button "Bridal":
+    - generic: Bridal
+  - region:
+    - button "image"
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+    - button
+  - generic: ギャラリー内を移動するには、キーボードの矢印を使用してください。
+- contentinfo:
+  - paragraph:
+    - generic: STUDIO UEHARA .Ltd
+  - paragraph:
+    - generic: 香川県高松市栗林町1-6-25
+  - paragraph:
+    - generic: TEL / 087-833-1167 FAX / 087-837-3988
+  - list "SNS バー":
+    - link "google-business-icon_edited":
+      - /url: https://www.google.com/search?q=%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%81%86%E3%81%88%E3%81%AF%E3%82%89&oq=&aqs=chrome.0.35i39i362l7j69i59i450...7.8596189j0j15&sourceid=chrome&ie=UTF-8
+      - img "google-business-icon_edited"
+    - link "Instagram":
+      - /url: https://www.instagram.com/studio_uehara/
+      - img "Instagram"
+    - link "Twitter":
+      - /url: https://twitter.com/studio_uehara
+      - img "Twitter"
+    - link "Facebook Clean":
+      - /url: http://www.facebook.com/wix
+      - img "Facebook Clean"
+  - paragraph:
+    - link "プライバシーポリシー" [active]:
+      - /url: https://www.studio-uehara.net/privacy-policy
+      - generic: プライバシーポリシー
+- region "bottom of page"
