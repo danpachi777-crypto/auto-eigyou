@@ -1,0 +1,57 @@
+{
+  "company": "有限会社堀尾写真館",
+  "industry": "写真館",
+  "region": "愛媛県今治市",
+  "email": "horio@dokidoki.ne.jp",
+  "email_source": "https://www.horio-photo.jp/ フッターContact Usの公開mailto",
+  "website_url": "https://www.horio-photo.jp/",
+  "discovery_source": "https://www.shashinkan.com/photo_studio/ehime/",
+  "checked_at": "2026-11-04T14:08:52.141Z",
+  "maps": {
+    "rating": 4.4,
+    "review_count": 27,
+    "url": "https://www.google.com/maps/search/堀尾写真館+今治",
+    "identity": "今治市松本町4丁目1-11、0898-22-0696、公式サイト相互リンクphotokon.jp一致"
+  },
+  "viewports_checked": [
+    390,
+    1280
+  ],
+  "pages_checked": [
+    "https://www.horio-photo.jp/",
+    "https://www.horio-photo.jp/horio",
+    "https://www.horio-photo.jp/reserve"
+  ],
+  "review_checks": [
+    "390px・1280pxで主要表示確認、横はみ出し見られず。",
+    "電話・メール・総合ご予約案内に到達。",
+    "婚礼撮影、所在地、電話掲載。",
+    "写真・フォーム表示。送信テストなし。",
+    "サービスから予約へ移動可能。",
+    "希望日欄は月・日・曜日の選択のみで年指定欄なし。通信欄は別に存在。"
+  ],
+  "findings": [
+    {
+      "category": "inquiry_information",
+      "url": "https://www.horio-photo.jp/reserve",
+      "viewport_width": 390,
+      "observation": "総合ご予約フォームの「希望日」は月・日・曜日を選択する構成で、年を指定する入力欄がありませんでした。",
+      "proposal": "希望日を年・月・日で指定できる入力欄に整え、翌年以降の撮影・試着希望も年を含めて伝えられるようにする",
+      "evidence_path": "local-web-sales/daily-outreach/runs/kz-20261020-163105/website-evidence/horio-photo/contact-390.png"
+    }
+  ],
+  "priority": "medium",
+  "status": "review_verified",
+  "viewport_restored": true,
+  "duplicate_check": "Gmailメール・会社名・ドメイン、photokon.jp・horio-rental.jp全て0件。台帳・失敗一覧一致なし。閲覧範囲営業拒否なし。",
+  "comparisons": [
+    {
+      "url": "https://stand-photo.jp/",
+      "note": "撮影種別から問い合わせへの情報構造のみ参考。"
+    },
+    {
+      "url": "https://www.photo-life.co.jp/contact/",
+      "note": "入力項目と連絡方法を整理する構造のみ参考。素材・文言流用なし。"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "campaign_id": "kz-20261020-163105",
   "status": "sending_authorized",
-  "verified_sent_last_known": 385,
+  "verified_sent_last_known": 386,
   "target": 450,
-  "remaining_unsent_target": 65,
+  "remaining_unsent_target": 64,
   "workspace_loss_observed_at": "2026-10-28T12:27:00Z",
   "recovered_git_head": "6973f9d1e33b70f57d87a0b985c6fb75758f045f",
   "ledger_stale": false,
@@ -107,7 +107,8 @@
     "pension-duke",
     "p-fy",
     "fraisier",
-    "studio-uehara"
+    "studio-uehara",
+    "horio-photo"
   ],
   "capek_recovery_pending": false,
   "scheduled_sender": false,
@@ -208,20 +209,21 @@
     "pension-duke",
     "p-fy",
     "fraisier",
-    "studio-uehara"
+    "studio-uehara",
+    "horio-photo"
   ],
   "gmail_search_block": null,
   "next_candidate": null,
-  "prepared_count_in_recovery": 97,
+  "prepared_count_in_recovery": 98,
   "target_not_complete": true,
   "recovered_post_push_sent_records": 8,
   "last_pushed_commit": "6d59d54",
-  "resume_note": "2026-11-04: 385件SENT確認済み。最新studio-uehara 1a1a69d873cae2bf。残り65件。AI導入Plusgen別案件は504/500達成をactorと追加4件Gmailで確認。",
+  "resume_note": "2026-11-04: 386件SENT確認済み。最新horio-photo 1a1a6e4a69e4f83f。残り64件。新規クライアント候補65社の表を作成、うち1社送信済み。AI導入別案件504/500達成。継続GoalはusageLimited。",
   "continuation": {
     "target_prepared_or_sent": 450,
     "completed_prepared_or_sent": 347,
     "remaining_preparations": 103,
-    "goal_last_observed_status": "active",
+    "goal_last_observed_status": "usageLimited",
     "goal_resume_action": "/goal resume",
     "automatic_resume_after_token_replenishment": "not_verified_or_configurable_by_agent",
     "next_candidate": null,
@@ -330,8 +332,10 @@
     "pension-duke",
     "p-fy",
     "fraisier",
-    "studio-uehara"
+    "studio-uehara",
+    "horio-photo"
   ],
   "remaining_prepared_unsent": 0,
-  "prepared_count": 97
+  "prepared_count": 98,
+  "new_client_list": "local-web-sales/daily-outreach/client-lists/2026-11-04/new-clients-20261104.xlsx"
 }

@@ -1,0 +1,337 @@
+- banner:
+  - paragraph:
+    - link "ブライダルフォトスタジオHORIO 堀尾写真館":
+      - /url: https://www.horio-photo.jp
+      - img "ブライダルフォトスタジオHORIO 堀尾写真館"
+  - paragraph:
+    - text: 愛媛県今治市の貸衣装店・子供写真館併設の
+    - text: ブライダルフォトスタジオHORIO
+- list:
+  - link "トップページ":
+    - /url: https://www.horio-photo.jp
+  - link "HORIO":
+    - /url: https://www.horio-photo.jp/horio
+  - link "ラフィーネ":
+    - /url: https://www.horio-photo.jp/rafine
+  - link "フォト婚/フォトウェディング":
+    - /url: http://www.photokon.jp/
+  - link "38フォトプラン":
+    - /url: http://www.photokon.jp/price1
+  - link "しまなみロケ":
+    - /url: https://www.horio-photo.jp/horio/shimanami_location
+  - link "ハッピーポケット":
+    - /url: https://www.horio-photo.jp/happy
+  - link "総合ご予約":
+    - /url: https://www.horio-photo.jp/reserve
+- list:
+  - link "ネット・ライン限定プラン":
+    - /url: http://www.horio-rental.jp/
+  - link "振袖展示会":
+    - /url: https://www.horio-photo.jp/rafine/packplan
+  - link "七五三お得情報":
+    - /url: https://www.horio-photo.jp/event/184.html
+  - link "HORIOがめざすもの":
+    - /url: https://www.horio-photo.jp/objective
+  - link "アクセス":
+    - /url: https://www.horio-photo.jp/access
+  - link "Ameba作品ブログ":
+    - /url: https://ameblo.jp/horiogroup/
+- link "Instagram":
+  - /url: https://www.instagram.com/horiostudio/
+  - img "Instagram"
+- paragraph: Copyright c HORIO GROUP All rights Reserved.
+- link "HOME":
+  - /url: https://www.horio-photo.jp
+- text: "> 総合ご予約"
+- heading "総合ご予約" [level=1]
+- paragraph:
+  - text: 撮影ご予約申込みメールありがとうございます。
+  - text: 後日、HORIOより確認のメール又はお電話をさせていただきます。
+  - text: 一週間経て、HORIOより連絡のない場合、メール送受信において何らかのハプニングが生じた可能性がありますので、お手数ですがお電話にてご連絡お願いします。
+- paragraph
+- paragraph: HORIOスタッフ一同、心を込めて“お二人の夢を形にする”をお手伝いさせていただきます。
+- paragraph
+- paragraph:
+  - link:
+    - /url: https://line.me/R/ti/p/%40836jjlrv
+- paragraph
+- heading "撮影,ご試着ご予約フォーム" [level=2]
+- status
+- list
+- form "Contact form":
+  - table:
+    - rowgroup:
+      - row "お名前 必須":
+        - rowheader "お名前 必須":
+          - paragraph: お名前 必須
+        - cell:
+          - paragraph:
+            - textbox
+      - row "フリガナ 必須":
+        - rowheader "フリガナ 必須":
+          - paragraph: フリガナ 必須
+        - cell:
+          - paragraph:
+            - textbox
+      - row "電話番号 必須":
+        - rowheader "電話番号 必須":
+          - paragraph: 電話番号 必須
+        - cell:
+          - paragraph:
+            - textbox
+      - row "メールアドレス 必須":
+        - rowheader "メールアドレス 必須":
+          - paragraph: メールアドレス 必須
+        - cell:
+          - paragraph:
+            - textbox
+      - row "郵便番号":
+        - rowheader "郵便番号":
+          - paragraph: 郵便番号
+        - cell:
+          - paragraph:
+            - textbox "住所自動入力"
+      - row "現住所 必須 都道府県 市区町村 それ以降の住所":
+        - rowheader "現住所 必須":
+          - paragraph: 現住所 必須
+        - cell "都道府県 市区町村 それ以降の住所":
+          - paragraph: 都道府県
+          - paragraph:
+            - textbox
+          - paragraph: 市区町村
+          - paragraph:
+            - textbox
+          - paragraph:
+            - text: それ以降の住所
+            - textbox
+      - row "希望名 必須 ラフィーネ（ブライダル衣装・振袖） HORIO（写真撮影） ハピポケ（子供写真・衣装）":
+        - rowheader "希望名 必須":
+          - paragraph: 希望名 必須
+        - cell "ラフィーネ（ブライダル衣装・振袖） HORIO（写真撮影） ハピポケ（子供写真・衣装）":
+          - paragraph:
+            - checkbox
+            - text: ラフィーネ（ブライダル衣装・振袖）
+            - checkbox
+            - text: HORIO（写真撮影）
+            - checkbox [active]
+            - text: ハピポケ（子供写真・衣装）
+      - row "希望日 必須 1月 1日 月曜日":
+        - rowheader "希望日 必須":
+          - paragraph: 希望日 必須
+        - cell "1月 1日 月曜日":
+          - paragraph:
+            - combobox:
+              - option "1月" [selected]
+              - option "2月"
+              - option "3月"
+              - option "4月"
+              - option "5月"
+              - option "6月"
+              - option "7月"
+              - option "8月"
+              - option "9月"
+              - option "10月"
+              - option "11月"
+              - option "12月"
+            - combobox:
+              - option "1日" [selected]
+              - option "2日"
+              - option "3日"
+              - option "4日"
+              - option "5日"
+              - option "6日"
+              - option "7日"
+              - option "8日"
+              - option "9日"
+              - option "10日"
+              - option "11日"
+              - option "12日"
+              - option "13日"
+              - option "14日"
+              - option "15日"
+              - option "16日"
+              - option "17日"
+              - option "18日"
+              - option "19日"
+              - option "20日"
+              - option "21日"
+              - option "22日"
+              - option "23日"
+              - option "24日"
+              - option "25日"
+              - option "26日"
+              - option "27日"
+              - option "28日"
+              - option "29日"
+              - option "30日"
+              - option "31日"
+            - combobox:
+              - option "月曜日" [selected]
+              - option "火曜日"
+              - option "水曜日"
+              - option "木曜日"
+              - option "金曜日"
+              - option "土曜日"
+              - option "日曜日"
+      - row "希望時間 必須 例）AM11：00から":
+        - rowheader "希望時間 必須":
+          - paragraph: 希望時間 必須
+        - cell "例）AM11：00から":
+          - paragraph:
+            - textbox
+            - text: 例）AM11：00から
+      - row "ハピポケをご利用の方 お子様のお名前： お子様の年齢： お子様の性別： 男の子 女の子 ※撮影希望日は試着と撮影日が同じ場合は、ご予約の時間が試着の時間となります。":
+        - rowheader "ハピポケをご利用の方":
+          - paragraph: ハピポケをご利用の方
+        - cell "お子様のお名前： お子様の年齢： お子様の性別： 男の子 女の子 ※撮影希望日は試着と撮影日が同じ場合は、ご予約の時間が試着の時間となります。":
+          - paragraph:
+            - text: お子様のお名前：
+            - textbox
+            - text: お子様の年齢：
+            - textbox
+            - text: お子様の性別：
+            - radio
+            - text: 男の子
+            - radio
+            - text: 女の子
+            - text: ※撮影希望日は試着と撮影日が同じ場合は、ご予約の時間が試着の時間となります。
+      - row "来店しようと思ったきっかけ":
+        - rowheader "来店しようと思ったきっかけ":
+          - paragraph: 来店しようと思ったきっかけ
+        - cell:
+          - paragraph:
+            - textbox
+      - row "通信欄 （お問い合わせ、ご相談、 撮影へのご希望「ベビーの歩み」 会員申込みなど）":
+        - rowheader "通信欄 （お問い合わせ、ご相談、 撮影へのご希望「ベビーの歩み」 会員申込みなど）":
+          - paragraph:
+            - text: 通信欄
+            - text: （お問い合わせ、ご相談、
+            - text: 撮影へのご希望「ベビーの歩み」
+            - text: 会員申込みなど）
+        - cell:
+          - paragraph:
+            - textbox
+  - paragraph:
+    - checkbox
+    - text: 確認画面は表示されません。上記内容にて送信しますので、よろしければチェックを入れてください。
+  - paragraph:
+    - button "送信する"
+- paragraph
+- paragraph:
+  - text: ※撮影希望日は試着と撮影日が同じ場合は、ご予約の時間が試着の時間となります。
+  - text: ※記述された内容は、お客様へのご予約確認・ご連絡・サービスのみに使用させていただきます。
+- heading "HORIO（フォトスタジオ）" [level=3]:
+  - link "HORIO（フォトスタジオ）":
+    - /url: https://www.horio-photo.jp/horio/
+- heading "ラフィーネ（貸衣装店）" [level=3]:
+  - link "ラフィーネ（貸衣装店）":
+    - /url: https://www.horio-photo.jp/rafine/
+- heading "ハッピーポケット（こども写真館）" [level=3]:
+  - link "ハッピーポケット（こども写真館）":
+    - /url: https://www.horio-photo.jp/happy/
+- img "ラフィーネの衣装無料!"
+- img "セレクト全データCD-R無料"
+- img "土・日・祝日追加料金 無料！"
+- link "フォト婚のココをチェック !":
+  - /url: http://www.photokon.jp/check/
+  - img "フォト婚のココをチェック !"
+- link "お客様の声":
+  - /url: https://www.horio-photo.jp/voice/
+  - img "お客様の声"
+- link "ネット限定 前撮り写真・貸衣装HORIO":
+  - /url: http://www.horio-rental.jp
+  - img "ネット限定 前撮り写真・貸衣装HORIO"
+- paragraph:
+  - link "ブライダルフォトスタジオHORIO 堀尾写真館":
+    - /url: https://www.horio-photo.jp
+    - img "ブライダルフォトスタジオHORIO 堀尾写真館"
+- list:
+  - link "HOME":
+    - /url: https://www.horio-photo.jp
+  - link "フォトスタジオHORIO":
+    - /url: https://www.horio-photo.jp/horio
+  - link "フォトウェディング・フォト婚":
+    - /url: http://www.photokon.jp/
+  - link "貸衣装店ラフィーネ":
+    - /url: https://www.horio-photo.jp/rafine
+  - link "振袖ラフィーネ":
+    - /url: https://www.horio-photo.jp/rafine/packplan
+  - link "子供写真館ハッピーポケット":
+    - /url: https://www.horio-photo.jp/happy
+  - link "総合ご予約":
+    - /url: https://www.horio-photo.jp/reserve
+  - link "アクセス":
+    - /url: https://www.horio-photo.jp/access
+  - link "個人情報保護方針":
+    - /url: https://www.horio-photo.jp/privacy-policy/
+- paragraph:
+  - link "ブライダルフォトスタジオHORIO（堀尾写真館）":
+    - /url: https://www.horio-photo.jp/horio
+- paragraph:
+  - text: 愛媛県今治市松本町4丁目1の11
+  - text: HORIOブライダルビル2階 （
+  - link "0898-22-0696":
+    - /url: tel:0898220696
+  - text: ）
+- paragraph:
+  - link "ブライダルファッション ラフィーネ（貸衣装店）":
+    - /url: https://www.horio-photo.jp/rafine
+- paragraph:
+  - text: 愛媛県今治市松本町4丁目1の11
+  - text: HORIOブライダルビル3階 （
+  - link "0898-24-1800":
+    - /url: tel:0898241800
+  - text: ）
+- paragraph:
+  - link "FURISODE ラフィーネ":
+    - /url: https://www.horio-photo.jp/rafine/packplan
+- paragraph:
+  - text: 愛媛県今治市松本町4丁目1の11
+  - text: HORIOブライダルビル3階 （
+  - link "0898-24-1800":
+    - /url: tel:0898241800
+  - text: ）
+- paragraph:
+  - link "チャイルドスタジオ ハッピーポケット（子供写真館）":
+    - /url: https://www.horio-photo.jp/happy
+- paragraph:
+  - text: 愛媛県今治市松本町4丁目1の11
+  - text: HORIOブライダルビル1階 （
+  - link "0898-24-1831":
+    - /url: tel:0898241831
+  - text: ）
+- paragraph:
+  - generic: Please Follow me
+- list:
+  - link "Ameba作品ブログ":
+    - /url: https://ameblo.jp/horiogroup/
+    - img "Ameba作品ブログ"
+  - link "Instagram":
+    - /url: https://www.instagram.com/horiostudio/
+    - img "Instagram"
+  - link "Facebook":
+    - /url: https://www.facebook.com/horio4
+    - img "Facebook"
+  - link "Twitter":
+    - /url: https://twitter.com/HORIO_PHOTO/
+    - img "Twitter"
+  - link "YouTube":
+    - /url: https://www.youtube.com/channel/UCKT3xF3UqzCZ7otv4xyWHuw
+    - img "YouTube"
+  - link "LINE":
+    - /url: https://line.me/R/ti/p/%40836jjlrv
+    - img "LINE"
+- paragraph: Copyright © HORIO GROUP All rights Reserved.
+- list:
+  - link "HOME":
+    - /url: https://www.horio-photo.jp
+    - generic: HOME
+  - link:
+    - /url: https://line.me/R/ti/p/%40836jjlrv
+  - link "MAIL":
+    - /url: https://www.horio-photo.jp/reserve/
+    - generic: MAIL
+  - link "TEL":
+    - /url: tel:0898220696
+    - generic: TEL
+- generic: reCAPTCHA サービスに接続できませんでした。インターネット接続を確認して、reCAPTCHA を再読み込みしてください。
